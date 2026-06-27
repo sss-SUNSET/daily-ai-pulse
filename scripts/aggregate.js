@@ -75,11 +75,41 @@ async function decodeGoogleNewsUrl(googleRssUrl) {
 }
 
 /**
+ * Helper to check if a URL represents a video page
+ */
+function isVideoUrl(url) {
+  if (!url) return false;
+  const urlLower = url.toLowerCase();
+  const videoPatterns = [
+    'youtube.com',
+    'youtu.be',
+    'bilibili.com',
+    'b23.tv',
+    'douyin.com',
+    'tiktok.com',
+    'v.qq.com',
+    'youku.com',
+    'iqiyi.com',
+    'tudou.com',
+    'tv.cctv.com',
+    'video.news.cn',
+    'v.news.cn',
+    '/video/',
+    '/videos/'
+  ];
+  return videoPatterns.some(pattern => urlLower.includes(pattern));
+}
+
+/**
  * Fetch Google News RSS for AI topics
  * @param {string} lang 'zh-CN' or 'en-US'
  */
 async function fetchGoogleNews(lang = 'zh-CN') {
-  const query = encodeURIComponent(lang === 'zh-CN' ? '人工智能 OR AI OR 大模型 OR "智能体" OR "Agent" OR "新模型"' : 'AI OR LLM OR "Generative AI" OR "AI Agent" OR "new model"');
+  const query = encodeURIComponent(
+    lang === 'zh-CN' 
+      ? '人工智能 OR AI OR 大模型 OR "智能体" OR "Agent" OR "新模型" -视频 -视频新闻' 
+      : 'AI OR LLM OR "Generative AI" OR "AI Agent" OR "new model" -video -youtube'
+  );
   const ceid = lang === 'zh-CN' ? 'CN:zh-Hans' : 'US:en';
   const gl = lang === 'zh-CN' ? 'CN' : 'US';
   const hl = lang === 'zh-CN' ? 'zh-CN' : 'en-US';
@@ -94,15 +124,19 @@ async function fetchGoogleNews(lang = 'zh-CN') {
     const result = await parseStringPromise(response.data);
     const items = result.rss.channel[0].item || [];
     
-    // We only keep the top 15 items to optimize performance and tokens
-    const topItems = items.slice(0, 15);
-    
-    console.log(`[Scraper] Decoding ${topItems.length} Google News URLs (${lang})...`);
+    console.log(`[Scraper] Processing Google News URLs (${lang}), filtering out videos...`);
     const mappedItems = [];
-    for (let i = 0; i < topItems.length; i++) {
-      const item = topItems[i];
+    for (let i = 0; i < items.length && mappedItems.length < 15; i++) {
+      const item = items[i];
       const originalLink = item.link[0];
       const decodedLink = await decodeGoogleNewsUrl(originalLink);
+      
+      // Skip video URLs
+      if (isVideoUrl(decodedLink)) {
+        console.log(`[Scraper] Skipping video news: ${item.title[0]} (${decodedLink})`);
+        continue;
+      }
+      
       mappedItems.push({
         title: item.title[0],
         link: decodedLink,
