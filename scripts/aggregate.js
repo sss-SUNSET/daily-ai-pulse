@@ -172,8 +172,8 @@ async function fetchGoogleNews(lang = 'zh-CN') {
     const result = await parseStringPromise(response.data);
     const items = result.rss.channel[0].item || [];
     
-    // We only keep the top 15 items to optimize performance and tokens
-    const topItems = items.slice(0, 15);
+    // We only keep the top 25 items to optimize performance and tokens
+    const topItems = items.slice(0, 25);
     
     console.log(`[Scraper] Decoding ${topItems.length} Google News URLs (${lang})...`);
     const mappedItems = [];
@@ -208,6 +208,37 @@ async function fetchGoogleNews(lang = 'zh-CN') {
     return mappedItems;
   } catch (error) {
     console.error(`[Scraper] Error fetching Google News RSS (${lang}):`, error.message);
+    return [];
+  }
+}
+
+/**
+ * Fetch OpenAI official news blog RSS
+ */
+async function fetchOpenAINews() {
+  const url = 'https://openai.com/news/rss.xml';
+  try {
+    console.log('[Scraper] Fetching OpenAI official news RSS...');
+    const response = await axios.get(url, {
+      timeout: 8000,
+      headers: {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+      }
+    });
+    const result = await parseStringPromise(response.data);
+    const items = result.rss.channel[0].item || [];
+    
+    return items.map(item => ({
+      title: item.title[0],
+      link: item.link[0],
+      pubDate: item.pubDate[0],
+      source: 'OpenAI Blog',
+      description: item.description ? item.description[0].replace(/<[^>]*>/g, '').trim() : '',
+      origin: 'OpenAI Official',
+      type: 'news'
+    }));
+  } catch (error) {
+    console.warn('[Scraper] Error fetching OpenAI official news:', error.message);
     return [];
   }
 }
@@ -491,20 +522,28 @@ async function run(options = {}) {
 
   try {
     // 1. Gather news from all sources
-    const [gNewsZh, gNewsEn, hnStories, githubRepos] = await Promise.all([
+    const [gNewsZh, gNewsEn, hnStories, githubRepos, openAiNews] = await Promise.all([
       fetchGoogleNews('zh-CN'),
       fetchGoogleNews('en-US'),
       fetchHackerNews(),
-      fetchGithubTrends()
+      fetchGithubTrends(),
+      fetchOpenAINews()
     ]);
 
     // Slice raw inputs to avoid sending too many tokens, preventing API timeouts
-    const slicedGNewsZh = gNewsZh.slice(0, 15);
-    const slicedGNewsEn = gNewsEn.slice(0, 15);
-    const slicedHn = hnStories.slice(0, 10);
-    const slicedGithub = githubRepos.slice(0, 10);
+    const slicedGNewsZh = gNewsZh.slice(0, 25);
+    const slicedGNewsEn = gNewsEn.slice(0, 25);
+    const slicedHn = hnStories.slice(0, 15);
+    const slicedGithub = githubRepos.slice(0, 15);
+    const slicedOpenAI = openAiNews.slice(0, 5);
 
-    const rawData = [...slicedGNewsZh, ...slicedGNewsEn, ...slicedHn, ...slicedGithub];
+    const rawData = [
+      ...slicedGNewsZh,
+      ...slicedGNewsEn,
+      ...slicedHn,
+      ...slicedGithub,
+      ...slicedOpenAI
+    ];
     console.log(`[Scraper] Aggregated ${rawData.length} raw news items from all sources.`);
 
     if (rawData.length === 0) {
