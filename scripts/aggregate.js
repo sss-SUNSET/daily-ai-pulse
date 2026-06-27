@@ -74,30 +74,82 @@ async function decodeGoogleNewsUrl(googleRssUrl) {
   }
 }
 
-/**
- * Helper to check if a URL represents a video page
- */
-function isVideoUrl(url) {
-  if (!url) return false;
-  const urlLower = url.toLowerCase();
-  const videoPatterns = [
-    'youtube.com',
-    'youtu.be',
-    'bilibili.com',
-    'b23.tv',
-    'douyin.com',
-    'tiktok.com',
-    'v.qq.com',
-    'youku.com',
-    'iqiyi.com',
-    'tudou.com',
-    'tv.cctv.com',
-    'video.news.cn',
-    'v.news.cn',
-    '/video/',
-    '/videos/'
+// Clean title of video indicators
+function cleanVideoTitle(title) {
+  if (!title) return '';
+  return title
+    .replace(/（视频）/g, '')
+    .replace(/\[视频\]/g, '')
+    .replace(/【视频】/g, '')
+    .replace(/\(视频\)/g, '')
+    .replace(/\(Video\)/g, '')
+    .replace(/\[Video\]/g, '')
+    .replace(/视频：/g, '')
+    .replace(/视频\|/g, '')
+    .trim();
+}
+
+// Detect if a title or link is a video
+function isVideoNews(title, link) {
+  const urlLower = (link || '').toLowerCase();
+  const titleLower = (title || '').toLowerCase();
+  
+  const videoKeywords = [
+    'video', '视频', 'tv', 'youtube.com', 'bilibili.com', 'v.news.cn',
+    'v.xinhuanet.com', 'v.qq.com', 'youku.com', 'iqiyi.com', '/video/', '/v/'
   ];
-  return videoPatterns.some(pattern => urlLower.includes(pattern));
+  
+  if (videoKeywords.some(kw => urlLower.includes(kw))) {
+    return true;
+  }
+  
+  const videoPatterns = ['（视频）', '[视频]', '【视频】', '(视频)', '(video)', '[video]', '视频：'];
+  if (videoPatterns.some(p => titleLower.includes(p))) {
+    return true;
+  }
+  
+  return false;
+}
+
+// Search for a text alternative for a video news item
+async function findTextAlternativeForVideo(title, lang = 'zh-CN') {
+  const query = cleanVideoTitle(title);
+  const ceid = lang === 'zh-CN' ? 'CN:zh-Hans' : 'US:en';
+  const gl = lang === 'zh-CN' ? 'CN' : 'US';
+  const hl = lang === 'zh-CN' ? 'zh-CN' : 'en-US';
+  
+  const url = `https://news.google.com/rss/search?q=${encodeURIComponent(query)}&hl=${hl}&gl=${gl}&ceid=${ceid}`;
+  
+  try {
+    const response = await axios.get(url, {
+      timeout: 5000,
+      headers: { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)' }
+    });
+    const result = await parseStringPromise(response.data);
+    const items = result.rss.channel[0].item || [];
+    
+    for (const item of items) {
+      const itemTitle = item.title[0];
+      const itemLink = item.link[0];
+      
+      if (!isVideoNews(itemTitle, itemLink)) {
+        const decoded = await decodeGoogleNewsUrl(itemLink);
+        return {
+          title: itemTitle,
+          link: decoded,
+          pubDate: item.pubDate[0],
+          source: item.source[0]._ || item.source[0],
+          description: item.description ? item.description[0].replace(/<[^>]*>/g, '') : '',
+          origin: 'Google News',
+          type: 'news'
+        };
+      }
+    }
+    return null;
+  } catch (error) {
+    console.warn(`[Scraper] Search alternative failed for "${title}": ${error.message}`);
+    return null;
+  }
 }
 
 /**
@@ -105,11 +157,7 @@ function isVideoUrl(url) {
  * @param {string} lang 'zh-CN' or 'en-US'
  */
 async function fetchGoogleNews(lang = 'zh-CN') {
-  const query = encodeURIComponent(
-    lang === 'zh-CN' 
-      ? '人工智能 OR AI OR 大模型 OR "智能体" OR "Agent" OR "新模型" -视频 -视频新闻' 
-      : 'AI OR LLM OR "Generative AI" OR "AI Agent" OR "new model" -video -youtube'
-  );
+  const query = encodeURIComponent(lang === 'zh-CN' ? '人工智能 OR AI OR 大模型 OR "智能体" OR "Agent" OR "新模型"' : 'AI OR LLM OR "Generative AI" OR "AI Agent" OR "new model"');
   const ceid = lang === 'zh-CN' ? 'CN:zh-Hans' : 'US:en';
   const gl = lang === 'zh-CN' ? 'CN' : 'US';
   const hl = lang === 'zh-CN' ? 'zh-CN' : 'en-US';
@@ -124,21 +172,29 @@ async function fetchGoogleNews(lang = 'zh-CN') {
     const result = await parseStringPromise(response.data);
     const items = result.rss.channel[0].item || [];
     
-    console.log(`[Scraper] Processing Google News URLs (${lang}), filtering out videos...`);
+    // We only keep the top 15 items to optimize performance and tokens
+    const topItems = items.slice(0, 15);
+    
+    console.log(`[Scraper] Decoding ${topItems.length} Google News URLs (${lang})...`);
     const mappedItems = [];
-    for (let i = 0; i < items.length && mappedItems.length < 15; i++) {
-      const item = items[i];
+    for (let i = 0; i < topItems.length; i++) {
+      const item = topItems[i];
       const originalLink = item.link[0];
-      const decodedLink = await decodeGoogleNewsUrl(originalLink);
+      const originalTitle = item.title[0];
       
-      // Skip video URLs
-      if (isVideoUrl(decodedLink)) {
-        console.log(`[Scraper] Skipping video news: ${item.title[0]} (${decodedLink})`);
-        continue;
+      if (isVideoNews(originalTitle, originalLink)) {
+        console.log(`[Scraper] Detected video news: "${originalTitle}". Searching for text alternative...`);
+        const textAlt = await findTextAlternativeForVideo(originalTitle, lang);
+        if (textAlt) {
+          console.log(`[Scraper] Successfully replaced video news with text alternative: "${textAlt.title}"`);
+          mappedItems.push(textAlt);
+          continue;
+        }
       }
       
+      const decodedLink = await decodeGoogleNewsUrl(originalLink);
       mappedItems.push({
-        title: item.title[0],
+        title: originalTitle,
         link: decodedLink,
         pubDate: item.pubDate[0],
         source: item.source[0]._ || item.source[0],
