@@ -621,6 +621,25 @@
   border: 1px solid transparent;
 }
 
+.hotness-badge.high {
+  background-color: #FEE2E2;
+  color: #DC2626;
+  border-color: rgba(239, 68, 68, 0.25);
+}
+
+.hotness-badge.medium {
+  background-color: #FEF3C7;
+  color: #D97706;
+  border-color: rgba(245, 158, 11, 0.25);
+}
+
+.hotness-badge.low {
+  background-color: #ECFDF5;
+  color: #059669;
+  border-color: rgba(16, 185, 129, 0.25);
+}
+
+
 .flame-emoji {
   font-size: 0.8rem;
 }
