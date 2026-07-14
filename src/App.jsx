@@ -1,7 +1,8 @@
 import React, { useState, useEffect } from 'react';
 import { 
   Flame, Calendar, Search, RefreshCw, BookOpen, 
-  Terminal, ShieldAlert, ExternalLink, Sparkles, Check, Mail 
+  Terminal, ShieldAlert, ExternalLink, Sparkles, Check, Mail,
+  Sun, Moon
 } from 'lucide-react';
 import './App.css';
 
@@ -14,6 +15,21 @@ export default function App() {
   const [searchQuery, setSearchQuery] = useState('');
   const [activeTab, setActiveTab] = useState('all');
   const [message, setMessage] = useState({ text: '', type: '' });
+  const [theme, setTheme] = useState('light');
+
+  // Load theme on mount
+  useEffect(() => {
+    const savedTheme = localStorage.getItem('theme') || 'light';
+    setTheme(savedTheme);
+    document.documentElement.setAttribute('data-theme', savedTheme);
+  }, []);
+
+  const toggleTheme = () => {
+    const nextTheme = theme === 'light' ? 'dark' : 'light';
+    setTheme(nextTheme);
+    localStorage.setItem('theme', nextTheme);
+    document.documentElement.setAttribute('data-theme', nextTheme);
+  };
 
   // Fetch dates on mount
   useEffect(() => {
@@ -274,6 +290,14 @@ export default function App() {
               </div>
             )}
             <div className="button-group" style={{ display: 'flex', gap: '0.5rem' }}>
+              <button 
+                onClick={toggleTheme} 
+                className="btn btn-secondary"
+                title={theme === 'light' ? '切换到暗黑模式' : '切换到明亮模式'}
+                style={{ padding: '0.75rem', minWidth: '44px', display: 'inline-flex', alignItems: 'center', justifyContent: 'center' }}
+              >
+                {theme === 'light' ? <Moon size={16} /> : <Sun size={16} />}
+              </button>
               <button 
                 onClick={() => triggerSync('update')} 
                 disabled={syncing} 
