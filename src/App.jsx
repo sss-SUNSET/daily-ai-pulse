@@ -271,15 +271,6 @@ export default function App() {
         <header className="main-header">
           <div className="header-meta">
             <h1>{selectedDate || '选择日期'} AI 简报</h1>
-            {summaryData && (
-              <span className="summary-stat">
-                今日聚合 {
-                  Object.values(summaryData.categories || {}).reduce(
-                    (acc, cat) => acc + (cat.items || []).length, 0
-                  )
-                } 条热点
-              </span>
-            )}
           </div>
           
           <div className="header-actions">
