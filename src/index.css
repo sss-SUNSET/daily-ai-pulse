@@ -11,11 +11,11 @@
   --text-main: #2D3748;       /* High contrast dark slate gray for readability */
   --text-muted: #5A6A85;      /* Softer medium slate for descriptions */
   
-  /* Brand/Accent Colors */
-  --primary: #7C5DF9;         /* Pastel Purple */
-  --primary-hover: #9277FF;   /* Soft lighter purple */
-  --primary-bg: #E0DAFC;      /* Soft lavender background */
-  --accent: #E056FD;          /* Soft Pinkish Violet */
+  /* Brand/Accent Colors - Calming Blue */
+  --primary: #5C85E6;         /* Calming Pastel Blue */
+  --primary-hover: #759BFA;   /* Soft lighter blue */
+  --primary-bg: #E8F0FE;      /* Soft blue background */
+  --accent: #10B981;          /* Soft Mint green for accent highlights */
   
   /* Status Colors */
   --success: #10B981;
@@ -30,7 +30,7 @@
   --shadow-raised-sm: -3px -3px 8px rgba(255, 255, 255, 0.9), 3px 3px 8px rgba(163, 177, 198, 0.4);
   --shadow-sunken-sm: inset -2px -2px 6px rgba(255, 255, 255, 0.9), inset 2px 2px 6px rgba(163, 177, 198, 0.4);
   
-  --shadow-accent-glow: 0 0 16px rgba(124, 93, 249, 0.2);
+  --shadow-accent-glow: 0 0 16px rgba(92, 133, 230, 0.2);
   
   /* Borders - Soft subtle contrast helpers */
   --border-color: rgba(255, 255, 255, 0.4);
