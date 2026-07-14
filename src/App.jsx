@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { 
   Flame, Calendar, Search, RefreshCw, BookOpen, 
-  Terminal, ShieldAlert, ExternalLink, Sparkles, Check, Mail 
+  Terminal, ShieldAlert, ExternalLink, Sparkles, Check, Mail, Cpu
 } from 'lucide-react';
 import './App.css';
 
@@ -179,32 +179,26 @@ export default function App() {
 
   const getCategoryIcon = (key) => {
     switch (key) {
-      case 'industry': return <Sparkles size={16} className="text-primary" />;
-      case 'research': return <BookOpen size={16} className="text-success" />;
-      case 'opensource': return <Terminal size={16} className="text-accent" />;
-      case 'ethics': return <ShieldAlert size={16} className="text-warning" />;
-      default: return <Sparkles size={16} />;
+      case 'industry': return <Sparkles size={14} />;
+      case 'research': return <BookOpen size={14} />;
+      case 'opensource': return <Terminal size={14} />;
+      case 'ethics': return <ShieldAlert size={14} />;
+      default: return <Sparkles size={14} />;
     }
   };
 
   const getHotnessBadge = (score) => {
-    let color = 'hsl(var(--success))';
-    let bg = 'hsla(var(--success), 0.1)';
-    let flames = '🔥';
+    let level = 'low';
     
     if (score > 85) {
-      color = 'hsl(var(--danger))';
-      bg = 'hsla(var(--danger), 0.15)';
-      flames = '🔥🔥🔥';
+      level = 'high';
     } else if (score > 60) {
-      color = 'hsl(var(--warning))';
-      bg = 'hsla(var(--warning), 0.15)';
-      flames = '🔥🔥';
+      level = 'medium';
     }
 
     return (
-      <span className="hotness-badge" style={{ color, backgroundColor: bg, borderColor: `hsla(${color === 'hsl(var(--danger))' ? '0, 84%, 60%' : color === 'hsl(var(--warning))' ? '38, 92%, 50%' : '142, 70%, 45%'}, 0.2)` }}>
-        <span className="flame-emoji">{flames}</span> 热度 {score}
+      <span className="hotness-badge telemetry-font" data-level={level}>
+        <Flame size={12} /> 热度 {score}
       </span>
     );
   };
@@ -214,7 +208,9 @@ export default function App() {
       {/* Date Sidebar */}
       <aside className="sidebar glass">
         <div className="sidebar-brand">
-          <div className="brand-logo">🤖</div>
+          <div className="brand-logo-container">
+            <Cpu size={18} />
+          </div>
           <div className="brand-info">
             <h2>DailyAI Pulse</h2>
             <span>每日 AI 新闻 & 热点</span>
@@ -272,8 +268,10 @@ export default function App() {
           <div className="header-actions">
             {message.text && (
               <div className={`notification-bubble ${message.type}`}>
-                {message.type === 'success' && <Check size={14} style={{ marginRight: 4 }} />}
-                {message.text}
+                {message.type === 'success' && <Check size={16} />}
+                {message.type === 'info' && <Sparkles size={16} className="animate-pulse" />}
+                {message.type === 'error' && <ShieldAlert size={16} />}
+                <span>{message.text}</span>
               </div>
             )}
             <div className="button-group" style={{ display: 'flex', gap: '0.5rem' }}>
@@ -333,13 +331,13 @@ export default function App() {
               {summaryData.overview && summaryData.overview.length > 0 && (
                 <section className="overview-section animate-fade-in">
                   <div className="overview-title">
-                    <Sparkles size={18} className="text-primary animate-pulse" />
+                    <Sparkles size={18} />
                     <h2>今日速览 / Core Takeaways</h2>
                   </div>
                   <ul className="overview-bullets">
                     {summaryData.overview.map((bullet, idx) => (
                       <li key={idx} className="overview-bullet-item">
-                        <span className="bullet-num">0{idx + 1}</span>
+                        <span className="bullet-num telemetry-font">0{idx + 1}</span>
                         <p>{bullet}</p>
                       </li>
                     ))}
@@ -365,6 +363,7 @@ export default function App() {
                   <button 
                     onClick={() => setActiveTab('all')} 
                     className={`tab-item ${activeTab === 'all' ? 'active' : ''}`}
+                    data-cat="all"
                   >
                     全部热点
                   </button>
@@ -373,6 +372,7 @@ export default function App() {
                       key={key}
                       onClick={() => setActiveTab(key)}
                       className={`tab-item ${activeTab === key ? 'active' : ''}`}
+                      data-cat={key}
                     >
                       {getCategoryIcon(key)}
                       {cat.title.split(' ')[0] || cat.title}
@@ -391,7 +391,8 @@ export default function App() {
                   filteredItems.map((item, index) => (
                     <article 
                       key={index} 
-                      className={`feed-card glass glow-card ${item.hotness > 85 ? 'glow-card-accent' : ''} animate-fade-in`}
+                      className="feed-card glass glow-card animate-fade-in"
+                      data-cat={item.categoryKey}
                       style={{ animationDelay: `${index * 0.05}s` }}
                     >
                       <div className="card-header">

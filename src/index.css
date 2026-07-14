@@ -1,36 +1,46 @@
-/* Global Design System & Variables */
+/* 全局设计系统与 CSS 变量 (Cyber-OLED Theme) */
 :root {
   --font-sans: 'Outfit', 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --font-mono: 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
   
-  /* HSL Color Tokens */
-  --bg-color: 224 40% 6%;
-  --card-color: 225 35% 10%;
-  --card-hover: 225 35% 13%;
-  --primary: 239 84% 67%;
-  --primary-hover: 239 84% 75%;
-  --accent: 343 90% 60%;
-  --text-main: 220 15% 96%;
-  --text-muted: 220 10% 70%;
-  --border-color: 223 27% 20%;
-  --border-focus: 239 84% 60%;
+  /* HSL 颜色令牌 - Cyber OLED 暗黑系 */
+  --bg-color: 240 10% 2.5%;      /* 纯粹黑 #040406 */
+  --card-color: 240 10% 4.5%;    /* 极暗灰蓝 #0B0B0E */
+  --card-hover: 240 10% 7.5%;    /* 稍微亮起的卡片 #121217 */
+  --primary: 258 90% 66%;        /* 霓虹紫 #8B5CF6 */
+  --primary-hover: 258 90% 75%;  /* 霓虹紫高亮 */
+  --accent: 343 90% 60%;         /* 霓虹红/玫瑰粉 #EC4899 */
+  --accent-hover: 343 90% 68%;
+  --text-main: 210 40% 98%;      /* 接近纯白 */
+  --text-muted: 215 15% 65%;     /* 灰白 */
+  --border-color: 240 8% 12%;    /* 微弱暗灰边框 */
+  --border-focus: 258 90% 66%;   /* 紫色边框焦点 */
   
-  /* Status Colors */
-  --success: 142 70% 45%;
-  --warning: 38 92% 50%;
-  --danger: 0 84% 60%;
+  /* 状态颜色 */
+  --success: 142 70% 45%;        /* 翡翠绿 */
+  --warning: 38 92% 50%;         /* 琥珀黄 */
+  --danger: 0 84% 60%;           /* 警示红 */
   
-  /* Shadows & Glows */
-  --glow-primary: 0 0 20px hsla(239, 84%, 67%, 0.15);
-  --glow-accent: 0 0 20px hsla(343, 90%, 60%, 0.15);
-  --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.5);
-  --shadow-md: 0 8px 24px rgba(0, 0, 0, 0.6);
-  --shadow-lg: 0 16px 40px rgba(0, 0, 0, 0.7);
+  /* 分类专用色彩 */
+  --cat-industry: 217 91% 60%;   /* 行业动态: 霓虹蓝 */
+  --cat-research: 262 83% 58%;   /* 前沿研究: 霓虹紫 */
+  --cat-opensource: 188 86% 53%; /* 开源项目: 霓虹青 */
+  --cat-ethics: 0 84% 60%;       /* 伦理与社会: 发光红 */
+  
+  /* 阴影与光晕效果 */
+  --glow-primary: 0 0 25px hsla(258, 90%, 66%, 0.18);
+  --glow-accent: 0 0 25px hsla(343, 90%, 60%, 0.18);
+  --glow-cyan: 0 0 25px hsla(188, 86%, 53%, 0.18);
+  --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.7);
+  --shadow-md: 0 8px 30px rgba(0, 0, 0, 0.85);
+  --shadow-lg: 0 16px 50px rgba(0, 0, 0, 0.95);
   
   --transition-fast: 0.2s cubic-bezier(0.16, 1, 0.3, 1);
-  --transition-normal: 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+  --transition-normal: 0.35s cubic-bezier(0.16, 1, 0.3, 1);
+  --transition-slow: 0.5s cubic-bezier(0.16, 1, 0.3, 1);
 }
 
-/* Reset */
+/* 重置与基础样式 */
 *, *::before, *::after {
   box-sizing: border-box;
   margin: 0;
@@ -43,14 +53,14 @@ body {
   font-family: var(--font-sans);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  line-height: 1.5;
+  line-height: 1.6;
   overflow-x: hidden;
 }
 
-/* Custom Scrollbar */
+/* 自定义高端滚动条 */
 ::-webkit-scrollbar {
-  width: 8px;
-  height: 8px;
+  width: 6px;
+  height: 6px;
 }
 
 ::-webkit-scrollbar-track {
@@ -58,34 +68,39 @@ body {
 }
 
 ::-webkit-scrollbar-thumb {
-  background: hsl(var(--border-color));
-  border-radius: 4px;
+  background: hsla(240, 8%, 15%, 0.8);
+  border-radius: 10px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
   background: hsl(var(--primary));
+  box-shadow: 0 0 8px hsl(var(--primary));
 }
 
-/* Typography Utilities */
+/* 标题基础样式 */
 h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
-  letter-spacing: -0.025em;
-  line-height: 1.2;
+  letter-spacing: -0.03em;
+  line-height: 1.25;
+  color: #fff;
 }
 
-/* Layout Classes */
+/* 布局类 */
 .container {
-  max-width: 1400px;
+  max-width: 1440px;
   margin: 0 auto;
-  padding: 0 2rem;
+  padding: 0 2.5rem;
   width: 100%;
 }
 
-/* App Skeleton / Grid */
+/* App 整体网格布局 */
 .app-layout {
   display: grid;
-  grid-template-columns: 280px 1fr;
+  grid-template-columns: 300px 1fr;
   min-height: 100vh;
+  background-image: 
+    radial-gradient(circle at 10% 20%, hsla(258, 90%, 66%, 0.03) 0%, transparent 40%),
+    radial-gradient(circle at 90% 80%, hsla(343, 90%, 60%, 0.02) 0%, transparent 40%);
 }
 
 @media (max-width: 1024px) {
@@ -94,35 +109,62 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-/* Glassmorphism utility */
+/* 极致毛玻璃效果类 (Glassmorphism) */
 .glass {
-  background: hsla(225, 35%, 10%, 0.75);
-  backdrop-filter: blur(12px);
-  -webkit-backdrop-filter: blur(12px);
-  border: 1px solid hsla(223, 27%, 20%, 0.5);
+  background: rgba(11, 11, 14, 0.7);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border: 1px solid rgba(255, 255, 255, 0.05);
 }
 
-/* Glow Card */
+/* 悬停发光卡片基础类 */
 .glow-card {
   transition: all var(--transition-normal);
+  position: relative;
+  overflow: hidden;
 }
 
+.glow-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(135deg, rgba(255, 255, 255, 0.05) 0%, transparent 100%);
+  opacity: 0;
+  transition: opacity var(--transition-normal);
+  z-index: 1;
+  pointer-events: none;
+}
+
+.glow-card:hover::before {
+  opacity: 1;
+}
+
+/* 卡片根据热度悬停发光 */
 .glow-card:hover {
-  transform: translateY(-4px);
-  border-color: hsla(239, 84%, 67%, 0.4);
-  box-shadow: var(--shadow-md), var(--glow-primary);
+  transform: translateY(-5px);
+  border-color: rgba(255, 255, 255, 0.12);
+  box-shadow: var(--shadow-md);
 }
 
-.glow-card-accent:hover {
-  transform: translateY(-4px);
-  border-color: hsla(343, 90%, 60%, 0.4);
-  box-shadow: var(--shadow-md), var(--glow-accent);
+/* 等宽数据/状态标签样式 */
+.telemetry-font {
+  font-family: var(--font-mono);
+  letter-spacing: -0.02em;
 }
 
-/* Animations */
+/* 动画关键帧与基础动画类 */
 @keyframes fadeIn {
-  from { opacity: 0; transform: translateY(10px); }
-  to { opacity: 1; transform: translateY(0); }
+  from { 
+    opacity: 0; 
+    transform: translateY(15px); 
+  }
+  to { 
+    opacity: 1; 
+    transform: translateY(0); 
+  }
 }
 
 @keyframes spin {
@@ -130,9 +172,15 @@ h1, h2, h3, h4, h5, h6 {
   to { transform: rotate(360deg); }
 }
 
-@keyframes pulse {
-  0%, 100% { opacity: 1; }
-  50% { opacity: 0.5; }
+@keyframes pulse-glow {
+  0%, 100% { 
+    opacity: 0.15;
+    box-shadow: 0 0 15px hsla(258, 90%, 66%, 0.1);
+  }
+  50% { 
+    opacity: 0.3;
+    box-shadow: 0 0 25px hsla(258, 90%, 66%, 0.25);
+  }
 }
 
 .animate-fade-in {
@@ -144,5 +192,5 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .animate-pulse {
-  animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+  animation: pulse-glow 2.5s ease-in-out infinite;
 }
