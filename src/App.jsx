@@ -270,7 +270,8 @@ export default function App() {
         {/* Header */}
         <header className="main-header">
           <div className="header-meta">
-            <h1>{selectedDate || '选择日期'} AI 简报</h1>
+            <h1 className="header-title">AI 简报</h1>
+            <span className="header-subtitle">{selectedDate || '选择日期'}</span>
           </div>
           
           <div className="header-actions">
