@@ -42,7 +42,7 @@ async function decodeGoogleNewsUrl(googleRssUrl) {
   }
   try {
     const response = await axios.get(googleRssUrl, {
-      timeout: 5000,
+      timeout: 15000,
       headers: {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
       }
@@ -65,7 +65,7 @@ async function decodeGoogleNewsUrl(googleRssUrl) {
       'https://news.google.com/_/DotsSplashUi/data/batchexecute',
       new URLSearchParams(payload).toString(),
       {
-        timeout: 5000,
+        timeout: 15000,
         headers: {
           'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8',
           'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
@@ -133,7 +133,7 @@ async function findTextAlternativeForVideo(title, lang = 'zh-CN') {
   
   try {
     const response = await axios.get(url, {
-      timeout: 5000,
+      timeout: 15000,
       headers: { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)' }
     });
     const result = await parseStringPromise(response.data);
@@ -228,7 +228,7 @@ async function fetchOpenAINews() {
   try {
     console.log('[Scraper] Fetching OpenAI official news RSS...');
     const response = await axios.get(url, {
-      timeout: 8000,
+      timeout: 20000,
       headers: {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
       }
