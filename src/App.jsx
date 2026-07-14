@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { 
   Flame, Calendar, Search, RefreshCw, BookOpen, 
-  Terminal, ShieldAlert, ExternalLink, Sparkles, Check, Mail, Cpu
+  Terminal, ShieldAlert, ExternalLink, Sparkles, Check, Mail, Cpu, TrendingUp, ShieldCheck
 } from 'lucide-react';
 import './App.css';
 
@@ -318,7 +318,7 @@ export default function App() {
             </div>
           ) : !summaryData ? (
             <div className="empty-state glass">
-              <Sparkles size={48} className="empty-icon text-primary animate-pulse" />
+              <Cpu size={48} className="empty-icon" />
               <h3>没有找到数据</h3>
               <p>请点击上面的“更新”或“更新 & 发送邮件”按钮，抓取今日最新的 AI 行业动态和热度分析。</p>
               <button onClick={() => triggerSync('all')} className="btn btn-primary mt-4">
@@ -331,7 +331,7 @@ export default function App() {
               {summaryData.overview && summaryData.overview.length > 0 && (
                 <section className="overview-section animate-fade-in">
                   <div className="overview-title">
-                    <Sparkles size={18} />
+                    <ShieldCheck size={18} />
                     <h2>今日速览 / Core Takeaways</h2>
                   </div>
                   <ul className="overview-bullets">

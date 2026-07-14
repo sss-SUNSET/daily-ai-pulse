@@ -1,39 +1,39 @@
-/* 全局设计系统与 CSS 变量 (Cyber-OLED Theme) */
+/* ==========================================================================
+   全局设计系统与 CSS 变量 (深邃靛蓝毛玻璃金融风 - Sleek Midnight-Indigo)
+   ========================================================================== */
 :root {
   --font-sans: 'Outfit', 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-  --font-mono: 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+  --font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
   
-  /* HSL 颜色令牌 - Cyber OLED 暗黑系 */
-  --bg-color: 240 10% 2.5%;      /* 纯粹黑 #040406 */
-  --card-color: 240 10% 4.5%;    /* 极暗灰蓝 #0B0B0E */
-  --card-hover: 240 10% 7.5%;    /* 稍微亮起的卡片 #121217 */
-  --primary: 258 90% 66%;        /* 霓虹紫 #8B5CF6 */
-  --primary-hover: 258 90% 75%;  /* 霓虹紫高亮 */
-  --accent: 343 90% 60%;         /* 霓虹红/玫瑰粉 #EC4899 */
-  --accent-hover: 343 90% 68%;
-  --text-main: 210 40% 98%;      /* 接近纯白 */
-  --text-muted: 215 15% 65%;     /* 灰白 */
-  --border-color: 240 8% 12%;    /* 微弱暗灰边框 */
-  --border-focus: 258 90% 66%;   /* 紫色边框焦点 */
+  /* HSL 颜色令牌 - 靛蓝金融级暗色系 */
+  --bg-color: 228 50% 5%;        /* 深空蓝黑色 #070913 */
+  --card-color: 228 38% 11%;     /* 靛蓝灰玻璃面 #111526 */
+  --card-hover: 228 35% 15%;     /* 略亮玻璃面 */
+  --primary: 239 84% 67%;        /* 科技靛蓝 #6366F1 */
+  --primary-hover: 239 84% 75%;  /* 亮靛蓝 */
+  --accent: 161 84% 39%;         /* 翡翠绿 #10B981 (代表安全与增值) */
+  --accent-hover: 161 84% 48%;   /* 亮绿 */
+  
+  --text-main: 210 40% 96%;      /* 洁净灰白 #F1F5F9 */
+  --text-muted: 215 16% 57%;     /* 灰蓝文本 #8E9BB0 */
+  --border-color: 228 20% 15%;    /* 极细深色边框 */
+  --border-focus: 239 84% 67%;
   
   /* 状态颜色 */
-  --success: 142 70% 45%;        /* 翡翠绿 */
-  --warning: 38 92% 50%;         /* 琥珀黄 */
-  --danger: 0 84% 60%;           /* 警示红 */
+  --success: 161 84% 39%;        /* 翡翠绿 */
+  --warning: 38 92% 50%;         /* 琥珀金 */
+  --danger: 0 84% 60%;           /* 珊瑚红 */
   
-  /* 分类专用色彩 */
-  --cat-industry: 217 91% 60%;   /* 行业动态: 霓虹蓝 */
-  --cat-research: 262 83% 58%;   /* 前沿研究: 霓虹紫 */
-  --cat-opensource: 188 86% 53%; /* 开源项目: 霓虹青 */
-  --cat-ethics: 0 84% 60%;       /* 伦理与社会: 发光红 */
+  /* 分类专用色彩 (低调素雅) */
+  --cat-industry: 239 84% 67%;   /* 行业动态: 科技靛蓝 */
+  --cat-research: 199 89% 48%;   /* 前沿研究: 天空蓝 */
+  --cat-opensource: 161 84% 39%; /* 开源项目: 翡翠绿 */
+  --cat-ethics: 38 92% 50%;      /* 伦理与社会: 琥珀金 */
   
-  /* 阴影与光晕效果 */
-  --glow-primary: 0 0 25px hsla(258, 90%, 66%, 0.18);
-  --glow-accent: 0 0 25px hsla(343, 90%, 60%, 0.18);
-  --glow-cyan: 0 0 25px hsla(188, 86%, 53%, 0.18);
-  --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.7);
-  --shadow-md: 0 8px 30px rgba(0, 0, 0, 0.85);
-  --shadow-lg: 0 16px 50px rgba(0, 0, 0, 0.95);
+  /* 精致内敛的投影与光晕 */
+  --shadow-sm: 0 2px 12px rgba(0, 0, 0, 0.4);
+  --shadow-md: 0 12px 32px rgba(0, 0, 0, 0.5);
+  --shadow-lg: 0 24px 60px rgba(0, 0, 0, 0.6);
   
   --transition-fast: 0.2s cubic-bezier(0.16, 1, 0.3, 1);
   --transition-normal: 0.35s cubic-bezier(0.16, 1, 0.3, 1);
@@ -57,10 +57,10 @@ body {
   overflow-x: hidden;
 }
 
-/* 自定义高端滚动条 */
+/* 高雅细滚动条 */
 ::-webkit-scrollbar {
-  width: 6px;
-  height: 6px;
+  width: 5px;
+  height: 5px;
 }
 
 ::-webkit-scrollbar-track {
@@ -68,20 +68,19 @@ body {
 }
 
 ::-webkit-scrollbar-thumb {
-  background: hsla(240, 8%, 15%, 0.8);
+  background: rgba(255, 255, 255, 0.05);
   border-radius: 10px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: hsl(var(--primary));
-  box-shadow: 0 0 8px hsl(var(--primary));
+  background: rgba(99, 102, 241, 0.3);
 }
 
 /* 标题基础样式 */
 h1, h2, h3, h4, h5, h6 {
-  font-weight: 700;
-  letter-spacing: -0.03em;
-  line-height: 1.25;
+  font-weight: 600; /* 从 700 调小为 600，显得更加秀丽、精致 */
+  letter-spacing: -0.02em;
+  line-height: 1.3;
   color: #fff;
 }
 
@@ -93,14 +92,15 @@ h1, h2, h3, h4, h5, h6 {
   width: 100%;
 }
 
-/* App 整体网格布局 */
+/* App 整体网格布局及深色径向渐变背景光晕 */
 .app-layout {
   display: grid;
-  grid-template-columns: 300px 1fr;
+  grid-template-columns: 290px 1fr;
   min-height: 100vh;
   background-image: 
-    radial-gradient(circle at 10% 20%, hsla(258, 90%, 66%, 0.03) 0%, transparent 40%),
-    radial-gradient(circle at 90% 80%, hsla(343, 90%, 60%, 0.02) 0%, transparent 40%);
+    radial-gradient(circle at 5% 5%, rgba(99, 102, 241, 0.06) 0%, transparent 40%),
+    radial-gradient(circle at 95% 95%, rgba(16, 185, 129, 0.03) 0%, transparent 40%);
+  background-attachment: fixed;
 }
 
 @media (max-width: 1024px) {
@@ -109,57 +109,38 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-/* 极致毛玻璃效果类 (Glassmorphism) */
+/* 高端磨砂玻璃面板 (Glassmorphism) */
 .glass {
-  background: rgba(11, 11, 14, 0.7);
-  backdrop-filter: blur(20px);
-  -webkit-backdrop-filter: blur(20px);
+  background: rgba(17, 21, 38, 0.45);
+  backdrop-filter: blur(24px);
+  -webkit-backdrop-filter: blur(24px);
   border: 1px solid rgba(255, 255, 255, 0.05);
 }
 
-/* 悬停发光卡片基础类 */
+/* 数字化卡片基础悬停样式 */
 .glow-card {
   transition: all var(--transition-normal);
   position: relative;
-  overflow: hidden;
 }
 
-.glow-card::before {
-  content: '';
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background: linear-gradient(135deg, rgba(255, 255, 255, 0.05) 0%, transparent 100%);
-  opacity: 0;
-  transition: opacity var(--transition-normal);
-  z-index: 1;
-  pointer-events: none;
-}
-
-.glow-card:hover::before {
-  opacity: 1;
-}
-
-/* 卡片根据热度悬停发光 */
 .glow-card:hover {
-  transform: translateY(-5px);
-  border-color: rgba(255, 255, 255, 0.12);
-  box-shadow: var(--shadow-md);
+  transform: translateY(-2px); /* 减弱浮动高度，显沉稳 */
+  border-color: rgba(99, 102, 241, 0.2);
+  background: rgba(22, 27, 48, 0.55);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
 }
 
 /* 等宽数据/状态标签样式 */
 .telemetry-font {
   font-family: var(--font-mono);
-  letter-spacing: -0.02em;
+  letter-spacing: -0.01em;
 }
 
 /* 动画关键帧与基础动画类 */
 @keyframes fadeIn {
   from { 
     opacity: 0; 
-    transform: translateY(15px); 
+    transform: translateY(10px); 
   }
   to { 
     opacity: 1; 
@@ -172,25 +153,10 @@ h1, h2, h3, h4, h5, h6 {
   to { transform: rotate(360deg); }
 }
 
-@keyframes pulse-glow {
-  0%, 100% { 
-    opacity: 0.15;
-    box-shadow: 0 0 15px hsla(258, 90%, 66%, 0.1);
-  }
-  50% { 
-    opacity: 0.3;
-    box-shadow: 0 0 25px hsla(258, 90%, 66%, 0.25);
-  }
-}
-
 .animate-fade-in {
   animation: fadeIn var(--transition-normal) forwards;
 }
 
 .animate-spin {
-  animation: spin 1s linear infinite;
-}
-
-.animate-pulse {
-  animation: pulse-glow 2.5s ease-in-out infinite;
+  animation: spin 1.2s linear infinite;
 }
