@@ -1,88 +1,64 @@
-/* ==========================================================================
-   DailyAI Pulse - 主应用样式设计 (深邃靛蓝毛玻璃金融风 - Sleek Midnight-Indigo)
-   ========================================================================== */
+/* App layout styles */
 
-/* 1. 侧边栏 (Sidebar) - 稳重的导航菜单 */
 .sidebar {
-  border-right: 1px solid rgba(255, 255, 255, 0.04);
+  border-right: 1px solid hsl(var(--border-color));
   display: flex;
   flex-direction: column;
   height: 100vh;
   position: sticky;
   top: 0;
   z-index: 10;
-  padding: 2.25rem 1.5rem;
-  background: rgba(8, 10, 20, 0.5);
-  backdrop-filter: blur(24px);
-  -webkit-backdrop-filter: blur(24px);
+  padding: 1.5rem 1rem;
 }
 
 .sidebar-brand {
   display: flex;
   align-items: center;
-  gap: 0.85rem;
+  gap: 0.75rem;
   padding-bottom: 1.5rem;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.04);
-  margin-bottom: 2.25rem;
+  border-bottom: 1px solid hsla(var(--border-color), 0.5);
+  margin-bottom: 2rem;
 }
 
-.brand-logo-container {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 36px;
-  height: 36px;
-  border-radius: 8px;
-  background: rgba(99, 102, 241, 0.08);
-  border: 1px solid rgba(99, 102, 241, 0.18);
-  color: #818cf8;
+.brand-logo {
+  font-size: 2.25rem;
 }
 
 .brand-info h2 {
-  font-family: 'Outfit', sans-serif;
   font-size: 1.15rem;
-  font-weight: 600;
-  color: #ffffff;
+  font-weight: 800;
+  color: #fff;
   letter-spacing: -0.01em;
 }
 
 .brand-info span {
-  font-size: 0.68rem;
+  font-size: 0.75rem;
   color: hsl(var(--text-muted));
   text-transform: uppercase;
-  letter-spacing: 0.06em;
-  font-weight: 600;
-  display: block;
-  margin-top: 1px;
+  letter-spacing: 0.05em;
+  font-weight: 500;
 }
 
 .sidebar-section {
   flex: 1;
   overflow-y: auto;
-  margin-bottom: 1.5rem;
-  padding-right: 0.25rem;
 }
 
 .sidebar-section h3 {
-  font-family: var(--font-mono);
-  font-size: 0.72rem;
-  color: rgba(255, 255, 255, 0.35);
+  font-size: 0.8rem;
+  color: hsl(var(--text-muted));
   text-transform: uppercase;
-  letter-spacing: 0.08em;
-  margin-bottom: 1.15rem;
+  letter-spacing: 0.05em;
+  margin-bottom: 1rem;
   display: flex;
   align-items: center;
   gap: 0.5rem;
 }
 
-.sidebar-section h3 svg {
-  color: #6366f1;
-}
-
 .date-list {
   display: flex;
   flex-direction: column;
-  gap: 0.35rem;
+  gap: 0.5rem;
 }
 
 .date-item {
@@ -94,23 +70,23 @@
   display: flex;
   align-items: center;
   gap: 0.75rem;
-  padding: 0.65rem 0.85rem;
+  padding: 0.75rem 1rem;
   text-align: left;
-  font-family: var(--font-mono);
-  font-size: 0.85rem;
+  font-family: inherit;
+  font-size: 0.95rem;
   font-weight: 500;
   transition: all var(--transition-fast);
   width: 100%;
 }
 
 .date-item:hover {
-  background: rgba(255, 255, 255, 0.02);
-  color: #fff;
+  background: hsla(var(--border-color), 0.3);
+  color: hsl(var(--text-main));
 }
 
 .date-item.active {
-  background: rgba(99, 102, 241, 0.08);
-  border: 1px solid rgba(99, 102, 241, 0.15);
+  background: hsla(var(--primary), 0.1);
+  border-color: hsla(var(--primary), 0.3);
   color: #fff;
 }
 
@@ -118,46 +94,40 @@
   width: 6px;
   height: 6px;
   border-radius: 50%;
-  background-color: rgba(255, 255, 255, 0.15);
-  transition: all var(--transition-fast);
+  background-color: hsl(var(--text-muted));
+  transition: background-color var(--transition-fast);
 }
 
 .date-item.active .date-dot {
-  background-color: #6366f1;
-  box-shadow: 0 0 6px #6366f1;
+  background-color: hsl(var(--primary));
+  box-shadow: 0 0 8px hsl(var(--primary));
 }
 
 .sidebar-footer {
-  background: rgba(255, 255, 255, 0.01);
-  border: 1px solid rgba(255, 255, 255, 0.03);
-  border-radius: 8px;
-  padding: 0.85rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid hsla(var(--border-color), 0.5);
+  margin-top: auto;
 }
 
 .mail-info {
   display: flex;
   align-items: center;
-  gap: 0.45rem;
-  font-size: 0.72rem;
+  gap: 0.5rem;
+  font-size: 0.75rem;
   color: hsl(var(--text-muted));
   font-weight: 600;
   margin-bottom: 0.25rem;
 }
 
-.mail-info svg {
-  color: #6366f1;
-}
-
 .mail-addr {
-  font-family: var(--font-mono);
-  font-size: 0.75rem;
-  color: #818cf8;
-  font-weight: 600;
+  font-size: 0.85rem;
+  color: hsl(var(--primary));
+  font-weight: 700;
   word-break: break-all;
-  opacity: 0.85;
 }
 
-/* 2. 主内容头部 (Header) */
+/* Main content area */
+
 .main-content {
   display: flex;
   flex-direction: column;
@@ -166,41 +136,32 @@
 }
 
 .main-header {
-  border-bottom: 1px solid rgba(255, 255, 255, 0.04);
+  border-bottom: 1px solid hsl(var(--border-color));
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 1.5rem 2.5rem;
+  padding: 1.25rem 2rem;
   position: sticky;
   top: 0;
   z-index: 9;
-  background: rgba(8, 10, 21, 0.6);
-  backdrop-filter: blur(20px);
-  -webkit-backdrop-filter: blur(20px);
 }
 
 .header-meta h1 {
-  font-family: 'Outfit', sans-serif;
-  font-size: 1.45rem;
-  font-weight: 600;
-  color: #ffffff;
-  display: inline-flex;
-  align-items: center;
-  gap: 0.75rem;
+  font-size: 1.5rem;
+  font-weight: 800;
+  color: #fff;
 }
 
 .summary-stat {
-  font-family: var(--font-mono);
-  font-size: 0.72rem;
-  background-color: rgba(99, 102, 241, 0.08);
-  color: #818cf8;
-  border: 1px solid rgba(99, 102, 241, 0.18);
-  padding: 2px 10px;
-  border-radius: 20px;
+  font-size: 0.8rem;
+  background-color: hsla(var(--primary), 0.15);
+  color: hsl(var(--primary-hover));
+  border: 1px solid hsla(var(--primary), 0.2);
+  padding: 2px 8px;
+  border-radius: 12px;
   font-weight: 600;
+  margin-left: 0.5rem;
   vertical-align: middle;
-  display: inline-block;
-  margin-top: 1px;
 }
 
 .header-actions {
@@ -209,142 +170,114 @@
   gap: 1rem;
 }
 
-/* 悬浮金融风格 Toast 通知 */
 .notification-bubble {
-  position: fixed;
-  top: 1.5rem;
-  right: 1.5rem;
-  z-index: 1000;
-  font-size: 0.825rem;
-  padding: 0.8rem 1.15rem;
+  font-size: 0.85rem;
+  padding: 0.5rem 1rem;
   border-radius: 8px;
-  font-weight: 600;
+  font-weight: 500;
   display: flex;
   align-items: center;
-  gap: 0.65rem;
-  box-shadow: var(--shadow-lg);
-  max-width: 400px;
-  animation: slideIn 0.35s cubic-bezier(0.16, 1, 0.3, 1) forwards;
-  backdrop-filter: blur(24px);
-  -webkit-backdrop-filter: blur(24px);
-  border: 1px solid rgba(255, 255, 255, 0.06);
-}
-
-@keyframes slideIn {
-  from {
-    transform: translateX(120%) translateY(-5px);
-    opacity: 0;
-  }
-  to {
-    transform: translateX(0) translateY(0);
-    opacity: 1;
-  }
+  box-shadow: var(--shadow-sm);
+  max-width: 380px;
 }
 
 .notification-bubble.info {
-  background-color: rgba(18, 22, 41, 0.9);
-  color: #818cf8;
-  border-color: rgba(99, 102, 241, 0.25);
+  background-color: hsla(239, 84%, 67%, 0.15);
+  color: hsl(var(--primary-hover));
+  border: 1px solid hsla(var(--primary), 0.25);
 }
 
 .notification-bubble.success {
-  background-color: rgba(18, 22, 41, 0.9);
-  color: #34d399;
-  border-color: rgba(16, 185, 129, 0.25);
+  background-color: hsla(142, 70%, 45%, 0.15);
+  color: #4ade80;
+  border: 1px solid hsla(142, 70%, 45%, 0.25);
 }
 
 .notification-bubble.error {
-  background-color: rgba(18, 22, 41, 0.9);
+  background-color: hsla(0, 84%, 60%, 0.15);
   color: #f87171;
-  border-color: rgba(239, 68, 68, 0.25);
+  border: 1px solid hsla(0, 84%, 60%, 0.25);
 }
 
 .content-body {
   flex: 1;
-  padding: 2.5rem;
+  padding: 2rem;
 }
 
-/* 3. 精细按钮 (Buttons) */
+/* UI Elements */
+
 .btn {
-  border-radius: 6px;
+  border-radius: 8px;
   cursor: pointer;
   display: inline-flex;
   align-items: center;
   justify-content: center;
   gap: 0.5rem;
-  font-family: var(--font-sans);
+  font-family: inherit;
   font-weight: 600;
-  font-size: 0.825rem;
-  padding: 0.55rem 1rem;
+  font-size: 0.9rem;
+  padding: 0.65rem 1.25rem;
   transition: all var(--transition-fast);
   border: 1px solid transparent;
 }
 
 .btn-primary {
-  background: #6366f1;
+  background: linear-gradient(135deg, hsl(var(--primary)) 0%, #4f46e5 100%);
   color: #fff;
-  border: 1px solid rgba(255, 255, 255, 0.08);
+  box-shadow: 0 4px 14px hsla(239, 84%, 67%, 0.3);
 }
 
 .btn-primary:hover:not(:disabled) {
-  background: #4f46e5;
   transform: translateY(-1px);
-}
-
-.btn-primary:active:not(:disabled) {
-  transform: translateY(0);
+  box-shadow: 0 6px 20px hsla(239, 84%, 67%, 0.4);
 }
 
 .btn-primary:disabled {
-  opacity: 0.55;
+  opacity: 0.6;
   cursor: not-allowed;
 }
 
 .btn-secondary {
-  background: rgba(255, 255, 255, 0.02);
-  border: 1px solid rgba(255, 255, 255, 0.06);
+  background: hsla(var(--border-color), 0.5);
+  border-color: hsl(var(--border-color));
   color: hsl(var(--text-main));
 }
 
 .btn-secondary:hover:not(:disabled) {
-  background: rgba(255, 255, 255, 0.05);
-  border-color: rgba(255, 255, 255, 0.15);
+  background: hsla(var(--border-color), 0.8);
+  border-color: hsl(var(--primary));
   color: #fff;
   transform: translateY(-1px);
 }
 
-.btn-secondary:active:not(:disabled) {
-  transform: translateY(0);
-}
-
 .btn-secondary:disabled {
-  opacity: 0.55;
+  opacity: 0.6;
   cursor: not-allowed;
 }
 
-/* 4. 空白状态 (Empty State) */
+.mt-4 {
+  margin-top: 1rem;
+}
+
+/* Empty States */
+
 .empty-state {
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  border-radius: 12px;
+  border-radius: 16px;
   padding: 5rem 2rem;
   text-align: center;
   max-width: 600px;
-  margin: 3rem auto;
-  border: 1px solid rgba(255, 255, 255, 0.03);
-  background: rgba(255, 255, 255, 0.01);
+  margin: 4rem auto;
 }
 
 .empty-icon {
   margin-bottom: 1.5rem;
-  color: #6366f1;
-  opacity: 0.85;
 }
 
 .empty-state h3 {
-  font-family: 'Outfit', sans-serif;
   font-size: 1.35rem;
   margin-bottom: 0.5rem;
   color: #fff;
@@ -352,37 +285,39 @@
 
 .empty-state p {
   color: hsl(var(--text-muted));
-  font-size: 0.9rem;
+  font-size: 0.95rem;
   line-height: 1.6;
-  margin-bottom: 1.75rem;
+  margin-bottom: 1.5rem;
 }
 
-/* 5. 核心速览 (Overview / Takeaways) - 大盘快报样式 */
+/* Dashboard Elements */
+
+.dashboard-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+/* Daily Overview / Highlights */
+
 .overview-section {
-  background: rgba(255, 255, 255, 0.01);
-  border: 1px solid rgba(255, 255, 255, 0.04);
-  border-left: 3px solid #6366f1;
-  border-radius: 8px;
-  padding: 1.5rem 1.75rem;
+  background: linear-gradient(135deg, hsla(239, 84%, 67%, 0.08) 0%, hsla(343, 90%, 60%, 0.05) 100%);
+  border: 1px solid hsla(var(--primary), 0.2);
+  border-radius: 16px;
+  padding: 1.5rem;
 }
 
 .overview-title {
   display: flex;
   align-items: center;
   gap: 0.5rem;
-  margin-bottom: 1.15rem;
+  margin-bottom: 1.25rem;
 }
 
 .overview-title h2 {
-  font-family: 'Outfit', sans-serif;
-  font-size: 1.1rem;
-  color: #ffffff;
-  font-weight: 600;
-  letter-spacing: -0.01em;
-}
-
-.overview-title svg {
-  color: #6366f1;
+  font-size: 1.15rem;
+  color: #fff;
+  font-weight: 700;
 }
 
 .overview-bullets {
@@ -395,56 +330,55 @@
 .overview-bullet-item {
   display: flex;
   align-items: flex-start;
-  gap: 0.75rem;
+  gap: 1rem;
 }
 
 .bullet-num {
-  font-family: var(--font-mono);
-  font-size: 0.7rem;
-  font-weight: 700;
-  color: rgba(255, 255, 255, 0.35);
-  background-color: rgba(255, 255, 255, 0.03);
-  border: 1px solid rgba(255, 255, 255, 0.06);
-  padding: 2px 5px;
-  border-radius: 4px;
+  font-size: 0.85rem;
+  font-weight: 800;
+  color: hsl(var(--primary-hover));
+  background-color: hsla(var(--primary), 0.15);
+  border: 1px solid hsla(var(--primary), 0.25);
+  padding: 2px 6px;
+  border-radius: 6px;
   line-height: 1;
-  margin-top: 3px;
+  margin-top: 2px;
 }
 
 .overview-bullet-item p {
-  color: rgba(255, 255, 255, 0.85);
-  font-size: 0.9rem;
+  color: hsl(var(--text-main));
+  font-size: 0.95rem;
   line-height: 1.6;
 }
 
-/* 6. 工具栏 (Toolbar) */
+/* Toolbar */
+
 .toolbar-container {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  gap: 2rem;
+  gap: 1.5rem;
+}
+
+@media (max-width: 768px) {
+  .toolbar-container {
+    flex-direction: column;
+    align-items: stretch;
+  }
 }
 
 .search-bar {
   display: flex;
   align-items: center;
   gap: 0.75rem;
-  border-radius: 8px;
-  padding: 0.55rem 0.85rem;
+  border-radius: 12px;
+  padding: 0.65rem 1rem;
   flex: 1;
-  max-width: 440px;
-  border: 1px solid rgba(255, 255, 255, 0.04);
-  background: rgba(255, 255, 255, 0.01);
-  transition: all var(--transition-fast);
+  max-width: 450px;
 }
 
 .search-icon {
   color: hsl(var(--text-muted));
-}
-
-.search-bar:focus-within {
-  border-color: rgba(99, 102, 241, 0.25);
-  background: rgba(18, 22, 41, 0.3);
 }
 
 .search-bar input {
@@ -452,77 +386,76 @@
   border: none;
   color: #fff;
   font-family: inherit;
-  font-size: 0.9rem;
+  font-size: 0.95rem;
   outline: none;
   width: 100%;
 }
 
 .search-bar input::placeholder {
-  color: rgba(255, 255, 255, 0.35);
+  color: hsl(var(--text-muted));
 }
 
 .tabs-list {
   display: flex;
   gap: 0.25rem;
   padding: 0.25rem;
-  border-radius: 10px;
+  border-radius: 12px;
   overflow-x: auto;
-  border: 1px solid rgba(255, 255, 255, 0.03);
-  background: rgba(255, 255, 255, 0.01);
 }
 
 .tab-item {
   background: transparent;
   border: none;
-  border-radius: 6px;
+  border-radius: 8px;
   color: hsl(var(--text-muted));
   cursor: pointer;
   display: flex;
   align-items: center;
-  gap: 0.45rem;
-  font-family: var(--font-sans);
-  font-size: 0.825rem;
+  gap: 0.5rem;
+  font-family: inherit;
+  font-size: 0.85rem;
   font-weight: 600;
-  padding: 0.45rem 1rem;
+  padding: 0.5rem 1rem;
   white-space: nowrap;
   transition: all var(--transition-fast);
 }
 
 .tab-item:hover {
   color: #fff;
-  background: rgba(255, 255, 255, 0.01);
 }
 
 .tab-item.active {
-  background-color: rgba(99, 102, 241, 0.08);
-  border: 1px solid rgba(99, 102, 241, 0.15);
+  background-color: hsla(var(--border-color), 0.6);
   color: #fff;
 }
 
-/* 7. 新闻卡片网格 (Feed Grid) - 质感数字卡片 */
+/* Feed Grid */
+
 .feed-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(420px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
   gap: 1.5rem;
+}
+
+@media (max-width: 640px) {
+  .feed-grid {
+    grid-template-columns: 1fr;
+  }
 }
 
 .empty-feed {
   grid-column: 1 / -1;
   text-align: center;
   padding: 4rem;
-  border-radius: 12px;
+  border-radius: 16px;
   color: hsl(var(--text-muted));
-  border: 1px solid rgba(255, 255, 255, 0.03);
-  background: rgba(255, 255, 255, 0.01);
 }
 
 .feed-card {
-  border-radius: 12px;
+  border-radius: 16px;
   display: flex;
   flex-direction: column;
   padding: 1.5rem;
-  background: rgba(17, 21, 38, 0.4);
-  border: 1px solid rgba(255, 255, 255, 0.04);
   transition: all var(--transition-normal);
 }
 
@@ -536,101 +469,68 @@
 .card-cat {
   display: flex;
   align-items: center;
-  gap: 0.45rem;
-  font-family: var(--font-mono);
-  font-size: 0.7rem;
-  color: rgba(255, 255, 255, 0.4);
-  font-weight: 600;
+  gap: 0.5rem;
+  font-size: 0.75rem;
+  color: hsl(var(--text-muted));
+  font-weight: 700;
   text-transform: uppercase;
-  letter-spacing: 0.03em;
+  letter-spacing: 0.05em;
 }
 
-/* 分类小图标配色 (低调雅致) */
-.feed-card[data-cat="industry"] .card-cat svg { color: #6366f1; }
-.feed-card[data-cat="research"] .card-cat svg { color: #0ea5e9; }
-.feed-card[data-cat="opensource"] .card-cat svg { color: #10b981; }
-.feed-card[data-cat="ethics"] .card-cat svg { color: #f59e0b; }
-
 .hotness-badge {
-  font-family: var(--font-mono);
-  font-size: 0.7rem;
-  font-weight: 600;
+  font-size: 0.75rem;
+  font-weight: 700;
   padding: 2px 8px;
-  border-radius: 4px;
+  border-radius: 20px;
   display: flex;
   align-items: center;
-  gap: 0.3rem;
+  gap: 0.25rem;
   border: 1px solid transparent;
 }
 
-/* 高雅的热度指示色 */
-.hotness-badge[data-level="high"] {
-  background-color: rgba(239, 68, 68, 0.05);
-  color: #ef4444;
-  border-color: rgba(239, 68, 68, 0.15);
-}
-
-.hotness-badge[data-level="medium"] {
-  background-color: rgba(245, 158, 11, 0.05);
-  color: #f59e0b;
-  border-color: rgba(245, 158, 11, 0.15);
-}
-
-.hotness-badge[data-level="low"] {
-  background-color: rgba(16, 185, 129, 0.05);
-  color: #10b981;
-  border-color: rgba(16, 185, 129, 0.15);
+.flame-emoji {
+  font-size: 0.8rem;
 }
 
 .card-title {
   color: #fff;
-  font-family: 'Outfit', sans-serif;
-  font-size: 1.1rem;
-  font-weight: 600;
+  font-size: 1.15rem;
+  font-weight: 700;
   margin-bottom: 0.75rem;
-  line-height: 1.4;
+  line-height: 1.35;
 }
 
 .card-summary {
-  color: rgba(255, 255, 255, 0.65);
-  font-size: 0.88rem;
+  color: hsl(var(--text-muted));
+  font-size: 0.925rem;
   line-height: 1.6;
   margin-bottom: 1.5rem;
   flex: 1;
 }
 
 .card-footer {
-  border-top: 1px solid rgba(255, 255, 255, 0.03);
+  border-top: 1px solid hsla(var(--border-color), 0.5);
   padding-top: 1rem;
   margin-top: auto;
 }
 
 .card-link {
-  color: rgba(255, 255, 255, 0.45);
+  color: hsl(var(--primary-hover));
   display: inline-flex;
   align-items: center;
-  gap: 0.3rem;
-  font-size: 0.75rem;
+  gap: 0.35rem;
+  font-size: 0.8rem;
   font-weight: 600;
   text-decoration: none;
-  transition: all var(--transition-fast);
+  transition: color var(--transition-fast);
 }
 
 .card-link:hover {
-  color: #818cf8;
+  color: #fff;
 }
 
-.card-link svg {
-  opacity: 0.6;
-  transition: transform var(--transition-fast);
-}
+/* Skeletons */
 
-.card-link:hover svg {
-  opacity: 1;
-  transform: translate(1px, -1px);
-}
-
-/* 8. 骨架图 (Skeletons) */
 .skeleton-container {
   display: flex;
   flex-direction: column;
@@ -638,15 +538,15 @@
 }
 
 .skeleton {
-  background: linear-gradient(90deg, rgba(255, 255, 255, 0.01) 25%, rgba(255, 255, 255, 0.04) 50%, rgba(255, 255, 255, 0.01) 75%);
+  background: linear-gradient(90deg, hsla(var(--border-color), 0.3) 25%, hsla(var(--border-color), 0.5) 50%, hsla(var(--border-color), 0.3) 75%);
   background-size: 200% 100%;
-  animation: loadingSkeleton 1.6s infinite ease-in-out;
-  border-radius: 6px;
+  animation: loadingSkeleton 1.5s infinite;
+  border-radius: 8px;
 }
 
 .skeleton-title {
-  height: 1.75rem;
-  width: 25%;
+  height: 2rem;
+  width: 30%;
   margin-bottom: 1rem;
 }
 
@@ -659,7 +559,7 @@
 .skeleton-card {
   height: 180px;
   width: 100%;
-  border-radius: 12px;
+  border-radius: 16px;
 }
 
 @keyframes loadingSkeleton {
@@ -667,20 +567,13 @@
   100% { background-position: -200% 0; }
 }
 
-/* 9. 响应式布局自适应 (Responsive Adjustments) */
-@media (max-width: 1200px) {
-  .feed-grid {
-    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
-    gap: 1.25rem;
-  }
-}
+/* Responsive adjustments */
 
 @media (max-width: 1024px) {
   .sidebar {
     height: auto;
     border-right: none;
-    border-bottom: 1px solid rgba(255, 255, 255, 0.04);
-    padding: 1.5rem 2rem;
+    border-bottom: 1px solid hsl(var(--border-color));
   }
   .main-content {
     height: auto;
@@ -691,9 +584,8 @@
   .app-layout {
     grid-template-columns: 1fr !important;
   }
-  
   .sidebar {
-    padding: 1rem 1.25rem !important;
+    padding: 0.75rem 1rem !important;
     flex-direction: row !important;
     justify-content: space-between !important;
     align-items: center !important;
@@ -701,36 +593,25 @@
     top: 0 !important;
     z-index: 100 !important;
     height: auto !important;
-    border-bottom: 1px solid rgba(255, 255, 255, 0.05) !important;
-    background: rgba(7, 9, 18, 0.95) !important;
+    border-bottom: 1px solid hsl(var(--border-color)) !important;
+    background: hsla(224, 40%, 6%, 0.95) !important;
+    backdrop-filter: blur(12px) !important;
   }
-  
   .sidebar-brand {
     padding-bottom: 0 !important;
     margin-bottom: 0 !important;
     border-bottom: none !important;
     gap: 0.5rem !important;
   }
-  
-  .brand-logo-container {
-    width: 28px !important;
-    height: 28px !important;
-    border-radius: 6px !important;
+  .brand-logo {
+    font-size: 1.5rem !important;
   }
-  
-  .brand-logo-container svg {
-    width: 14px !important;
-    height: 14px !important;
-  }
-  
   .brand-info h2 {
     font-size: 0.95rem !important;
   }
-  
   .brand-info span {
     display: none !important;
   }
-  
   .sidebar-section {
     display: flex !important;
     align-items: center !important;
@@ -738,165 +619,143 @@
     flex: 1 !important;
     justify-content: flex-end !important;
   }
-  
   .sidebar-section h3 {
     display: none !important;
   }
-  
   .date-list {
     flex-direction: row !important;
     gap: 0.35rem !important;
     overflow-x: auto !important;
     max-width: 180px !important;
-    scrollbar-width: none;
+    padding-bottom: 0 !important;
+    scrollbar-width: none; /* Firefox */
   }
-  
   .date-list::-webkit-scrollbar {
-    display: none;
+    display: none; /* Safari and Chrome */
   }
-  
   .date-item {
-    padding: 0.4rem 0.75rem !important;
-    font-size: 0.78rem !important;
+    padding: 0.35rem 0.65rem !important;
+    font-size: 0.75rem !important;
     white-space: nowrap !important;
     border-radius: 6px !important;
     width: auto !important;
-    display: inline-flex !important;
+    display: inline-block !important;
   }
-  
   .date-dot {
     display: none !important;
   }
-  
   .sidebar-footer {
     display: none !important;
   }
   
   .main-header {
-    padding: 1rem 1.25rem !important;
+    padding: 0.75rem 1rem !important;
     flex-direction: column !important;
     align-items: stretch !important;
-    gap: 0.85rem !important;
+    gap: 0.75rem !important;
   }
-  
   .header-meta h1 {
-    font-size: 1.25rem !important;
+    font-size: 1.15rem !important;
+    display: inline-block !important;
   }
-  
   .summary-stat {
-    font-size: 0.68rem !important;
-    padding: 1px 5px !important;
+    font-size: 0.7rem !important;
+    padding: 1px 6px !important;
+    margin-left: 0.35rem !important;
   }
-  
   .header-actions {
     justify-content: space-between !important;
   }
-  
   .notification-bubble {
-    font-size: 0.78rem !important;
-    padding: 0.6rem 0.95rem !important;
-    max-width: calc(100% - 2rem) !important;
-    left: 1rem !important;
-    right: 1rem !important;
-    top: 1rem !important;
+    font-size: 0.75rem !important;
+    padding: 0.4rem 0.75rem !important;
+    max-width: 100% !important;
   }
-  
   .button-group {
     flex-direction: column !important;
     width: 100% !important;
-    gap: 0.45rem !important;
+    gap: 0.35rem !important;
   }
-  
-  .btn {
-    padding: 0.5rem 0.85rem !important;
-    font-size: 0.78rem !important;
+  .btn-primary, .btn-secondary {
+    padding: 0.5rem 0.8rem !important;
+    font-size: 0.8rem !important;
     width: 100% !important;
   }
   
   .content-body {
-    padding: 1.25rem !important;
+    padding: 0.75rem !important;
   }
   
   .overview-section {
-    padding: 1.15rem 1.25rem !important;
-    margin-bottom: 0.25rem !important;
-    border-radius: 6px !important;
+    padding: 0.85rem !important;
+    margin-bottom: 1rem !important;
+    border-radius: 12px !important;
   }
-  
   .overview-title h2 {
-    font-size: 0.98rem !important;
+    font-size: 0.95rem !important;
   }
-  
   .overview-bullet-item {
-    gap: 0.65rem !important;
+    gap: 0.5rem !important;
   }
-  
   .bullet-num {
-    font-size: 0.68rem !important;
-    padding: 1px 3px !important;
+    font-size: 0.75rem !important;
+    padding: 1px 4px !important;
   }
-  
   .overview-bullet-item p {
-    font-size: 0.85rem !important;
+    font-size: 0.8rem !important;
+    line-height: 1.45 !important;
   }
   
   .toolbar-container {
     flex-direction: column !important;
-    gap: 0.65rem !important;
-    margin-bottom: 0.25rem !important;
+    gap: 0.5rem !important;
+    margin-bottom: 0.75rem !important;
     align-items: stretch !important;
   }
-  
   .tabs-list {
-    display: none !important;
+    display: none !important; /* Force hide categories on mobile, keeping it flat */
   }
-  
   .search-bar {
     max-width: 100% !important;
-    padding: 0.5rem 0.85rem !important;
+    padding: 0.5rem 0.75rem !important;
     border-radius: 8px !important;
   }
-  
   .search-bar input {
-    font-size: 0.825rem !important;
+    font-size: 0.85rem !important;
   }
   
   .feed-grid {
     grid-template-columns: 1fr !important;
-    gap: 0.85rem !important;
+    gap: 0.65rem !important;
   }
-  
   .feed-card {
-    padding: 1.15rem !important;
-    border-radius: 10px !important;
+    padding: 0.85rem !important;
+    border-radius: 12px !important;
   }
-  
   .card-header {
-    margin-bottom: 0.65rem !important;
+    margin-bottom: 0.5rem !important;
   }
-  
   .card-cat {
     font-size: 0.65rem !important;
   }
-  
   .hotness-badge {
     font-size: 0.65rem !important;
-    padding: 1px 5px !important;
+    padding: 1px 6px !important;
   }
-  
   .card-title {
     font-size: 0.98rem !important;
-    margin-bottom: 0.45rem !important;
-    line-height: 1.35 !important;
+    margin-bottom: 0.4rem !important;
+    line-height: 1.3 !important;
   }
-  
   .card-summary {
-    font-size: 0.825rem !important;
-    margin-bottom: 1.15rem !important;
-    line-height: 1.5 !important;
+    font-size: 0.82rem !important;
+    margin-bottom: 0.65rem !important;
+    line-height: 1.4 !important;
   }
-  
   .card-footer {
-    padding-top: 0.65rem !important;
+    padding-top: 0.5rem !important;
+  }
+  .card-link {
+    font-size: 0.75rem !important;
   }
 }
