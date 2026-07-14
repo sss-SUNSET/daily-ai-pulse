@@ -103,7 +103,7 @@
   background: var(--card-color);
   color: var(--text-main);
   transform: translateY(-1px);
-  box-shadow: -4px -4px 10px rgba(255, 255, 255, 0.95), 4px 4px 10px rgba(163, 177, 198, 0.55);
+  box-shadow: var(--shadow-raised-hover-sm);
 }
 
 .date-item.active {
@@ -295,7 +295,7 @@
   border-color: var(--primary);
   color: var(--primary);
   transform: translateY(-1.5px);
-  box-shadow: -4px -4px 10px rgba(255, 255, 255, 0.95), 4px 4px 10px rgba(163, 177, 198, 0.55);
+  box-shadow: var(--shadow-raised-hover-sm);
 }
 
 .btn-secondary:active:not(:disabled) {
@@ -690,7 +690,7 @@
 .card-link:hover {
   color: var(--primary-hover);
   transform: translateY(-0.5px);
-  box-shadow: -2px -2px 6px rgba(255, 255, 255, 0.95), 2px 2px 6px rgba(163, 177, 198, 0.55);
+  box-shadow: var(--shadow-link-hover);
 }
 
 .card-link:active {
