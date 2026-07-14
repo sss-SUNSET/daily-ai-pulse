@@ -194,7 +194,7 @@
   font-size: 0.8rem;
   background-color: var(--primary-bg);
   color: var(--primary);
-  border: 1px solid rgba(124, 93, 249, 0.2);
+  border: 1px solid rgba(92, 133, 230, 0.2);
   padding: 4px 12px;
   border-radius: var(--radius-pill);
   font-weight: 700;
@@ -224,7 +224,7 @@
 .notification-bubble.info {
   background-color: var(--primary-bg);
   color: var(--primary);
-  border-color: rgba(124, 93, 249, 0.25);
+  border-color: rgba(92, 133, 230, 0.25);
 }
 
 .notification-bubble.success {
@@ -266,12 +266,12 @@
   background: linear-gradient(135deg, var(--primary) 0%, #6366F1 100%);
   color: #fff;
   border-color: rgba(255, 255, 255, 0.1);
-  box-shadow: 0 4px 14px rgba(124, 93, 249, 0.35);
+  box-shadow: 0 4px 14px rgba(92, 133, 230, 0.35);
 }
 
 .btn-primary:hover:not(:disabled) {
   transform: translateY(-1.5px);
-  box-shadow: 0 6px 20px rgba(124, 93, 249, 0.5);
+  box-shadow: 0 6px 20px rgba(92, 133, 230, 0.5);
 }
 
 .btn-primary:active:not(:disabled) {
@@ -399,7 +399,7 @@
   font-weight: 700;
   color: var(--primary);
   background-color: var(--primary-bg);
-  border: 1px solid rgba(124, 93, 249, 0.25);
+  border: 1px solid rgba(92, 133, 230, 0.25);
   padding: 4px 8px;
   border-radius: 8px;
   line-height: 1;
@@ -445,8 +445,8 @@
 }
 
 .search-bar:focus-within {
-  border-color: rgba(124, 93, 249, 0.4);
-  box-shadow: var(--shadow-sunken), 0 0 12px rgba(124, 93, 249, 0.15);
+  border-color: rgba(92, 133, 230, 0.4);
+  box-shadow: var(--shadow-sunken), 0 0 12px rgba(92, 133, 230, 0.15);
 }
 
 .search-icon {
