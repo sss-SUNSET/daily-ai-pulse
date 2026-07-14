@@ -559,11 +559,11 @@
 
 /* Highlight High Hotness Cards */
 .feed-card.glow-card-accent {
-  border-left: 4px solid rgba(239, 68, 68, 0.45);
+  border-left: 4px solid var(--primary);
 }
 
 .feed-card.glow-card-accent:hover {
-  box-shadow: var(--shadow-raised-hover), 0 0 20px rgba(239, 68, 68, 0.08);
+  box-shadow: var(--shadow-raised-hover), 0 0 20px rgba(92, 133, 230, 0.15);
 }
 
 .card-header {
