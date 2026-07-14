@@ -5,17 +5,17 @@
   --font-sans: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
   --font-display: 'Space Grotesk', sans-serif;
   
-  /* Neumorphic Base Colors */
+  /* --- LIGHT MODE VARIABLES (DEFAULT) --- */
   --bg-color: #EBF1F6;        /* Calming light slate pastel background */
   --card-color: #EBF1F6;      /* Cards must match background for Neumorphic effect */
   --text-main: #2D3748;       /* High contrast dark slate gray for readability */
   --text-muted: #5A6A85;      /* Softer medium slate for descriptions */
   
-  /* Brand/Accent Colors - Calming Blue */
+  /* Brand/Accent Colors */
   --primary: #5C85E6;         /* Calming Pastel Blue */
   --primary-hover: #759BFA;   /* Soft lighter blue */
   --primary-bg: #E8F0FE;      /* Soft blue background */
-  --accent: #10B981;          /* Soft Mint green for accent highlights */
+  --accent: #10B981;          /* Soft Mint green */
   
   /* Status Colors */
   --success: #10B981;
@@ -32,18 +32,101 @@
   
   --shadow-accent-glow: 0 0 16px rgba(92, 133, 230, 0.2);
   
-  /* Borders - Soft subtle contrast helpers */
+  /* Borders */
   --border-color: rgba(255, 255, 255, 0.4);
   --border-dark: rgba(163, 177, 198, 0.2);
   
+  /* Category Colors (Pastel Light) */
+  --cat-industry-bg: #ECE9FE;
+  --cat-industry-text: #5B21B6;
+  --cat-industry-border: rgba(139, 92, 246, 0.2);
+  
+  --cat-research-bg: #ECFDF5;
+  --cat-research-text: #065F46;
+  --cat-research-border: rgba(16, 185, 129, 0.2);
+  
+  --cat-opensource-bg: #F0F9FF;
+  --cat-opensource-text: #075985;
+  --cat-opensource-border: rgba(14, 165, 233, 0.2);
+  
+  --cat-ethics-bg: #FEF3C7;
+  --cat-ethics-text: #92400E;
+  --cat-ethics-border: rgba(245, 158, 11, 0.2);
+  
+  /* Hotness Badge Colors (Pastel Light) */
+  --hot-high-bg: #FEE2E2;
+  --hot-high-text: #DC2626;
+  --hot-high-border: rgba(239, 68, 68, 0.25);
+  
+  --hot-medium-bg: #FEF3C7;
+  --hot-medium-text: #D97706;
+  --hot-medium-border: rgba(245, 158, 11, 0.25);
+  
+  --hot-low-bg: #ECFDF5;
+  --hot-low-text: #059669;
+  --hot-low-border: rgba(16, 185, 129, 0.25);
+
   --transition-fast: 0.2s cubic-bezier(0.16, 1, 0.3, 1);
   --transition-normal: 0.3s cubic-bezier(0.16, 1, 0.3, 1);
   
-  /* Border Radius */
   --radius-sm: 8px;
   --radius-md: 12px;
   --radius-lg: 20px;
   --radius-pill: 9999px;
+}
+
+/* --- DARK MODE OVERRIDES --- */
+:root[data-theme="dark"] {
+  --bg-color: #1A1D24;        /* Dark calming slate */
+  --card-color: #1A1D24;
+  --text-main: #E2E8F0;
+  --text-muted: #8E9CAE;
+  
+  --primary: #6B95FC;         /* Lighter blue for dark contrast */
+  --primary-hover: #8EAFFF;
+  --primary-bg: rgba(107, 149, 252, 0.15);
+  
+  --shadow-raised: -6px -6px 14px rgba(255, 255, 255, 0.025), 6px 6px 14px rgba(10, 11, 14, 0.5);
+  --shadow-raised-hover: -8px -8px 16px rgba(255, 255, 255, 0.035), 8px 8px 16px rgba(10, 11, 14, 0.6);
+  --shadow-sunken: inset -4px -4px 10px rgba(255, 255, 255, 0.02), inset 4px 4px 10px rgba(10, 11, 14, 0.4);
+  
+  --shadow-raised-sm: -3px -3px 8px rgba(255, 255, 255, 0.025), 3px 3px 8px rgba(10, 11, 14, 0.4);
+  --shadow-sunken-sm: inset -2px -2px 6px rgba(255, 255, 255, 0.02), inset 2px 2px 6px rgba(10, 11, 14, 0.4);
+  
+  --shadow-accent-glow: 0 0 16px rgba(107, 149, 252, 0.25);
+  
+  --border-color: rgba(255, 255, 255, 0.025);
+  --border-dark: rgba(0, 0, 0, 0.25);
+  
+  /* Category Colors (Pastel Dark) */
+  --cat-industry-bg: rgba(139, 92, 246, 0.15);
+  --cat-industry-text: #A78BFA;
+  --cat-industry-border: rgba(139, 92, 246, 0.3);
+  
+  --cat-research-bg: rgba(16, 185, 129, 0.15);
+  --cat-research-text: #34D399;
+  --cat-research-border: rgba(16, 185, 129, 0.3);
+  
+  --cat-opensource-bg: rgba(14, 165, 233, 0.15);
+  --cat-opensource-text: #38BDF8;
+  --cat-opensource-border: rgba(14, 165, 233, 0.3);
+  
+  --cat-ethics-bg: rgba(245, 158, 11, 0.15);
+  --cat-ethics-text: #FBBF24;
+  --cat-ethics-border: rgba(245, 158, 11, 0.3);
+  
+  /* Hotness Badge Colors (Pastel Dark) */
+  --hot-high-bg: rgba(239, 68, 68, 0.15);
+  --hot-high-text: #FCA5A5;
+  --hot-high-border: rgba(239, 68, 68, 0.3);
+  
+  --hot-medium-bg: rgba(245, 158, 11, 0.15);
+  --hot-medium-text: #FDE047;
+  --hot-medium-border: rgba(245, 158, 11, 0.3);
+  
+  --hot-low-bg: rgba(16, 185, 129, 0.15);
+  --hot-low-text: #6EE7B7;
+  --hot-low-border: rgba(16, 185, 129, 0.3);
 }
 
 /* Reset */

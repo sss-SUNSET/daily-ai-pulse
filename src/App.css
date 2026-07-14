@@ -589,27 +589,27 @@
 }
 
 .card-cat.industry {
-  background-color: #ECE9FE;
-  color: #5B21B6;
-  border-color: rgba(139, 92, 246, 0.2);
+  background-color: var(--cat-industry-bg);
+  color: var(--cat-industry-text);
+  border-color: var(--cat-industry-border);
 }
 
 .card-cat.research {
-  background-color: #ECFDF5;
-  color: #065F46;
-  border-color: rgba(16, 185, 129, 0.2);
+  background-color: var(--cat-research-bg);
+  color: var(--cat-research-text);
+  border-color: var(--cat-research-border);
 }
 
 .card-cat.opensource {
-  background-color: #F0F9FF;
-  color: #075985;
-  border-color: rgba(14, 165, 233, 0.2);
+  background-color: var(--cat-opensource-bg);
+  color: var(--cat-opensource-text);
+  border-color: var(--cat-opensource-border);
 }
 
 .card-cat.ethics {
-  background-color: #FEF3C7;
-  color: #92400E;
-  border-color: rgba(245, 158, 11, 0.2);
+  background-color: var(--cat-ethics-bg);
+  color: var(--cat-ethics-text);
+  border-color: var(--cat-ethics-border);
 }
 
 /* Hotness Badges */
@@ -626,21 +626,21 @@
 }
 
 .hotness-badge.high {
-  background-color: #FEE2E2;
-  color: #DC2626;
-  border-color: rgba(239, 68, 68, 0.25);
+  background-color: var(--hot-high-bg);
+  color: var(--hot-high-text);
+  border-color: var(--hot-high-border);
 }
 
 .hotness-badge.medium {
-  background-color: #FEF3C7;
-  color: #D97706;
-  border-color: rgba(245, 158, 11, 0.25);
+  background-color: var(--hot-medium-bg);
+  color: var(--hot-medium-text);
+  border-color: var(--hot-medium-border);
 }
 
 .hotness-badge.low {
-  background-color: #ECFDF5;
-  color: #059669;
-  border-color: rgba(16, 185, 129, 0.25);
+  background-color: var(--hot-low-bg);
+  color: var(--hot-low-text);
+  border-color: var(--hot-low-border);
 }
 
 
