@@ -11,14 +11,14 @@
   position: sticky;
   top: 0;
   z-index: 10;
-  padding: 2rem 1.5rem;
+  padding: 2rem 0; /* Padding moved to children to prevent shadow clipping */
 }
 
 .sidebar-brand {
   display: flex;
   align-items: center;
   gap: 1rem;
-  padding-bottom: 1.5rem;
+  padding: 0 1.5rem 1.5rem 1.5rem;
   border-bottom: 1px solid rgba(163, 177, 198, 0.25);
   margin-bottom: 2rem;
 }
@@ -57,7 +57,7 @@
 .sidebar-section {
   flex: 1;
   overflow-y: auto;
-  padding-right: 0.25rem;
+  padding: 0.5rem 1.25rem 0.5rem 1rem; /* Left/Right padding protects shadow bleed and offsets scrollbar */
 }
 
 .sidebar-section h3 {
@@ -128,7 +128,7 @@
 }
 
 .sidebar-footer {
-  padding-top: 1.5rem;
+  padding: 1.5rem 1.75rem 0 1rem; /* Padding mathematically matches scrollable content width */
   border-top: 1px solid rgba(163, 177, 198, 0.25);
   margin-top: auto;
 }
