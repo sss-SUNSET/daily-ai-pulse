@@ -188,22 +188,19 @@ export default function App() {
   };
 
   const getHotnessBadge = (score) => {
-    let color = 'hsl(var(--success))';
-    let bg = 'hsla(var(--success), 0.1)';
+    let type = 'low';
     let flames = '🔥';
     
     if (score > 85) {
-      color = 'hsl(var(--danger))';
-      bg = 'hsla(var(--danger), 0.15)';
+      type = 'high';
       flames = '🔥🔥🔥';
     } else if (score > 60) {
-      color = 'hsl(var(--warning))';
-      bg = 'hsla(var(--warning), 0.15)';
+      type = 'medium';
       flames = '🔥🔥';
     }
 
     return (
-      <span className="hotness-badge" style={{ color, backgroundColor: bg, borderColor: `hsla(${color === 'hsl(var(--danger))' ? '0, 84%, 60%' : color === 'hsl(var(--warning))' ? '38, 92%, 50%' : '142, 70%, 45%'}, 0.2)` }}>
+      <span className={`hotness-badge ${type}`}>
         <span className="flame-emoji">{flames}</span> 热度 {score}
       </span>
     );
@@ -212,7 +209,7 @@ export default function App() {
   return (
     <div className="app-layout">
       {/* Date Sidebar */}
-      <aside className="sidebar glass">
+      <aside className="sidebar">
         <div className="sidebar-brand">
           <div className="brand-logo">🤖</div>
           <div className="brand-info">
@@ -255,7 +252,7 @@ export default function App() {
       {/* Main Content Area */}
       <main className="main-content">
         {/* Header */}
-        <header className="main-header glass">
+        <header className="main-header">
           <div className="header-meta">
             <h1>{selectedDate || '选择日期'} AI 简报</h1>
             {summaryData && (
@@ -319,7 +316,7 @@ export default function App() {
               <div className="skeleton skeleton-card"></div>
             </div>
           ) : !summaryData ? (
-            <div className="empty-state glass">
+            <div className="empty-state">
               <Sparkles size={48} className="empty-icon text-primary animate-pulse" />
               <h3>没有找到数据</h3>
               <p>请点击上面的“更新”或“更新 & 发送邮件”按钮，抓取今日最新的 AI 行业动态和热度分析。</p>
@@ -350,7 +347,7 @@ export default function App() {
               {/* Toolbar */}
               <div className="toolbar-container animate-fade-in">
                 {/* Search Bar */}
-                <div className="search-bar glass">
+                <div className="search-bar">
                   <Search size={16} className="search-icon" />
                   <input
                     type="text"
@@ -361,7 +358,7 @@ export default function App() {
                 </div>
 
                 {/* Filter Tabs */}
-                <div className="tabs-list glass">
+                <div className="tabs-list">
                   <button 
                     onClick={() => setActiveTab('all')} 
                     className={`tab-item ${activeTab === 'all' ? 'active' : ''}`}
@@ -384,18 +381,18 @@ export default function App() {
               {/* Feed Card Grid */}
               <div className="feed-grid">
                 {filteredItems.length === 0 ? (
-                  <div className="empty-feed glass">
+                  <div className="empty-feed">
                     <p>没有找到匹配的新闻或项目</p>
                   </div>
                 ) : (
                   filteredItems.map((item, index) => (
                     <article 
                       key={index} 
-                      className={`feed-card glass glow-card ${item.hotness > 85 ? 'glow-card-accent' : ''} animate-fade-in`}
+                      className={`feed-card ${item.hotness > 85 ? 'glow-card-accent' : ''} animate-fade-in`}
                       style={{ animationDelay: `${index * 0.05}s` }}
                     >
                       <div className="card-header">
-                        <div className="card-cat">
+                        <div className={`card-cat ${item.categoryKey}`}>
                           {getCategoryIcon(item.categoryKey)}
                           <span>{item.categoryTitle}</span>
                         </div>
