@@ -7,6 +7,17 @@ import { sendSummaryEmail } from './mailer.js';
 
 dotenv.config();
 
+// Configure local proxy if specified in .env
+if (process.env.HTTPS_PROXY) {
+  try {
+    const { HttpsProxyAgent } = await import('https-proxy-agent');
+    axios.defaults.httpsAgent = new HttpsProxyAgent(process.env.HTTPS_PROXY);
+    console.log(`[Proxy] Global HTTPS agent configured using proxy: ${process.env.HTTPS_PROXY}`);
+  } catch (err) {
+    console.warn('[Proxy] Failed to load HttpsProxyAgent:', err.message);
+  }
+}
+
 // Ensure data folder exists
 const DATA_DIR = path.resolve('data');
 await fs.mkdir(DATA_DIR, { recursive: true });
@@ -175,7 +186,7 @@ async function fetchGoogleNews(lang = 'zh-CN') {
     // We only keep the top 25 items to optimize performance and tokens
     const topItems = items.slice(0, 25);
     
-    console.log(`[Scraper] Decoding ${topItems.length} Google News URLs (${lang})...`);
+    console.log(`[Scraper] Processing ${topItems.length} Google News URLs (${lang})...`);
     const mappedItems = [];
     for (let i = 0; i < topItems.length; i++) {
       const item = topItems[i];
@@ -192,18 +203,15 @@ async function fetchGoogleNews(lang = 'zh-CN') {
         }
       }
       
-      const decodedLink = await decodeGoogleNewsUrl(originalLink);
       mappedItems.push({
         title: originalTitle,
-        link: decodedLink,
+        link: originalLink,
         pubDate: item.pubDate[0],
         source: item.source[0]._ || item.source[0],
         description: item.description ? item.description[0].replace(/<[^>]*>/g, '') : '',
         origin: 'Google News',
         type: 'news'
       });
-      // Small stagger delay of 100ms
-      await new Promise(resolve => setTimeout(resolve, 100));
     }
     return mappedItems;
   } catch (error) {
@@ -553,6 +561,24 @@ async function run(options = {}) {
 
     // 2. Perform AI summary & deduplication & hotness evaluation
     const summaryData = await summarizeWithAI(rawData);
+
+    // 2.5 Decode Google News redirect URLs only for the final selected items to save network requests and avoid timeouts!
+    console.log('[Scraper] Decoding Google News links for final selected items...');
+    if (summaryData && summaryData.categories) {
+      for (const catKey of Object.keys(summaryData.categories)) {
+        const cat = summaryData.categories[catKey];
+        if (cat && cat.items) {
+          for (const item of cat.items) {
+            if (item.link && item.link.includes('news.google.com/rss/articles/')) {
+              console.log(`[Scraper] Decoding final link: "${item.title}"`);
+              item.link = await decodeGoogleNewsUrl(item.link);
+              // Small stagger delay of 100ms
+              await new Promise(resolve => setTimeout(resolve, 100));
+            }
+          }
+        }
+      }
+    }
 
     // 3. Save to JSON file
     const filePath = path.join(DATA_DIR, `${dateStr}.json`);

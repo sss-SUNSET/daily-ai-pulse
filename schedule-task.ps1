@@ -1,5 +1,5 @@
 # DailyAI Pulse Scheduler Script
-# This script registers a daily Task Scheduler task in Windows to run at 9:00 AM.
+# This script registers a daily Task Scheduler task in Windows to run at 8:00 AM.
 
 $ScriptName = "DailyAI-Pulse"
 $ScriptDir = Split-Path -Parent $MyInvocation.MyCommand.Path
@@ -17,8 +17,8 @@ if (-not (Test-Path $BatchPath)) {
 # We run it via cmd.exe in background
 $Action = New-ScheduledTaskAction -Execute "cmd.exe" -Argument "/c `"$BatchPath`"" -WorkingDirectory $ScriptDir
 
-# Define the trigger: Daily at 9:00 AM
-$Trigger = New-ScheduledTaskTrigger -Daily -At 9:00AM
+# Define the trigger: Daily at 8:00 AM
+$Trigger = New-ScheduledTaskTrigger -Daily -At 8:00AM
 
 # Define settings: run whether plugged in or on battery, don't stop if it runs long
 $Settings = New-ScheduledTaskSettingsSet -AllowStartIfOnBatteries -DontStopIfGoingOnBatteries -StartWhenAvailable
@@ -36,7 +36,7 @@ try {
     Write-Host ""
     Write-Host "==========================================================" -ForegroundColor Green
     Write-Host "SUCCESS: DailyAI-Pulse has been registered in Task Scheduler!" -ForegroundColor Green
-    Write-Host "It is scheduled to run every day at 9:00 AM." -ForegroundColor Green
+    Write-Host "It is scheduled to run every day at 8:00 AM." -ForegroundColor Green
     Write-Host "==========================================================" -ForegroundColor Green
 }
 catch {
