@@ -11,8 +11,15 @@ dotenv.config();
 if (process.env.HTTPS_PROXY) {
   try {
     const { HttpsProxyAgent } = await import('https-proxy-agent');
-    axios.defaults.httpsAgent = new HttpsProxyAgent(process.env.HTTPS_PROXY);
-    console.log(`[Proxy] Global HTTPS agent configured using proxy: ${process.env.HTTPS_PROXY}`);
+    const agent = new HttpsProxyAgent(process.env.HTTPS_PROXY);
+    // Test if proxy is reachable before setting as global default
+    try {
+      await axios.get('https://www.baidu.com', { httpsAgent: agent, timeout: 3000 });
+      axios.defaults.httpsAgent = agent;
+      console.log(`[Proxy] Global HTTPS agent verified and enabled: ${process.env.HTTPS_PROXY}`);
+    } catch (testErr) {
+      console.warn(`[Proxy] Proxy ${process.env.HTTPS_PROXY} is offline or unreachable (${testErr.message}). Falling back to direct connection!`);
+    }
   } catch (err) {
     console.warn('[Proxy] Failed to load HttpsProxyAgent:', err.message);
   }
