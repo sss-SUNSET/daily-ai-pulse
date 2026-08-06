@@ -379,18 +379,27 @@ ${JSON.stringify(rawData, null, 2)}
       return generateFallbackSummary(rawData);
     }
 
-    console.log(`[AI Summarizer] Calling OpenAI-compatible API (${baseUrl}) using model ${modelName}...`);
+    const enableThinking = process.env.ENABLE_THINKING === 'true';
+    console.log(`[AI Summarizer] Calling OpenAI-compatible API (${baseUrl}) using model ${modelName} (Thinking Mode: ${enableThinking ? 'Enabled' : 'Disabled'})...`);
+    
+    const payload = {
+      model: modelName,
+      messages: [
+        { role: 'system', content: systemPrompt },
+        { role: 'user', content: userPrompt }
+      ]
+    };
+
+    if (enableThinking) {
+      payload.thinking = { type: 'enabled' };
+    } else {
+      payload.temperature = 0.3;
+    }
+
     try {
       const response = await axios.post(
         `${baseUrl}/chat/completions`,
-        {
-          model: modelName,
-          messages: [
-            { role: 'system', content: systemPrompt },
-            { role: 'user', content: userPrompt }
-          ],
-          temperature: 0.3
-        },
+        payload,
         {
           headers: {
             'Content-Type': 'application/json',
