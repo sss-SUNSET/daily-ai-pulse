@@ -214,6 +214,23 @@ async function findTextAlternativeForVideo(title, lang = 'zh-CN') {
 }
 
 /**
+ * Check if a publication date string is strictly within the last maxHours (default 36h)
+ */
+function isRecentNews(dateStr, maxHours = 36) {
+  if (!dateStr) return true;
+  try {
+    const pubTime = new Date(dateStr).getTime();
+    if (isNaN(pubTime)) return true;
+    const now = Date.now();
+    const diffHours = (now - pubTime) / (1000 * 60 * 60);
+    // Allow up to maxHours in the past, and allow up to 4 hours in the future for time zone differences
+    return diffHours >= -4 && diffHours <= maxHours;
+  } catch (e) {
+    return true;
+  }
+}
+
+/**
  * Helper to fetch and parse Google News RSS for a specific query
  */
 async function fetchGoogleNewsQuery(queryStr, lang = 'zh-CN', maxItems = 25, channelLabel = 'Google News') {
@@ -226,15 +243,30 @@ async function fetchGoogleNewsQuery(queryStr, lang = 'zh-CN', maxItems = 25, cha
   
   try {
     console.log(`[Scraper] Fetching ${channelLabel} (${lang})...`);
-    const response = await axios.get(url, {
-      timeout: 15000,
-      headers: { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)' }
-    });
+    let response = null;
+    for (let tryIdx = 1; tryIdx <= 2; tryIdx++) {
+      try {
+        response = await axios.get(url, {
+          timeout: 15000,
+          headers: { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)' }
+        });
+        break;
+      } catch (err) {
+        if (tryIdx === 2) throw err;
+        await new Promise(r => setTimeout(r, 2000));
+      }
+    }
     const result = await parseStringPromise(response.data);
-    const items = result?.rss?.channel?.[0]?.item || [];
+    const rawItems = result?.rss?.channel?.[0]?.item || [];
+    
+    // Strict publication date filtering: strictly exclude news older than 36 hours!
+    const items = rawItems.filter(item => {
+      const pubDate = item?.pubDate?.[0];
+      return isRecentNews(pubDate, 36);
+    });
     
     const topItems = items.slice(0, maxItems);
-    console.log(`[Scraper] Processing ${topItems.length} items from ${channelLabel} (${lang})...`);
+    console.log(`[Scraper] Processing ${topItems.length} fresh items (out of ${rawItems.length} total) from ${channelLabel} (${lang})...`);
     
     const mappedItems = [];
     for (let i = 0; i < topItems.length; i++) {
@@ -312,9 +344,17 @@ async function fetchOpenAINews() {
       }
     });
     const result = await parseStringPromise(response.data);
-    const items = result.rss.channel[0].item || [];
+    const rawItems = result.rss?.channel?.[0]?.item || [];
     
-    return items.map(item => ({
+    // Strict publication date filtering: keep only OpenAI blog posts from the last 36 hours!
+    const recentItems = rawItems.filter(item => {
+      const pubDate = item?.pubDate?.[0];
+      return isRecentNews(pubDate, 36);
+    });
+
+    console.log(`[Scraper] Found ${recentItems.length} recent OpenAI official posts (from ${rawItems.length} total history posts).`);
+    
+    return recentItems.map(item => ({
       title: item.title[0],
       link: item.link[0],
       pubDate: item.pubDate[0],
@@ -421,7 +461,9 @@ async function fetchITHomeNews() {
     const aiItems = items.filter(item => {
       const title = item.title?.[0] || '';
       const desc = item.description?.[0] || '';
-      return aiKeywords.test(title) || aiKeywords.test(desc);
+      const pubDate = item.pubDate?.[0];
+      const matchesKeyword = aiKeywords.test(title) || aiKeywords.test(desc);
+      return matchesKeyword && isRecentNews(pubDate, 36);
     }).slice(0, 20);
 
     return aiItems.map(item => ({
@@ -519,6 +561,7 @@ async function summarizeWithAI(rawData) {
    - **国内核心阵营**：DeepSeek (深度求索/Janus)、月之暗面 (Kimi)、MiniMax (Mimo/稀宇科技)、智谱 AI (GLM/CogVideo)、阿里 (通义千问/Qwen)、腾讯 (混元)、字节跳动 (豆包)、百度 (文心)、阶跃星辰 (StepFun)、百川智能等；
    - **核心重点事件**：只要出现上述国内外重点厂商/实验室的**新模型发布、多模态（视觉/语音/视频/端到端）API/功能上线、推理模型突破、开源模型权重、AI Agent（智能体）重磅更新**，必须**优先保留并大幅提升热度值（90-100）**，且确保在 \`overview\` (今日速览) 中第一条或置顶呈现！
 6. **强一致性要求**：在 \`overview\` (今日最值得关注的 top 3 核心洞察或趋势) 中提到的所有事件，**必须且只能**在下方 \`categories\` 对应的某个分类 items 中有相对应的具体卡片。绝不允许在速览中提及但下方卡片缺失！
+7. **严格时效性准则**：必须只收录过去 24-36 小时内最新发生的科技突发与发布。如果某条候选新闻属于陈旧历史资讯（如数周或数月前的历史事件），绝对不可收录进今日速览或分类列表中！
 
 请严格返回符合以下 Schema 的标准 JSON 格式：
 {
@@ -745,38 +788,64 @@ function generateFallbackSummary(rawData) {
 }
 
 /**
- * Main function
+ * Gather all news items across channels with retry protection against network startup jitter
  */
-async function run(options = {}) {
+async function gatherAllNews() {
+  const maxAttempts = 3;
+  for (let attempt = 1; attempt <= maxAttempts; attempt++) {
+    try {
+      console.log(`[Scraper] Gathering news from all channels (Attempt ${attempt}/${maxAttempts})...`);
+      const [focusedZh, focusedEn, generalZh, generalEn, hnStories, githubRepos, openAiNews, itHomeNews] = await Promise.all([
+        fetchFocusedLabsNews('zh-CN'),
+        fetchFocusedLabsNews('en-US'),
+        fetchGeneralAINews('zh-CN'),
+        fetchGeneralAINews('en-US'),
+        fetchHackerNews(),
+        fetchGithubTrends(),
+        fetchOpenAINews(),
+        fetchITHomeNews()
+      ]);
+
+      const allRaw = [
+        ...focusedZh,
+        ...focusedEn,
+        ...openAiNews,
+        ...(itHomeNews || []),
+        ...generalZh,
+        ...generalEn,
+        ...hnStories,
+        ...githubRepos
+      ];
+
+      if (allRaw.length >= 5) {
+        return allRaw;
+      }
+
+      console.warn(`[Scraper] Only fetched ${allRaw.length} items on attempt ${attempt}. Waiting 6s before retrying...`);
+    } catch (err) {
+      console.warn(`[Scraper] Attempt ${attempt} failed: ${err.message}`);
+    }
+
+    if (attempt < maxAttempts) {
+      await new Promise(resolve => setTimeout(resolve, 6000));
+    }
+  }
+  return [];
+}
+
+/**
+ * Run a single full aggregation pipeline cycle
+ */
+async function runOnce(options = {}) {
   const dateStr = new Date().toISOString().split('T')[0];
+  const startTime = new Date().toLocaleTimeString();
   console.log(`\n========================================`);
-  console.log(`🤖 DailyAI Pulse | Task Starting for: ${dateStr}`);
+  console.log(`🤖 DailyAI Pulse | Pipeline Starting at ${startTime} for: ${dateStr}`);
   console.log(`========================================`);
 
   try {
-    // 1. Gather news from all dedicated channels
-    const [focusedZh, focusedEn, generalZh, generalEn, hnStories, githubRepos, openAiNews, itHomeNews] = await Promise.all([
-      fetchFocusedLabsNews('zh-CN'),
-      fetchFocusedLabsNews('en-US'),
-      fetchGeneralAINews('zh-CN'),
-      fetchGeneralAINews('en-US'),
-      fetchHackerNews(),
-      fetchGithubTrends(),
-      fetchOpenAINews(),
-      fetchITHomeNews()
-    ]);
-
-    // Priority ordering: Top labs and official feeds first, then general news & community
-    const allRaw = [
-      ...focusedZh,
-      ...focusedEn,
-      ...openAiNews,
-      ...(itHomeNews || []),
-      ...generalZh,
-      ...generalEn,
-      ...hnStories,
-      ...githubRepos
-    ];
+    // 1. Gather news from all dedicated channels with automatic network retry
+    const allRaw = await gatherAllNews();
 
     // Deduplicate by title similarity
     const seenTitles = new Set();
@@ -795,12 +864,15 @@ async function run(options = {}) {
     console.log(`[Scraper] Aggregated ${cappedRawData.length} unique raw items (from ${allRaw.length} total fetched across all channels).`);
 
     if (cappedRawData.length === 0) {
-      console.warn('[Warning] No raw news fetched. Exiting task.');
-      return;
+      console.warn('[Warning] No raw news fetched in this attempt.');
+      return { success: false, error: 'No raw news items fetched' };
     }
 
     // 2. Perform AI summary & deduplication & hotness evaluation
     const summaryData = await summarizeWithAI(cappedRawData);
+    if (!summaryData) {
+      return { success: false, error: 'AI summarization returned empty result' };
+    }
 
     // 2.5 Decode Google News redirect URLs only for the final selected items to save network requests and avoid timeouts!
     console.log('[Scraper] Decoding Google News links for final selected items...');
@@ -825,27 +897,70 @@ async function run(options = {}) {
     await fs.writeFile(filePath, JSON.stringify(summaryData, null, 2), 'utf-8');
     console.log(`[Success] Saved summarized output to: ${filePath}`);
 
-    // 4. Send email newsletter
+    // 4. Send email newsletter if requested
     if (options.email !== false) {
-      await sendSummaryEmail(summaryData, dateStr);
+      const emailSent = await sendSummaryEmail(summaryData, dateStr);
+      if (!emailSent) {
+        console.error('[Mailer] Email delivery was not successful in this cycle.');
+        return { success: false, data: summaryData, error: 'Email delivery failed' };
+      }
     } else {
       console.log('[Mailer] Email delivery skipped as per options.');
     }
 
     console.log(`========================================`);
-    console.log(`🤖 DailyAI Pulse | Task Completed Successfully!`);
+    console.log(`🤖 DailyAI Pulse | Pipeline Completed Successfully!`);
     console.log(`========================================\n`);
     
-    return summaryData;
+    return { success: true, data: summaryData };
   } catch (error) {
-    console.error('[Error] Critical aggregation task failure:', error);
+    console.error('[Error] Pipeline execution error:', error.message);
+    return { success: false, error: error.message };
+  }
+}
+
+/**
+ * Main function with configurable delayed retry strategy
+ */
+async function run(options = {}) {
+  const maxRetries = options.retries ?? (options.isCron ? 3 : 1);
+  const delayMinutes = options.retryDelayMinutes ?? 5;
+
+  for (let attempt = 1; attempt <= maxRetries; attempt++) {
+    const attemptStartTime = new Date().toLocaleTimeString();
+    console.log(`\n=============================================================`);
+    console.log(`🚀 [Task Coordinator] Execution Attempt ${attempt}/${maxRetries} (${attemptStartTime})`);
+    console.log(`=============================================================`);
+
+    const result = await runOnce(options);
+
+    if (result.success) {
+      console.log(`\n🎉 [Task Coordinator] Pipeline successfully completed on Attempt ${attempt}/${maxRetries}.`);
+      return result.data;
+    }
+
+    if (attempt < maxRetries) {
+      const nextRunTimestamp = new Date(Date.now() + delayMinutes * 60 * 1000).toLocaleTimeString();
+      console.warn(`\n⚠️ [Task Coordinator] Attempt ${attempt}/${maxRetries} did not succeed (Reason: ${result.error || 'Unknown'}).`);
+      console.warn(`⏳ [Task Coordinator] Waiting ${delayMinutes} minutes before restarting complete pipeline (Next run scheduled at ${nextRunTimestamp})...\n`);
+      await new Promise(resolve => setTimeout(resolve, delayMinutes * 60 * 1000));
+    } else {
+      console.error(`\n❌ [Task Coordinator] All ${maxRetries} execution attempts failed. Daily task ended.`);
+      if (options.isCron) {
+        process.exitCode = 1;
+      }
+      return null;
+    }
   }
 }
 
 // Check if run directly from CLI
 if (process.argv[1] && process.argv[1].endsWith('aggregate.js')) {
   const skipEmail = process.argv.includes('--no-email');
-  run({ email: !skipEmail });
+  const singleRun = process.argv.includes('--once');
+  const retries = singleRun ? 1 : 3;
+  const retryDelayMinutes = 5;
+  run({ email: !skipEmail, isCron: true, retries, retryDelayMinutes });
 }
 
-export { run };
+export { run, runOnce };

@@ -97,7 +97,7 @@ app.post('/api/trigger', async (req, res) => {
   isAggregating = true;
   console.log(`[Server] Manual aggregation triggered: action=${action}`);
 
-  const runOptions = { email: action === 'all' };
+  const runOptions = { email: action === 'all', retries: 1 };
 
   runAggregator(runOptions)
     .then(() => {

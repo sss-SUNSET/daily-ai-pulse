@@ -20,8 +20,8 @@ $Action = New-ScheduledTaskAction -Execute "cmd.exe" -Argument "/c `"$BatchPath`
 # Define the trigger: Daily at 8:00 AM
 $Trigger = New-ScheduledTaskTrigger -Daily -At 8:00AM
 
-# Define settings: run whether plugged in or on battery, don't stop if it runs long
-$Settings = New-ScheduledTaskSettingsSet -AllowStartIfOnBatteries -DontStopIfGoingOnBatteries -StartWhenAvailable
+# Define settings: run whether plugged in or on battery, don't stop if it runs long, allow up to 2 hours for retry cycles
+$Settings = New-ScheduledTaskSettingsSet -AllowStartIfOnBatteries -DontStopIfGoingOnBatteries -StartWhenAvailable -ExecutionTimeLimit (New-TimeSpan -Hours 2)
 
 # Register the task
 try {

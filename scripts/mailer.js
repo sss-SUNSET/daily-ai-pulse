@@ -31,11 +31,11 @@ export async function sendSummaryEmail(summaryData, dateStr) {
     console.warn(`[Mailer] DNS lookup for ${SMTP_HOST} warning:`, lookupErr.message);
   }
 
-  // Create transporter
-  const transporter = nodemailer.createTransport({
+  // Function to create a transporter for a specific port/secure configuration
+  const buildTransporter = (portNum, isSecure) => nodemailer.createTransport({
     host: resolvedHost,
-    port: parseInt(SMTP_PORT || '587', 10),
-    secure: SMTP_SECURE === 'true', // true for 465, false for other ports
+    port: portNum,
+    secure: isSecure,
     auth: {
       user: SMTP_USER,
       pass: SMTP_PASS,
@@ -44,17 +44,28 @@ export async function sendSummaryEmail(summaryData, dateStr) {
       servername: SMTP_HOST,
       rejectUnauthorized: false
     },
-    connectionTimeout: 25000,
-    greetingTimeout: 20000,
-    socketTimeout: 25000
+    connectionTimeout: 20000,
+    greetingTimeout: 15000,
+    socketTimeout: 20000
   });
 
   // Build HTML Content with premium design
   const htmlContent = buildEmailTemplate(summaryData, dateStr);
 
+  const initialPort = parseInt(SMTP_PORT || '587', 10);
+  const initialSecure = SMTP_SECURE === 'true';
+  const portsToTry = [
+    { port: initialPort, secure: initialSecure },
+    { port: initialPort === 587 ? 465 : 587, secure: initialPort === 587 ? true : false },
+    { port: 587, secure: false }
+  ];
+
   const maxRetries = 3;
   for (let attempt = 1; attempt <= maxRetries; attempt++) {
+    const { port, secure } = portsToTry[attempt - 1] || portsToTry[0];
+    const transporter = buildTransporter(port, secure);
     try {
+      console.log(`[Mailer] Attempting delivery (Attempt ${attempt}/${maxRetries}) via ${SMTP_HOST}:${port} (secure: ${secure})...`);
       const info = await transporter.sendMail({
         from: `"DailyAI Pulse" <${SMTP_USER}>`,
         to: receiver,
@@ -64,9 +75,9 @@ export async function sendSummaryEmail(summaryData, dateStr) {
       console.log(`[Mailer] Email sent successfully! Message ID: ${info.messageId}`);
       return true;
     } catch (error) {
-      console.warn(`[Mailer] Attempt ${attempt}/${maxRetries} failed to send email: ${error.message}`);
+      console.warn(`[Mailer] Attempt ${attempt}/${maxRetries} failed: ${error.message}`);
       if (attempt < maxRetries) {
-        const delayMs = attempt * 4000;
+        const delayMs = attempt * 3000;
         console.log(`[Mailer] Retrying email delivery in ${delayMs / 1000}s...`);
         await new Promise(r => setTimeout(r, delayMs));
       } else {
