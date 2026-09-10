@@ -624,6 +624,7 @@ ${JSON.stringify(prunedData, null, 2)}
       payload.thinking = { type: 'enabled' };
       payload.reasoning_effort = thinkingEffort;
     } else {
+      payload.thinking = { type: 'disabled' };
       payload.temperature = 0.3;
     }
 
