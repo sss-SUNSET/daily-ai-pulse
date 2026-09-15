@@ -629,22 +629,27 @@ ${JSON.stringify(prunedData, null, 2)}
     }
 
     const isDomesticOrLocal = /deepseek\.com|siliconflow\.cn|bigmodel\.cn|localhost|127\.0\.0\.1|192\.168\./i.test(baseUrl);
-    const requestConfig = {
-      headers: {
-        'Content-Type': 'application/json',
-        'Authorization': `Bearer ${apiKey}`
-      },
-      timeout: 180000
-    };
+    const maxRetries = 4;
+    const retryDelays = [5000, 10000, 15000, 20000];
 
-    if (isDomesticOrLocal) {
-      requestConfig.httpsAgent = new https.Agent({ rejectUnauthorized: false });
-      requestConfig.proxy = false;
-    }
-
-    const maxRetries = 3;
     for (let attempt = 1; attempt <= maxRetries; attempt++) {
+      // Adaptive route: odd attempts use direct connection, even attempts try proxy route (if proxy configured)
+      const useProxy = (attempt % 2 === 0) && !!process.env.HTTPS_PROXY;
+      const requestConfig = {
+        headers: {
+          'Content-Type': 'application/json',
+          'Authorization': `Bearer ${apiKey}`
+        },
+        timeout: 180000
+      };
+
+      if (isDomesticOrLocal && !useProxy) {
+        requestConfig.httpsAgent = new https.Agent({ rejectUnauthorized: false });
+        requestConfig.proxy = false;
+      }
+
       try {
+        console.log(`[AI Summarizer] Sending request to ${baseUrl} (Attempt ${attempt}/${maxRetries}, Route: ${useProxy ? 'Proxy' : 'Direct'})...`);
         const response = await axios.post(
           `${baseUrl}/chat/completions`,
           payload,
@@ -669,12 +674,12 @@ ${JSON.stringify(prunedData, null, 2)}
       } catch (error) {
         console.warn(`[AI Summarizer] Attempt ${attempt}/${maxRetries} failed: ${error.response?.data || error.message}`);
         if (attempt < maxRetries) {
-          const delayMs = attempt * 3000;
+          const delayMs = retryDelays[attempt - 1] || 5000;
           console.log(`[AI Summarizer] Retrying in ${delayMs / 1000}s...`);
           await new Promise(r => setTimeout(r, delayMs));
         } else {
-          console.error('[AI Summarizer] All retry attempts failed. Falling back to simulated summarization.');
-          return generateFallbackSummary(rawData);
+          console.error(`[AI Summarizer] All ${maxRetries} retry attempts failed.`);
+          throw new Error(`LLM API summarization failed after ${maxRetries} attempts: ${error.message}`);
         }
       }
     }
@@ -701,8 +706,7 @@ ${JSON.stringify(prunedData, null, 2)}
       return hydrateParsedSummary(parsedData, rawData);
     } catch (error) {
       console.error('[AI Summarizer] Error calling Gemini API:', error.message);
-      console.log('[AI Summarizer] Falling back to simulated summarization.');
-      return generateFallbackSummary(rawData);
+      throw new Error(`Gemini API summarization failed: ${error.message}`);
     }
   } else {
     console.warn('\n⚠️ [AI Summarizer] No valid LLM_PROVIDER configured in .env (expected "openai" or "gemini").');
