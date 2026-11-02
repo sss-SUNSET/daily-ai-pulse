@@ -11,6 +11,25 @@ dotenv.config();
 // Allow internal/corporate TLS inspection certificates if present
 process.env.NODE_TLS_REJECT_UNAUTHORIZED = '0';
 
+let activeProxyUrl = null;
+let HttpsProxyAgentClass = null;
+
+function createProxyAgent(proxyUrl) {
+  if (!HttpsProxyAgentClass || !proxyUrl) return null;
+  return new HttpsProxyAgentClass(proxyUrl, {
+    rejectUnauthorized: false,
+    keepAlive: true,
+    maxSockets: 10
+  });
+}
+
+function refreshGlobalProxyAgent() {
+  if (activeProxyUrl && HttpsProxyAgentClass) {
+    axios.defaults.httpsAgent = createProxyAgent(activeProxyUrl);
+    axios.defaults.proxy = false;
+  }
+}
+
 // Configure local proxy with smart detection and graceful fallback
 async function setupProxy() {
   const candidateProxies = [];
@@ -28,9 +47,10 @@ async function setupProxy() {
 
   try {
     const { HttpsProxyAgent } = await import('https-proxy-agent');
+    HttpsProxyAgentClass = HttpsProxyAgent;
     for (const proxyUrl of candidateProxies) {
       try {
-        const agent = new HttpsProxyAgent(proxyUrl, { rejectUnauthorized: false });
+        const agent = createProxyAgent(proxyUrl);
         // Quick test proxy connectivity to external site
         await axios.get('https://news.google.com/generate_204', {
           httpsAgent: agent,
@@ -50,9 +70,10 @@ async function setupProxy() {
   }
 
   if (workingAgent) {
+    activeProxyUrl = workingProxy;
     axios.defaults.httpsAgent = workingAgent;
     axios.defaults.proxy = false;
-    console.log(`[Proxy] Global HTTPS proxy verified and enabled: ${workingProxy}`);
+    console.log(`[Proxy] Global HTTPS proxy verified and enabled (keepAlive): ${workingProxy}`);
   } else {
     // Explicitly delete all proxy env variables and set axios proxy to false
     delete process.env.HTTPS_PROXY;
@@ -84,55 +105,128 @@ function decodeHtmlEntities(str) {
 }
 
 /**
- * Decodes Google News RSS redirect URLs using batchexecute endpoint
+ * Attempt offline Base64 decoding for legacy/direct Google News RSS URLs
+ */
+function tryOfflineDecodeGoogleUrl(googleRssUrl) {
+  try {
+    const match = googleRssUrl.match(/\/articles\/([A-Za-z0-9_-]+)/);
+    if (!match) return null;
+    const base64Str = match[1].replace(/-/g, '+').replace(/_/g, '/');
+    const decoded = Buffer.from(base64Str, 'base64').toString('latin1');
+    if (decoded.includes('AU_yqL')) {
+      return null; // Encrypted format requires online batchexecute
+    }
+    const urlMatch = decoded.match(/https?:\/\/[^\s"<>\\^\x00-\x1f\x7f-\xff]+/);
+    if (urlMatch && !urlMatch[0].includes('news.google.com')) {
+      return urlMatch[0];
+    }
+  } catch {
+    // Ignore offline decode errors
+  }
+  return null;
+}
+
+/**
+ * Decodes Google News RSS redirect URLs using offline Base64 check + batchexecute endpoint with retries
  */
 async function decodeGoogleNewsUrl(googleRssUrl) {
   if (!googleRssUrl || !googleRssUrl.includes('news.google.com/rss/articles/')) {
     return googleRssUrl;
   }
-  try {
-    const response = await axios.get(googleRssUrl, {
-      timeout: 4000,
-      headers: {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
-      }
-    });
-    
-    const match = response.data.match(/<c-wiz[^>]+data-p="([^"]+)"/);
-    if (!match) {
-      return googleRssUrl;
-    }
-    
-    let dataP = decodeHtmlEntities(match[1]);
-    const obj = JSON.parse(dataP.replace('%.@.', '["garturlreq",'));
-    const payload = {
-      'f.req': JSON.stringify([[
-        ['Fbv4je', JSON.stringify([...obj.slice(0, -6), ...obj.slice(-2)]), 'null', 'generic']
-      ]])
-    };
 
-    const postResponse = await axios.post(
-      'https://news.google.com/_/DotsSplashUi/data/batchexecute',
-      new URLSearchParams(payload).toString(),
-      {
-        timeout: 4000,
+  // 1. Fast path: try offline Base64 decode first
+  const offlineUrl = tryOfflineDecodeGoogleUrl(googleRssUrl);
+  if (offlineUrl) {
+    return offlineUrl;
+  }
+
+  // 2. Online batchexecute decode with automatic retry & connection refresh
+  const maxRetries = 3;
+  const ua = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36';
+
+  for (let attempt = 1; attempt <= maxRetries; attempt++) {
+    try {
+      const response = await axios.get(googleRssUrl, {
+        timeout: 8000,
         headers: {
-          'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8',
-          'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+          'User-Agent': ua,
+          'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+          'Accept-Language': 'en-US,en;q=0.9'
+        }
+      });
+
+      let reqPayloadStr = null;
+      const cwizMatch = response.data.match(/<c-wiz[^>]+data-p="([^"]+)"/);
+      if (cwizMatch) {
+        const dataP = decodeHtmlEntities(cwizMatch[1]);
+        const obj = JSON.parse(dataP.replace('%.@.', '["garturlreq",'));
+        reqPayloadStr = JSON.stringify([...obj.slice(0, -6), ...obj.slice(-2)]);
+      } else {
+        // Fallback: extract data-n-a-id, data-n-a-ts, data-n-a-sg directly
+        const idMatch = response.data.match(/data-n-a-id="([^"]+)"/);
+        const tsMatch = response.data.match(/data-n-a-ts="([^"]+)"/);
+        const sgMatch = response.data.match(/data-n-a-sg="([^"]+)"/);
+        if (idMatch && tsMatch && sgMatch) {
+          reqPayloadStr = JSON.stringify([
+            'garturlreq',
+            [['en-US', 'US', ['FINANCE_TOP_INDICES', 'WEB_TEST_1_0_0'], null, null, 1, 1, 'US:en', null, 1, null, null, null, null, null, 0, 1], 'en-US', 'US', 1, [2, 4, 8], 1, 1, '655000234', 0, 0, null, 0],
+            idMatch[1],
+            Number(tsMatch[1]),
+            sgMatch[1]
+          ]);
         }
       }
-    );
 
-    const cleanData = postResponse.data.replace(")]}'\n", "");
-    const parsedBatch = JSON.parse(cleanData);
-    const arrayString = parsedBatch[0][2];
-    const articleUrl = JSON.parse(arrayString)[1];
-    
-    return articleUrl || googleRssUrl;
-  } catch (error) {
-    console.warn(`[Scraper] Failed to decode Google News URL: ${googleRssUrl}. Error: ${error.message}`);
-    return googleRssUrl;
+      if (!reqPayloadStr) {
+        return googleRssUrl;
+      }
+
+      const payload = {
+        'f.req': JSON.stringify([[
+          ['Fbv4je', reqPayloadStr, 'null', 'generic']
+        ]])
+      };
+
+      const postResponse = await axios.post(
+        'https://news.google.com/_/DotsSplashUi/data/batchexecute',
+        new URLSearchParams(payload).toString(),
+        {
+          timeout: 8000,
+          headers: {
+            'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8',
+            'User-Agent': ua,
+            'Referer': 'https://news.google.com/'
+          }
+        }
+      );
+
+      const cleanData = postResponse.data.replace(/^\)\]\}'\s*/, '');
+      const lines = cleanData.split('\n');
+      for (const line of lines) {
+        const trimmed = line.trim();
+        if (!trimmed.startsWith('[[')) continue;
+        const parsedBatch = JSON.parse(trimmed);
+        const arrayString = parsedBatch?.[0]?.[2];
+        if (arrayString) {
+          const articleUrl = JSON.parse(arrayString)[1];
+          if (articleUrl && articleUrl.startsWith('http')) {
+            return articleUrl;
+          }
+        }
+      }
+
+      return googleRssUrl;
+    } catch (error) {
+      if (attempt < maxRetries) {
+        refreshGlobalProxyAgent();
+        await new Promise(r => setTimeout(r, attempt * 1000));
+      } else {
+        console.warn(`[Scraper] Failed to decode Google News URL (${maxRetries} attempts): ${googleRssUrl}. Error: ${error.message}`);
+        return googleRssUrl;
+      }
+    }
   }
+  return googleRssUrl;
 }
 
 // Clean title of video indicators
@@ -484,8 +578,13 @@ async function fetchITHomeNews() {
 /**
  * Run the summary through LLM (Gemini or OpenAI compatible)
  */
+function isGoogleRedirectLink(url) {
+  return Boolean(url && url.includes('news.google.com/rss/articles/'));
+}
+
 /**
  * Restore original links and metadata into AI summary results using ID mapping or fuzzy title match
+ * Prioritizes direct non-Google links when multiple sources cover the same story.
  */
 function hydrateParsedSummary(parsedData, rawData) {
   if (!parsedData || !parsedData.categories) return parsedData;
@@ -493,7 +592,11 @@ function hydrateParsedSummary(parsedData, rawData) {
   const titleMap = new Map();
   rawData.forEach((raw) => {
     if (raw && raw.title) {
-      titleMap.set(raw.title.toLowerCase().replace(/[\s\-_—|]+/g, ''), raw);
+      const key = raw.title.toLowerCase().replace(/[\s\-_—|]+/g, '');
+      const existing = titleMap.get(key);
+      if (!existing || (isGoogleRedirectLink(existing.link) && !isGoogleRedirectLink(raw.link))) {
+        titleMap.set(key, raw);
+      }
     }
   });
 
@@ -513,6 +616,20 @@ function hydrateParsedSummary(parsedData, rawData) {
                 original = raw;
                 break;
               }
+            }
+          }
+        }
+
+        // If the matched item uses a Google redirect URL, check if any direct-link item covers the same title
+        if (original && isGoogleRedirectLink(original.link) && original.title) {
+          const normOrig = original.title.toLowerCase().replace(/[\s\-_—|]+/g, '').slice(0, 30);
+          if (normOrig.length >= 8) {
+            const directAlt = rawData.find(r =>
+              r && r.link && !isGoogleRedirectLink(r.link) &&
+              r.title && r.title.toLowerCase().replace(/[\s\-_—|]+/g, '').includes(normOrig)
+            );
+            if (directAlt) {
+              original = directAlt;
             }
           }
         }
@@ -852,15 +969,21 @@ async function runOnce(options = {}) {
     // 1. Gather news from all dedicated channels with automatic network retry
     const allRaw = await gatherAllNews();
 
-    // Deduplicate by title similarity
-    const seenTitles = new Set();
+    // Deduplicate by title similarity (preferring direct links over Google News redirect links)
+    const seenTitleIndexMap = new Map();
     const rawData = [];
     for (const item of allRaw) {
       if (!item || !item.title) continue;
       const norm = item.title.toLowerCase().replace(/[\s\-_—|]+/g, '').slice(0, 35);
-      if (!seenTitles.has(norm)) {
-        seenTitles.add(norm);
+      if (!seenTitleIndexMap.has(norm)) {
+        seenTitleIndexMap.set(norm, rawData.length);
         rawData.push(item);
+      } else {
+        const existingIdx = seenTitleIndexMap.get(norm);
+        const existingItem = rawData[existingIdx];
+        if (isGoogleRedirectLink(existingItem.link) && !isGoogleRedirectLink(item.link)) {
+          rawData[existingIdx] = item;
+        }
       }
     }
 
@@ -889,8 +1012,8 @@ async function runOnce(options = {}) {
             if (item.link && item.link.includes('news.google.com/rss/articles/')) {
               console.log(`[Scraper] Decoding final link: "${item.title}"`);
               item.link = await decodeGoogleNewsUrl(item.link);
-              // Small stagger delay of 100ms
-              await new Promise(resolve => setTimeout(resolve, 100));
+              // Stagger delay of 350ms to prevent proxy burst drops
+              await new Promise(resolve => setTimeout(resolve, 350));
             }
           }
         }
@@ -968,4 +1091,4 @@ if (process.argv[1] && process.argv[1].endsWith('aggregate.js')) {
   run({ email: !skipEmail, isCron: true, retries, retryDelayMinutes });
 }
 
-export { run, runOnce };
+export { run, runOnce, decodeGoogleNewsUrl };
