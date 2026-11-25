@@ -1,0 +1,173 @@
+{
+  "overview": [
+    "谷歌发布 Gemini 4 Argon 旗舰模型，多项基准 SOTA、输出上限破百万 token，推广期价格仅为竞品 1/5，但受限开放与安全争议令 Alphabet 股价承压。",
+    "Meta 新模型 Muse 上线 10 天用户破 70 万，PayPal 达成合作，分析师看好 Muse Spark，但算力不足已导致服务故障，Meta 市值逼近 2 万亿美元。",
+    "OpenAI 指控与月之暗面关联方进行推理提取/模型抄袭，并终止三名研究员合作，AI 竞争与安全争议升温。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "id": 48,
+          "title": "Meta 发布 Muse/Muse Spark 模型，用户 10 天破 70 万，PayPal 达成合作，但算力不足现故障",
+          "summary": "Meta 新模型 Muse 上线 10 天用户达 70 万，PayPal 宣布合作，分析师看好 Muse Spark；但算力不足已导致服务故障，Meta 市值逼近 2 万亿美元。",
+          "hotness": 93,
+          "link": "https://cj.sina.cn/articles/view/5953466437/v162dab0450670bdl78?froms=ggmp",
+          "source": "新浪财经"
+        },
+        {
+          "id": 56,
+          "title": "腾讯与甲骨文签署数据中心租赁协议，可使用 10 万枚尖端 AI 芯片算力",
+          "summary": "腾讯据报与甲骨文达成数据中心租赁协议，可获得约 10 万枚尖端 AI 芯片的算力资源，强化云与 AI 基础设施。",
+          "hotness": 88,
+          "link": "https://www.rfi.fr/cn/%E7%A7%91%E6%8A%80%E4%B8%8E%E6%96%87%E5%8C%96/20261001-%E8%85%BE%E8%AE%AF%E6%8D%AE%E6%8A%A5%E5%B7%B2%E4%B8%8E%E7%94%B2%E9%AA%A8%E6%96%87%E7%AD%BE%E7%BD%B2%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E7%A7%9F%E8%B5%81%E5%8D%8F%E8%AE%AE-%E8%83%BD%E4%BD%BF%E7%94%A810%E4%B8%87%E6%9E%9A%E5%B0%96%E7%AB%AFai%E8%8A%AF%E7%89%87%E7%AE%97%E5%8A%9B",
+          "source": "RFI"
+        },
+        {
+          "id": 29,
+          "title": "谷歌 Project Suncatcher 送 AI 芯片入轨，推进太空数据中心",
+          "summary": "谷歌启动 Project Suncatcher，将 AI 芯片送入轨道测试太空数据中心，并估算需 SpaceX 星舰发射约 1800 次才能规模化。",
+          "hotness": 85,
+          "link": "https://www.ithome.com/1/009/198.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 23,
+          "title": "Synopsys 与 OpenAI 达成合作，开发芯片设计 AI 模型",
+          "summary": "Synopsys 与 OpenAI 签署协议，将共同开发用于芯片设计工作的 AI 模型，加速 EDA 与半导体设计自动化。",
+          "hotness": 82,
+          "link": "https://www.reuters.com/business/synopsys-openai-strike-deal-develop-ai-model-chip-design-work-2026-09-30/",
+          "source": "Reuters"
+        },
+        {
+          "id": 31,
+          "title": "马斯克：为推进 Optimus 量产，特斯拉 AI5 芯片内存用量砍半",
+          "summary": "马斯克表示，为调配内存满足 Optimus 机器人量产，特斯拉 AI5 芯片内存用量将减半。",
+          "hotness": 80,
+          "link": "https://www.ithome.com/1/009/196.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 63,
+          "title": "日本计划投入 1400 亿美元推进 AI 数据中心建设",
+          "summary": "日本计划投入约 1400 亿美元建设 AI 数据中心，以提升本土算力与 AI 竞争力。",
+          "hotness": 75,
+          "link": "https://wap.eastmoney.com/a/202610013888231851.html",
+          "source": "东方财富"
+        },
+        {
+          "id": 41,
+          "title": "Figure 让 F.02 人形机器人跳入熔炉，致敬《终结者 2》",
+          "summary": "Figure 发布视频，让退役 F.02 人形机器人跳入熔炉，致敬《终结者 2》并采纳施瓦辛格提议，展示机器人迭代。",
+          "hotness": 70,
+          "link": "https://www.ithome.com/1/009/159.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 16,
+          "title": "美光财报超预期，全球内存短缺持续",
+          "summary": "美光营收和利润超预期，全球内存短缺仍在持续，AI 算力需求继续推高存储市场。",
+          "hotness": 65,
+          "link": "https://www.cnbc.com/amp/2026/09/30/micron-mu-q4-earnings-report-2026.html",
+          "source": "cnbc.com"
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "id": 0,
+          "title": "谷歌发布 Gemini 4 Argon 旗舰模型，多指标 SOTA，输出上限破百万 token",
+          "summary": "谷歌发布迄今最强 Gemini 4 Argon，多项基准 SOTA，支持百万 token 输出，推广期价格低至竞品 1/5；但初期仅面向网络安全等可信伙伴，安全护栏与内部质疑导致 Alphabet 股价承压。",
+          "hotness": 98,
+          "link": "https://wallstreetcn.com/articles/3782853",
+          "source": "华尔街见闻"
+        },
+        {
+          "id": 30,
+          "title": "OpenAI 上线 ChatGPT 虚拟试穿功能，支持服装试穿和明星同款搜索",
+          "summary": "OpenAI 在全球扩展 ChatGPT 购物能力，新增虚拟试穿服装与配饰功能，并可帮助用户寻找明星同款。",
+          "hotness": 92,
+          "link": "https://www.ithome.com/1/009/197.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 32,
+          "title": "微软发布 MAI-Transcribe-2-Streaming 实时流式语音转写模型，词错误率 2.5%、延迟 0.13 秒",
+          "summary": "微软推出首个实时流式语音转写模型 MAI-Transcribe-2-Streaming，以 2.5% 词错误率和 0.13 秒延迟刷新标杆。",
+          "hotness": 90,
+          "link": "https://www.ithome.com/1/009/183.htm",
+          "source": "IT之家"
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "id": 53,
+          "title": "中国开源模型首次进入 OpenAI 企业客户采购体系",
+          "summary": "有报道称中国开源模型首次被纳入 OpenAI 企业客户的采购体系，显示中国开源模型在企业级市场的渗透力提升。",
+          "hotness": 88,
+          "link": "https://finance.sina.com.cn/stock/t/2026-10-01/doc-initspnm1440314.shtml",
+          "source": "新浪财经"
+        },
+        {
+          "id": 45,
+          "title": "开源项目让 AMD RDNA 4 显卡用上英伟达 DLSS 4，性能暂不及 FSR 4",
+          "summary": "GitHub 项目 d4r 利用 RDNA 4 原生 FP8 支持，让 AMD RX 9000 系列显卡运行英伟达 DLSS 4，但性能仍不及 FSR 4。",
+          "hotness": 60,
+          "link": "https://www.ithome.com/1/009/140.htm",
+          "source": "IT之家"
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "id": 15,
+          "title": "OpenAI 指控与月之暗面关联方进行推理提取/模型抄袭，并终止三名研究员合作",
+          "summary": "OpenAI 称挫败与 Moonshot AI 关联人员相关的推理提取/模型复制行动，同时以违反敏感信息规定为由终止与三名研究人员的合作，AI 竞争与安全争议升温。",
+          "hotness": 90,
+          "link": "https://thehackernews.com/2026/10/openai-disrupts-reasoning-extraction.html",
+          "source": "The Hacker News"
+        },
+        {
+          "id": 61,
+          "title": "特朗普将把“人工智能”更名为“超级智能”",
+          "summary": "有报道称特朗普计划将“人工智能”更名为“超级智能”，引发对美国 AI 政策叙事和监管方向的讨论。",
+          "hotness": 82,
+          "link": "https://www.cls.cn/detail/2495770",
+          "source": "财联社"
+        },
+        {
+          "id": 51,
+          "title": "浙大发布人工智能法专家建议稿，讨论风险与立法范式",
+          "summary": "浙江大学发布人工智能法专家建议稿，学者提出 AI 风险或源于能、智、事错配，立法应避免简单限制。",
+          "hotness": 78,
+          "link": "https://finance.sina.cn/stock/jdts/2026-10-01/detail-inittekc5280556.d.html?vt=4&cid=76993&node_id=76993",
+          "source": "新浪财经"
+        },
+        {
+          "id": 58,
+          "title": "2026 年 APEC 数字和人工智能部长会议在成都举行",
+          "summary": "2026 年 APEC 数字和人工智能部长会议在成都举行，张国清出席开幕式并致辞，聚焦数字与 AI 合作。",
+          "hotness": 70,
+          "link": "https://cbgc.scol.com.cn/news/7786495",
+          "source": "川观新闻"
+        },
+        {
+          "id": 52,
+          "title": "9 月全球人工智能发展盘点：前沿模型能力加速，AI 治理迎新考验",
+          "summary": "新华社综述指出，9 月全球前沿模型能力加速跃升，AI 治理面临新考验。",
+          "hotness": 65,
+          "link": "https://www.news.cn/tech/20261001/6611a7da00434fcea829b1387a915d95/c.html",
+          "source": "news.cn"
+        }
+      ]
+    }
+  }
+}

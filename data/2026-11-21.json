@@ -1,0 +1,221 @@
+{
+  "overview": [
+    "Google发布中端模型Gemini 4 Neon，OpenAI的GPT-6 Astra在金融研究预发布测试中表现提升，头部大模型迭代继续加速。",
+    "Anthropic数学家宣称与Claude合作完成黎曼猜想证明并发布Lean代码，但数学界称验证仍需时间。",
+    "Google选定Blue Origin New Glenn于2029年发射AI卫星，同时阿波罗与高盛完成约440亿美元GPU融资定价，算力基础设施向太空与金融化延伸。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "id": 2,
+          "title": "Google选定Blue Origin New Glenn于2029年发射AI卫星",
+          "summary": "Google的Project Suncatcher计划用New Glenn重型火箭在2029年发射太空AI服务器卫星，推进轨道算力布局。（源ID:2,8,9,12,14,18,19）",
+          "hotness": 92,
+          "link": "https://mlq.ai/news/google-picks-blue-origins-new-glenn-to-launch-its-project-suncatcher-ai-satellites-in-2029/",
+          "source": "MLQ.ai"
+        },
+        {
+          "id": 29,
+          "title": "阿波罗与高盛完成约440亿美元GPU融资定价，SpaceX拟采购英伟达芯片",
+          "summary": "阿波罗全球管理与高盛完成迄今最大规模GPU融资定价，约440亿美元，资金用于算力基础设施，SpaceX亦计划采购英伟达芯片。（源ID:29）",
+          "hotness": 89,
+          "link": "https://www.ithome.com/1/030/296.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 23,
+          "title": "阿里用自研芯片训练下一代Qwen模型，称美国新限制带来重大不确定性",
+          "summary": "阿里巴巴表示下一代Qwen模型正基于自研芯片训练，同时警告美国新出口管制带来“非常大的不确定性”。（源ID:23）",
+          "hotness": 87,
+          "link": "https://mlq.ai/news/alibaba-is-training-its-next-qwen-model-on-its-own-chips-and-says-new-us-curbs-bring-very-big-uncertainty/",
+          "source": "MLQ.ai"
+        },
+        {
+          "id": 30,
+          "title": "华为发布首款为AI而生的鸿蒙手机OSTA O1 Pro，16G版售罄",
+          "summary": "华为星芒OSTA O1 Pro发布，定位AI鸿蒙手机，5499元起，16G版本已全平台售罄，市场反响超预期。（源ID:30,36,37）",
+          "hotness": 85,
+          "link": "https://www.ithome.com/1/030/294.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 51,
+          "title": "苹果悄然布局AI Agent，Meta Muse迎来新对手",
+          "summary": "报道称苹果正在布局AI Agent能力，可能对Meta Muse等智能体产品构成新竞争。（源ID:51）",
+          "hotness": 82,
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9CemxmSVd3WnJIOHFUcmVETXo0SDNXNlBOeDNnWTBock5TTjlWMHY4SDFPWlZqX2FaaXF0R3JGcWd6eWhvQTY2Q1ljRVBKRUtZZ3Iw?oc=5",
+          "source": "华尔街见闻"
+        },
+        {
+          "id": 43,
+          "title": "Anthropic上市次日股价跌9%，AI板块承压",
+          "summary": "Anthropic上市次日股价下跌9%，令本已低迷的AI板块进一步承压，市场对AI估值保持谨慎。（源ID:43）",
+          "hotness": 80,
+          "link": "https://www.ithome.com/1/030/246.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 50,
+          "title": "芝商所拟推出AI算力期货合约",
+          "summary": "芝商所宣布计划推出两项AI算力相关期货合约，标志算力资源金融化进一步推进。（源ID:50）",
+          "hotness": 78,
+          "link": "https://www.cls.cn/detail/2451730",
+          "source": "财联社"
+        },
+        {
+          "id": 7,
+          "title": "Google搜索首页新增AI侧边栏，支持继续追问",
+          "summary": "Google搜索首页加入AI侧边栏，用户可围绕此前提问继续对话，强化搜索内AI交互。（源ID:7,34）",
+          "hotness": 76,
+          "link": "https://digg.com/tech/0odbwcyo",
+          "source": "Digg"
+        },
+        {
+          "id": 17,
+          "title": "Meta口袋AI设备传售价约300美元",
+          "summary": "消息称Meta正在开发口袋型AI设备，售价可能约300美元，进一步探索AI硬件入口。（源ID:17）",
+          "hotness": 74,
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE04NG1ObGxFNFpfVXpWQk5PTno0b21iMndHNTIwUlduSFdLLWVyMjRpRTJCdGt2ZG5kOFFMMnFtcWtjdnQ2RXVkTDdscFJPSkNUWjZrZ2htS2g1RlA2VWx5VEVSdHNWOWlvVGRMSnN0YXA1ZkEycDk2ZnloWU0?oc=5",
+          "source": "Superpower Daily"
+        },
+        {
+          "id": 15,
+          "title": "FreshBooks联手OpenAI推出“ChatGPT for Accounting”",
+          "summary": "FreshBooks与OpenAI合作发布面向会计场景的ChatGPT应用，将AI引入小企业财务工作流。（源ID:15）",
+          "hotness": 70,
+          "link": "https://uk.finance.yahoo.com/news/freshbooks-partners-openai-release-chatgpt-143300638.html",
+          "source": "Yahoo Finance UK"
+        },
+        {
+          "id": 55,
+          "title": "紫光股份、云天励飞等回应AI算力布局与芯片路线图",
+          "summary": "多家中国算力相关公司回应市场关切，介绍智算中心建设、国产万卡集群及推理降本目标。（源ID:55,60,61,62,63）",
+          "hotness": 64,
+          "link": "https://stock.stockstar.com/RB2026112100005375.shtml",
+          "source": "证券之星"
+        },
+        {
+          "id": 42,
+          "title": "三星电子高管：Neocloud风险有限，AI投资基于实际需求",
+          "summary": "三星电子高管在摩根士丹利会议上表示新兴AI云风险有限，AI投资仍由实际需求驱动。（源ID:42）",
+          "hotness": 62,
+          "link": "https://www.ithome.com/1/030/247.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 49,
+          "title": "具身智能机器人焊接训练场与江苏省机器人警察学院揭牌",
+          "summary": "以场景驱动推进具身智能规模化落地，机器人焊接训练场和机器人警察学院正式揭牌。（源ID:49）",
+          "hotness": 55,
+          "link": "https://www.yzwb.net/news/ch/202611/t20261121_414534.html",
+          "source": "紫牛新闻"
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "id": 5,
+          "title": "Google发布中端模型Gemini 4 Neon，延续高频模型发布节奏",
+          "summary": "Google推出Gemini 4 Neon中端AI模型，多篇报道称其在基准测试中领先，继续扩展Gemini 4系列。（源ID:5,13,20,21）",
+          "hotness": 98,
+          "link": "https://www.therundown.ai/news/google-gemini-4-neon-release",
+          "source": "The Rundown AI"
+        },
+        {
+          "id": 28,
+          "title": "Anthropic数学家宣称与Claude合作完成黎曼猜想证明，Lean代码已发布",
+          "summary": "Anthropic数学家称与Claude合作完成黎曼猜想证明并发布Lean代码，但陶哲轩等指出验证仍需时间，尚未获数学界确认。（源ID:28,38）",
+          "hotness": 96,
+          "link": "https://www.ithome.com/1/030/297.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 26,
+          "title": "Hebbia测试GPT-6 Astra，金融研究场景表现提升",
+          "summary": "Hebbia在预发布评估中使用GPT-6 Astra进行金融研究，发现其在复杂金融分析任务上有改进。（源ID:26）",
+          "hotness": 93,
+          "link": "https://openai.com/business/customer-stories/hebbia",
+          "source": "OpenAI Blog"
+        },
+        {
+          "id": 27,
+          "title": "OpenAI发布MedChemBench，评估AI识别药物候选分子的能力",
+          "summary": "MedChemBench测试AI对分子结构的理解与推理，用于衡量模型在药物发现中的辅助潜力。（源ID:27）",
+          "hotness": 80,
+          "link": "https://openai.com/index/introducing-medchembench",
+          "source": "OpenAI Blog"
+        },
+        {
+          "id": 3,
+          "title": "Google AI飓风模型接受实测检验",
+          "summary": "Phys.org报道对Google AI飓风预测模型进行测试，评估其在真实预报场景中的表现。（源ID:3）",
+          "hotness": 75,
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9tQUZmWmhITW1GZ1VXdkVVUGQxb2EzRG93ZUV0RFgyREVfWXZUMVhrY2oyWVpvNnhNNkEwOUFnTUlTYW1FOVF6bjFmR3U0WHN2dFh0aEFqMnBUaVgxcEFtdS04WDg?oc=5",
+          "source": "Phys.org"
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "id": 33,
+          "title": "OpenAI向ChatGPT Plus开放Spaces协作空间，支持多人共同编辑",
+          "summary": "OpenAI将Spaces协作空间扩展至ChatGPT Plus用户，支持多人共同编辑和协作，强化团队AI工作流。（源ID:33）",
+          "hotness": 90,
+          "link": "https://www.ithome.com/1/030/288.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 24,
+          "title": "Perplexity推出Orchestrator API，支持故障转移与模型路由",
+          "summary": "Perplexity发布Orchestrator API，可统一路由多模型并实现故障转移，方便开发者构建稳定AI应用。（源ID:24）",
+          "hotness": 85,
+          "link": "https://www.marktechpost.com/2026/11/19/perplexity-orchestrator-api-failover-model-routing/",
+          "source": "MarkTechPost"
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "id": 25,
+          "title": "OpenAI提出对抗蒸馏分层防御策略",
+          "summary": "OpenAI博客介绍对抗蒸馏的分层防御方法，结合模型训练与系统监控，防止模型能力被非法复制。（源ID:25）",
+          "hotness": 82,
+          "link": "https://openai.com/index/combatting-adversarial-distillation",
+          "source": "OpenAI Blog"
+        },
+        {
+          "id": 11,
+          "title": "欧盟就Google AI退出机制询问出版商",
+          "summary": "欧盟监管机构向出版商查询Google AI训练数据退出选项的执行情况，关注版权与合规。（源ID:11）",
+          "hotness": 76,
+          "link": "https://www.silicon.co.uk/e-regulation/eu-google-ai-2-631326",
+          "source": "Silicon UK"
+        },
+        {
+          "id": 10,
+          "title": "马斯克旗下公司否认英国议员就Grok生成图像诉讼中的责任",
+          "summary": "马斯克旗下SpaceX/xAI在英国议员针对Grok生成图像的诉讼中否认责任，AI生成内容法律责任争议持续。（源ID:10）",
+          "hotness": 72,
+          "link": "https://lufkindailynews.com/news_reuters/business/musks-spacexsi-denies-liability-in-uk-lawmakers-lawsuit-over-grok-images/article_c4be0e6c-8f6b-5e05-9796-0462667e13ac.html",
+          "source": "The Lufkin Daily News"
+        },
+        {
+          "id": 48,
+          "title": "薛澜：AI治理是全球公共产品",
+          "summary": "清华大学薛澜在专访中提出AI治理应作为全球公共产品，强调国际合作与治理框架建设。（源ID:48）",
+          "hotness": 60,
+          "link": "https://finance.eastmoney.com/a/202611213936600983.html",
+          "source": "东方财富网"
+        }
+      ]
+    }
+  }
+}

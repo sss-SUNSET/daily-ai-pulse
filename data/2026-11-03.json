@@ -1,0 +1,261 @@
+{
+  "overview": [
+    "腾讯混元发布 Hyra 2.0 AI 科研系统、美团发布 LongCat-2.5 大模型，国内大模型与 AI 科研 Agent 进入“国模国芯”新阶段。",
+    "Anthropic 冲刺史上最大 IPO：Q3 营收近 170 亿美元同比增 11 倍，但科技股暴跌令估值预期从 2 万亿美元降至 1.5 万亿美元区间。",
+    "算力基础设施密集推进：高通 HBC 完成 133 TB/s 验证，太空与海上算力平台落地，OpenAI 启动 Grid Protectors 计划保障未来算力用电。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "id": 14,
+          "title": "Anthropic 冲刺史上最大 IPO：Q3 营收近 170 亿美元，估值预期下调至 1.5 万亿区间",
+          "summary": "Anthropic 披露 Q3 营收近 170 亿美元、同比增 11 倍，高付费客户超 1.19 万家、NRR 达 900%，但科技股暴跌令 IPO 估值预期从 2 万亿美元降至 1.5 万亿美元区间。",
+          "hotness": 93,
+          "link": "https://www.ithome.com/1/021/277.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 10,
+          "title": "高通 HBC 完成硬件验证：133 TB/s 内存带宽，AI250 明年上半年出样",
+          "summary": "第一代高带宽计算技术验证了完整读写与近存计算能力，带宽达 AI200 的 18 倍。",
+          "hotness": 88,
+          "link": "https://www.ithome.com/1/021/286.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 1,
+          "title": "OpenAI 启动 Grid Protectors 计划，与公用事业合作保障未来算力用电",
+          "summary": "该计划将联合电力公司为未来大规模算力基础设施提供电网支持。",
+          "hotness": 80,
+          "link": "https://openai.com/index/grid-protectors-program",
+          "source": "OpenAI Blog"
+        },
+        {
+          "id": 7,
+          "title": "腾讯 TenPay Global 与万事达卡合作，推进入境扫码支付与智能体支付",
+          "summary": "双方签署合作备忘录，覆盖入境扫码支付、汇款和 AI 智能体支付场景。",
+          "hotness": 78,
+          "link": "https://www.ithome.com/1/021/294.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 19,
+          "title": "马斯克称 Grok Bot 额度消耗过快，服务成本难以为继",
+          "summary": "马斯克表示 AI 富足终将到来，但当前 Grok Bot 服务成本过高，暂无法不限量使用。",
+          "hotness": 76,
+          "link": "https://www.ithome.com/1/021/271.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 28,
+          "title": "天地一体化太空算力云平台发布，覆盖 40 余颗卫星算力资源",
+          "summary": "平台整合卫星算力资源，探索太空算力云服务。",
+          "hotness": 75,
+          "link": "https://www.ncsti.gov.cn/kjdt/xwjj/202611/t20261102_260713.html",
+          "source": "国际科技创新中心"
+        },
+        {
+          "id": 30,
+          "title": "全国首个海上算力联盟落地横琴，港珠澳琴共建“蓝色算力”生态",
+          "summary": "联盟推动海上算力与区域协作，构建蓝色算力新生态。",
+          "hotness": 72,
+          "link": "https://pub-zhtb.hizh.cn/a/202611/03/AP6ae8c1d0e4b02381c6bf4093.html",
+          "source": "珠海网"
+        },
+        {
+          "id": 0,
+          "title": "OpenAI 构建 Pando：为超大规模开发打造 Git 兼容后端",
+          "summary": "OpenAI 介绍 Pando，面向其开发规模设计的 Git 兼容后端，解决大规模代码协作瓶颈。",
+          "hotness": 70,
+          "link": "https://openai.com/index/scaling-git-at-openai",
+          "source": "OpenAI Blog"
+        },
+        {
+          "id": 38,
+          "title": "AI Agent 加速“上岗”，企业 AI 创新力迎来账本检验",
+          "summary": "企业部署 AI Agent 提速，但投入产出与效果核算成为新考验。",
+          "hotness": 70,
+          "link": "https://www.21jingji.com/article/20261102/herald/f8424906abd5b1fb0f62e7cf63566978.html",
+          "source": "21财经"
+        },
+        {
+          "id": 20,
+          "title": "亿咖通科技与 Arm 签署合作备忘录，共研下一代高性能 AI 计算平台",
+          "summary": "双方将面向出行及跨行业场景开发高性能 AI 计算平台。",
+          "hotness": 68,
+          "link": "https://www.ithome.com/1/021/268.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 27,
+          "title": "Token 工厂能否走出算力中心的老路？",
+          "summary": "讨论 Token 生产与算力中心商业模式的关系。",
+          "hotness": 64,
+          "link": "https://www.thepaper.cn/newsDetail_forward_34383549",
+          "source": "ThePaper.cn"
+        },
+        {
+          "id": 9,
+          "title": "AMD 核显路线图曝光：RDNA 5+ 与 Zen 7“Grimlock”预计 2029 年登场",
+          "summary": "爆料称 AMD 计划 2029 年推出采用 RDNA 5+ 核显的 Zen 7 处理器。",
+          "hotness": 58,
+          "link": "https://www.ithome.com/1/021/288.htm",
+          "source": "IT之家"
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "id": 34,
+          "title": "美团发布 LongCat-2.5 大模型，强调“国模国芯”新突破",
+          "summary": "美团推出新一代大模型，主打国产模型与国产芯片协同，体现国内大模型自主研发进展。",
+          "hotness": 98,
+          "link": "https://www.meituan.com/news/NN261102280001343",
+          "source": "Meituan"
+        },
+        {
+          "id": 21,
+          "title": "腾讯混元发布 Hyra 2.0 AI 科研系统，推动通用 Agent 参与科学模型研发",
+          "summary": "研发重点从直接用 AI 攻克科学难题，转向让通用 Agent 参与科学模型研发，打造可复用研发工具。",
+          "hotness": 96,
+          "link": "https://www.ithome.com/1/021/266.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 2,
+          "title": "OpenAI 推出 LifeVal 基准，衡量 AI 对日常任务的实际帮助",
+          "summary": "新基准评估 AI 在真实生活任务中的完成效果，而非仅学术测试。",
+          "hotness": 78,
+          "link": "https://openai.com/index/lifeval",
+          "source": "OpenAI Blog"
+        },
+        {
+          "id": 26,
+          "title": "沈向洋：灵巧手是具身智能技术复杂度的“珠峰”",
+          "summary": "指出灵巧手是具身智能最复杂的技术挑战之一。",
+          "hotness": 66,
+          "link": "https://news.sciencenet.cn/htmlnews/2026/11/574080.shtm",
+          "source": "科学网—新闻"
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "id": 3,
+          "title": "Qodo 将企业知识与编码规范接入 Codex，增强 AI 代码审查上下文",
+          "summary": "Qodo 把公司知识和编码标准带入 Codex，帮助开发者获得更贴合企业实际的代码审查。",
+          "hotness": 76,
+          "link": "https://openai.com/index/qodo-codex-plugin",
+          "source": "OpenAI Blog"
+        },
+        {
+          "id": 52,
+          "title": "LinearB 推出 Agentic Studio，用于管理 AI 编码代理",
+          "summary": "面向 AI 编码代理的编排与管控平台，瞄准 2032 年 1270 亿美元市场。",
+          "hotness": 74,
+          "link": "https://hackernoon.com/linearb-launches-agentic-studio-to-steer-ai-coding-agents-in-a-$127-billion-market-by-2032",
+          "source": "HackerNoon"
+        },
+        {
+          "id": 48,
+          "title": "Aion 推出面向企业财务、银行与支付的 AI Agent",
+          "summary": "覆盖企业财务、银行、支付、卡与信贷的 AI 智能体产品。",
+          "hotness": 70,
+          "link": "https://www.cpapracticeadvisor.com/2026/11/02/aion-launches-ai-agent-for-business-finance-banking-payments-cards-credit/193022/",
+          "source": "CPA Practice Advisor"
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "id": 53,
+          "title": "OpenAI、Anthropic 暴露 AI Agent 监控缺口",
+          "summary": "报道指出前沿 AI 智能体在运行监控与审计方面仍存在明显空白。",
+          "hotness": 72,
+          "link": "https://www.bankinfosecurity.com/openai-anthropic-expose-gaps-in-ai-agent-monitoring-a-33276",
+          "source": "BankInfoSecurity"
+        },
+        {
+          "id": 6,
+          "title": "OpenAI 喊话 2028 美国大选候选人：AI 将是重要必答题",
+          "summary": "OpenAI 游说负责人向潜在候选人强调 AI 政策议题的重要性。",
+          "hotness": 70,
+          "link": "https://www.ithome.com/1/021/295.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 44,
+          "title": "宾夕法尼亚州颁布 AI 虚假广告法，要求披露 AI 生成广告",
+          "summary": "新法对 AI 生成广告提出披露要求，打击欺骗性广告。",
+          "hotness": 70,
+          "link": "https://www.consumerfinancemonitor.com/2026/11/02/pennsylvania-enacts-artificial-intelligence-deceptive-advertising-act-new-disclosure-requirements-for-ai-generated-advertising/",
+          "source": "Consumer Finance Monitor"
+        },
+        {
+          "id": 45,
+          "title": "当 AI Agent 偏离脚本：前沿 AI 首份事故应对手册",
+          "summary": "法律与合规机构发布 AI Agent 失控场景的事故响应框架。",
+          "hotness": 68,
+          "link": "https://www.ebglaw.com/workforce-bulletin/when-the-ai-agent-goes-off-script-the-first-incident-playbook-for-frontier-ai",
+          "source": "Epstein Becker Green"
+        },
+        {
+          "id": 56,
+          "title": "Meta 用自拍生物识别验证 Facebook 真实用户",
+          "summary": "Meta 采用自拍生物识别验证真实用户，引发隐私与合规讨论。",
+          "hotness": 66,
+          "link": "https://www.biometricupdate.com/202607/meta-using-selfie-biometrics-to-verify-authentic-facebook-users",
+          "source": "Biometric Update"
+        },
+        {
+          "id": 57,
+          "title": "Workday AI 诉讼给银行带来的风险",
+          "summary": "报道分析 Workday AI 招聘诉讼对银行采用 AI 的合规启示。",
+          "hotness": 66,
+          "link": "https://www.americanbanker.com/news/the-risks-of-the-workday-ai-lawsuit-for-banks",
+          "source": "American Banker"
+        },
+        {
+          "id": 40,
+          "title": "英德两国拟将人工智能纳入军事合作",
+          "summary": "两国计划在军事领域加强 AI 合作，引发安全与治理关注。",
+          "hotness": 64,
+          "link": "http://m.ce.cn/gj/gd/202611/t20261103_3281025.shtml",
+          "source": "中国经济网"
+        },
+        {
+          "id": 33,
+          "title": "2026“人工智能+”大会举行，人大发布 AI 国际应用与治理合作白皮书",
+          "summary": "白皮书聚焦 AI 国际应用与治理合作。",
+          "hotness": 62,
+          "link": "https://news.ruc.edu.cn/2116771454150483970.html",
+          "source": "人大新闻网"
+        },
+        {
+          "id": 35,
+          "title": "“超级智能”成为部分选民和竞选阵营筹备选举的一部分",
+          "summary": "超级智能议题进入选举话语，反映 AI 政策政治化。",
+          "hotness": 60,
+          "link": "https://www.voachinese.com/amp/super-intelligence-part-of-election-preparation-for-some-voters-campaigns-20261102/8217864.html",
+          "source": "美国之音"
+        },
+        {
+          "id": 16,
+          "title": "奥尔特曼称个人电脑浪费内存遭声讨，马斯克补刀",
+          "summary": "奥尔特曼关于内存的言论引发争议，马斯克加入批评。",
+          "hotness": 55,
+          "link": "https://www.ithome.com/1/021/274.htm",
+          "source": "IT之家"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "overview": [
+    "G7峰会成为全球AI治理核心平台，多国领导人及企业CEO共商监管框架",
+    "AI产业应用加速落地，从消费电子到企业服务呈现多元化发展趋势",
+    "AI伦理与教育议题引发广泛关注，假文献危机与课堂应用政策并行"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "title": "G7峰会聚焦全球AI规则制定",
+          "summary": "特朗普总统、欧洲领导人及Anthropic、Google DeepMind等AI企业领袖在G7峰会上讨论全球AI监管框架，法国总统呼吁美国分享尖端AI技术。",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWUtsQkJtY05ZMC01SDhiYloyVEtHcmFmMDJBM2NQY3NhaExsa0ltdGstVWF1SVUwZVN6UUNnN0ZqZHZidTJZS1RBOC1Gb2FJeDhJNHdTYnBwZjZqN1ZxcjVzcWxhWHJBcVpJQ3ZEOElFc3hEN0Y3WXBBRmNDdERqenRyaEUydFZUdm9tNXZ5Y0dWXzNweTZtZllVSEd5clJIaDNNbFk4UFZFN0gzMXhjeklsaVBrLU9HbWpYMm9xYlVPVnR5WnJr0gHKAUFVX3lxTE9yNUpKV01xRmoybXd4YlF0a1BvWWNTbC1CVVF0d1ZtUjZWRVR0S0VULW1FOXpoVXd6QWJvNHF6YVdkWm0xMGNlOTA2eTlSR2VvbUhnbU1ZM0pDNlUzaFVsbndoaThmcFBXWVlnODViUEZWdWFlZC02emJiblJVVkpIZFFBaHJqdDhDbGRiRnJYY3l6aWllUVRKYWdpQjhSUDRQbEZzVzZDSUNFaDVjV3F1RDZZRG4tSkxNeFZhNHZIYXVWZmFYSGNSRUE?oc=5",
+          "hotness": 95
+        },
+        {
+          "title": "华为AI网络安全产品蝉联中国市场第一",
+          "summary": "华为星河AI网络安全AntiDDoS实现三连冠，稳居中国区市场份额第一。",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYVN0UWgyNU1sc0djdVNCcHk0blN2WHZieGhPVXdob2hQYVdia1FrUXdlSzRpU19oRW5VaE9veVYzSzJfQkd3emVpNFYybm5yZUhRSWRMQm5IYWV3TjVyY3UweVppdkszSUVLa05xeUVqakkwLUJ6aXMwVFJERFJSSV9zTGtZYV95dnRjbl93elFieXZjeWc?oc=5",
+          "hotness": 75
+        },
+        {
+          "title": "Meta工作AI产品负责人离职",
+          "summary": "Meta负责'AI for work'转型的产品负责人即将离开公司。",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWHd0TVRGRGp5bzN6NWVKZEN5LXBzNUdtREFuTElHWFR6LXpTVHk4RDVUQ2xVZWo4MGdTZzNVNEdaOEd1VlUzQ09FcE9xX2tibjU1Sks5cXo4TGw1UjAxbktGR2dBTmk2dlNyV2hhc2hRZ3VHSGdpeXh1Y05BZU5pRVEwWG00NW1sZVl1UkxWdGRWZ25Cc1hTRklleU01SnlqdlRz?oc=5",
+          "hotness": 70
+        },
+        {
+          "title": "美国退出中国AI芯片市场",
+          "summary": "分析显示美国已退出中国AI芯片市场，地缘政治影响产业格局。",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOHdoMzA3Y2hoYm1lcVQ5OUhVWHpCd1FPaFdvc3ZfSzRrajc2RzFmaVRPYnhOSWJQTFpvZFg3THVhZTRiLUt0Tm52QlhYbTFKNTVpaGlCTnVwV2pDM3htbVV4cTIzYWh1WnZNU044a1dtZmlTWkNKa0xmNmhWZkpSVjQzUzJfS01LbnZuRnhXRldKaXVfUFRqck9QZXg?oc=5",
+          "hotness": 80
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": []
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": []
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "title": "AI假文献危机引发科研诚信担忧",
+          "summary": "顶尖科学家差点被AI生成的假文献蒙骗，生物医学研究面临新的诚信挑战。",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5zRXlhZzFOSmluNnlPNHB6V1Zpa29oRVh3aFN2OTNUYlFZNURBSk5hbzBmTVdTU09EU0NYbkU3dE9xTzlhX1VYNXVmUDdlTzlBeGFhekNFX0dNcTh4cEhoYmYxaG52RGVK?oc=5",
+          "hotness": 85
+        },
+        {
+          "title": "贝佐斯称AI将导致劳动力短缺而非取代人类",
+          "summary": "贝佐斯表示AI不会取代人类工作，反而可能造成劳动力短缺问题。",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4xTDB1ZFJlTlpKdFpPUFA5MV8yb0RqOERFWXp1NHpuTzNBMHhpLUI3WmhvcXgwMVBIYk02dnBqbVRfYS1Bd2g3TDBhYTlzREticDlRMUVwc3BWdjNPYVpJNjBWVHFYNVVWUVM0eEZwaC00LU400gF6QVVfeXFMUDFvaEF2TUpRcFNrRm8wVkRmZXhub2JTTF9mSjdOdGFZc1FhQjFfX05zX29Oa1dHNWN2Vk1zdDhZekFMbGZiaUZRMGNXbkYxYVNkRGt1dWJmeVVRMDBOYTBDRHN3cmlSYUdCMkZKcHdTOTA3Q0ROLTBzZUE?oc=5",
+          "hotness": 75
+        },
+        {
+          "title": "美国学校制定AI教育政策",
+          "summary": "韦克县学校正在制定AI教育政策草案，强调引用规范而非AI检测器。",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUW5hM2tHOVZDU1BCUkV0cFNwc0NRYzUyOHpaMExESmVfazRPVVF4MndZMkNiMDVBS1JFalhJR0xfTktOTnd0bEFnTFMwVVd2TlpyX0x4N0FudzhHS2tBX0tueFM0WDlvLVRQRVIxUjhkWW9rRlAyZGFNcHRaVENnN3VGQmkxXzRDRWIzSXdZRkR5Zw?oc=5",
+          "hotness": 70
+        }
+      ]
+    }
+  }
+}

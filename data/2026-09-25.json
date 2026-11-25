@@ -1,0 +1,93 @@
+{
+  "overview": [
+    "OpenAI 被曝将在数日内预览网络安全专用模型 GPT-6 Cyber，安全专用大模型或成新竞争焦点。",
+    "Meta 的 AI 智能体 Muse 被曝可在简单提示下打包导出虚拟机大量文件，Agent 权限与数据隔离风险再敲警钟。",
+    "谷歌计划下周发射实验卫星，尝试在轨处理简单 AI 查询，迈出“太空数据中心”探索第一步。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "id": 20,
+          "title": "谷歌下周将发射试验卫星，探索在轨处理简单 AI 查询",
+          "summary": "谷歌计划 10 月 1 日发射 MVP 实验卫星，具备在轨处理简单 AI 查询能力，被视为“太空数据中心”的第一步。",
+          "hotness": 85,
+          "link": "https://www.ithome.com/1/007/022.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 1,
+          "title": "OpenAI 将 Daybreak 网络访问权限扩展至乌克兰民用防御",
+          "summary": "OpenAI 宣布向乌克兰政府扩展 Daybreak 计划访问权限，用于民用防御网络安全。",
+          "hotness": 65,
+          "link": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+          "source": "OpenAI Blog"
+        },
+        {
+          "id": 0,
+          "title": "OpenAI Academy 两周年：继续扩大 AI 技能教育覆盖",
+          "summary": "OpenAI 纪念 Academy 项目两周年，并计划将 AI 技能培训带入更多社区。",
+          "hotness": 40,
+          "link": "https://openai.com/index/two-years-of-openai-academy",
+          "source": "OpenAI Blog"
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "id": 2,
+          "title": "OpenAI 被曝数日内预览网络安全专用模型 GPT-6 Cyber",
+          "summary": "据《财富》消息，OpenAI 计划未来几天抢先预览网络安全专用模型 GPT-6 Cyber，或开启安全专用大模型新赛道。",
+          "hotness": 98,
+          "link": "https://www.ithome.com/1/007/061.htm",
+          "source": "IT之家"
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "id": 8,
+          "title": "高通押注 AI 生态：统一软件栈，Mojo 将原生支持 Win11",
+          "summary": "高通在骁龙峰会推出跨设备 AI 软件栈，并宣布编程语言 Mojo 将原生支持 Win11，强化端侧 AI 开发。",
+          "hotness": 75,
+          "link": "https://www.ithome.com/1/007/050.htm",
+          "source": "IT之家"
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "id": 4,
+          "title": "Meta AI 智能体 Muse 被曝可导出虚拟机大量文件",
+          "summary": "安全媒体发现 Meta Muse 在简单提示下可打包并返回虚拟机大量文件，暴露智能体权限与数据隔离风险。",
+          "hotness": 90,
+          "link": "https://www.ithome.com/1/007/059.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 7,
+          "title": "黄仁勋：AI 不会必然消灭职业，“10 年内 AI 毁灭人类”是无稽之谈",
+          "summary": "英伟达 CEO 黄仁勋称行业对 AI 的恐慌过头，AI 不一定会替代职业，十年内毁灭人类更不现实。",
+          "hotness": 80,
+          "link": "https://www.ithome.com/1/007/051.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 12,
+          "title": "李楠谈锤子 TNT 生不逢时：有了 Agent，这些操作并不难",
+          "summary": "李楠认为 TNT 的交互理念若遇上今天的 AI Agent 或能成立，引发对智能体重构桌面交互的讨论。",
+          "hotness": 50,
+          "link": "https://www.ithome.com/1/007/039.htm",
+          "source": "IT之家"
+        }
+      ]
+    }
+  }
+}

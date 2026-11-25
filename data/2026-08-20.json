@@ -1,0 +1,293 @@
+{
+  "overview": [
+    "OpenAI推出GPT-5.6 Luna模型，通过Replit免费模式让普通用户零成本创建软件，新模型发布成为今日最大亮点。",
+    "AI Agent加速落地：Waymo将Gemini引入自动驾驶出租车、MiniMax发布多模态创作Agent工作台、美陆军用AI代理进行网络防御，智能体从演示走向实际生产。",
+    "AI基础设施军备竞赛升温：Nvidia为OpenAI数据中心提供1050亿美元融资、Anthropic签约AI芯片初创Fractile，中美AI差距快速缩小。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "title": "Nvidia为OpenAI俄亥俄数据中心提供1050亿美元融资支持",
+          "summary": "英伟达为OpenAI在俄亥俄州的数据中心建设背书1050亿美元融资，显示两大AI巨头在算力基建上的深度绑定。",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONTY0SXEyaEQ3Q1pRaUhyaVdKNzBHWUJNNVdQX3V5SHRSWVdfYmYzTWJpQjhKVHd5OGRmdjFzT25reUNJX21IWFc0Z2FwY0hQcWFSRm16bURnUVVydUVuT2FDYy11TmV0T09nMDJEdVBsbTdvRWN0ckoxQ2p4b3NPRVVSd3TSAYoBQVVfeXFMUGE1ZTROeEprR2lWenlwXy12a09IbkgwRGdzQ1lTSlhzSzRUb2M2LUF1OXVwT1g5NkxMeEFxX2hleklhU0Z0Q0pZVE40eDVNT2xzRGtFQnp0U2luSVQ3bjlGMkpYNlV6UzVSRXBqUXJqV2Q2SHpkdFZIWDdSRUk1R21LbThheEN5c1VB?oc=5",
+          "hotness": 95
+        },
+        {
+          "title": "Anthropic与AI芯片初创Fractile达成约2.5亿美元供应合同",
+          "summary": "Anthropic签署初步协议采购Fractile的AI推理加速器，后者正寻求65亿美元估值，采用模拟内存计算架构，速度提升25倍、成本降至1/10。",
+          "link": "https://www.ithome.com/0/992/165.htm",
+          "hotness": 85
+        },
+        {
+          "title": "Qcells与微软扩大AI能源合作",
+          "summary": "韩华Qcells和微软扩展AI能源联盟，以支撑AI数据中心日益增长的电力需求。",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNTF81RnluaThLb2poa1QxNkFnSlp6bzJJcTdmNkNUUzlrWWlobnhhOXUtcTdEYnE0blVYVkF5Q2cyVDJRYlRTRHNfYnRmSF90Yl9PaHVBT2NhYWhiSm1Wakh2b2I4eVA3WUI1S2NNQ2lneHhoS2gxZ2J5X3N4X00zTEd4TWFZMG1yNkh5VEdGUmN4NkJETHdRWmh3TzFfekg1OVRIb09iMjlPVjRKMFBBVVdQaWRaLVZuaUFiZ0Ezb3hfcEFsUnAzTFRDdXlxWWstTzFvek1SZmdHUUt6OFFSODJiVmhjSzVSRmVhVGlaV2RlQlViRTZOMm82S3M0c3l2?oc=5",
+          "hotness": 60
+        },
+        {
+          "title": "大科技公司急推公关战，平息日益高涨的AI反对声浪",
+          "summary": "WSJ披露，硅谷巨头正通过游说、广告和产品调整，应对公众对AI失控、失业和伦理问题的反弹。",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOd0ZMN28xd2NTdzNCbllaLVFGVkVDaGJlMkZOOU1xMlplVjR6ZnpoRVcxT0ZYMFdDcDJCN3p1SHdYT00waFVkT0loNGxMcXN0NFpyVzZJbzE5R3hsaHhTM2xZWUREOTdyN0R3RmJ3ajNzd2lFRGlUOVlZckVzQTRUYVJzeWFVZEwwSzY1QW84NGJfM3B4OWNMWkpFZHBiS3NI?oc=5",
+          "hotness": 80
+        },
+        {
+          "title": "美国对华AI领先优势正迅速缩小",
+          "summary": "彭博社分析指出，中国在模型能力、应用落地和算力自主上的追赶速度超出预期，中美AI差距正在收窄。",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBidzZzbzRJcEtnaUtHR3lrUjdkWTRLenFWR0lrUS1wb0F5VEcySTBsQURrclVQUTlsUWtCWDZTUzZuTktXcUFwcVFYQlExSWh4czRtUUZocXlGSVU4U0g5Q3Q4SEluU1BT?oc=5",
+          "hotness": 80
+        },
+        {
+          "title": "谷歌新手机主打AI功能，但消费者是否买账存疑",
+          "summary": "谷歌发布搭载大量AI功能的新款手机，NYT评论质疑用户是否真的需要这些AI特性。",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWFBhbk11Q0ctTXc4b3ZUYUV5OHRQUHJzNW1ZU0NFYVJ1b3lyRElrVFpGODJQdWtlRkxZa1o3SVAwbW5CN3N6X0NSYXlnWXBKbEIwMmxGc0kwNmFYb25kWjRtMU84Zy1IdUVCUDNibkc5LVdPNjhheWlsS0ZFN3FXWXQtNjlwSENHWVY3RFMwcw?oc=5",
+          "hotness": 70
+        },
+        {
+          "title": "Waymo将Gemini AI助手整合进自动驾驶出租车Ojai",
+          "summary": "Waymo在全新Ojai出租车的乘客界面中集成Gemini，支持语音调温、查周边、介绍地标，但无法控制驾驶。",
+          "link": "https://www.ithome.com/0/992/108.htm",
+          "hotness": 90
+        },
+        {
+          "title": "美陆军网络负责人披露：AI任务组正构建网络‘狩猎’智能体",
+          "summary": "美国陆军正组建AI任务组，开发能在国防部网络中自主搜索威胁的AI代理，用于网络防御。",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX01nMGJsYVFhNkV5WGVMM1R5b0N1emthRF9IYlB5VXFWTGVwaElJblR6MXNUalFjektSNWFibU5XajlOVG42X1RtaW1JMWtkT1RCSWNxY0VOam1RQWRoNDNKakFfREtNaExfclpObkt1ajdWUE9Lcy1sbFZ3cFF1QXVHS3RjUVA1OTc5Tm5GbTVYalhyUHhtM1dWUEVkMDNQaTU4cnJmOWNxVDFIQ3g3ekZOQ0ZtbS1DY3p3?oc=5",
+          "hotness": 75
+        },
+        {
+          "title": "斯坦福AI Tinkery走出校园，面向全球课堂开放",
+          "summary": "斯坦福的AI Tinkery项目扩展，支持世界各地的教室使用AI动手实验工具。",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWFJYcjlGRGRCLU5JMHJMa2JGYmRjM1p4dzFmSm9mZmNyTnNvSG9FUWE2RXBEdXRqRkpjUVdKR2UtS3NGRy10dzZ6SnJENzhZaFpuY21zTy1nNmdlV1ZhdU5oek1qUEVRVnZTcVdKZElvOUd6V1B5U2p6aGMxb0tfOERJWE0tbjZoUDVadjkwZw?oc=5",
+          "hotness": 50
+        },
+        {
+          "title": "ChatGPT广告业务扩展至31个欧洲市场",
+          "summary": "OpenAI宣布ChatGPT Ads进入欧洲31个国家，广告商可在AI对话场景中触达用户。",
+          "link": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+          "hotness": 55
+        },
+        {
+          "title": "OpenAI为前沿模型提供零数据保留选项",
+          "summary": "OpenAI强化API客户的数据隐私，推出零数据保留和私有安全处理预览，兼顾AI安全与隐私。",
+          "link": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+          "hotness": 78
+        },
+        {
+          "title": "OpenAI与CodeAI合作培养第一代AI人才",
+          "summary": "双方合作在中小学推动AI素养教育，帮助学生批判性理解并使用AI。",
+          "link": "https://openai.com/index/partnering-with-codeai",
+          "hotness": 60
+        },
+        {
+          "title": "中国交通运输部：AI识别疲劳驾驶准确率达95%以上",
+          "summary": "交通运输部发布‘AI+交通运输’行动，AI已用于车辆主动安全预警，将大模型和智能体引入交通全链条。",
+          "link": "https://www.ithome.com/0/992/127.htm",
+          "hotness": 70
+        },
+        {
+          "title": "英伟达CEO之女黄敏珊现身2026世界机器人大会",
+          "summary": "黄敏珊以Omniverse与机器人产品营销高管身份访华，展示英伟达在物理AI与机器人领域的合作成果。",
+          "link": "https://www.ithome.com/0/992/126.htm",
+          "hotness": 45
+        },
+        {
+          "title": "李飞飞自曝管理World Labs像‘虎妈’",
+          "summary": "AI教母李飞飞谈自己创办世界模型公司后的角色转变，强调高标准要求并给年轻人建议。",
+          "link": "https://www.ithome.com/0/992/121.htm",
+          "hotness": 70
+        },
+        {
+          "title": "MiniMax发布多模态创作Agent工作台MiniMax Design",
+          "summary": "MiniMax Design调用H3多模态视频模型，实现从任务拆解、素材处理到成片交付的完整内容生产自动化。",
+          "link": "https://www.ithome.com/0/992/095.htm",
+          "hotness": 90
+        },
+        {
+          "title": "抵押贷款科技之争：AI优先还是AI原生？",
+          "summary": "HousingWire探讨抵押贷款行业应选择渐进式AI增强还是原生AI架构。",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4zTGZSeVptTHhzUUZ2R0lRczVaNzBrUnlDWUVFNy1JZ25pT3FVUUhwV1Jlek9GcEtMUXlMb2p0NmJ5OU05cVVUMVJyODhqeFk4amZtS3JGbzNCR0JTcUhNeHF3dzlnemZEQndzWlJVUEh1cWhPV2hDNy1NNDQ?oc=5",
+          "hotness": 35
+        },
+        {
+          "title": "我用AI代理完成返校购物：高效却令人失落",
+          "summary": "一位体验者让AI代理搞定开学采购，过程顺利却引发对自身角色被替代的复杂情绪。",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcXBvd0M0U1JqcEt4dmdDZmlvaVVlWGMwa08xVzI2Z3JQWUVNaUpaZUlSeUhKdU1peEZ4YlpGMXY3cGdoVHd2RlF3MXM2VEh4RjN4aG1QVXVJcGlzVEZQMlNUM3p0MzdvRE5SSlBvMkpKelpPZ1daSEU3TGJJOHRQUE4zSHZ5N2tEOC03RllkUi1jM2VqZDdPRFFLQTg3R0txWWJWSklXaEtCeW5zLUNPWHlKQ2x1d2xvZVlpZ2k2aWYtbk1OZ2N6Tk93WlNEdXM?oc=5",
+          "hotness": 68
+        },
+        {
+          "title": "捷尼赛思旗舰SUV GV90首发：AI驱动软件+首创车顶气囊",
+          "summary": "现代旗下豪华品牌推出GV90，宣称融合AI软件与安全创新，包含对开车门和车顶气囊。",
+          "link": "https://www.ithome.com/0/992/143.htm",
+          "hotness": 15
+        },
+        {
+          "title": "OPPO/一加ColorOS交通卡免费开卡，新增AI到期提醒",
+          "summary": "ColorOS更新支持全国330+城公交先乘后付，同时加入AI团购券到期提醒等小功能。",
+          "link": "https://www.ithome.com/0/992/137.htm",
+          "hotness": 25
+        },
+        {
+          "title": "微软确认Win11更新KB5121003致多款游戏闪退",
+          "summary": "该更新引入低延迟配置，但引发部分游戏崩溃，调查指向第三方驱动inpoutx64.sys。",
+          "link": "https://www.ithome.com/0/992/103.htm",
+          "hotness": 20
+        },
+        {
+          "title": "Epic喜加一：休闲游戏《Grow & Go》限时免费",
+          "summary": "休闲农场配送模拟游戏开启一周免费领取，与AI无关。",
+          "link": "https://www.ithome.com/0/992/097.htm",
+          "hotness": 5
+        },
+        {
+          "title": "小米推出米家轻量通勤双肩包，99元",
+          "summary": "18L容量轻量背包上架，与AI无直接关联。",
+          "link": "https://www.ithome.com/0/992/092.htm",
+          "hotness": 5
+        },
+        {
+          "title": "七彩虹隐星P15笔记本重回i5+RTX3050配置，5899元",
+          "summary": "一款入门游戏本配置调整，与AI无直接关联。",
+          "link": "https://www.ithome.com/0/992/088.htm",
+          "hotness": 5
+        },
+        {
+          "title": "小鹏X9黑武士官宣：全系标配图灵芯片",
+          "summary": "新款MPV发布，智能化标配图灵芯片，支持5C超充。",
+          "link": "https://www.ithome.com/0/992/087.htm",
+          "hotness": 15
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "title": "OpenAI发布GPT-5.6 Luna：Replit免费模式即用",
+          "summary": "OpenAI通过Replit合作推出GPT-5.6 Luna，让任何人免费将想法变成可运行软件，无需担心token成本。",
+          "link": "https://openai.com/index/replit",
+          "hotness": 100
+        },
+        {
+          "title": "从WHO疾病暴发新闻中提取流行病学知识图谱",
+          "summary": "Nature发表研究，用NLP构建流行病学知识图谱，用于传染病监测。",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBTckZrcWF1NTFQOXJ4ZGs5dDNnUHNlN3NwdXpjMVhOQ3RuTWdqTEgwMndPaUEwWmNNN2pLeDEyeVd1dWVVNUFiS2p6cEhpbUVDaEE2UHVpQkNvOHEyeVdN?oc=5",
+          "hotness": 65
+        },
+        {
+          "title": "WIRED亲测：可现场学习的机器人展现AI未来",
+          "summary": "记者体验一款能在现场即时学习的机器人，展示具身智能的最新进展。",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWGZkR3hzWk5ucFlyNTFmTEI1V05oUXBSdUJNMDNhLXNUdE1lTFZiUjJQT0pXdVREY1ZwVmZFaWdSTktpZ2ZxSjdTejFPMThDdlFnMDZ2aDBxSW5VcHdLblB1X3Bxc0dhUXdDSGlFaW8wYlMtR2t6cWtvYm9mREEzeDNn?oc=5",
+          "hotness": 70
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "title": "DeepSeek Harness更新多模态支持，剧透V4视觉版",
+          "summary": "DeepSeek Harness v0.1.0-rc.8支持原生图片请求，可为第三方视觉模型开启多模态；同时改进子智能体、MCP/ACP附件持久化，并为V4视觉版预留接口。",
+          "link": "https://www.ithome.com/0/992/120.htm",
+          "hotness": 85
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "title": "UC伯克利教授承认用AI润色关于学生数学能力的评论文章",
+          "summary": "教授未及时披露AI辅助引发学术诚信讨论。",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5lRFUzSjhjZTlJQ1VMRzFVZ2FEd3JRTy1pOGZkMlRTQmpjOC1qSGVGLTZ6OVYtNEt4MC15QnphT3JTQlhPR0JRMFh3SnpOR0dqZ3hVdmFocEhfTzAwTE1ETXI4OHM0ckg3cVV3WHgtVXFmc045UUFJYVNIcF8?oc=5",
+          "hotness": 45
+        },
+        {
+          "title": "“我不是机器人”与我们的AI对话",
+          "summary": "文章探讨验证码和AI对话中的身份认同与教育含义。",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSjA3VHRVRXBlX2kyOVl3Wk9NWGVTZE04X2F4ZUljVkJlaXJlZEpsN19fTkJWSDhubUd0V2d5bE4wc2lrdVpEU2J3TFMtT1NtSmNPZlF6aU9QdVRYRVJLcDRybG1HMHBtNjdIbDYyMjJfZlVYQmxxX2hXY1NnS0dMem9WTEl3OEJ5YjQ5a0RBaGVyUm9RNkN2V3Y3WURGZDFLcWplQ0tObzZCbnVLY3RIUk1VNUY5NWs?oc=5",
+          "hotness": 30
+        },
+        {
+          "title": "AI劳动力之争：关于未来工作的三种观点",
+          "summary": "卡内基基金会汇集不同视角，讨论AI对就业的冲击与应对。",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTmwyQ2hxNEN3dzdyNlBqUTJFMmoyWHVzdktidlJFdzNsVkVhSDYySDM5M0V2clZSclh6NzBoQndZR3l5aTdFdmN6SjBlc0NyT3BXZU96YVRZT3Rha1RxcEgzNWVZUXh3RmVTcXBpa01LTUh0WVhrY2lEWXFtYVRRRE5KbEJLMTZkdzMyd1UwZFRWaGdvUW5ZbUdOS1RaZG5Oa0E?oc=5",
+          "hotness": 60
+        },
+        {
+          "title": "科技公司大量购买稀有旧书训练AI模型",
+          "summary": "据报道，AI公司收购古籍善本以获取高质量训练数据，引发版权和文化遗产争议。",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQmstVnd3VlIwSFJFMmFXa0wweTVuczdzYWFUeTNsS2ZaQ0kxaFk5S0gtYUNvQTFlMnVnRVJKWmZ1WVZrNlVCbGlRR1k4RnJuaHh3N0RDU0NXT3FUQ1dQYVVVZGctN2poMlNxVTM2X29kSEg0bU5wdjk2bGN3bUNVRWoyeVJpWHFyWHFSZWlXMURrejQ5QnJCbVktZnYtNTlQTl9UaDVBbkNPbnZwOFdQd0ZFM1VlQWhmWEQ3OV9PRmotbjA?oc=5",
+          "hotness": 75
+        },
+        {
+          "title": "AI规则正被参与者自己改写",
+          "summary": "联合国大学警告，科技巨头正主导AI治理规则，可能损害全球民主监管。",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9BNHg1bWpSdmpONHA0RVA1MWhEMXdIcVhYUlpBRjhPeDFaRG90UHZiNlVrVGZtc1RFTVVzYlU2U0xhcmlCTUc4WG9DWnNKRTJSX3cxMnFPRkRrQVRNUU9Yc2pXaTZNZHM5NkZST0VmVllUS2ZpekdoUGg3NA?oc=5",
+          "hotness": 70
+        },
+        {
+          "title": "教官视角：陆军军士长学院如何适应AI范式转变",
+          "summary": "一篇军事教育文章，探讨为未来指挥官培训AI素养。",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMGRDNXFZS3FWWUhDMkMxMExNWU14ZEJHcmZHeWpMU3hKUnJnQ3poTHc4cUdRWTdEMGJuU1gxTkZMVmg5OTRGYkJkb1RSTnBTVUxYbFYxTExkcnp3V0pHcmJ1c3MyWExiaXNWb3A4bmdhanJEcWVjckVMb250NEpmbkRHek0tOFRWcEp0WEs4R09Ba3VEcXNQZmxOMExGN1NGSmFoWjZrVQ?oc=5",
+          "hotness": 20
+        },
+        {
+          "title": "中国军方称AI不能取代指挥官，但正在进行测试",
+          "summary": "文章分析中国军队将AI用于辅助决策，同时强调人的判断不可替代。",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQd3Y3YW9hZGhMdzh1Mzg5U0lDR2dfLWVaWWcwSlAxUUZJbGh2R1JXSXQ0V2RkTTl6ZndxZ2djVHFTZW96WWpmemJwVXhTMFZuTmtuRnBUTG1DLUM2a1NJQjJkdTJtM01BSDBuSXlxSXAyLThRXzNsMlJmZUJoUVQxZWpCZEZEQU1NWW9QeEFuM1V2aVpWTnNTSA?oc=5",
+          "hotness": 65
+        },
+        {
+          "title": "观众将数字艺术作品误认为‘AI垃圾’，艺术家回应",
+          "summary": "明尼阿波利斯Walker艺术中心的数字作品被参观者误认为AI生成，引发关于艺术创作与AI的讨论。",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORXZQenBOUm5QQVg4ZWhmbDdOUEc3QzBnQnlvcm5Hako5SGxwQUFoRXJsdnRSTFVnNEZqNnl4MGtJMTlKZnFOMUpTMmwxWVY5ODNnczJqRzc3NG9veXl5MFNyZk14R3F2UjdUTndvQkpVdER2ekswNXQ1QllGeGc4cXgyUnExNWQtYy1VTjVLcFlsWFVac3E3dkNPanByNWlCdDRYbWtpWWd3bm8?oc=5",
+          "hotness": 40
+        },
+        {
+          "title": "Axios：AI面临的新生存威胁",
+          "summary": "文章称AI的真正风险可能来自电力短缺、社会反弹等现实因素，而非超级智能。",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0zbURfamRTaHJPZ0Q4UTNlVTlob2NtcDdiMk14UmdoZVgyY1Exc3B3b29xQmo5eFVtcFBsVUFpOUNwU25pS21FdGM2MUJ3aW1wWV8zVVBwaUdXeExTWDdCYXUzQkVLaV9wZUFHWlFBXzdzaHVW?oc=5",
+          "hotness": 70
+        },
+        {
+          "title": "共和党警告AI公司：数据中心已成政治雷区",
+          "summary": "Axios独家称共和党人提醒AI企业，数据中心选址和电力消耗正引发地方不满，具有政治风险。",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5xX3RrbW1mUmlHZEZHRHdmT0loOGpGVVN0MVpOakdVNDktTGFFWkxMUGR2dm5nRHpRbXRmanFHWkhhRlNvYXNXOUtsb295eDhtRGMtUWtuMi1HRlN0d2JzUHlVT2VyN3Q4aHF1cWhITThIalk?oc=5",
+          "hotness": 75
+        },
+        {
+          "title": "FDA批准的医疗AI很少经过真实世界获益测试",
+          "summary": "研究发现，多数获FDA批准的医学AI缺乏临床试验验证，实际临床收益存疑。",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTVpQZmhZZEdzeGZnaDdSelk4b1BrQ3ltZllta09rd01HTlRfVEFjeUxRSzNQQXZaQWpUWklfSnBLWWJTSHV3S2VZTlMwYzdqV0htZlFnbFVjUnViRXVsNFEwdG5lQjR3dkljc3VvY1hRU2tlcmpuMktkdlREeTcwQzZzOWRsVHdYMl9BdHZyMkx0a0paTTkwYUVFY2FXXzhjckJ6SmIyTGdUTVVI?oc=5",
+          "hotness": 70
+        },
+        {
+          "title": "检察官称AI影响青少年刺杀母亲和弟弟",
+          "summary": "一名17岁少年被控谋杀家人，检方认为AI聊天机器人影响了他的行为，引发AI责任争议。",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE05dkVaZEtVeWNGSUdoVU1NeWlSYzZkX3ZmSDlCSE10VUZzUVM0ejdmZW00S3NiRHV3TG85YlBZcXcwbHpNSFp6OS1uZUp5ZlhqOW5KUFpfb0ExYkJ0cjd0c05R?oc=5",
+          "hotness": 65
+        },
+        {
+          "title": "AI就业末日为何还没来？",
+          "summary": "The Free Press分析实际就业数据，认为AI取代工作的速度比预想慢。",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBoQlhEWUhuT0tIOW14Um5leTlUVEZaN1hPTm1oX2RMU3hRaDVHM095enNYbmlMeFduNDNwWF83TTFocE9taHN6SUVSX005NHp1bVFBcHhYZ2pqbzRxWTkzemVn?oc=5",
+          "hotness": 55
+        },
+        {
+          "title": "OpenAI推出国家级安全民主监督计划",
+          "summary": "OpenAI启动新倡议，为政府机构提供工具和培训，加强对AI在国家安全领域使用的民主问责。",
+          "link": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+          "hotness": 72
+        },
+        {
+          "title": "与AI对话：人类智能与AI互动的中间地带",
+          "summary": "一篇哲学随笔，反思人机对话如何改变对智能和关系的理解。",
+          "link": "https://latterdaysaintmag.com/conversations-with-ai-the-space-between-where-human-intelligence-and-ai-interact/",
+          "hotness": 25
+        }
+      ]
+    }
+  }
+}

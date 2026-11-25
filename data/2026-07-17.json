@@ -1,0 +1,119 @@
+{
+  "overview": [
+    "中国企业发布全球最大开源模型Kimi K3，震撼AI界，展示前沿水平并推动开源生态。",
+    "Google Gemini 3.5 Pro再次延迟，导致股价下跌，反映AI竞赛中技术落地的压力。",
+    "2026世界人工智能大会（WAIC）开幕，产业规模突破1.2万亿元，阿里巴巴等展出多个智能体平台，智能体应用加速落地。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "title": "2026世界人工智能大会（WAIC）开幕：产业规模突破1.2万亿元，阿里巴巴展出多个智能体平台",
+          "summary": "2026世界人工智能大会在上海开幕，核心产业规模突破1.2万亿元。阿里巴巴等企业展出面向千行百业的智能体平台，推动AI产业应用落地。",
+          "link": "http://www.news.cn/tech/20260716/8e6a2e74f0cd4e888b9873d5b26901c3/c.html",
+          "hotness": 92
+        },
+        {
+          "title": "Google Gemini 3.5 Pro延迟导致Alphabet股价下跌",
+          "summary": "据彭博社和CNBC报道，Google最强大的AI模型Gemini 3.5 Pro因未达内部目标而延迟发布，导致Alphabet股价下跌。",
+          "link": "https://www.cnbc.com/2026/07/16/alphabet-stock-gemini-3-5-pro-ai.html",
+          "hotness": 88
+        },
+        {
+          "title": "Nvidia发布新AI模型并扩展日本物理AI生态系统",
+          "summary": "Nvidia推出新AI模型，同时宣布扩大在日本物理AI领域的布局，推动机器人及自动驾驶等应用。",
+          "link": "https://www.cnbc.com/2026/07/16/nvidia-reveals-new-ai-model-and-expands-japans-physical-ai-ecosystem.html",
+          "hotness": 85
+        },
+        {
+          "title": "DeepSeek估值约520亿美元：中国AI初创公司估值飙升",
+          "summary": "据路透社报道，一份中国文件暗示DeepSeek估值约为520亿美元，反映市场对中国AI创业公司的高度青睐。",
+          "link": "https://www.reuters.com/world/asia-pacific/chinese-filing-implies-deepseek-valuation-around-52-billion-2026-07-16/",
+          "hotness": 80
+        },
+        {
+          "title": "OpenAI案例：Cars24使用AI Agent处理超百万分钟对话，恢复12%流失线索",
+          "summary": "印度二手车平台Cars24利用OpenAI驱动的语音和聊天智能体，每月处理超100万分钟对话，成功挽回12%的流失客户，展示Agent在商业中的巨大价值。",
+          "link": "https://openai.com/index/cars24",
+          "hotness": 82
+        },
+        {
+          "title": "Netflix今年约300部作品使用了生成式AI",
+          "summary": "Netflix透露2026年约有300部作品在制作中采用了生成式AI技术，涵盖剧本、视觉特效等环节。",
+          "link": "https://variety.com/2026/biz/news/about-300-netflix-programs-used-ai-this-year-q2-earnings-1236812914/",
+          "hotness": 75
+        },
+        {
+          "title": "DARPA和美国空军成功试飞AI控制的F-16战机",
+          "summary": "DARPA与美国空军合作，完成AI自主驾驶F-16的试飞，为未来自主空战奠定基础。",
+          "link": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
+          "hotness": 78
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "title": "中国企业发布全球最大开源模型Kimi K3，震惊AI界",
+          "summary": "月之暗面（Kimi）发布Kimi K3开源模型，参数规模达全球最大，性能达到前沿水平，引发国际关注。",
+          "link": "https://www.axios.com/2026/07/16/moonshot-kimi-ai-china-model-openai-anthropic",
+          "hotness": 99
+        },
+        {
+          "title": "x.ai发布Grok 4.5模型",
+          "summary": "埃隆·马斯克的x.ai公司正式发布Grok 4.5，在推理和多模态能力上进一步提升。",
+          "link": "https://x.ai/news/grok-4-5",
+          "hotness": 95
+        },
+        {
+          "title": "OpenAI推出GPT-Red：通过自博弈实现鲁棒性提升",
+          "summary": "OpenAI发布GPT-Red系统，利用自动化红队和自博弈方法，显著提升AI模型对提示注入和对抗攻击的鲁棒性。",
+          "link": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+          "hotness": 80
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "title": "Linus Torvalds强硬回应AI编码批评：要么fork，要么走人",
+          "summary": "针对Linux内核中引入AI编码工具的争议，Linus Torvalds表示不满者可以fork或自行离开，坚定支持AI辅助开发。",
+          "link": "https://arstechnica.com/ai/2026/07/linus-torvalds-to-critics-of-ai-coding-in-linux-fork-it-or-just-walk-away/",
+          "hotness": 70
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "title": "欧盟要求谷歌开放安卓AI功能并共享搜索数据",
+          "summary": "欧盟监管机构要求谷歌向第三方开发者开放安卓系统中的AI功能，并共享搜索数据，以促进竞争和防止垄断。",
+          "link": "https://news.sina.com.cn/o/2026-07-17/doc-iniiahrh7384898.shtml",
+          "hotness": 85
+        },
+        {
+          "title": "微博王巍：AI安全风险加速外溢，可信治理需多方协同",
+          "summary": "微博首席运营官王巍在WAIC上指出，AI安全风险正加速向现实世界外溢，呼吁政府、企业、学界协同构建可信治理体系。",
+          "link": "https://news.sina.com.cn/zx/2026-07-16/doc-inihyuqe1307888.shtml",
+          "hotness": 75
+        },
+        {
+          "title": "OpenAI发布青少年AI安全保护措施与家长控制工具",
+          "summary": "OpenAI宣布为ChatGPT引入年龄保护、学习工具和家长控制功能，确保青少年安全使用AI。",
+          "link": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+          "hotness": 78
+        },
+        {
+          "title": "中国推动人工智能全球治理：成立世界人工智能合作组织",
+          "summary": "中国在上海主办世界人工智能合作组织成立签约仪式，倡导构建普惠包容的全球AI治理体系，得到国际社会积极评价。",
+          "link": "https://www.mfa.gov.cn/wjbzhd/202607/t20260716_11984399.shtml",
+          "hotness": 80
+        }
+      ]
+    }
+  }
+}

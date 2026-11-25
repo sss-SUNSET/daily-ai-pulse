@@ -1,0 +1,221 @@
+{
+  "overview": [
+    "OpenAI发布GPT-5.6 Sol预览版，在编程、科学和网络安全能力显著提升",
+    "Google正式推出Interactions API，成为Gemini模型和智能体的主要接口",
+    "中国发布智能体互联系列7项国家标准，破解AI领域'信息孤岛'难题"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "title": "腾讯Marvis上线：操作系统级AI助手登场",
+          "summary": "腾讯发布操作系统级AI助手Marvis，用户可通过一句话指令操作电脑并实现跨端协同。",
+          "link": "https://finance.sina.cn/stock/jdts/2026-05-21/detail-inhyrrtp6390935.d.html?vt=4",
+          "hotness": 75
+        },
+        {
+          "title": "vivo X Fold6折叠旗舰发布 打造'一套AI工作台'",
+          "summary": "vivo发布X Fold6折叠旗舰手机，定位为完整的AI工作台，丰富手机核心价值。",
+          "link": "https://finance.eastmoney.com/a/202606273785479477.html",
+          "hotness": 70
+        },
+        {
+          "title": "中国联通陈丰伟：家庭是AI最大的'价值洼地'",
+          "summary": "中国联通高管表示家庭场景是AI应用最大的价值洼地，具有巨大发展潜力。",
+          "link": "https://finance.sina.cn/tech/2026-06-27/detail-inievzus1370880.d.html?oid=WA%200821%207001%200763%20(FORTRESS)%20Pintu%20Rumah%20Minimalis%201%20Pintu%20Keritang%20Indragiri%20Hilir&vt=4",
+          "hotness": 65
+        },
+        {
+          "title": "从智谱到中科闻歌，港股AI迎来中科院系'大模型国家队'",
+          "summary": "中科院系AI企业在港股市场形成大模型国家队，包括智谱AI和中科闻歌等企业。",
+          "link": "https://k.sina.com.cn/article_6246943737_17458cbf902701cdd0.html?from=tech",
+          "hotness": 75
+        },
+        {
+          "title": "国际创新创业创意生态大会落地重庆人工智能湾区",
+          "summary": "国际创新创业创意生态大会在重庆人工智能湾区举行，'通境'三创服务平台正式亮相。",
+          "link": "https://www.cq.gov.cn/ywdt/jrcq/202606/t20260628_15781813_app.html",
+          "hotness": 60
+        },
+        {
+          "title": "国家人工智能应用中试基地在厦发布22项创新成果",
+          "summary": "国家人工智能应用中试基地在厦门发布22项创新成果，推动AI技术产业化应用。",
+          "link": "https://m.sohu.com/a/1042634672_362042?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+          "hotness": 65
+        },
+        {
+          "title": "哈尔滨市上线'智聊通办'AI政务服务",
+          "summary": "哈尔滨市推出'智聊通办'AI政务服务系统，提升政府服务智能化水平。",
+          "link": "https://www.hlj.gov.cn/hlj/c107858/202606/c00_31953410.shtml",
+          "hotness": 60
+        },
+        {
+          "title": "AI'数字员工'进小店 餐饮业开启数智化新引擎",
+          "summary": "AI数字员工进入小型餐饮店铺，为餐饮业数字化转型提供新动力。",
+          "link": "https://news.sina.com.cn/zx/gj/2026-06-27/doc-inievera1651760.shtml",
+          "hotness": 65
+        },
+        {
+          "title": "从'算力'到'印钞机'：黄仁勋谈'AI工厂'新叙事",
+          "summary": "英伟达CEO黄仁勋提出AI工厂新概念，强调每个Token都能产生利润。",
+          "link": "https://finance.sina.cn/stock/jdts/2026-06-27/detail-inievvnu7120442.d.html?oid=800&vt=4&cid=76993&node_id=76993",
+          "hotness": 80
+        },
+        {
+          "title": "全球媒体聚焦︱中国企业正改写全球AI竞争格局",
+          "summary": "全球媒体关注中国企业正在改变全球AI竞争格局，影响力不断提升。",
+          "link": "https://m.sohu.com/a/1042633102_115239/?pvid=000115_3w_a&scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+          "hotness": 75
+        },
+        {
+          "title": "中亚小国，也开始卷AI了",
+          "summary": "中亚国家开始积极布局AI产业，加入全球人工智能竞争行列。",
+          "link": "https://m.thepaper.cn/newsDetail_forward_33459674",
+          "hotness": 60
+        },
+        {
+          "title": "哈萨克斯坦总理别克捷诺夫：期待在人工智能时代把握中哈合作机遇",
+          "summary": "哈萨克斯坦总理表示期待在AI时代把握中哈合作机遇，加强两国科技合作。",
+          "link": "https://finance.eastmoney.com/a/202606273785475561.html",
+          "hotness": 65
+        },
+        {
+          "title": "AI全面重塑世界杯！2026美加墨大赛成全球人工智能创新展示舞台",
+          "summary": "2026年美加墨世界杯将成为AI技术全面应用的展示平台，重塑体育赛事体验。",
+          "link": "https://m.bjnews.com.cn/detail/1782545975129156.html",
+          "hotness": 70
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "title": "Previewing GPT-5.6 Sol: a next-generation model",
+          "summary": "OpenAI预览GPT-5.6 Sol下一代模型，在编程、科学和网络安全能力显著提升，配备最先进的安全架构。",
+          "link": "https://openai.com/index/previewing-gpt-5-6-sol",
+          "hotness": 95
+        },
+        {
+          "title": "How agents are transforming work",
+          "summary": "OpenAI研究论文展示AI智能体如何改变工作方式，能够处理更长、更复杂的任务，提升各岗位生产力。",
+          "link": "https://openai.com/index/how-agents-are-transforming-work",
+          "hotness": 85
+        },
+        {
+          "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+          "summary": "GPT-5 Pro帮助免疫学家解决长达3年的科学谜题，为癌症和自身免疫疾病研究提供新见解。",
+          "link": "https://openai.com/index/gpt-5-immunology-mystery",
+          "hotness": 80
+        },
+        {
+          "title": "China's Zhipu is closing in on top U.S. AI models with Anthropic and OpenAI held back",
+          "summary": "CNBC报道智谱AI正在逼近美国顶级AI模型水平，而Anthropic和OpenAI发展受到限制。",
+          "link": "https://www.cnbc.com/2026/06/26/china-zhipu-z-ai-open-source-anthropic-openai.html",
+          "hotness": 85
+        },
+        {
+          "title": "Anthropic's Mythos 5 AI Model Cleared by US for Wider Use",
+          "summary": "美国批准Anthropic的Mythos 5 AI模型扩大使用范围，允许可信合作伙伴使用该先进模型。",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-26/us-allows-trusted-partners-to-use-anthropic-s-mythos-5-ai-model",
+          "hotness": 80
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "title": "Interactions API: our primary interface for Gemini models and agents",
+          "summary": "Google正式推出Interactions API，成为Gemini模型和智能体的主要接口，面向开发者全面开放。",
+          "link": "https://blog.google/innovation-and-ai/technology/developers-tools/interactions-api-general-availability/",
+          "hotness": 90
+        },
+        {
+          "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+          "summary": "OpenAI与博通联合推出Jalapeño定制AI芯片，专为大语言模型推理优化，提升性能效率和扩展性。",
+          "link": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+          "hotness": 80
+        },
+        {
+          "title": "Supermicro Super Al Station GB300",
+          "summary": "Supermicro发布GB300超级AI工作站，为AI开发和部署提供高性能计算平台。",
+          "link": "https://www.servethehome.com/taking-an-up-close-look-at-the-supermicro-gb300-super-ai-station/supermicro-super-al-station-gb300/",
+          "hotness": 70
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "title": "破解'信息孤岛'难题 智能体互联系列7项国家标准发布",
+          "summary": "中国发布智能体互联系列7项国家标准，旨在解决AI领域信息孤岛问题，促进系统互联互通。",
+          "link": "https://www.stdaily.com/web/gdxw/2026-06/26/content_538215.html",
+          "hotness": 85
+        },
+        {
+          "title": "美国发布《人工智能机遇伙伴关系联合声明》：美国AI供应链联盟扩容背后的治理博弈",
+          "summary": "美国发布AI机遇伙伴关系联合声明，扩大AI供应链联盟，背后涉及复杂的治理博弈。",
+          "link": "https://hub.baai.ac.cn/view/55899",
+          "hotness": 75
+        },
+        {
+          "title": "王新宇：今天AI的聪明程度，超过了全国14亿人的平均水平",
+          "summary": "专家王新宇表示当前AI的智能水平已超过全国14亿人的平均水平，引发对AI能力的讨论。",
+          "link": "https://m.thepaper.cn/newsDetail_forward_33461606",
+          "hotness": 70
+        },
+        {
+          "title": "大模型榜单，能不能信？",
+          "summary": "讨论大模型排行榜的可信度问题，质疑现有评估体系的科学性和实用性。",
+          "link": "https://m.thepaper.cn/newsDetail_forward_33462023",
+          "hotness": 65
+        },
+        {
+          "title": "当AI打出免费牌，上万元的'一对一'填志愿慌了吗？",
+          "summary": "AI免费志愿填报服务冲击传统高价一对一咨询服务，引发行业变革讨论。",
+          "link": "https://m.thepaper.cn/newsDetail_forward_33460386",
+          "hotness": 65
+        },
+        {
+          "title": "9.9元还不够，谁将主宰AI时代的'新石油'?",
+          "summary": "探讨AI时代数据作为新石油的价值，分析低价AI服务背后的商业模式竞争。",
+          "link": "https://m.thepaper.cn/newsDetail_forward_33458781",
+          "hotness": 65
+        },
+        {
+          "title": "White House mulls tighter controls on advanced AI",
+          "summary": "白宫考虑对先进AI实施更严格的控制措施，加强AI技术监管。",
+          "link": "https://www.politico.com/news/2026/05/05/white-house-mulls-tight-new-controls-on-advanced-ai-00907468",
+          "hotness": 75
+        },
+        {
+          "title": "Vatican Commission on AI meets for first time",
+          "summary": "梵蒂冈AI委员会首次召开会议，讨论人工智能的伦理和社会影响。",
+          "link": "https://www.vaticannews.va/en/vatican-city/news/2026-06/interdicasterial-commission-artificial-intelligence-meets-first.html",
+          "hotness": 70
+        },
+        {
+          "title": "Helping build shared standards for advanced AI",
+          "summary": "OpenAI参与建立先进AI共享标准，支持评估框架、安全实践和全球合作。",
+          "link": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+          "hotness": 75
+        },
+        {
+          "title": "'It's not going away': The Stanford economist who called the AI entry-level jobs crisis early has the receipts",
+          "summary": "斯坦福经济学家早期预警AI对入门级工作岗位的冲击，现在有证据支持这一预测。",
+          "link": "https://fortune.com/2026/06/27/what-is-ai-impact-entry-level-jobs-stanford-adp-canaries-brynjolfsson-richardson/",
+          "hotness": 75
+        },
+        {
+          "title": "Is AI replacing radiologists? A radiologist disagrees.",
+          "summary": "放射科医生反驳AI将取代放射科医师的观点，讨论AI在医疗领域的辅助作用。",
+          "link": "https://kevinmd.com/2026/06/is-ai-replacing-radiologists-a-radiologist-disagrees.html",
+          "hotness": 70
+        }
+      ]
+    }
+  }
+}

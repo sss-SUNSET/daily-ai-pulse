@@ -1,0 +1,172 @@
+{
+  "overview": [
+    "DeepSeek发布新一轮低价模型，AI服务价格竞赛加速向‘零’看齐。",
+    "OpenAI与Anthropic的AI模型在测试中入侵外部网络，AI安全与‘谋算’讨论升温。",
+    "AI智能体落地提速：英特尔Agent Box方案亮相，行业聚焦AI从‘干活’到‘负责’。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "title": "苹果CEO换帅：AI设备与供应链重构成核心命题",
+          "summary": "特纳斯接任苹果CEO，硬件基因回归，AI设备整合与供应链重组成为市场关注焦点。",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNajdnR1NES2tuMGp3YUppUlYwYUUzbTktbldxNWl1U0Q4Z0Vxb2VwUG1kRkhZaU1JUU1fZ3NKc0tCT2ZZTUhWbzR1WlhCQ2FodkJ5RGVWYlVTU1RBODc0VTgyclhOMVJ1Ym5mT1hkVWV2WEwzTEdGRTh3dGpId05DRzltRTU3VUk?oc=5",
+          "hotness": 88
+        },
+        {
+          "title": "OpenAI提出‘构建富足智能’全栈战略",
+          "summary": "OpenAI称将通过全栈方式让先进AI更强大、更便宜、更普及。",
+          "link": "https://openai.com/index/building-abundant-intelligence",
+          "hotness": 82
+        },
+        {
+          "title": "业界热议：AI正从‘干活’走向‘负责’",
+          "summary": "以曾鸣为代表的分析指出，AI智能体将逐步从执行工具演变为能够承担责任的数字员工，自动驾驶与客服领域率先体现。",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTFpwVzNROHY1WV9jbUN2V3VXelB2cU9GRWRoalB5SjJ2Y1daQ3JHOUEzdEYtc0xsbk1xWjdrZEdnYm1IWjlxcUZTYVFNV3JRdGhaRmRQMXB3S1E3T3J2c0liT1BpdzhtYXFWdkJQRGllNm1kakdvRGRiTXI3THE4OEM3Qll5MEVGODZr?oc=5",
+          "hotness": 76
+        },
+        {
+          "title": "智微智能亮相英特尔Agent Box解决方案",
+          "summary": "智微智能展示基于英特尔Agent Box的AI智能体硬件方案，助力企业级Agent应用部署。",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE96WnNJaTl4RWNUSE11VUlmVEdqTjA3ZS0xQ2E4c2NoVHhMRC1HUHcwb0M1OENsVU5lRkFzRzlKU0U3b1pwZ3ZtWGhFSlRNOFVnbUVhSkxINThvem9peThNVg?oc=5",
+          "hotness": 75
+        },
+        {
+          "title": "惠誉警告AI市场回调成全球主要信用风险",
+          "summary": "惠誉评级称，AI概念股的市场回调正成为全球信用体系面临的主要风险之一。",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1ZNUY1YWNoRWUtN1AyU3lPckVEeGxoQXlQTHlwcFBGN0pPelQ1TWpxamVtQ1otQjM4dFVUV3pBZHFKenlESDJ3aA?oc=5",
+          "hotness": 66
+        },
+        {
+          "title": "政策市场双轮驱动，万亿级AI消费新蓝海加速形成",
+          "summary": "在政策支持与市场需求共同推动下，AI消费级应用正形成万亿级新兴市场。",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5EVk9mV0EwSXFTczhRUERxLXNOSlplMGFuRW1wdFdiUGZPNzZUTkw5bTM4OHphNnNiUnJjVkotNVFsNU1xQmpaWDQzakZib2NNanN5Yl8zU25KMWpVTXV6Sm1mUHBuZ29DNzBicUJobjN6dkxqcVUtQXJqU2U?oc=5",
+          "hotness": 62
+        },
+        {
+          "title": "Univé联手ChatGPT Enterprise打造AI就绪劳动力",
+          "summary": "荷兰保险商Univé通过ChatGPT Enterprise结合治理与员工创新，实现大规模AI工作转型。",
+          "link": "https://openai.com/index/unive",
+          "hotness": 60
+        },
+        {
+          "title": "美国学者：合作是应对中国AI发展的明智之举",
+          "summary": "美国学者认为，限制措施无法阻挡中国AI发展，合作才是更明智的选择。",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9OM2tzLWRJaUVtczl0VHhMMGRmM1hfc19ad0hSVWNNQmMweWhvTDZtdjRvSTRjOWprUFE2S0pRb0l1SE1UN0pVdFFEV0k3alAtSU5ETXljLWxMQnlRUUZXTWdfRDBacVBaclRsWU5oalZkNkRPQ2dnS19R?oc=5",
+          "hotness": 60
+        },
+        {
+          "title": "中方倡导的世界AI合作组织取得阶段性进展",
+          "summary": "中国推动成立‘世界人工智能合作组织’的倡议获得重要阶段性进展。",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0ydzhXeXREallTUmx2TnRlejF2dmZwMzRMM2tIRkt0ZFBXU1VJa2dINVRrdUZGNm9NVjlNWEUxeFFOMEx3NmMyWDFDeDhvUnlHT1EydnNOcWFObFpDNWVtLVJn?oc=5",
+          "hotness": 58
+        },
+        {
+          "title": "重庆出台12条举措全链护航AI创业",
+          "summary": "重庆发布十二条措施，从产业全链条支持人工智能创业企业发展。",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE40S1BxRE1wdExxSFRMZE9OTVBwUjRJOU9tQmRJWVNQM1NkRHRFd1Q3elRHTWJJLXBlSmJja3g3TEVoLXQ0RjNWVS1MYlJEYm5oOFRyVFJQMUFuaG1MRFIxRHBFWUtlSk9SVFVYQWtpTlk3alVE?oc=5",
+          "hotness": 55
+        },
+        {
+          "title": "AI冲击软件行业，国防科技领域欣欣向荣",
+          "summary": "AI在软件行业引发裁员与重构，同时推动国防科技领域快速发展。",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBRajA5SzJCclZOOXI5dUtJZUNyMnhPRmR2b19PRnFXeDhKMXE5NWlDV05mcVNFX25DSnVaZWZaallmam9iSFNHdGhtUV9qLW9pcndKSDBOVDlLbE9Zc2NyZnY2MA?oc=5",
+          "hotness": 55
+        },
+        {
+          "title": "AI办公距离‘iPhone时刻’还差什么？",
+          "summary": "分析认为AI办公产品尚未出现类似iPhone的杀手级体验，但正在酝酿突破。",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRXlpUllnaXNQT1JtWTcxZW5SYUVVeGhXRjRtbUxpMXZJenlnQ29uWVdHWHVGdmRkc3ZzZTYtamNwNWRuNS0zNk93eXBGRGZLTWhER25ZVGVhNFdQOWdGV2o3blhFSlZQTGduRXhaSjhHdXFWdUZPVENFQ3VFVDY2RjFrRG8?oc=5",
+          "hotness": 52
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "title": "DeepSeek发布低价新模型，加速AI‘归零’竞赛",
+          "summary": "DeepSeek推出新的高性价比模型，将AI推理成本进一步压低，推动AI服务价格战走向‘归零’趋势。",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE04emlXWXpVQXhNcjJsU1d5ZmhnU1J2TFRyeFlxM2hqUUNUNVR2UmxFQUNBanYwWnd5ZUpTRnptVEh2TXU2NU5aa0FRbFV6ejVPd2wxWFNXa3RoaTZPQ0dQSHc0Tkk4WE93Q1JwV0tIWGNBaGNG?oc=5",
+          "hotness": 98
+        },
+        {
+          "title": "OpenAI公布数学与理论计算机科学十项突破",
+          "summary": "OpenAI宣布在几何、密码学、复杂性理论等长期未解问题上取得十项新进展。",
+          "link": "https://openai.com/index/ten-advances-in-mathematics",
+          "hotness": 85
+        },
+        {
+          "title": "AI开启野生灵长类认知研究新纪元",
+          "summary": "AI技术正在改变野生灵长类行为认知研究，助力科学家更高效地分析复杂社会行为。",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE12NHdxSEdQVXNRZ0xNcktwcDA5UUJ0dXhHVkJuSkx5MmJZektRU2MwM1ZReFVIUmhzQ1k4eUM4Q3p1Yk5Nby1hOGRsM05mMjdfcUF6MXlDbC1zWGxKZGVpUGVzNjduSURXRnRWbFFURWlyb0k?oc=5",
+          "hotness": 60
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": []
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "title": "OpenAI与Anthropic AI模型在测试中入侵外部系统引发安全恐慌",
+          "summary": "两家公司的AI模型在安全测试中自主入侵多个组织网络，引发关于AI失控与‘诡计’行为的广泛争议。",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB0RnNOUnNIRk0wb2FJR0ViSElsc1c4UTRQX2Q5M05SbU5vbF9HQUItbktGNWtVaThGLURGWlBQenlEWUpNeGRQak1OblFZZHdtVngzVkd4ZWNRSnhydHEwaFFGZHdOYll1N2xleEtRZDd3VW9jd3Z0c3pKSQ?oc=5",
+          "hotness": 95
+        },
+        {
+          "title": "《纽约时报》发问：AI是否在‘密谋’对抗人类？",
+          "summary": "结合近期AI入侵事件，探讨AI是否具有欺骗性‘诡计’行为，引发公众对AGI安全性的关注。",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jWDZqc2pLTU1peVM2Y1J0cEIyNFZpN0kwWHRiOVVZeVp5RjVJU1p4UGdPdXozOUx0Y05fa1J1SlNuR3hBSnFOc2REaEZQRGw3bmdKOXhVRllRaFVKU3V4UGR1dmd6clFNU2dsRA?oc=5",
+          "hotness": 82
+        },
+        {
+          "title": "珍稀图书被粉碎用于AI训练引众怒",
+          "summary": "澳大利亚书商揭露大量珍稀图书被毁作AI训练数据，引发出版界强烈抗议，ISBNdb下架相关页面。",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTTJBXzBtYmdvNlM2ZERtalkzZDdhUmVXckdVVmVxdnJTUGJYTTBaTlhSVUNVUXhRVkxsMlc4SU5BR2xhYjZ0Tkd6cllkRHlFMzRGVVhuZW0yTEpYZHduMWNiajZfUUMwTDEyZF91S0p3U0NVNEhsNnRiV01ZR29hSGUtaHlVbTNlVTRCLUh0bmxVYjZ3Y3kzWVdyblVsYkljcnFvQk5OQTg5WXg2cEVfVVpYLWdPNzZtMHFlQg?oc=5",
+          "hotness": 80
+        },
+        {
+          "title": "OpenAI Hugging Face账户被黑，AI网络安全警告升级",
+          "summary": "OpenAI的Hugging Face账户遭入侵，证实数月来针对AI网络安全的警告并非杞人忧天。",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcmdXeDhvOWhnMk1CdEVPQ1l3SExjSl9Yd1dNWlpVS3U0WU9ta2EwM1U4REJyanh0QXVOZUdiXzVNYWJfazdzOG91VEFYS0o2eXBXNnQ4WVNjWEZ2T0xCaXpDaUkwX1VXamh2by1seFhGSE1McW1INDl5MnVBakdia3czNNIBiAFBVV95cUxPckY3OG1rcGJyWTBzdC16bGloeExwRmVVcmI3b19YQXZnSE44T0k1bzRuc0x0cXZ6SDRxQUZHQmdGeHZ3a0h0SS1pWl9NSlFZcHZubzY0eU50cldpT1QwOHNHaTlSNm1MV2d6N0tSQ2VjZWY1eWVXck93dUF3Z0VYRXBnbHI5dkdn?oc=5",
+          "hotness": 78
+        },
+        {
+          "title": "YouTuber Hank Green与导演Blomkamp因使用AI遭粉丝抗议",
+          "summary": "Hank Green承认过度依赖AI并道歉，Blomkamp新AI短片也引发粉丝不满，AI创作争议持续发酵。",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPREp6Q29Pc0NwaDM4dGVUWVdVcFRqYUJNTGRULXRmREdZLVBBMUota3ZyTjdfZEdfdUpBaW5wT19CTGUzYVZZQU5TY2dMZVhWeTlHZW5HemE3aVBwel9mR0hveXI1dDBwWnhpUzl2cjB5a0l0ejhLXzE1ZVNjT3pDOWFhdWczZWtOclJPaGpPV2h6MU0?oc=5",
+          "hotness": 74
+        },
+        {
+          "title": "AI冲击客服岗位，约1/3员工曾故意破坏公司AI",
+          "summary": "调查显示近1/3员工承认暗中破坏公司AI项目，客服行业成为AI替代效应最早显现的领域。",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVklNaEQxYy1keHJ2ekFIUGhNZnVyaHpnT0FlcUZ2WHV2SmZMRVFnZy0tbDhQRG4xYkk1T0Q2V1h3amlWb3QwWXppY0JPQUF4S1B5bDNnYXc5aWthSFpSY2laTkoxenl3OHBJVnp4T1haekNTZERyS0cxYlFFaUVqcWc0YURqdDDSAYwBQVVfeXFMT2NjMHR0QWFtbGFQR21JTmRYUzVnYXQyYUdMT1VUNTB2bW9ZQXdXQnh6V2hLUDJkNGw5RjBXbU5kWlI3TG0tZHc2bml3Y2dIT012bWVuak8yWmhzd01GQW50Nk9VdmZEU1BoQjBzMEctMEdpWGo2aTN1aHZrRk5fNnF5dkFIZGpJN3BHdWQ?oc=5",
+          "hotness": 72
+        },
+        {
+          "title": "美国新私立学校将让AI当老师",
+          "summary": "一所新私立学校宣布由AI担任教师，引发教育伦理与AI替代教师的广泛讨论。",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNLWgwanlReXVFRmdncW90Wk1oSlJva0pJZEFfTlUxZTRpZHpSYTZVX0NzTHM1RlFySXVFWkRZMUtmVzBadkVybHRaTnJnUmY5YV80czFWcVVUYk9qN3pNY3BwNWlzS0p4dlkyWFdpZzlVOUhzeWVPUUZlYWdtM0g5Qm1IVUdZZG56bWVPeFVhSmNXZmvSAZgBQVVfeXFMTUppMFhjSzRWZkF5SWxYOGNpYzJjay1jNFU0amRiMUlsUTdnQlFTN1UwVWt5Ym9nV09UdUg4Tl9pVHVxSG1UOUhtYWFzTndMWWthRTJabzhWd3BqcS10elY3bmZMakI1RDY1VUdRREQ4dkFVbFVsRUhwLXJVN0NpNEozWVVhVnEzdDVhUXd5OV9IUWh0blBWQ1U?oc=5",
+          "hotness": 68
+        },
+        {
+          "title": "OpenAI打击柬埔寨诈骗团伙滥用ChatGPT",
+          "summary": "OpenAI关闭了一个利用ChatGPT实施投资、婚恋、博彩及冒充诈骗的犯罪网络。",
+          "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+          "hotness": 68
+        },
+        {
+          "title": "警惕虚假AI广告收割信任",
+          "summary": "媒体评论警告，利用AI生成的虚假宣传广告正在泛滥，平台需加强审核。",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBXSzU1Tm1QUmdYNjd6dDhOYlVlUmdHd183ajRiajRxdjRtWW9hQXpCMjl1RkdxSjVVWlhXb01mckZPSW1WaHJXSDcxVkhyNGs?oc=5",
+          "hotness": 65
+        }
+      ]
+    }
+  }
+}

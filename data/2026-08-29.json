@@ -1,0 +1,213 @@
+{
+  "overview": [
+    "Anthropic发布“模型硬件标准”，为AI代理定制原生硬件接口，推动行业向专用硬件演进。",
+    "Google加速模型迭代：Gemini 3.8 Flash预览测试启动，Gemini Omni 1.1 Flash带来更强多模态控制能力。",
+    "OpenAI密集动作：Bell模型泄漏引发对ChatGPT 6的猜测，Codex进化出持久模式智能体，并洽谈10吉瓦数据中心租赁。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "id": 0,
+          "title": "Anthropic发布“模型硬件标准”，为AI代理定义硬件规范",
+          "summary": "Anthropic推出Model Hardware Standard，旨在为AI代理提供标准化的硬件接口，推动端侧智能设备与云端协同。",
+          "hotness": 92,
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9mMzRTNjJiRFhsYnZYMlBtQlNxTWZrRE5VVzF4TnZoel9UdXJSalpXUkE4M1NXN3pNTXdIWW84U0dONmN3bUFKcGwzZGh4SEdCZTFQaEk0TDJZNjF2ZVRFTUhTYTB5MzV5dV9xX1lvWXNMejFUYUlMZGxISQ?oc=5",
+          "source": "Anthropic"
+        },
+        {
+          "id": 6,
+          "title": "OpenAI与泰国MHESI合作启动AI初创加速器",
+          "summary": "OpenAI联合泰国高教部推出为期八周的加速器，扶持健康、教育等领域10家AI初创公司。",
+          "hotness": 70,
+          "link": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+          "source": "OpenAI Blog"
+        },
+        {
+          "id": 9,
+          "title": "微软Teams管理员应用将于2026年10月停用",
+          "summary": "微软公告MC1462922，微软Teams中的管理员应用将在今年10月彻底停用，相关功能迁移至新管理门户。",
+          "hotness": 55,
+          "link": "https://www.ithome.com/0/995/827.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 11,
+          "title": "微软安抚内部员工：数据中心能产生积极社会影响",
+          "summary": "面对员工对数据中心能耗与环境的质疑，微软通过内部文件强调数据中心对社区就业、电网稳定和AI发展的正面价值。",
+          "hotness": 65,
+          "link": "https://www.ithome.com/0/995/822.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 19,
+          "title": "黄仁勋呼吁AI行业加强与社区沟通，建设数据中心需公众支持",
+          "summary": "英伟达CEO黄仁勋表示，AI公司必须主动与当地社区对话，解释数据中心带来的经济与科技收益，以争取社会许可。",
+          "hotness": 75,
+          "link": "https://www.ithome.com/0/995/808.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 20,
+          "title": "美团CEO王兴：AI将用于主业，不做“Token工厂”",
+          "summary": "王兴在财报电话会表示，AI将全面升级美团的组织、产品与流程，但不会单纯售卖算力或Token，而是服务本地生活主业。",
+          "hotness": 72,
+          "link": "https://www.ithome.com/0/995/807.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 22,
+          "title": "阿里巴巴赢得Alibaba.ai和Tmall.ai域名仲裁案",
+          "summary": "阿里通过UDRP程序成功拿回Alibaba.ai与Tmall.ai域名，仲裁认定被告存在恶意注册行为，保护品牌数字资产。",
+          "hotness": 68,
+          "link": "https://www.ithome.com/0/995/805.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 15,
+          "title": "全国算力互联互通区域节点名单公布，北京上海等17省市入围",
+          "summary": "工信部公布国家算力互联互通区域节点建设名单，北京、上海、重庆等17个省市入选，将构建全国一体化算力网络。",
+          "hotness": 80,
+          "link": "https://www.ithome.com/0/995/814.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 28,
+          "title": "芝商所将推出算力期货市场，AI算力进入金融衍生品时代",
+          "summary": "芝商所（CME）正式官宣计划推出算力期货，为AI算力提供价格发现和风险管理工具，被誉为“AI原油期货”。",
+          "hotness": 85,
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB1NXZMVWl6N1JYV2xKd0V1ajlGdk1Dem10ajR5RUx6WXJpc1FoV3N4OFJvdHZfdXFjUFJDSi1zR0gxeWhTZWM5Nw?oc=5",
+          "source": "财联社"
+        },
+        {
+          "id": 34,
+          "title": "沐曦GPU进入太空，浦东企业布局太空算力新蓝海",
+          "summary": "沐曦自研GPU随卫星升空，验证太空环境下AI推理能力，开拓太空算力增量市场，助力商业航天智能化。",
+          "hotness": 78,
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9pdUIyMnBnRFFXd05KZV9pSnlxWl9vdkFYYWdWaTJzQ2pwMFh6eVRENnlTckE1YUNxbW1CTGswcGNjQmExUDV2UXNpakhtbDlWcWNyMmx1NVo5dzhmZUFoelRoTTlxZTQ?oc=5",
+          "source": "pudong.gov.cn"
+        },
+        {
+          "id": 38,
+          "title": "Meta被曝计划出售算力，市场热议AI算力是否过剩",
+          "summary": "有消息称Meta正寻求转售部分闲置算力，引发多家机构对AI算力供需与过剩风险的讨论。",
+          "hotness": 83,
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9FOGE3M0FSb0dTSTM4RjNPdDJEVG9ZV0UwLWd6bTRhZlJKRWFNcFFWQ1RfQVJCYW5VWjUxQ2U5MXE4dUtlMDhraw?oc=5",
+          "source": "财联社"
+        },
+        {
+          "id": 44,
+          "title": "OpenAI洽谈租赁俄亥俄州10吉瓦数据中心，扩张AI算力版图",
+          "summary": "OpenAI正在就租用俄亥俄州一座10吉瓦容量的数据中心进行洽谈，以支撑大模型训练和推理需求。",
+          "hotness": 88,
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBrdHpIekxCYlpaeVc0Y3pndTJtVFkwaVlDWDdYVnlfR2t5YW4tWnRrQXlpVU5kUWdrc3prSmtwQmJQZ3E3UWgxeA?oc=5",
+          "source": "财联社"
+        },
+        {
+          "id": 25,
+          "title": "Meta AI眼镜更新：遮挡指示灯将立即停止拍摄，修补隐私漏洞",
+          "summary": "Meta为AI智能眼镜推送更新，当指示灯被遮挡时摄像头立即停止采集，以解决此前被诟病的偷拍风险。",
+          "hotness": 76,
+          "link": "https://www.ithome.com/0/995/795.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 30,
+          "title": "《时代》全球AI百大人物出炉：约七成来自美国，中国九人上榜",
+          "summary": "《时代》评选全球AI领域百大影响力人物，美国占比近七成，中国有九人入选，涵盖学者、企业家与政策制定者。",
+          "hotness": 74,
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOX1RpMVAxWEdlVnRwaXRjZXhTdFl4X2ZzS2hPMXpLdnVDb0V2NXNLcHY5bEprMWRkVVFsTzYyNl91WTNOWk85blk2cDg3WGR1VlplM0ZRekk0Y2JmWnNmU0NsR25qTVZ5QndDVTFSLTRldTR2akhhNERoUHc3TU1KczFDeUtNOEZSTVFvN9IBjwFBVV95cUxQV00wOS1YU240aFJ1bWZnaThNSXc0VWhOZ2ZldXh4S2Y5dFdrRHR6VWNHMG1mSy1Da20xQkJJVVlRUTUwc0FaaG5CcFFJUEh0SklPV0x3WW8yUHpRdmdyYkU5SndPYmtSRmJ2cUxqdE5uNzF4NDNaRzh1SS14RkdaZm1EWUdpcl9ieTdRQkU2aw?oc=5",
+          "source": "美国之音"
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "id": 1,
+          "title": "Google正测试Gemini 3.8 Flash预览版，距3.7发布仅数周",
+          "summary": "据Android Headlines报道，Google已开始内部测试Gemini 3.8 Flash预览，迭代速度显著加快，新版本或在推理效率和多模态能力上大幅提升。",
+          "hotness": 95,
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTjJuLWh2OV96R1NQOHRaVm5BVmI3SC14SERXX3RkOTNPRnh6VkhOc25EdUNwS0RSb3JVN2lNOUVyc3ZEQml1UTBJWXpjQ0otM2xQR2p3LUMxR2FTUEhaaTNoYmRvOFVYVXhpQ1dnY280ZDNPQ1JjVTdWUnF1ZWg1UC1LX1hNWkxodG9XYl9WTQ?oc=5",
+          "source": "Android Headlines"
+        },
+        {
+          "id": 3,
+          "title": "Gemini Omni 1.1 Flash发布，支持更精细的控制与构建",
+          "summary": "Google发布Gemini Omni 1.1 Flash，面向开发者提供更强大的多模态理解和工具调用能力，支持构建更具控制力的AI应用。",
+          "hotness": 90,
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSTJ5X0FOc1pwR0FiZnZ2cV84SDdhbHhZanZpNnFaVDZpbEVhMHNoOThybFpaQmJpUUhrSnEyTlhxOGJsd0FlM1pUNXBnOENQTVFtLXEwcHYzeDRjeDZCTXA3UDh0U2k3YXp4WkpMUXpabE1HSHVIeDVKTWZRVWxjTjJ4UkM2Nnh1dzBCamVMSEU1SWMtWGlUZUFVM3BTa3pn?oc=5",
+          "source": "blog.google"
+        },
+        {
+          "id": 5,
+          "title": "OpenAI“Bell”模型泄漏，或预示ChatGPT 6雏形",
+          "summary": "GPT-4.5之后的新模型“Bell”部分信息被泄露，外界猜测其可能是ChatGPT 6的早期版本，具备更强的推理和长上下文能力。",
+          "hotness": 96,
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBsMlMtcnpHT2RSQWpFQS02dVlwWXFKZWozWTZUa19JRF9Pd05BZWVJczgzRkZtX004SjUzWl80Rm5ZS2l2SXVWSHhLdkRRM2NRYzhrcUx0WE5WX2MwZW5oSmZR?oc=5",
+          "source": "Geeky Gadgets"
+        },
+        {
+          "id": 13,
+          "title": "OpenAI开发“持久模式”智能体，Codex可主动长时间工作",
+          "summary": "据《连线》报道，OpenAI正在让Codex具备持久模式，能自主拆解任务、持续运行数小时甚至数天，朝真正的AI员工迈进。",
+          "hotness": 91,
+          "link": "https://www.ithome.com/0/995/818.htm",
+          "source": "IT之家"
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "id": 2,
+          "title": "Meta发布Muse Glimmer：30B开源AI模型，专为消费级GPU优化",
+          "summary": "Meta推出Muse Glimmer，一款30B参数的开源模型，针对消费级GPU运行进行优化，让开发者在普通硬件上即可部署高质量AI应用。",
+          "hotness": 88,
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oT1NlaEo3bm14NndCTDRjaVBDZ052V3psSWFmMWk2TGRHWFh2MFdNbTNlSWJObDFLSEMtOTdRdmNGSW1YZUwyT3I0REFQdmdTeHBTTDZxRFJyQ2dYa3ZXa1VUc2NJaUtnWDZXdVFkbTA2UU5TclNzcw?oc=5",
+          "source": "tech-insider.org"
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "id": 18,
+          "title": "OpenAI提交新请愿书，要求法院驳回苹果窃密诉讼",
+          "summary": "OpenAI向法院申请驳回苹果提起的窃密诉讼，主张其技术研发独立，指控缺乏事实依据，法律战持续升级。",
+          "hotness": 85,
+          "link": "https://www.ithome.com/0/995/810.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 21,
+          "title": "前推特法律顾问推出“Twitter.now”，引入AI事实核查系统",
+          "summary": "前推特法律顾问创建新社交平台Twitter.now，试图还原推特早期体验，并加入AI驱动的事实核查，引发马斯克不满。",
+          "hotness": 77,
+          "link": "https://www.ithome.com/0/995/806.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 37,
+          "title": "聚焦AI安全合规治理，网信讲堂在徐汇举办",
+          "summary": "上海徐汇举办网信讲堂活动，围绕人工智能背景下的安全与合规议题，探讨数据隐私、算法问责和监管落地路径。",
+          "hotness": 66,
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE40TkRKTV9TZF9uUjZZbV9fOWxKZU0ybHFLRnZUeTFvS25uNkdETGxfSUMwNmtGcWtfNDdyWWUzeENUa1k2clhnYXBMUlhuclNOMHVHUnNnQ3NhSVdz?oc=5",
+          "source": "上观新闻"
+        },
+        {
+          "id": 40,
+          "title": "“人工智能背后谁在劳作”：数据标注与人工反馈的隐性劳动",
+          "summary": "文章揭示AI产业链中大量数据标注、审核和反馈的低薪隐形劳动，呼吁关注从业者权益与AI伦理责任。",
+          "hotness": 72,
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XOWk0UlhTbjVzb1FvckRuSlRERm5yM3NKSWdnaDB1dWswOVQ4cFV0UGN0MXVUYnBJOVBlUHVheFZoMUx2eTJrcjdsY1paT3dPbWF0ZFVnak9lMmQ4OEdGQ0pqWEg3R1QxWjJpSGlLTW1hWk1CckpsQ2kzOHpXa1k?oc=5",
+          "source": "新浪网"
+        }
+      ]
+    }
+  }
+}

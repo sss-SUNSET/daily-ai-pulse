@@ -312,6 +312,22 @@
   cursor: not-allowed;
 }
 
+.static-status-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  padding: 0.6rem 1rem;
+  border-radius: var(--radius-md);
+  background: var(--bg-color);
+  border: 1px solid var(--border-dark);
+  box-shadow: var(--shadow-sunken-sm);
+  color: var(--primary);
+  font-size: 0.85rem;
+  font-weight: 700;
+  min-height: 44px;
+  white-space: nowrap;
+}
+
 .mt-4 {
   margin-top: 1rem;
 }
@@ -860,6 +876,12 @@
     font-size: 0.85rem !important;
     flex: 1 !important;
     min-height: 40px !important;
+  }
+  .static-status-pill {
+    padding: 0.5rem 0.75rem !important;
+    font-size: 0.78rem !important;
+    min-height: 40px !important;
+    justify-content: center !important;
   }
   
   .content-body {

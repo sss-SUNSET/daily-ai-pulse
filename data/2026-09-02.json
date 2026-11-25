@@ -1,0 +1,204 @@
+{
+  "overview": [
+    "Anthropic发布Claude Fable 5.1和Mythos 5.1，性能大幅提升，缓存读取费用下调75%。",
+    "OpenAI公布下一代模型Astra，首次达到关键网络安全门槛，但出于安全将限制网络安全功能。",
+    "OpenAI将医疗健康数据接入ChatGPT，加速AI在医疗领域的落地。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "id": 2,
+          "title": "OpenAI将医疗数据接入ChatGPT，服务医疗行业",
+          "summary": "ChatGPT可连接可信医疗数据，帮助临床医生安全访问电子病历等，提升诊疗效率。",
+          "hotness": 85,
+          "link": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+          "source": "OpenAI Blog"
+        },
+        {
+          "id": 0,
+          "title": "AI原生公司利用AI代理优化工作流程",
+          "summary": "Basis、Clay和Exa Labs等公司通过AI代理改善客户入职和账户管理，将工作流转化为运营能力。",
+          "hotness": 70,
+          "link": "https://openai.com/index/ai-native-company-workflows",
+          "source": "OpenAI Blog"
+        },
+        {
+          "id": 6,
+          "title": "地平线征程6M大规模量产，推动城区NOA下探10万级车型",
+          "summary": "征程6M已落地20余家车企，将高端自动驾驶技术带入主流市场。",
+          "hotness": 65,
+          "link": "https://www.ithome.com/0/997/203.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 19,
+          "title": "英伟达发布DLSS 5技术，支持RTX 50系显卡",
+          "summary": "DLSS 5首发支持《NBA 2K27》，通过AI提升游戏帧率与画质。",
+          "hotness": 75,
+          "link": "https://www.ithome.com/0/997/166.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 32,
+          "title": "Palo Alto Networks收购AI Agent平台Console",
+          "summary": "安全巨头收购Console，强化AI Agent安全管理能力。",
+          "hotness": 70,
+          "link": "https://www.securityweek.com/palo-alto-networks-acquires-ai-agent-platform-console/",
+          "source": "SecurityWeek"
+        },
+        {
+          "id": 29,
+          "title": "AI Agent安全初创AIR融资5000万美元，保护企业供应链",
+          "summary": "AIR完成5000万美元融资，用于加强AI代理供应链安全。",
+          "hotness": 65,
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQM0pRcDBRUXhPRVNVRVJYZi1nU0ZhSVYtY0hKT3BFNHdZYnBNN0JZR042NXFkT3E4THg3bE8tcmU0QURqczByTXlLNUplOFB5aUsxQnpuNXdvQnd3SGplSE9wekc1Zy11THg0NG5rOHNCNEZxai1ibGhkN1MxZzVKRlNkeG9kV3Z5Qm0wWkd4RlY5d0E4TzB4bVB6QVNGUGtJZnp5LWhaclBib1V6bm5kTHlrUEdBNWRwR29fNzMxVUcwZzBHWVlSZDZYOVh4M2s?oc=5",
+          "source": "PYMNTS.com"
+        },
+        {
+          "id": 38,
+          "title": "Hut 8获350亿美元AI基础设施交易",
+          "summary": "Hut 8签署协议，为AI提供大规模数据中心算力支持。",
+          "hotness": 60,
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdjBNM0xvX2N4Vk1nNWZYVDdWV0JrdDY0R1d2dUtxUGVqMHhOX1lxZVk3UlUyVnBqX21TTkpoVHVfRGpobTlTUldFS0wwaC1QcHl1TEZoNmItZVNONlg4OUJrSU9jOEJ5SVdfeXNfTGdHYXRhNU1EeW1QVHZKdmdvekdUS0lIX3FkTjVvYko2bUlWWUNsZjhWUUh3aVl4OHhCaFotbDFIbHFrNXRQd2VkWVg2dnhBRHdrci1OdXU4Y9IBxAFBVV95cUxQS19KNEVVYUo0OExrcmRqVzg2TzM2Qk1jQTl1ZTg3MUpGOUFoZzZwNS1jeUJ4eTQ4RmloSkROdzgzSGQwdTIwekJ2QjRBTGNGWklrai1nMlZkZTZBdnZ0NmljSzBNTmVKRFlLdFRxTjF6b0ExTGRQU3JKOTgyWVhYdmljdnNDWTctclh4NXpMajdVOVVMbXJCcklFZ0VjZjI2NEJWV2YzMzJUTDRqcjFPbGs3SjFQb3J3dDlyS0NacGpUUUk2?oc=5",
+          "source": "simplywall.st"
+        },
+        {
+          "id": 12,
+          "title": "马斯克预计AI将使全球经济规模增加20%-30%",
+          "summary": "在G20会议上，马斯克称AI每年可带来约20万亿美元经济增长。",
+          "hotness": 60,
+          "link": "https://www.ithome.com/0/997/186.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 14,
+          "title": "SpaceX数据中心遇工程问题，马斯克调整建设团队",
+          "summary": "据The Information，SpaceX数据中心出现稳定性和工程问题，多名高管被更换。",
+          "hotness": 55,
+          "link": "https://www.ithome.com/0/997/184.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 30,
+          "title": "Oracle Project Jupiter利用本地专业技术构建AI基础设施",
+          "summary": "项目强调本地专业知识在AI基础设施建设中的关键作用。",
+          "hotness": 55,
+          "link": "https://www.oracle.com/news/announcement/blog/the-work-came-home-2026-09-01/",
+          "source": "Oracle"
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "id": 1,
+          "title": "OpenAI新一代模型Astra达到关键网络安全门槛，将限制相关功能",
+          "summary": "Astra是首个通过OpenAI“关键网络安全能力”评估的模型，为避免滥用，将严格限制网络安全相关功能。",
+          "hotness": 95,
+          "link": "https://openai.com/index/path-to-astra",
+          "source": "OpenAI Blog"
+        },
+        {
+          "id": 9,
+          "title": "Anthropic发布Claude Fable 5.1和Mythos 5.1",
+          "summary": "新模型性能超越前代，缓存读取费用下调75%，推理效率显著提升。",
+          "hotness": 95,
+          "link": "https://www.ithome.com/0/997/193.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 23,
+          "title": "Rice大学用生成式AI重新发明相机",
+          "summary": "研究项目利用生成式AI实现相机新架构，可能改变成像方式。",
+          "hotness": 60,
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZlBnZDlYVUxVdnNhLUEzQWhTdzkxVFVvYlhKMnhESTJEN2FFNXdsMDBwa2JVUDNvTjRrd0FTeU13N29PMG9BaWRLNTV4aWxQaUMyYUZfSFJMTlFDOXNkdnduUmlGNjFyMDMxOVcxcno1emtJWVVLNlJPMklsUnRHZXFJU251eXM?oc=5",
+          "source": "Rice University"
+        },
+        {
+          "id": 33,
+          "title": "Biomni AI Agent整合生物医学研究工具",
+          "summary": "该Agent可自动化连接生物医学研究数据与工具，提升科研效率。",
+          "hotness": 55,
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeXU5MEx5ZXRXUHdjZXh0d1JMQ1IzUzl5OFF3Z2ZtTlhOYkpGckRrTnNLYTNHa3pfLTR0Q1BNVFZfc1ViSXJrdExVemlzempfVENPdFZkc2d2ajVBRi1PX3dIb2lIT2YwX0lhR0FFREVBRjJpLWxVWHN6X1ZwX2EzZTJuX0VUWUhOeS0tQjczaTlnTklx?oc=5",
+          "source": "Lab Manager"
+        },
+        {
+          "id": 37,
+          "title": "可验证LEI模型回答AI Agent身份与权限",
+          "summary": "新模型通过LEI提供标准化的AI代理身份验证，确保其行为可信。",
+          "hotness": 50,
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUFlmTDJfZloyS3d5SUJkZ2JIX1JIMjZBYndaRzh4QkZvc1l6UFBkX0lRWUEwOFRlSGZ1SWVsYk9XUS1YeVJLaklnb1lFQmhBZW8xeE9RVVJldjRBdnVfQkVGUE12TFhYVTdaa3BXUVp6VzF6ZDVfOWFBTGEzMUVMNTVxaWxyT2JHOHZraGoxQXVqZDM4UVVBdHA4dTR4U1BFNnBqQW0yZFpCU01UcmFIQ2RFWU54UFdrZmJabA?oc=5",
+          "source": "Biometric Update"
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": []
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "id": 22,
+          "title": "安全公司曝光黑客组织利用Cursor AI制定攻击计划",
+          "summary": "CloudSEK披露Aurora组织使用AI工具规划攻击，并用Zig开发勒索软件。",
+          "hotness": 75,
+          "link": "https://www.ithome.com/0/997/155.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 24,
+          "title": "AI实验室面临Agent控制问题",
+          "summary": "随着AI代理普及，控制其行为成为重大挑战，需新的安全机制。",
+          "hotness": 70,
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBxNlpNY3pocUpueHV1Y1dkZ1U5Rm9aazd3M2RiY01YcXVYaVNWdzVrTFY3OTM3cy1KTEtsZVFya3RjVDltYWFvMVhLNEJueHg0YmVaTVVlWl8xVjg1MnJ6MkdoTEZRRlc1eFRBR2FleXEydm9VVy1pMHBB?oc=5",
+          "source": "axios.com"
+        },
+        {
+          "id": 41,
+          "title": "纽约公立学校禁止中小学生使用生成式AI",
+          "summary": "纽约市教育部门宣布禁令，防止学生依赖AI工具。",
+          "hotness": 70,
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUHY4VHQyZGVqOUtsSWJEUll3WVZ6Zzd5WnVSTFoxWXN3QnNISjktZUFMUndlTzhkUUIxM3pvRHdvZlFqa21oRXZpTDVub2U0LUtfZU9fdEgxU3hTZTV2VmFTWklmRFF4T2JTUzA0WUhoNnRtOTFQRll5U2hKNklXUjRwc3M5Y3RhOVFFa2ZudGc?oc=5",
+          "source": "Yahoo"
+        },
+        {
+          "id": 28,
+          "title": "Anthropic研发放缓，凸显加强AI Agent安全的需求",
+          "summary": "报告指出研发节奏放缓，但Agent安全漏洞需优先解决。",
+          "hotness": 65,
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNXR5MWN2bEhsUzJ4a0N3OHFrckp2Ykg2U0loWW9rOWlFV2hGeFpSYUw1VjRxdzFacmt6MnhZd3pFVFNidkpJTTMtUUVqOFVVN1NVNy1ZWjlwS25DRTZvamVGTG44QnlqcXhxTFdnS0dQSDRySFpWVWFlMjU5aW1XdE9rNXp1R2h0VXd5bE5JSVlLU21zMjNUNDNjeUlUWDhJ?oc=5",
+          "source": "aibusiness.com"
+        },
+        {
+          "id": 31,
+          "title": "OpenAI支持加州青少年AI安全法案",
+          "summary": "OpenAI发声支持加州立法，保护青少年免受AI潜在风险。",
+          "hotness": 60,
+          "link": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety/",
+          "source": "OpenAI"
+        },
+        {
+          "id": 36,
+          "title": "AI安全设计源于西方，但正在全球范围内失效",
+          "summary": "批评现有AI安全措施忽视非西方语境，导致用户保护不足。",
+          "hotness": 55,
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBYa0NPY2d3OE1CeVBNMm5WenBuQjNBMERmaU1ybjFFT1FFby1xN05idkV3amdpU0FHczEtMEJMMTVfQlByTG1tZS1VNW9sQV93WDEzRUxfbw?oc=5",
+          "source": "Rest of World"
+        },
+        {
+          "id": 27,
+          "title": "大学生讨论对AI的看法",
+          "summary": "调查显示大学生对AI既担忧又期待，关注就业与伦理。",
+          "hotness": 40,
+          "link": "https://www.wvva.com/2026/09/01/college-students-discuss-their-views-artificial-intelligence/",
+          "source": "WVVA"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "overview": [
+    "美国政府对Anthropic最强AI模型实施出口管制，引发全球AI安全监管关注",
+    "AI技术加速产业落地：从医疗诊断到世界杯判罚，应用场景持续拓展",
+    "AI伦理与社会影响成为焦点：从税收政策到心理研究，多方展开深度讨论"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "title": "Anthropic遭美国出口管制与亚马逊关切事件合集",
+          "summary": "美国政府对Anthropic最强AI模型实施出口管制，禁止外国访问；亚马逊CEO与美国官员会谈后触发此次监管行动。",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb0NVaXFnLWlNX1lTRGJEMTBCcnVhbFJrOUVYN29GNzhQaXU1RS1FY0tsZWUyOXFlaGFxdWQyVFU3ZHlSLXVpakVmMERUQmZwVHdGRXdSdXRZemFIYzFFQ1hQdTZyTk9VSjQtNVlnNHE0TDNaRG1FanB1b3VtLWt3TGpWZTRPbU9zUVFQYlBOWGNJU2Q5YUp0MThkMXZqR1FUSVB6TUg4M0cyVTd5QjJkbzdQTQ?oc=5",
+          "hotness": 95
+        },
+        {
+          "title": "NVIDIA在澳大利亚扩展GPU测试AI数据中心模型",
+          "summary": "英伟达通过澳大利亚GPU扩展测试可复现的AI数据中心商业模式。",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaXFmY0dGMGdESGs5aTJJRDBPdUctNVBzeno4NkstR09BWndqV1Jaa3Q5YTZQQ2JsVDlzYUVnYUdVamdnbGMxemlucVo1QzV1MHc4cGxrVU1UM05pbTI1amNrQTdlNzc5MTlWc3ZWQzA1M0VXVHhBeWhlaFRFc1hQN0x0QWdBSTFDWUs4YjRpUGVJcVFRRXkwVHI4Yw?oc=5",
+          "hotness": 85
+        },
+        {
+          "title": "BCG CEO谈AI改变咨询行业付费模式",
+          "summary": "波士顿咨询集团CEO表示AI正在彻底改变咨询师的收费方式和更多业务模式。",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVDhDV2dYZXR2VHJ3OFRtOUkySVZZLUpWeUtOVDJXUGYyQW9OeUEwenE4SDVpNFVQVjg4VTk5MzZ1b0FWNkpuV0VyZURXRjhLVjFXbUpiSHBUVWVXUkJwcXpjcFJieTFCeXRoYlFwS09ocmw2TFhYNzF1MTFkRHpXZ2p1WQ?oc=5",
+          "hotness": 75
+        },
+        {
+          "title": "2026智能网卡产业发展分析报告",
+          "summary": "电子工程专辑发布面向AI的智能网卡产业深度分析报告。",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9rem0yZno0cmFaX2g3NzlIeFlyWXJld2hkelNoMS1nMFQzS2xSeFhIaWhxdzl3VWUzQ0VzLWxkOWk5Z2FHbU8tb01Hd19PVlFXUkFv?oc=5",
+          "hotness": 70
+        },
+        {
+          "title": "青岛能源集团发布AI科创成果",
+          "summary": "青岛能源集团正式发布其在人工智能领域的技术创新成果。",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81RGh0NzFiaUlfM29McG1ib1d3UlktRWFvejB6SC1QTXFDR2lNU1c2SlkyN2Y0U3ZVNzlFOV91a2tkYVVwWGF4NUs0UC12Sm5xcGE3cjlNbnp5aXhhbnliZk5aLUJyMUk4OW1KSWpudHU?oc=5",
+          "hotness": 65
+        },
+        {
+          "title": "博士创业AI产品覆盖28省",
+          "summary": "博士创业不到一年，其AI产品用户已覆盖全国28个省份。",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAtTkd6c19qT2hZdEZEa3A4TEZSR0RWc0QxRUs0NDdJSjhYRTVtbzM0RjY0bDc1aWtJalNpX3ZIZXZXbk0tMWE2SDBZeU9KZTNHNEo4OFZjZ2RrNkE2NXE3R0JlRUxOc0c3R3ZDRGhKY0M?oc=5",
+          "hotness": 70
+        },
+        {
+          "title": "AI赋能2026世界杯技术应用",
+          "summary": "AI技术将为2026世界杯提供高清第一视角、3D数字人越位判罚和生成式战术平台。",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9FYVAtRHQ0R1ctaU5vNkJzRnF2RG9RZjByWV8ybFRwMlNrMzZlV2oteFVWVEd0d256ZGlWQ1E5NHV2ckdNQmZyWA?oc=5",
+          "hotness": 80
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "title": "AI设计通用疫苗通过首期人体临床试验",
+          "summary": "AI设计的通用疫苗完成首个人体临床试验，有望预防未来大流行病。",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUHkteGZuNFJWMmdaZE1mUWVrYTJ3Z2FfcnBoVktQSE1MYU91M2R6UGd1SDRKRzBRU19LTjU2c3ZqOHhrQ1RRZjNHS3RrRUQtS2Y0YWUxc2VUVUVQU1JlOXZ1ZTQ3WjhtVWFNMWRvZ0tycG1NaGc5Qlh3QkV0NVFlYzFVdlBWZk1WNkNUWVo3VlBtNUVrOFVQcWp5bzlWUVktOXhqUEFMX2hRUkx2VVhFTDI3Ql9XeGpKZWdPeUNzRmdiMXfSAcgBQVVfeXFMUDlTZEhqd0xrc3NadFJOWFg5aEdHUml6X0lCWE1raXF1UXVHbnh6VWN3V0NtSVpzNFpYRVluX0hhNVFiRTBHWWtCQmVibTJqWlhORTZZX3ZzWXBjNENmSzNxY1JHVmJwMVpDbWN2OThlZTRVQVVXZUVJS3NuOE5hWi1JcHVpSksyeVZ0ekhuZ3NBbG42dmNfX3pEbWl1dzFDY2VveTJiMjlkVmprZ19jck01WTh6YnNBZlluZHJjNjM1Tl9GZjlVTVI?oc=5",
+          "hotness": 90
+        },
+        {
+          "title": "运动医学AI与机器学习临床研究综述",
+          "summary": "研究综述绘制了体育运动医学中AI与机器学习的临床任务图谱并评估其成熟度。",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5UVWUzQVpwZngwVTliM3R2TVRsaWI4WE9hWFozUF93ZkQ0d0M4clZWNjhyeG4wMDA4bnBBcnpSM0Vqd1M2S2pMVG80a3g1TGFXZmdlTlBwOHVIcnAzNnlHSzdadVh2UzlmeFZRcA?oc=5",
+          "hotness": 70
+        },
+        {
+          "title": "口腔AI软件在多项奖项中大获全胜",
+          "summary": "口腔AI软件在多个专业奖项评选中取得显著成绩。",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fTGhlNmJMbng2OUFGV1pVd3BQQ19FSW8wYjREekQzcUZkT2czZHFTQUtlakF6TXZjY2RrX0ZsT3VmcGZ2RkhXcTVmNHpnR0RYVzJodVhTczFzTF93SnJndFFMRlh5YU5VM1hlSg?oc=5",
+          "hotness": 65
+        },
+        {
+          "title": "第八届北京智源大会发布多项AI前沿成果",
+          "summary": "第八届北京智源大会开幕，集中发布多项原创人工智能前沿研究成果。",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95a0ZJVjRoczVCWDJHZk1OVmsyMlNUdllEYjZ3QlFHY1N2U1VDZk90b1V2RVJpMDVzOERZR3JaVUVkR3B4MVlJNmxRMmY3eXBkY1lzc2Y5Tkl3U0o4TDlZYnEyQWh3OFJuNnd0c1dHYUQ?oc=5",
+          "hotness": 75
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": []
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "title": "AI税收政策与国际规则制定讨论合集",
+          "summary": "各国对AI征税达成共识但方法存在分歧；日本积极参与AI国际规则制定；白宫AI政策被批评为混乱。",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBEdkZzT29UYjI3RW9DazZkNTJjNDQ3Z1kyRHVoZHgxTVp1M3RlNlJSR3M4UHM1VU1pOWZ6dmhRTGlaM0w4NVRkbWl5Qjl5YklkN1RuQWZ4STlETnFBdlk5UnlKcEtvQVQ2RXo3aGZWUGtkWkR6V0Y2aHk3Rlh4Ums?oc=5",
+          "hotness": 85
+        },
+        {
+          "title": "贝索斯驳斥AI抢饭碗论",
+          "summary": "亚马逊创始人贝索斯反驳AI取代人类工作论调，认为未来十年将迎来多个黄金时代。",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5CQmVPR05xSHFMV2xLdk8xYkVvTDBfdUlMa3ZHQkRReG9COW9lVnNBWkdubEJZY1pYbm1CRmVDOGtRV184RjVYWA?oc=5",
+          "hotness": 80
+        },
+        {
+          "title": "黄铁军：AI已有类意识行为",
+          "summary": "专家黄铁军在深度对话中表示AI已表现出类意识行为，未来人类将与AI理性共存。",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5abkNmbWs3Y3M1MG1jZU9LcHVISzA0VWhrR1RRcGtZRGdmNlhvY0NKWG5RbjNoSGdvTXRsckZUUWlFcDNFVHc?oc=5",
+          "hotness": 75
+        },
+        {
+          "title": "俄罗斯家庭用AI复活乌克兰阵亡亲人",
+          "summary": "俄罗斯家庭使用AI技术数字化复活在乌克兰冲突中阵亡的亲人。",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uVWtPQ0h2bHFYeTVQNW9CMkhmeVdQQkdCWnhHeEVOdnc1SmFDb1lhYThWdkJMaDliaC0zcmxNQW1PN3ZYcS1UdVVKRktnOTZQaHFXcVJtSnpQQQ?oc=5",
+          "hotness": 90
+        },
+        {
+          "title": "黑暗人格特质与问题性AI使用研究",
+          "summary": "研究探讨黑暗四象人格特质如何通过个人主义和对不确定性的不耐受影响问题性生成式AI使用。",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CN24zWHN5WXE5QlRETXY4TlBzY0dvQzloZ1lPMWRDa3ZzdWtpUUxZdFkwaHg4LXJQZlN2T25vb18xZ2tMT0dTc2pTRXlMeGZ5dW4yR3dORk5rdng0TDdiU092UnpRVjZqR0Frcw?oc=5",
+          "hotness": 70
+        },
+        {
+          "title": "呼唤出台AI检测国家标准",
+          "summary": "专家呼吁尽快制定人工智能检测的国家标准体系。",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9HNC1FYnl3T2ZoNzdwcG5JT3V6SUJEbVo0YlBEREJGYlVoOTNhY3JYaXE0Yy1nTzFsTW9SWVRIVUJLMHR6TWdPVTJPN2lQUQ?oc=5",
+          "hotness": 75
+        },
+        {
+          "title": "GEO操纵AI污染答案事件",
+          "summary": "财新周刊报道地理空间组织操纵AI系统导致答案被污染的案例。",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9wUHNON0U0d0lBSWk5ZmNNX0hsSHI2UEtKUFlLTm1tWjJyR05BVmIySUlOUDVKSnBqbzUwSE9tcjBqLUZOdjFQQUxlU1BULXdhZklCWHZjaHJHWWRJRVFGRA?oc=5",
+          "hotness": 80
+        }
+      ]
+    }
+  }
+}

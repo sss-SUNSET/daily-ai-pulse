@@ -1,0 +1,99 @@
+{
+  "overview": [
+    "科技巨头加速AI产业布局：Google与A24合作、微软扩建数据中心、高通收购AI芯片初创公司",
+    "AI安全与监管成为焦点：五眼联盟警告AI攻击威胁，AI立法与伦理争议持续升温",
+    "企业级AI应用快速落地：IBM与OpenAI合作网络安全，桑坦德银行全员部署AI工具"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "title": "Google与A24工作室达成AI研究合作",
+          "summary": "Google DeepMind与知名影视工作室A24成立AI合资企业，探索AI在创意领域的应用。",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOajN0RDZiN1Y0UFBWSVFYUDEtaHlpTWp3ZGh5SWFqNE94WWFqaUlKLWstVjlzeGwxVWhBWWJQc2t2X2NaQXdUN0wzalNiU1VadTdGWjVOb0ktTkdHYXBId1E5Ukd0amVGZXVzOG5xSFdVcW95a0FjdHFxUDVEcmp5WUJTZw?oc=5",
+          "hotness": 75
+        },
+        {
+          "title": "微软在Pecos新建数据中心扩展AI算力",
+          "summary": "微软宣布在德克萨斯州Pecos建设新数据中心，为下一代AI应用提供强大计算能力。",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSGVvNHhKaERSTHJncmh3dklWT3hRYlA2Zjh3UFdFd0h6VnZUX2Q1YUxVb0dpaEFMOGhwcUgzcXQ1cmlsZi10UVpoV3pzOWs0WE54c0swN29WbFVuZkZHMDNDLWRvVXpSSU9IOFEzcEZRVzNKbU54dVh4aDZzeE5hMk9WdWlFbkVvZkhERDJpQ2ZYNW1oSTZOdDEwcnlCSUFGdjR2UGJYNzVUYUM1LXNJT0xpSnIyMmZwWUdVY3lmUGVva1E?oc=5",
+          "hotness": 70
+        },
+        {
+          "title": "高通接近收购AI芯片初创公司Modular",
+          "summary": "据彭博社报道，高通即将达成收购AI芯片初创企业Modular的协议，加强AI硬件布局。",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOFZieUdRS2dsTW1yeU1JcWF5TFNJczJHdlF6MVJpbXkyVk1LMnI2MFBEUmJPS0NPTG5TRWVzckVhYnRHeTNCTU8zVG5DTjJ3bHc2ZzY3TWJSYS1pMjlsZVZNRkZPQkhVblpNUjZ5NGdXSjBVMXUtTzc1TXdkMWFnWVFEU1UxTVBzRmdJZjdSdDR0alpkVUZVQUlDS2dTd2lPenBjVVpMQ3ZtODVMVEpISzI2U0FxM2VjSEg3YUpzSjczZw?oc=5",
+          "hotness": 68
+        },
+        {
+          "title": "欧洲部署35台NVIDIA AI超级计算机创纪录",
+          "summary": "NVIDIA宣布在欧洲推出创纪录的35台新型AI超级计算机，大幅提升区域AI计算能力。",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcC1aMG45RUJ1OGRfcTh0OFhnN3dhcVdSNzJGUTI0bnlSX2x3QjZxU1NUWWk5YVltOGwzZXFxTE5iaVVPbHpMYlM3c2VCTmhSN3FwQVAtT0tlaE9wU1RuNjA4R2tnR3JDeUY0VEZYcnMtQm1xdFNHUm5GN2QyUFc1REpsRGNtcHRaVUtoMW13VkpTLW5U?oc=5",
+          "hotness": 72
+        },
+        {
+          "title": "桑坦德银行向18.5万员工全面推广AI工具",
+          "summary": "桑坦德银行将AI优先战略转化为可衡量成果，并向所有18.5万名员工开放AI访问权限。",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUnJpb3F5T0V4Tll3MjJqNUstQVEtNF9UMWhGMEdTS1JjSVV1ZTlVQkFFazZGd09HZ3pYc3ZZbklyRHhQTFVfX2xnVXk4UFVUWHNvcHNMQl9vMDBqQUVzcGpCNWs3ajktRjkwZ0xNQXoxd1o2ZFZwdzhnR3VuVGw4OFkteFhDYUN4YkozanlHa3ViTGQ4dUlsOHlLbW1NZVFqYTBPa1hGdUJjckpEVkJDaHMxR0R1dy01UmVSWklOOWhta0RLMkJmMEp3anpZX0ZjQnBBQTBXeWhmM0k?oc=5",
+          "hotness": 65
+        },
+        {
+          "title": "Alphabet因AI担忧遭遇一年多来最差股价表现",
+          "summary": "在高管离职引发AI发展担忧后，Alphabet股价出现超过一年来的最大单日跌幅。",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB0bUh0Uk95MWYxNVZRc2VQdFpaWWRYZEJ0MEdQOWhFWkNNa19pdDcyazBqTGE2MHdMTzhfTHh5STk2NVB0d2dsMlFFb0JteGR4MWxsY3VPUWM4NjdHUk1PY2pJdVA4S1E1allZS0JMWjAyX0lMdUlRRHZR0gF_QVVfeXFMTzFzeWhOZXAwdk9JNDJvekdBajl4X1lBSU0yUmkxVGpoS09rZmFoMDdMRUZkckM2TEs0M3JsZ3hxcThhS0xLRDhIeVVZU3otdWMteGVzMHdNMXBYdVRfZk0xZzg1NU1RbUlrVzNnTXNuX3Y4dEN2aGlzVllRNFA1Yw?oc=5",
+          "hotness": 70
+        },
+        {
+          "title": "Meta暂停追踪员工击键的AI培训项目",
+          "summary": "在内部信息泄露后，Meta暂停了监控员工键盘输入的AI训练计划。",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRGk3S3R2Q3dlMzZ6X1g5bTZvVm5GMWxGZkVpYjV2NlY3WlpMTzZxdEprUVU2bEdYUFdtTVFzVXBwUE90b0JUQ05oRDhfMlBVMU4zRkdodm5oeU1OVWF4a3VCbmVOOTR0Rm92TGtqVDQ2OC1VX0w2dVpERTJjbDFIUlNjamVlaVJRdEE0TDVTVDIwTHNLclpZUG5vZDNILW9MaUhNR2ZTaFRvZw?oc=5",
+          "hotness": 75
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": []
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": []
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "title": "五眼联盟警告AI模型数月内可能发动毁灭性攻击",
+          "summary": "五眼联盟罕见声明警告，具备对政府和商业发动毁灭性攻击能力的AI模型可能在数月内出现。",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTklxTWJwcms1UlBCeUYyTGtNTGFtdEtGcmR3bEJJWHY2VHRpbUJqR3lUdW13RkF6MWJ4SklkWEtEYUlOLURENnRDNWNjN1dCclZVVGNOQVV0OEg5U0gyY2pGWDVDY3JUR3lKelJGSHdxUUM1UXY2UXFpa09idjN1Z0ZLNFZWX2dmR1FyaDRrM2NVY2trNFJwbjJHdWZuYUUtck1rWU9VRWZEbV9kT2hXOUNxbm1iU3FwTlp3dzkzdUhQdw?oc=5",
+          "hotness": 85
+        },
+        {
+          "title": "AI立法、出口限制与言论自由之间的冲突",
+          "summary": "卡托研究所分析AI监管立法、技术出口限制与言论自由权利之间的复杂平衡问题。",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOT2tzRFRTWVY1c05wWjdjeV9fVUg2RXRKdm1SQkpFT0R2cHdreDE3Ym5FeGxYSXNVbzY4ZVhrVktBQ0M5ckdzRDRtZkRpa29lNDBYdU12VF92dkI1eVNqVmFyWFYyUjlpbXZpdnJHSmNZLVoyS19GTWVGMGFSNjE5cG0ydG9DUmZRdWdodFY4OGU?oc=5",
+          "hotness": 70
+        },
+        {
+          "title": "经济学家认为AI将导致更高通胀",
+          "summary": "多位经济学家预测人工智能技术发展可能引发更严重的通货膨胀问题。",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaFZfWDkxemd3LW9hSWRPWkh3bVJzWXBzX1VJWWlIYnJxcWFEcG9XUFRMX09QYXVaOGxzdmZicHNFRFlSeVRUd3Y1VTdMdEdLdzFMT2IydmtMZXRCVjAtTnR5cXZLU1lQNU15QXJfaVVxMXowNlJzZ3lzdUw5Z3RicEpzZlo?oc=5",
+          "hotness": 65
+        },
+        {
+          "title": "中国AI发展速度超出预期",
+          "summary": "纽约时报探讨中国在人工智能领域追赶西方的速度是否比预期更快。",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWlYxMkNJY1pGUTRDN1lnQWhoTjZicFkxalJrS1hJTFhYSjh1bzJyTXV3RGZmcjlmNTB4Sl9UcElfRWZBZFVsUEttUlNkc3hoRndnY0tXSGVOTkJXQkRTdE5NelJnc2lnY1JyckR6QlRZbDdEQTVYZGIzTmpSZnp6d01RaW0?oc=5",
+          "hotness": 75
+        },
+        {
+          "title": "IBM与OpenAI合作将前沿AI引入网络防御",
+          "summary": "IBM与OpenAI合作将最先进的AI技术应用于网络安全防御，帮助企业应对机器速度的威胁。",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeExySk9KY0JnMFNfYUkzX0hxQU1yS0JFNHhqQjhDR2QybUpGZkxXRjdBMEktclU1SEhsSjRzcENkNDZRbFJ0Rm0xRWxZbTJMRFVDSHpFWGRjMFFmTFZidTk0SDM4OTQtNlNoYm9FU1ppeVpNVFduY0t2c0VEMVZqT2dDZUplcmI4b0d2UVdyQXl3MDBpY1hNZ0JGT3NEYVhjcFZJRUxvRkJOSmZyTjNGMllBVGRncFRJRkFtV1JXLVNVNUtnMmFBYkQ4bDNnWWtIeElJM3VmdFZNQQ?oc=5",
+          "hotness": 78
+        }
+      ]
+    }
+  }
+}

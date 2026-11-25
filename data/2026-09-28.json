@@ -1,0 +1,67 @@
+{
+  "overview": [
+    "暗网非法兜售 AI 模型访问权限，最低仅正版 3%，AI 模型安全与算力黑市风险升级。",
+    "Anthropic 资深员工被曝制定“AI 失控”应急预案，考虑在偏远地区购置土地，前沿实验室安全焦虑浮出水面。",
+    "字节豆包手机助手回应努比亚 NaviX Ultra 玩《王者荣耀》被强制下线，称安全风险策略用于保障游戏公平，未做针对性调整。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "id": 6,
+          "title": "字节豆包手机助手回应努比亚 NaviX Ultra 玩《王者荣耀》强制下线争议",
+          "summary": "字节跳动旗下豆包手机助手称收到努比亚 NaviX Ultra 用户反馈，玩游戏时被强制下线；知情人士表示相关安全风险策略用于保障游戏公平，未做针对性调整。",
+          "hotness": 82,
+          "link": "https://www.ithome.com/1/007/607.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 1,
+          "title": "荣耀亲选 AI 投影仪 Ultra 首销：1700CVIA 亮度、自研全封闭光机 2.0",
+          "summary": "荣耀亲选 AI 投影仪 Ultra 今日首销，主打 1700CVIA 亮度与自研全封闭光机 2.0，国补到手价 1999 元。",
+          "hotness": 45,
+          "link": "https://www.ithome.com/1/007/621.htm",
+          "source": "IT之家"
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": []
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": []
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "id": 2,
+          "title": "黑客在暗网兜售 AI 模型访问权限，最低价仅有正版 3%",
+          "summary": "据英国《金融时报》报道，非法获取 AI 模型和算力正成为网络犯罪黑市抢手商品，最低价格仅为正版 3%，模型访问管控与算力盗用风险加剧。",
+          "hotness": 84,
+          "link": "https://www.ithome.com/1/007/619.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 8,
+          "title": "Anthropic 资深员工考虑在偏远地区购置土地，以防“AI 失控”",
+          "summary": "据《华尔街日报》报道，Anthropic 数位资深员工正在制定具体应急预案，包括在偏远地区购置土地，以防范人工智能彻底失控。",
+          "hotness": 88,
+          "link": "https://www.ithome.com/1/007/603.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 13,
+          "title": "吉利高管呼吁建立统一 AI 治理标准，称缺失标准会抬高成本并埋下隐患",
+          "summary": "吉利汽车集团副总裁李传海指出，目前行业缺少统一的 AI 治理标准，不仅抬高产业成本，也埋下安全隐患。",
+          "hotness": 66,
+          "link": "https://www.ithome.com/1/007/563.htm",
+          "source": "IT之家"
+        }
+      ]
+    }
+  }
+}

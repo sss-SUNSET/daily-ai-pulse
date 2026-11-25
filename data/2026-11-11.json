@@ -1,0 +1,237 @@
+{
+  "overview": [
+    "Anthropic 发布 Claude Fable 5.2/Mythos 5.2，并推出 Claude 白板/表格等办公套件、同步启动 IPO 路演，模型与商业化双线加速。",
+    "Google 发布 Gemini 4 Carbon，推出 TPU 8i Max/8tx，并以 Gemini Robotics 2.5 拓展 VLA 机器人。",
+    "Meta 发布轻量 Agent 模型 Muse Ember 并预热 Muse 个人智能体；国内 MiniMax 开源 H3-Image，10 秒生成 4K 图像。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "id": [
+            3,
+            5,
+            42
+          ],
+          "title": "Anthropic 推出 Claude 办公套件，挑战微软与 Google",
+          "summary": "Anthropic 上线 Claude Whiteboards、Sheets 等办公协作工具，覆盖头脑风暴到数据看板；消息令微软股价承压。",
+          "hotness": 93,
+          "link": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+        },
+        {
+          "id": [
+            12,
+            31,
+            36,
+            48
+          ],
+          "title": "Anthropic 启动 IPO 路演，最高募资 643.5 亿美元",
+          "summary": "Anthropic 正式启动纳斯达克 IPO 路演，估值约 1 万至 1.4 万亿美元；七名联合创始人拟各套现 2.5 亿美元，高盛看高其 2030 年营收。",
+          "hotness": 94,
+          "link": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+        },
+        {
+          "id": [
+            25,
+            39
+          ],
+          "title": "OpenAI 推出 ChatGPT Businesses 并开放企业智能体广告",
+          "summary": "ChatGPT Businesses 测试版允许企业认领资料、获取洞察并创建 AI 智能体，还可为 Business Agent 投放广告。",
+          "hotness": 90,
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBvemRsWlN1U1g0NDQ5VUdhajBhZVVfd3J1eGRGV1lubnZQc3J6UVA1STMwdmlUM0k3a2c0SkN3VmdxYkplTnp4TWlheWV0NHlUUzFTYTU1b3Vmbmh1ZjVBakVlcw?oc=5"
+        },
+        {
+          "id": [
+            19
+          ],
+          "title": "Google 发布 TPU 8i Max 与机密 TPU 8tx",
+          "summary": "Google 推出双芯片 TPU 8i Max 和面向机密计算的 TPU 8tx，进一步强化 AI 算力基础设施与云安全能力。",
+          "hotness": 90,
+          "link": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+        },
+        {
+          "id": [
+            44
+          ],
+          "title": "OpenAI 收购 AI 旅行智能体公司 Odessia",
+          "summary": "OpenAI 收购旅行初创公司 Odessia，探索 AI 旅行智能体业务，继续扩展 Agent 落地场景。",
+          "hotness": 86,
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBvemRsWlN1U1g0NDQ5VUdhajBhZVVfd3J1eGRGV1lubnZQc3J6UVA1STMwdmlUM0k3a2c0SkN3VmdxYkplTnp4TWlheWV0NHlUUzFTYTU1b3Vmbmh1ZjVBakVlcw?oc=5"
+        },
+        {
+          "id": [
+            18,
+            22
+          ],
+          "title": "Meta 在印度预热 Muse 个人 AI Agent 并公布定价",
+          "summary": "Meta 在 Muse 个人 AI Agent 正式发布前披露印度市场定价，提前卡位个人智能体入口。",
+          "hotness": 84,
+          "link": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+        },
+        {
+          "id": [
+            30
+          ],
+          "title": "微软游说美国政府放弃中国光模块进口限制",
+          "summary": "微软担忧限制中国新型光收发器会拖慢 AI 数据中心建设，正联合科技企业游说美政府。",
+          "hotness": 82,
+          "link": "https://www.ithome.com/1/025/218.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": [
+            28
+          ],
+          "title": "ChatGPT Enterprise 上架 AWS Marketplace",
+          "summary": "ChatGPT Enterprise 现可通过 AWS Marketplace 采购，降低企业客户部署与结算门槛。",
+          "hotness": 80,
+          "link": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+        },
+        {
+          "id": [
+            45
+          ],
+          "title": "英伟达董事会聘前联邦检察官调查黄仁勋相关事件",
+          "summary": "英伟达宣布聘请前美国联邦检察官及律所，调查涉及 CEO 黄仁勋的相关事件。",
+          "hotness": 80,
+          "link": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+        },
+        {
+          "id": [
+            38
+          ],
+          "title": "CoreWeave 前三季度归母亏损扩大至 20.75 亿美元",
+          "summary": "AI 云服务商 CoreWeave 2026 财年前三季度亏损同比扩大 178.9%，算力扩张与盈利压力并存。",
+          "hotness": 76,
+          "link": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "id": [
+            0,
+            10,
+            23
+          ],
+          "title": "Anthropic 发布 Claude Fable 5.2 与 Mythos 5.2",
+          "summary": "Anthropic 推出两款新 Claude 模型，IPO 临近之际强化复杂科研与推理能力，并宣称可协助解决黑洞相关难题。",
+          "hotness": 99,
+          "link": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+        },
+        {
+          "id": [
+            2,
+            8,
+            41,
+            43
+          ],
+          "title": "Google 正式开放 Gemini 4 Carbon",
+          "summary": "Gemini 4 Carbon 面向开发者、企业和科研人员，主打复杂编程、科学研究与网络安全；在 MKA 多模态知识工作基准中获第二且成本显著更低。",
+          "hotness": 99,
+          "link": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+        },
+        {
+          "id": [
+            1,
+            4,
+            6,
+            14,
+            20,
+            21
+          ],
+          "title": "Meta 发布轻量模型 Muse Ember，主攻 Agent 执行",
+          "summary": "Muse Ember 是 Meta 最小、最高效的模型之一，以约三分之一单任务成本对标 Claude Haiku，强化智能体任务执行。",
+          "hotness": 97,
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBvemRsWlN1U1g0NDQ5VUdhajBhZVVfd3J1eGRGV1lubnZQc3J6UVA1STMwdmlUM0k3a2c0SkN3VmdxYkplTnp4TWlheWV0NHlUUzFTYTU1b3Vmbmh1ZjVBakVlcw?oc=5"
+        },
+        {
+          "id": [
+            40
+          ],
+          "title": "Google 推出最强 VLA 机器人模型 Gemini Robotics 2.5",
+          "summary": "Gemini Robotics 2.5 提升机器人可学习能力，能完成系蝴蝶结等精细操作，并已在奔驰生产线投入使用。",
+          "hotness": 95,
+          "link": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+        },
+        {
+          "id": [
+            11
+          ],
+          "title": "OpenAI 杨-米尔斯 Lean 证明将发布",
+          "summary": "相关小组确定发布 OpenAI 的 Yang-Mills Lean 形式化证明，展示 AI 在数学证明与形式化推理上的前沿进展。",
+          "hotness": 88,
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBvemRsWlN1U1g0NDQ5VUdhajBhZVVfd3J1eGRGV1lubnZQc3J6UVA1STMwdmlUM0k3a2c0SkN3VmdxYkplTnp4TWlheWV0NHlUUzFTYTU1b3Vmbmh1ZjVBakVlcw?oc=5"
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "id": [
+            47
+          ],
+          "title": "MiniMax 开源 H3-Image，10 秒生成 4K 图像",
+          "summary": "MiniMax 发布并开放 H3-Image 权重，这款衍生自 H3 的生图模型可在约 10 秒内生成 4K 图像，国内开源多模态竞争升温。",
+          "hotness": 96,
+          "link": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+        },
+        {
+          "id": [
+            13
+          ],
+          "title": "Anthropic 推动 Bun 的 Rust 重写以 AI 速度合并",
+          "summary": "Bun 的 Rust 重写以 AI 辅助开发的节奏快速合并，显示 AI 对开源工具链与开发效率的实质影响。",
+          "hotness": 82,
+          "link": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+        },
+        {
+          "id": [
+            16
+          ],
+          "title": "Zyphra 开源 TTS 模型 ZONOS3-Mini",
+          "summary": "ZONOS3-Mini 仅有 1 亿激活参数，面向低成本语音合成部署，进一步丰富开源 TTS 生态。",
+          "hotness": 76,
+          "link": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "id": [
+            9,
+            15
+          ],
+          "title": "OpenAI 推出 Control Room 监控并终止失控模型工作负载",
+          "summary": "Control Room 可追踪研究基础设施中的模型工作负载，并具备约 35 秒终止失控 Agent 的能力，凸显 AI 安全治理需求。",
+          "hotness": 90,
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBvemRsWlN1U1g0NDQ5VUdhajBhZVVfd3J1eGRGV1lubnZQc3J6UVA1STMwdmlUM0k3a2c0SkN3VmdxYkplTnp4TWlheWV0NHlUUzFTYTU1b3Vmbmh1ZjVBakVlcw?oc=5"
+        },
+        {
+          "id": [
+            27
+          ],
+          "title": "OpenAI 与 Upwork 研究：AI 正在重塑自由职业需求",
+          "summary": "研究显示 AI 改变自由职业市场的技能需求与岗位结构，新机会与替代压力同时加速。",
+          "hotness": 82,
+          "link": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+        },
+        {
+          "id": [
+            26
+          ],
+          "title": "OpenAI 与 ThinkYoung 呼吁补齐教育 AI 使用指南",
+          "summary": "新研究结合 OpenAI 在欧洲、中东和非洲的教育合作经验，强调教育场景需要更清晰的 AI 使用规范。",
+          "hotness": 76,
+          "link": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+        }
+      ]
+    }
+  }
+}

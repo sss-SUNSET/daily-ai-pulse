@@ -1,0 +1,130 @@
+{
+  "overview": [
+    "AI国家安全竞争加剧，美国限制高端芯片出口并考虑入股AI企业",
+    "AI模型性能突破显著，千问预测世界杯表现超越GPT和Gemini",
+    "AI产业应用深入制造业、医疗和政务领域，推动数字化转型"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "title": "美议员称AI关乎国家安全须保持领先，并关注高端芯片流向中国",
+          "summary": "美国议员强调AI技术关乎国家安全，需保持领先地位，并密切关注高端芯片出口至中国的情况。",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUXJJZmY3V2tjRzRUZjBiQi1TTkNRT0haRms5ZVBja1doeWdJUFZMbGIyZWhVWFg4cHhyYjRBbzNnT3lObXQtd2tYVGVNZ0J0R0NKVHR1N0NocDlHV3dOTmU1aXM5VE9BWGpCZ2RuaDU0b0lJZFQ1S3Q4Z3F6Q2QzQ1E4YV8yM2FwT0ZRLWhxWnhfaUt0Y2t4UHI3dU93SVNsbmplVTRzOHJwbS1oUFB3M2lxamctX1hxWi1jS3g2RkVOQWRtQVNKeTdWZ21MUdIB0AFBVV95cUxOSk1oSWo1dmFQRmNyRDRGVGpVaWluUEIxWVY2ZW5CTk50S1N5T3BWYTJNdWk4dENHQXRzOFJpU28xTkdNTG9aajBQbW1nNVhoR3lnY2JjbzkxTnhIUGozdkFEOTVLNUE4NGlMY3NXZE5HVTFDNXd3TjFIeWRuT2FQU0RzdGVwY3VsTVNtc3lMT2ZUVjBld0o3UzBYNjA0LXduMUlqWFdHN1FKWVVIVWlMUWVRRVU5WDB6NnF1UzkyMnlySGVPdEZuS2hxUjlMeVNN?oc=5",
+          "hotness": 85
+        },
+        {
+          "title": "知情人士：美国政府考虑入股人工智能企业",
+          "summary": "据知情人士透露，美国政府正考虑通过入股方式直接投资人工智能企业，以加强国家在AI领域的竞争力。",
+          "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBSMjEtLW5YaXJ5eDY3OWN2SXdDZ1l5SmxHSG5TTWplV3VtQ09sUDhOQkxGMnEzSmdCX3poNGRqcmt6aHM?oc=5",
+          "hotness": 80
+        },
+        {
+          "title": "AI深入产线，新一代智能制造锻造产业硬实力",
+          "summary": "AI技术深入生产线，推动新一代智能制造发展，提升产业核心竞争力和硬实力。",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBGRmlXdnV3UTc5TE56ZzRpMTA4aHJIQzd6T0NyMGRvcEdTQS1ra2VPUko0M1Q3TTZIcWZLck9JbzN1akY5RTlkNDY3MGM0dmhMTk1fY0VYTHBvRkx3MWwxSDZrcEpLc2Z6S3FLazRVTXpQeFdXeHZpdElLd3l2UQ?oc=5",
+          "hotness": 75
+        },
+        {
+          "title": "鸿蒙迈向Agent时代，余承东放话：盘古大模型要争“世界第一”",
+          "summary": "华为余承东宣布鸿蒙系统进入Agent时代，盘古大模型目标成为世界第一的AI模型。",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5fUTJ2VVYzcmVieGlSdjNZTEJkcFJEaFJadWNuVWFPQTI1Vy1ZVjhxTUVCUk9EaGpqdU5QVElwVHFIb282aE9lY3Zhamo2OXFrdFI1bDU2alZuZ2o0SzFMag?oc=5",
+          "hotness": 82
+        },
+        {
+          "title": "【早报】字节被爆今年AI支出将超2000亿；我国第四代自主超导量子计算机上线",
+          "summary": "字节跳动今年AI相关支出预计超过2000亿元，同时中国第四代自主超导量子计算机正式上线。",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBuQ1FlSGRZV1RDNkRFcGs1ZDlNQWJqcEVXaGZObEUyUVl1VGRfZm05RGtQQ0picm1VTlpTakVtYkZDRnVqUVFRWA?oc=5",
+          "hotness": 88
+        },
+        {
+          "title": "南威软件受邀出席“华为中国行”，深度分享AI赋能政务创新应用",
+          "summary": "南威软件在华为中国行活动中分享AI技术在政务领域的创新应用和实践经验。",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9pU0ZmaGhGMGhRNzdIdFhzcFJuR3dRUVJ4bUJKM2Q3aTN2aGxoRjkwd0VrYzVnZ3o5QnI3NXFnOFU3ZWt0RXV5NllHUDJJbnRsa0pQV0MwRU5aeEVwVVE?oc=5",
+          "hotness": 70
+        },
+        {
+          "title": "Zuckerberg says Meta made 'mistakes' in AI workforce shift",
+          "summary": "扎克伯格承认Meta在AI人力资源转型中犯了错误，正在调整相关策略。",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMDl3TDBSSG5DbXEwYTcwNlcwaTJ5dWpZV29IWEpNYnVKc2UzT2NpaWdZMXdpbWU1WklwMHdqWXBXRG13cU9Dc0h1NDdQcTRNN1JLR1hjU0RuUkRxSUl4NzFtRTJoTUJPVS1xdzJKdGR0TFVXUTRVbzBscFY4OHJqbzVRUkoycTNvV2s0eWY4WWxNRDJiSW5QU25Qd0tvYU5WNXc?oc=5",
+          "hotness": 78
+        },
+        {
+          "title": "Scoop: Trump admin blocks foreign access to Anthropic's most powerful AI",
+          "summary": "特朗普政府阻止外国访问Anthropic最强大的AI系统，加强AI技术出口管制。",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSVVrcUxGYkkyQkdjRGdjQTVrLUdneC1kYmMyVzdWMXhJVWU0WHJ6NE1yNlBZeF9iLWQteWt0ZUFtSWNCQldYVms4c2Z6MENaeFpmbjgzdVFsOWJkLVdVby0tWEhoVlZyX2M2R1c0MEp4dmNTQXBPRlNsdUZMa2RXelVzRHBoZw?oc=5",
+          "hotness": 83
+        },
+        {
+          "title": "Tokenminimizing: Meta Moves to Curb Employee AI Usage as AI Costs Reach Billions",
+          "summary": "Meta采取措施限制员工使用AI工具，因AI相关成本已达数十亿美元。",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUGhZTkFMcTNNam4zbVlUZF81Tm1nQnBQaHh0b1JhZmFPSDhxc0JsQ3c3VzR3THdWOFpsaVFLdHJfTnB0MUhLbjVzejA3SVlhQzF2WGRVN19iY09KSTFMQ1JZLXA3c3RyU3owUkczenFwdzI2bHVaQmFuaUQ2eExKeTdkMUExUHNWZThCU1VSMDBDMndrdDIyUEE2cmNpWHplVGN0Y3MwS21GdU5lTHdTM1hIdw?oc=5",
+          "hotness": 76
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "title": "AI版章鱼哥诞生！千问预测世界杯首日一战封神，GPT和Gemini全部失手",
+          "summary": "千问AI模型成功预测世界杯首日比赛结果，表现超越GPT和Gemini等主流模型。",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZDlMNC1xU1BFR1ZybmtNaWFpeG5PYnFBbVZzbFJBQ1JkMndwajQwS3J1QnJ5Y0tvWXJQSjFyMnc2NmtJYzA1LTFTZHJOWk5wY1RZTUtjUWllX3ZTZl9COGI1SWZZNGN4OEt5WUVDQkNfb0taZl9LTnd6S05KeHFXSnAtTTQtVXhXWXFOaWExTQ?oc=5",
+          "hotness": 90
+        },
+        {
+          "title": "活力中国调研行丨中关村学院：瞄准颠覆性AI技术，以极限挑战筛选人才",
+          "summary": "中关村学院聚焦颠覆性AI技术研发，通过极限挑战方式选拔和培养高端AI人才。",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9nUjRRRW4yZnpCNlI3dU1pNGpkcjJRV1FUNGZFTldJMHhvLUtuVW1fWHF0UEcwNlJSSk4xZW1qWFBOOUNGQ2ZHRXJRZWlRN1pKT3NRS0VrY09INGhCY3k5Q0h0NS13NFp4UUJyQXRvTDk?oc=5",
+          "hotness": 72
+        },
+        {
+          "title": "NVIDIA Achieves Leading Agentic Coding Performance on First Agentic AI Benchmark",
+          "summary": "英伟达在首个Agentic AI基准测试中取得领先的智能编码性能表现。",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVmRyeDI4RWZPamRkOFZFejNSaHpZM2RRWmZGem5jeWp1YlRJclhuOE9Oa3VKZms3SGN0LXZJVWVldktxU1NyQmFXc3BHQjlGVUpfVEo1S2owc25oX0NWUEFOdFRIaUx1dkF5TjdjRVJVR0x1dXJQbUtEdlg1cnJOTHJGZF9KS2hnQzFuQ3B3MU1BdWdKbWdoUVJWUUdkUURkWFR3czI3blU0aVltelNjNmhIamRvQQ?oc=5",
+          "hotness": 79
+        },
+        {
+          "title": "Results from the first Anthropic Public Record",
+          "summary": "Anthropic发布首个公共记录结果，展示其AI模型的最新进展和性能表现。",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1sUXRvWW91TTJBazFqVWdITGR6VmdQWGp3UnJ5MG5INEZPZHhlajVpdzFLSUtoeEdkMFdZX3hZSlRLNE9IbTFUMDRYLTBJZWJkMUtPYjBxVlNXOGRDSmxmWk1sV1U?oc=5",
+          "hotness": 74
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": []
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "title": "当AI深度融入生活，人与AI如何和谐相处？看看他们怎么做",
+          "summary": "探讨AI深度融入日常生活后，人类如何与AI和谐共处的实践案例和方法。",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9CVERXcTRuRkFRazdNZ0tESTc3d1dwaVd3MUd1WnlDR2lmWFJmRk9LTWl1cDVZNk5CR21pTXBxN2xjVzNvLXBXRnE1YTVpWjNsQzdtcEl0YmNHdmZPMTdQRw?oc=5",
+          "hotness": 73
+        },
+        {
+          "title": "你的岗位会被AI替代吗？专家：企业应优先安置员工而非裁员",
+          "summary": "专家建议企业面对AI替代岗位时，应优先考虑员工安置和转岗培训，而非简单裁员。",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBKdkFOaEk4UzdUalZQUEtaTG9MNjVpWm1jcTBETW41ekFoRTFiOTNHWDVLQVdqSFZLcVhPX1dSODB5VHhXcERNamFIZW03dG1aYkhuN21Dc2pKTkdMZ0tNaw?oc=5",
+          "hotness": 81
+        },
+        {
+          "title": "全球AI治理新闻No.31丨2026.06.01-2026.06.08",
+          "summary": "复旦发展研究院发布全球AI治理最新动态，涵盖2026年6月第一周的治理进展。",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5yZFhiQ2hkMVdVM3VyNlJQU2tmM2o0aVEyY2U3TW5jMTllalNSMzhFMHF3STQyRnV1QnE4MkFnN1RzTzVvUFVLVEhTd2lYX3ViaFA5T0hLNDMyZTZrOEpmUmZHTm8?oc=5",
+          "hotness": 71
+        },
+        {
+          "title": "Niall Ferguson: AI Is the Most Dangerous Arms Race in History",
+          "summary": "历史学家尼尔·弗格森警告称，AI竞赛是历史上最危险的军备竞赛，需要高度重视。",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWWs4NWVqR2VSUkxUNlQzdGNPZWZBUlFLQlVnbE9yblBtc1FpUEIxMk5hc3Z3MnpMOWRJTDlpc1kzdDQ1VTBBbnhuMGNnb0lKWlVoU2I0WV9MaHZjNEtYbnRlelF2bzdkWTJDS2JGNXFTSUVIUHpLUUQ4dURXUzdLMng5UlFDYnF4?oc=5",
+          "hotness": 77
+        }
+      ]
+    }
+  }
+}

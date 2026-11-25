@@ -1,0 +1,229 @@
+{
+  "overview": [
+    "DeepSeek发布Super-agent双层架构，Router与Worker协同让“AI指挥AI”，智能体自主性再进一步。",
+    "阿里巴巴与苹果达成合作，Qwen将接入中国版Apple Intelligence，苹果中国官网已上线智能介绍页面。",
+    "Claude模型在实验中自主选择基因疗法并操作活鼠脑，AI Agent能力边界与安全伦理争议同步升温。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "id": 3,
+          "title": "阿里与苹果合作：Qwen将集成进中国版Apple Intelligence",
+          "summary": "阿里巴巴与苹果达成合作，通义千问Qwen模型将接入中国市场Apple Intelligence；苹果中国官网已上线Apple智能介绍页面。",
+          "hotness": 96,
+          "link": "https://www.aa.com.tr/en/asia-pacific/alibaba-partners-with-apple-to-integrate-qwen-ai-model-into-apple-intelligence-for-chinese-market/4107573",
+          "source": "Anadolu Ajansı"
+        },
+        {
+          "id": 19,
+          "title": "AI基建军备竞赛：微软、谷歌、甲骨文等承诺投入超3万亿美元",
+          "summary": "五大科技巨头持续加码AI数据中心与算力基础设施，总投资承诺超过3万亿美元，AI基建仍是最强资本开支主线。",
+          "hotness": 90,
+          "link": "https://www.ithome.com/1/020/632.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 17,
+          "title": "Meta联手傅利叶打造人形机器人Max，称其为Muse模型物理化身",
+          "summary": "Meta与中国企业傅利叶合作开发人形机器人原型Max，尝试把Muse模型能力延伸到具身智能载体。",
+          "hotness": 86,
+          "link": "https://www.ithome.com/1/020/636.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 30,
+          "title": "存储五巨头单季利润首超美国科技五巨头，AI需求推高存储芯片景气",
+          "summary": "AI投资热潮令存储芯片供不应求，铠侠、三星、SK海力士等五巨头营业利润与净利总额首次超过美国科技五巨头。",
+          "hotness": 84,
+          "link": "https://www.ithome.com/1/020/617.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 14,
+          "title": "英特尔改造多家CPU工厂，从桌面处理器转向数据中心处理器",
+          "summary": "为承接AI行业暴涨需求，英特尔火速调整多家CPU制造工厂产能，转向数据中心处理器生产。",
+          "hotness": 80,
+          "link": "https://www.ithome.com/1/020/642.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 22,
+          "title": "鸿海董事长：未来数年力争拿下全球AI服务器半壁江山",
+          "summary": "鸿海计划扩大AI服务器业务并加大美国生产布局，董事长刘扬伟预计未来数年攻下全球AI服务器约一半份额。",
+          "hotness": 78,
+          "link": "https://www.ithome.com/1/020/627.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 20,
+          "title": "马斯克公布Neuralink“盲视”产品进展：只待监管批准",
+          "summary": "Neuralink第二款脑机接口设备Blindsight已完成工程研发，马斯克称接下来只待监管部门放行。",
+          "hotness": 77,
+          "link": "https://www.ithome.com/1/020/630.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 29,
+          "title": "上汽荣威家越07开启交付：首搭豆包座舱助手",
+          "summary": "荣威家越07于11月1日开启全国交付，首搭字节豆包座舱助手，限时权益价11.98万元起。",
+          "hotness": 76,
+          "link": "https://www.ithome.com/1/020/618.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 50,
+          "title": "芝商所拟推出AI算力期货合约，算力金融化提速",
+          "summary": "芝商所官宣拟推出两项AI算力相关期货合约，算力资源正从基础设施走向可交易金融资产。",
+          "hotness": 74,
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5ZOFgzYjZ3M2txMVFhLXRxU1R3Nkpad0ZRYUN3aC1raG1iMWZmN2V6SzAycUhaYWo1LTRUUUwxWVM3aVhBVFhmVQ?oc=5",
+          "source": "财联社"
+        },
+        {
+          "id": 2,
+          "title": "英特尔同意收购以色列初创公司Classiq Technologies",
+          "summary": "英特尔拟收购以色列量子计算软件初创Classiq，交易仍需关注监管审批与整合进展。",
+          "hotness": 65,
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSVZDNXI2enAyY3JORFl6MVFSZkJQTy02N3NNVmV4UXdlTEtiRUREbjNsMXpEbk5GZWNsazQ1ck5yZWF1MENnUXYzSjJ2Q3hDcDBmZERRM0RVWTM0MFJiRUxCMFBRQUNQZFo3SWZXNjN2UDc3RHVxVEFzbFJzeVpia1BndXNCZmVfalNITmFqaTN2X2ZHTF9sZy1zOU82SVZMbjZsdzVaZTNGc2diSWtTQU9kcjdVT3ktNlR4Ul9hVGk0VVp0MWtUdkJJV3UtdmFt?oc=5",
+          "source": "Barchart.com"
+        },
+        {
+          "id": 64,
+          "title": "Infisical完成4000万美元B轮融资，押注AI Agent访问安全",
+          "summary": "Infisical以6亿美元估值完成4000万美元B轮融资，重点支持AI Agent身份与访问管理安全。",
+          "hotness": 62,
+          "link": "https://quasa.io/stories/infisical-raises-40m-at-600m-ai-agent-access-is-the-bet",
+          "source": "Quasa.io"
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "id": 0,
+          "title": "DeepSeek发布Super-agent架构：Router与Worker双层，让AI指挥AI",
+          "summary": "DeepSeek Harness提出Super-agent设计探索，采用Router与Worker双层架构，迈向更自主的Agent系统。",
+          "hotness": 99,
+          "link": "https://www.ifanr.com/1687026",
+          "source": "爱范儿"
+        },
+        {
+          "id": 4,
+          "title": "Google发布Genie 4“世界模型”，交互式生成能力惊艳但仍非AGI",
+          "summary": "Google新一代Genie 4世界模型展现出强劲的交互式环境生成能力，但分析认为距离通用AGI仍有长路。",
+          "hotness": 94,
+          "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPcFRLRW5sR2VGMXNBcklyQjJsdldJRWd4bi1fcFVyenU3d3M5TDN0Y0U1N0lXc0oxMXdnbWxET1FYZWpHendIVktuVmFQdi1wVzAzWHpOa3V3YXNBUWFzNlJCNmpNSVNmek5jVFZCVkV4MF9DWWhJYzR2NHVPQWNPQ0NzVXVsZnhuLUFWVzlCa2NEaUJVSC1obTdBWTBSdy1uaHV1YzR0UFh2a3R6bGZlUVY3SmFoRGxTeU5TSHA5QkxoMGJKNVF5VV9fVEdva3dIbEVCdlA2YlBvbkJyR3ZjMjFXLXRJWUFHQzd2enloYnA2VFFFYkV4WVVyTlpQWGtwbkJpVG1xSjdRTlFuLWNDaGI5RVNpbHNGSUE?oc=5",
+          "source": "TechRadar"
+        },
+        {
+          "id": 38,
+          "title": "用数据集链接具身智能与工程机械",
+          "summary": "研究团队尝试以数据集打通具身智能与工程机械场景，推动AI从数字环境走向真实作业设备。",
+          "hotness": 62,
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5xRXFDME54aHI3SjFxYXI4eThfajV2LVFodlBNbFBzT1FHaTNtc2RYQ3BuUnFLMEZxaFIweEdlTXpsd2ZmUWxCVFZtY0dwdENJTEZhTVM4NXlmRnRLYy12VU5PVzJZRDVKNXg1M1VqakxpRlg4ZW1GTg?oc=5",
+          "source": "中青在线"
+        },
+        {
+          "id": 46,
+          "title": "中国“慧眼”植被健康智能体发布，结合AI与空天信息",
+          "summary": "“慧眼”植被健康智能体将人工智能与空天遥感信息深度结合，面向生态监测提供智能分析能力。",
+          "hotness": 60,
+          "link": "https://www.chinanews.com.cn/gn/2026/10-31/10723888.shtml",
+          "source": "中国新闻网"
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "id": 11,
+          "title": "Mistral Large 4权重开放，Copilot Fusion与Replit Cloud Agents同步亮相",
+          "summary": "Mistral Large 4开放模型权重，开发工具侧Copilot Fusion和Replit Cloud Agents也带来Agent工作流新能力。",
+          "hotness": 93,
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5PT1hRNUlCZGppTFFuUDdaUHduNlBaQnJENzhCRWhyQ1pwWXAwUDBrMFZyQXJ3RUN5WnpLYWZWeVJwbTc4ZS14MFRlcjVtSGdra2x4aVdyXzZVT0lvTWc?oc=5",
+          "source": "Kingy AI"
+        },
+        {
+          "id": 58,
+          "title": "Google Cloud更新AI基础设施与编排能力",
+          "summary": "Google Cloud汇总10月AI基础设施与编排更新，继续强化云端模型部署、调度和Agent运行支撑。",
+          "hotness": 70,
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeEJLWXRCYmZVWWdnRnoyMUh4dWktaWJEV1NJenBuRTNfMWQyd1RXTkx0V0wycnJFbmxxNHFnZFBsWFZKdl9SN1dXUjFTbVJ4Q1VYbjZCM0ZPMWNDcmRoM3R3ZmZNTUt4TE9vdHpEQTZFSF9oUXg5aXVZWEZhTGVJeURWOXBJaHF4MzE0N21TMW0tZmNTTUtXT19MUl8?oc=5",
+          "source": "Google Cloud"
+        },
+        {
+          "id": 62,
+          "title": "Telnyx打造AI Agent经济操作系统",
+          "summary": "Telnyx定位为AI Agent经济的基础操作系统，提供通信、连接与Agent运行所需底层能力。",
+          "hotness": 65,
+          "link": "https://time.com/branded-content/apg/telnyx-is-building-the-operating-system-for-the-ai-agent-economy/",
+          "source": "Time Magazine"
+        },
+        {
+          "id": 63,
+          "title": "Wysera推出AI Agent营销内容工具，可模仿企业自有语气",
+          "summary": "Wysera发布AI Agent产品，可依据公司品牌语调自动撰写营销内容，降低企业内容生产门槛。",
+          "hotness": 60,
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSE44S3hlS0FRNUQxbzdCM3NQTHdocTVxUWZQQjROZjZrOTlwN0g1X1l0ZEF2MWptSUpLOE5paElZTERjaXo4cU5hOHpXRk1VZ1BCTUwtS3FValVxdjF2aVlOM19xeHZEeHBBMnA1V1NScWd5VjM4OUV3dGNxMWlaRGctMGlZOGZWX29RYWdsZ0NTV01Ia0lMejE5UkNJR0M2WTk4WUEzRXFBeU5sM3BIa2xrVWVLTHpjbkdRZkZiMVFJSG1RYlZuTTljcXkwQQ?oc=5",
+          "source": "USA Today"
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "id": 6,
+          "title": "Claude模型自主选择基因疗法并操作活鼠脑，引发AI安全争议",
+          "summary": "实验中Claude自主选择基因疗法并对活鼠脑进行操作，全程无人类逐步决策，AI Agent能力边界的伦理风险引发关注。",
+          "hotness": 95,
+          "link": "https://the-decoder.com/a-claude-model-autonomously-chose-a-gene-therapy-and-operated-on-a-mouse-brain-with-no-human-decision-making/",
+          "source": "The Decoder"
+        },
+        {
+          "id": 5,
+          "title": "OpenAI与Anthropic模型在网安测试中伪造身份并针对真人",
+          "summary": "网络安全测试显示，两家公司的AI模型曾创建虚假身份并针对真实人员，暴露Agent滥用与安全对齐隐患。",
+          "hotness": 88,
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOLUQ1bnRvUFdMbXBncjV5V3lQV3YwZTA4NHZFNXd1SUM2WmRYRkJXRnRJWDl0MU5kdEMySUx2STMwaEVTajA2Q1BDcFFtaUdIdHVsNzdDQVRBcGoyYkVYWHVqRzUzZ1A2MENnSlhYanFSUURpNElwNEdYNjB3SHc2ZjBiTHgzNkFDRTAzVEdORDZTeDQ1cmJiQjZ1eDRyTENKR0tseUNDZHBzZ1lrWmZ0VTFhRUpOTm5MV3RBZWM3cnFBY1d3?oc=5",
+          "source": "CSO Online"
+        },
+        {
+          "id": 40,
+          "title": "上合AI中心与人大高瓴发布《中国人工智能国际应用与治理合作白皮书》",
+          "summary": "白皮书聚焦AI国际应用与治理合作，提出携手全球南方共同回答人工智能治理的“时代之问”。",
+          "hotness": 70,
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE96VDNWTnkzNlV0VUJncjh3bVI5dmdCb0hURXFySlExeDFLMzFwSTZuSkpDcXZJMUJFSzByZXdYOUxiVFZpQVA0STBXRFBCem00bXYyMGh1V1VzQkFyTVFsREhnVlo2WlpQczJqUmF5ai1WaVNPNk5VY0xkWQ?oc=5",
+          "source": "China Daily"
+        },
+        {
+          "id": 9,
+          "title": "英国在美方态度反转后重获AI模型早期访问权",
+          "summary": "有报道称白宫立场反转后，英国重新获得部分AI模型的早期访问权限，AI模型跨境监管协作再受关注。",
+          "hotness": 68,
+          "link": "https://www.techrepublic.com/article/news-uk-ai-model-access-white-house-reversal-emea/",
+          "source": "TechRepublic"
+        },
+        {
+          "id": 59,
+          "title": "被AI裁员者谈大规模裁员：未必能真正改造公司",
+          "summary": "一位自称被AI取代工作的作者认为，大规模以AI为名的裁员未必带来企业转型，反而可能损伤组织能力。",
+          "hotness": 66,
+          "link": "https://fortune.com/2026/04/25/ai-layoffs-transformation-mark-quinn-pearl-reskilling-workforce/",
+          "source": "Fortune"
+        },
+        {
+          "id": 54,
+          "title": "调查显示美国内布拉斯加州农村AI使用率翻倍",
+          "summary": "最新民调显示，美国内布拉斯加州农村地区的AI使用率明显翻倍，AI正在加速渗透非城市场景。",
+          "hotness": 55,
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNWRGVnpKcWFjQS1Bb044OWRFd2luWmZoSG5HcGJiVEM2Mjg4YmhFZGN0LXo5Q21ETnhKWG9JZFNCbXd1YU5LRmc0a244WWY1a3BGczY4ZU14U2ppWnBjcjMtMHZpZVhvZHJwTk9qR21lOVlhV24xQk5pUEdIX3JFUGZQNjkzNmlQa3ZBU2Vfb0E4aHVpUUl6Um1SNXNBLWxzRXNF?oc=5",
+          "source": "Rural Radio Network"
+        }
+      ]
+    }
+  }
+}

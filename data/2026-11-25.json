@@ -1,0 +1,181 @@
+{
+  "overview": [
+    "核心模型竞赛升温：Gemini 4 Neon 与 GPT-6.2-Astra-Sol 发布，主打企业生产力；OpenAI 同时公布 GPT-6 蛋白质设计预印本。",
+    "Meta 在英国上线购物 AI 智能体 Muse，并接入 Instagram 私信，联合多家零售商抢占圣诞购物季。",
+    "Anthropic 为 Claude Artifacts 推出“安装为应用”，一键把生成内容变成独立桌面软件，AI 工具链向可交付应用演进。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "id": 8,
+          "title": "Meta 在英国上线购物 AI 智能体 Muse，并接入 Instagram 私信",
+          "summary": "Meta 在英国上线购物 AI 智能体 Muse，联合 M&S、Sainsbury’s 等零售商，并接入 Instagram 私信，抢占圣诞购物季。（合并源：8/15/16/17/18/19/26）",
+          "hotness": 95,
+          "link": "https://startupfortune.com/meta-launches-its-muse-ai-agent-in-the-uk-just-as-christmas-shopping-peaks/",
+          "source": "Startup Fortune"
+        },
+        {
+          "id": 27,
+          "title": "马斯克：特斯拉 AI4 足以实现“超人驾驶”，AI5 优先给 Optimus",
+          "summary": "马斯克称特斯拉 AI4 已足以实现“超人驾驶”，下一代 AI5 芯片将优先用于 Optimus 机器人。",
+          "hotness": 74,
+          "link": "https://www.ithome.com/1/031/915.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 28,
+          "title": "黄仁勋复职后首次全员大会道歉，称正接受心理治疗",
+          "summary": "黄仁勋复职后首次全员大会道歉，称正接受心理治疗、承诺调整强硬管理风格，并表示英伟达不需要接班人计划。（合并源：28/30）",
+          "hotness": 72,
+          "link": "https://www.ithome.com/1/031/914.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 44,
+          "title": "华为 Mate X8 发布，外屏伴随式 AI 新交互将至",
+          "summary": "华为 Mate X8 发布并升级 HarmonyOS，带来外屏伴随式 AI 新交互。",
+          "hotness": 66,
+          "link": "https://www.ithome.com/1/031/886.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 13,
+          "title": "Innovaccer 将 Grok Voice 接入 Gravity 语音智能体",
+          "summary": "Innovaccer 将 xAI 的 Grok Voice 模型接入 Gravity 语音智能体，扩展医疗场景语音 AI。",
+          "hotness": 62,
+          "link": "https://siliconangle.com/2026/11/23/innovaccer-expands-gravity-voice-ai-agents-with-spacexsis-grok-voice-model/",
+          "source": "SiliconANGLE"
+        },
+        {
+          "id": 4,
+          "title": "xAI 创始成员创立 Epochal，打造预测未来事件的 AI 公司",
+          "summary": "xAI 创始成员创立 Epochal，打造用于预测未来事件的 AI 初创公司。",
+          "hotness": 60,
+          "link": "https://mlq.ai/news/xai-founding-members-launch-epochal-an-ai-startup-built-to-predict-future-events/",
+          "source": "MLQ.ai"
+        },
+        {
+          "id": 58,
+          "title": "自变量机器人与马来西亚国家邮政探索具身智能物流",
+          "summary": "自变量机器人与马来西亚国家邮政合作，探索具身智能在邮政物流场景落地。",
+          "hotness": 60,
+          "link": "http://jjckb.xinhuanet.com/20261124/ea74313073cf4d639131106a19303956/c.html",
+          "source": "经济参考报"
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "id": 9,
+          "title": "Gemini 4 Neon 与 GPT-6.2-Astra-Sol 发布，主打企业生产力",
+          "summary": "报道称两款新模型同步面向企业生产力场景发布，核心模型竞争进一步升温。",
+          "hotness": 98,
+          "link": "https://www.techtarget.com/news/model-release-gemini-4-neon-gpt-62-astra-sol-target-business-productivit/875440/",
+          "source": "TechTarget"
+        },
+        {
+          "id": 20,
+          "title": "OpenAI 称 GPT-6 无需专用生物模型即可设计蛋白质",
+          "summary": "OpenAI 预印本称 GPT-6 系列仅靠推理和通用编程工具设计蛋白质结构/序列，实验室初步验证有效。（合并源：20/34）",
+          "hotness": 94,
+          "link": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+          "source": "OpenAI Blog"
+        },
+        {
+          "id": 21,
+          "title": "业余天文学家借助 Codex 与 Astra 搜寻系外行星",
+          "summary": "OpenAI 案例显示两位业余天文学家利用 Codex 和 Astra 分析公开望远镜数据，发现潜在系外行星。（合并源：21/29）",
+          "hotness": 56,
+          "link": "https://openai.com/index/searching-for-distant-planets-with-astra",
+          "source": "OpenAI Blog"
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "id": 32,
+          "title": "Anthropic 为 Claude Artifacts 推出“安装为应用”",
+          "summary": "Claude 生成的交互式内容可一键安装为 macOS/Windows 独立应用，降低从生成到交付的门槛。",
+          "hotness": 93,
+          "link": "https://www.ithome.com/1/031/911.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 3,
+          "title": "OpenAI 与 Cisco 开源 Shirudo，保护未修补 Linux 系统",
+          "summary": "双方推出开源运行时 Shirudo，可在补丁前阻断针对 Linux 与智能体 AI 基础设施的漏洞利用。（合并源：3/5/7/10/11/12/25）",
+          "hotness": 84,
+          "link": "https://www.sdxcentral.com/news/cisco-and-openai-launch-shirudo-to-block-cyberattacks-without-downtime/",
+          "source": "SDxCentral"
+        },
+        {
+          "id": 14,
+          "title": "Archive Intel 上线 MCP 与 Claude 合规 API 集成",
+          "summary": "Archive Intel 推出 Model Context Protocol 与 Claude Compliance API 集成，方便企业将 Claude 接入合规归档流程。",
+          "hotness": 64,
+          "link": "https://www.businesswire.com/news/home/20261124959125/en/Archive-Intel-Launches-Model-Context-Protocol-MCP-and-Claude-Compliance-API-Integration",
+          "source": "Business Wire"
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "id": 47,
+          "title": "中国牵头推动全球首个生成式 AI 治理国际标准提案",
+          "summary": "中国牵头提出生成式人工智能治理国际标准提案，推动全球治理规则协调。（合并源：47/48/63）",
+          "hotness": 80,
+          "link": "https://www.chinanews.com.cn/cj/2026/11-24/10737255.shtml",
+          "source": "中国新闻网"
+        },
+        {
+          "id": 46,
+          "title": "安理会聚焦 AI 军事应用，呼吁加强国际规范",
+          "summary": "联合国安理会讨论人工智能军事应用风险，古特雷斯与红十字国际委员会呼吁建立更强国际规范。",
+          "hotness": 74,
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBVSTZFaWE4WFVYVWRrZ2tZa05uRHhvdF9RZzUzblp2Nksyd3ZJUmFERjh0MDFmU25RVTJNbE5ZbExIVVpzaDF2X0dfaHRqS2J0aHAtNnpGbw?oc=5",
+          "source": "UN News"
+        },
+        {
+          "id": 6,
+          "title": "科技巨头联合成立 Open Secure AI Alliance",
+          "summary": "多家科技领袖组建开放安全 AI 联盟，推动 AI 安全与安保合作。",
+          "hotness": 72,
+          "link": "https://siliconangle.com/2026/07/27/tech-industry-leaders-join-form-open-secure-ai-alliance-promote-safety-security/",
+          "source": "SiliconANGLE"
+        },
+        {
+          "id": 35,
+          "title": "Tidal 下月起全面封杀纯 AI 生成音乐",
+          "summary": "Tidal 宣布将下架和封禁纯 AI 生成歌曲，以遏制 AI 音乐投稿激增。",
+          "hotness": 70,
+          "link": "https://www.ithome.com/1/031/904.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 1,
+          "title": "OpenAI 与 Anthropic 员工担忧未发布模型风险过高",
+          "summary": "报道称两家公司部分员工担心某些未发布模型风险过高、不宜发布，引发前沿模型安全讨论。",
+          "hotness": 68,
+          "link": "https://digg.com/ai/b04pmqjl",
+          "source": "Digg"
+        },
+        {
+          "id": 33,
+          "title": "OpenAI 窃听案嫌犯以 100 万美元保释",
+          "summary": "前 OpenAI 工程师因涉嫌窃听高管被控，获准以 100 万美元保释并戴电子脚镣。",
+          "hotness": 55,
+          "link": "https://www.ithome.com/1/031/909.htm",
+          "source": "IT之家"
+        }
+      ]
+    }
+  }
+}

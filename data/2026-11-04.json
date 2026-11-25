@@ -1,0 +1,213 @@
+{
+  "overview": [
+    "DeepSeek计划用华为昇腾950芯片训练下一代V5模型，国产算力替代加速。",
+    "苹果iOS 27.3开放Siri AI第三方应用技能，国行Apple智能首批功能上线并联手千问。",
+    "OpenAI ChatGPT周活达12亿，搜索查询量达谷歌20%，搜索格局生变。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "id": 4,
+          "title": "DeepSeek计划用华为昇腾950训练V5下一代模型",
+          "summary": "DeepSeek被曝计划基于华为昇腾950芯片训练下一代V5模型，凸显国产算力替代与算力自主趋势。（源id:4,21）",
+          "hotness": 95,
+          "link": "https://www.geopolitechs.org/p/deepseek-plans-to-train-its-next",
+          "source": "Geopolitechs"
+        },
+        {
+          "id": 26,
+          "title": "苹果iOS 27.3 Siri AI大更新：开放应用技能并登陆国行",
+          "summary": "苹果开放Siri AI第三方“应用技能”，支持跨App任务与繁体中文；国行Apple智能首批功能上线，iPhone可联手千问扩展能力。（源id:26,36,37,38,41,42,47）",
+          "hotness": 95,
+          "link": "https://www.ithome.com/1/021/883.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 25,
+          "title": "OpenAI ChatGPT周活达12亿，搜索查询量达谷歌20%",
+          "summary": "ChatGPT周活跃用户增至12亿，两个月新增2亿；其搜索查询量已达谷歌20%，对搜索市场形成实质挑战。（源id:25,31）",
+          "hotness": 90,
+          "link": "https://www.ithome.com/1/021/885.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 0,
+          "title": "DeepSeek服务再次大规模中断，年内稳定性问题频发",
+          "summary": "DeepSeek 11月3日对话及API出现大规模中断，今年以来至少10次故障，高速扩张下的服务稳定性受关注。（源id:0,1）",
+          "hotness": 75,
+          "link": "https://cj.sina.cn/articles/view/7327346231/1b4be6e3700102khts",
+          "source": "新浪网"
+        },
+        {
+          "id": 24,
+          "title": "微软Win11 AI PC路线图曝光：4档硬件，8GB内存也有AI入场券",
+          "summary": "微软被曝规划四档Win11 AI PC硬件，最低8GB内存也可获得AI能力，推动端侧AI普及。",
+          "hotness": 75,
+          "link": "https://www.ithome.com/1/021/886.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 12,
+          "title": "Canva加码OpenAI合作，刚发布第二款自研AI模型",
+          "summary": "Canva在推出第二款自研AI模型数天后宣布深化与OpenAI合作，显示应用层AI竞争与合作并行。",
+          "hotness": 70,
+          "link": "https://www.startupdaily.net/topic/business/canva-doubles-downw-with-openai-just-days-after-launching-its-2nd-in-house-ai-model/",
+          "source": "Startup Daily"
+        },
+        {
+          "id": 28,
+          "title": "AMD算力动态：EPYC Venice出货，前三季净利大增",
+          "summary": "AMD宣布EPYC Venice处理器已出货，首批OEM整机下季度上市；前三季度归母净利润同比增长116%。（源id:28,34）",
+          "hotness": 65,
+          "link": "https://www.ithome.com/1/021/881.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 46,
+          "title": "纬钛机器人与腾讯云合作，聚焦具身智能数据与模型训练",
+          "summary": "纬钛机器人与腾讯云达成战略合作，围绕具身智能数据和模型训练展开协同。",
+          "hotness": 65,
+          "link": "https://www.gasgoo.com/robot/news/70476794-%E7%BA%AC%E9%92%9B%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%8E%E8%85%BE%E8%AE%AF%E4%BA%91%E8%BE%BE%E6%88%90%E6%88%98%E7%95%A5%E5%90%88%E4%BD%9C/",
+          "source": "www.gasgoo.com"
+        },
+        {
+          "id": 52,
+          "title": "游族网络拟42.25亿元下单GPU，押注算力产业链",
+          "summary": "游族网络公告拟豪掷42.25亿元采购GPU，跨界押注算力产业链。",
+          "hotness": 65,
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5ZQUt0RVB3Q3B5ZTZKazIwVjA4bl9Jd0U4ZmExV0FuR29NVzJTRWI5Y1BzS3BiZlZSMm5FQ0g5eW1CRDFndzA5QQ?oc=5",
+          "source": "财联社"
+        },
+        {
+          "id": 51,
+          "title": "具身智能机器人在上海便利店“试岗”",
+          "summary": "具身智能机器人进入上海便利店试岗，展示零售场景落地探索。",
+          "hotness": 60,
+          "link": "https://www.chinanews.com.cn/cj/2026/11-03/10725604.shtml",
+          "source": "中国新闻网"
+        },
+        {
+          "id": 18,
+          "title": "Idris Elba旗下Akuna与Google推出非洲创作者免费AI电影计划",
+          "summary": "Akuna Group与Google合作推出免费AI电影制作项目，面向非洲创作者。",
+          "hotness": 60,
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOHdLQmVnaVVCVkRxdVc2ZWVtMHdiWHFnSzNoZzdtTEc0QWd4NDh2MFlyX2tZQ1ZYSzFYWGp3M3VHdXVnWFBoc3g2MXVMZXJ4RE9TOTEwTkxDdkd3X1FsUjlaYXFLelVWX04yMER3Nk1ORm1CckFvb0g1Q3R4U2VPMXRMb2JlYnNzVXl4Zm5wMmNhZFFCX0kxZVNLS1lSM3g2bHV1TmU5SGVtbHdZbnhXdw?oc=5",
+          "source": "Independent Newspaper Nigeria"
+        },
+        {
+          "id": 33,
+          "title": "超微电脑第一财季净利同比增847%",
+          "summary": "超微电脑2027财年第一财季归母净利润15.94亿美元，同比增长847%，AI服务器需求持续拉动。",
+          "hotness": 60,
+          "link": "https://www.ithome.com/1/021/873.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 43,
+          "title": "中韩具身智能技术产业合作论坛探讨新机遇",
+          "summary": "中韩业界围绕具身智能技术产业合作展开讨论，寻找协同发展机会。",
+          "hotness": 55,
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5kai1NRnN6aEM5cUVRN2tma2FGaWxHVXBNVDFqLW5YcmlTNFJIMUZOX2tWaDBSWl92T1dqdUptSXkxUEZWT3hGRVFraDZtT0JBTXZ0QVh4Um5PZm1Wa3VKQ1NyakU2Z3phWW1FUThrSXltT3VQWkV3YWFFUnozUQ?oc=5",
+          "source": "新华网"
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "id": 15,
+          "title": "GPT-6 Astra被指通过权重空间编程将Qwen MATH-500分数提升六倍",
+          "summary": "有报道称GPT-6 Astra以权重空间编程方式显著提升Qwen在MATH-500上的表现，引发对模型权重操控新范式的讨论。",
+          "hotness": 75,
+          "link": "https://kingy.ai/blog/weight-space-programming-ai-agent-model-weights/",
+          "source": "Kingy AI"
+        },
+        {
+          "id": 57,
+          "title": "Nature Health论文：AI大模型推荐药物偏爱“网红”药物",
+          "summary": "研究显示AI大模型在药物推荐中存在“网红偏好”，可能放大医疗信息偏差。",
+          "hotness": 70,
+          "link": "https://www.thepaper.cn/newsDetail_forward_34396774",
+          "source": "ThePaper.cn"
+        },
+        {
+          "id": 11,
+          "title": "OpenAI下一代模型猜想：Le GPT Fat？",
+          "summary": "业界猜测OpenAI下一代模型可能走向更大规模或新形态，但尚无官方确认。",
+          "hotness": 65,
+          "link": "https://kingy.ai/blog/le-gpt-fat/",
+          "source": "Kingy AI"
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "id": 2,
+          "title": "Anthropic推进可证明推理并开源模型输出验证系统",
+          "summary": "Anthropic公布LLM可证明推理进展，并开发开源系统验证模型输出，提升AI可信度。（源id:2,8）",
+          "hotness": 90,
+          "link": "https://www.anthropic.com/research/provable-inference",
+          "source": "Anthropic"
+        },
+        {
+          "id": 14,
+          "title": "开发者将RISC-V CPU编译进Qwen权重并运行DOOM",
+          "summary": "开发者把32位RISC-V CPU直接编译进Qwen模型权重，并用其运行DOOM，展示权重作为内存的极限实验。（源id:14,17）",
+          "hotness": 80,
+          "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-engineer-successfully-compiles-a-32-bit-risc-v-cpu-in-qwen-3-5-4b-llm-inserted-directly-into-its-weights-built-in-cpu-can-run-processor-arithmetic-operations-code-and-of-course-doom",
+          "source": "Tom's Hardware"
+        },
+        {
+          "id": 45,
+          "title": "乌镇峰会展示AI开源开放实践",
+          "summary": "世界互联网大会乌镇峰会聚焦AI开源开放，展示相关实践与生态进展。",
+          "hotness": 55,
+          "link": "http://www.zj.xinhuanet.com/20261103/a4739fdca1f24e3cb5aa2a5760b8f897/c.html",
+          "source": "新华网浙江"
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "id": 29,
+          "title": "谷歌调整K-12教育AI政策：Gemini与搜索默认关闭",
+          "summary": "谷歌宣布自2027年起调整K-12教育AI管理政策，学校和家长可控制，Gemini与搜索AI功能默认关闭。",
+          "hotness": 70,
+          "link": "https://www.ithome.com/1/021/880.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 6,
+          "title": "AI与选举：Anthropic备战中期选举，信息混乱风险上升",
+          "summary": "Anthropic发布2026美国中期选举准备措施；同时有报道称AI大量使用正加剧选举信息混乱。（源id:6,53）",
+          "hotness": 65,
+          "link": "https://www.anthropic.com/news/2026-us-midterms",
+          "source": "Anthropic"
+        },
+        {
+          "id": 32,
+          "title": "YouTube推广AI配乐工具，帮创作者化解音频版权纠纷",
+          "summary": "YouTube面向全球创作者推广Studio AI配乐工具，降低配乐版权风险。",
+          "hotness": 65,
+          "link": "https://www.ithome.com/1/021/877.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 7,
+          "title": "LLMjacking攻击推高云账单至每日10万美元",
+          "summary": "Mandiant披露LLMjacking攻击可让云账单高达每日10万美元，AI模型滥用与云安全风险凸显。",
+          "hotness": 60,
+          "link": "https://shattered.io/llmjacking-attacks-1-million-cloud-bills-mandiant-google-2026/",
+          "source": "shattered.io"
+        }
+      ]
+    }
+  }
+}

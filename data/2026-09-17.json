@@ -1,0 +1,317 @@
+{
+  "overview": [
+    "Google 发布 Gemini 3.8 Live 与 3.8 Live Extended Thinking，支持实时推理并升级企业语音代理，成为今日最核心模型发布。",
+    "Anthropic 商业化提速：销售额暴增有望首次季度盈利，并深化与诺和诺德合作；Salesforce 在 Claude 合作后自研模型，企业 AI 竞争加剧。",
+    "全球 AI 安全监管升温：联合国呼吁设立护栏，Anthropic CEO 银行式监管提议遭质疑，微软高管批评其模型福利政策，OpenAI 相关智能体被曝劫持网站。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "id": 0,
+          "title": "Anthropic 销售额暴增，有望迎来首个季度盈利",
+          "summary": "Anthropic 销售额暴增，有望实现首个季度盈利，打破 AI 烧钱魔咒。",
+          "hotness": 92,
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9FZ3J5WWVWb3ZmU1gtTnNjVVRWdWM1ZnpsUUhxZG9XU2k5UnBVekZsaURCaUViSTRuaHBZZWdURXI1MnczZ3QtLQ?oc=5",
+          "source": "财联社"
+        },
+        {
+          "id": 45,
+          "title": "诺和诺德与 Anthropic 合作，用 Claude 加速新药研发",
+          "summary": "诺和诺德宣布与 Anthropic 合作，计划运用 Claude 大模型加速新药研发。",
+          "hotness": 72,
+          "link": "https://www.ithome.com/1/003/311.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 15,
+          "title": "Salesforce 在 Claude 合作后自研 AI 模型",
+          "summary": "在达成 Claude 合作三周后，Salesforce 开始构建自有 AI 模型，减少对外部模型的依赖。",
+          "hotness": 68,
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSXdVT0dYZFdnY05ETXZ4UEsxRGVQemVObHhZYWtzeGFhbHdnajBVN1dnMTJudmhHYTE1aE5jUXFMZ2FOejh0UlpXbDdWai1MWmtSMmQ4c3F0Tzc4dlE3OXM2UXIwX0JQVTlvVzdER21nWnJBbHUxb2hhb2d5WUZZRjNOeVBxTXpXdmJiaW9zMkRZQk8xVUQ1QXB1Z0VxaFlhaGtyWlY1cEp6V0Fi?oc=5",
+          "source": "techzine.eu"
+        },
+        {
+          "id": 6,
+          "title": "Meta 将推无摄像头智能眼镜 Luna，回应隐私担忧",
+          "summary": "（合并 id 6、9、10、12、14、20、22）Meta 计划推出无摄像头智能眼镜 Luna，预计秋季发布，以缓解隐私争议。",
+          "hotness": 76,
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYXhWNnRjZHVTcXNEU2JjRlVPR0t1REJVZ0VTZkE5dlpkd3h6NGFYa01icF8talRXLWdFa0twNUVtdW5yclppcE5UMjZZRHF5d1BSOW4zMl9LNTdyRHhRejRqaXJUNjFEcXlsTmtSbGFScnRyWUdDeEN1a1h5MU0yQTZRdms3VndQeUtpUVlnMnVBUG5IYUsyOVFlTHIteThiWHd1bmFlaWswdFVZ?oc=5",
+          "source": "The Information"
+        },
+        {
+          "id": 13,
+          "title": "Meta One 订阅上线，包含 AI 与创作者层级",
+          "summary": "Meta 推出 Meta One 订阅服务，设置 AI 和创作者不同层级。",
+          "hotness": 65,
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE43bWFmZE1nNWtuVWkyN09jTk5tNF9jb0pkcDhDb0I1R3h6b0FoejBSZFdBaEVveTljRURGWkJUbkJhU0ZIeW5JNThIamQyTHpNUHhaWmJTX2ZnLVVQY1piTF80NEl4VHBfRGJhcA?oc=5",
+          "source": "qz.com"
+        },
+        {
+          "id": 21,
+          "title": "Meta 计划 2027 年推出 AI 芯片，目标效率超越 Nvidia",
+          "summary": "Meta 据报将在 2027 年推出新 AI 芯片，目标是在能效上挑战 Nvidia。",
+          "hotness": 73,
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUWs4RWc5a0lPSmF2akxYS1dxZmVsS1M1NzRlTTEwOFZaTVpZa2xyWUpka1cyckVjcHRVSmd4V3UxYXdZZ1ZpRThuWFFKOHJvSXhHTzduejVQWVo2eElMbEhPRjRwU3lWMG5TRkNtMnlub3RRcnFSYWNUQXItRjdhWXR3VTF1R2JtVUlvZzNxM1BpRUdYaWVlOGw0M2ZheWxnaUo4M3IxZUVnSFJpbE1YV2RzME1YazB0eUZvY0tId0R0d0hVRjFsa2JPd1o?oc=5",
+          "source": "Stocktwits"
+        },
+        {
+          "id": 2,
+          "title": "Emerald AI、Google 与 NVIDIA 成立灵活电力数据中心联盟",
+          "summary": "（合并 id 2、3）Emerald AI、Google 和 NVIDIA 发起联盟，推动灵活电力 AI 数据中心建设。",
+          "hotness": 70,
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15OTJ6NjdTOEl1aTB3N08yYkU1Z3JiZjBDNnJjeXBzNHlJeFJ6aWh6ZVBiUGxhWmRPSk1iVXNLWXBFbWNhWDdGX3JuN2txV0RDYnk4NTJ6WHI2MG4wNzF3d1RsN0hnU0k5UVRsWA?oc=5",
+          "source": "NVIDIA Blog"
+        },
+        {
+          "id": 4,
+          "title": "Google 达成迄今最大碳移除交易",
+          "summary": "Google 同意迄今最大碳移除交易，并计划扩大新模型。",
+          "hotness": 65,
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeF81T2ZrdkRFdzRqQmRfWEs2YlhIellqQ0VPMDAxT0NBSWppb0VyNDJBRkYzNFQ5bDVycFJJQU1EYkh0c29IalRVTmtYTE5ncUp6N1lLSWYwNHFzdmhVZ3ZSS09CUVRna1BPRW40R2dadHZkWVh4TG5GU21zdlI3U3kzeWtOWVk2UXc5anF2S3dibXFYWVIxX3BTWW5zMUNaVmt2NVhpaDVOWTdHbFlOUHljTjU5c0lDNnc?oc=5",
+          "source": "Reuters"
+        },
+        {
+          "id": 11,
+          "title": "TotalEnergies 与 Mistral 启动油气勘探 AI 项目",
+          "summary": "TotalEnergies 与 Mistral 合作推出 AI 项目，用于油气勘探。",
+          "hotness": 62,
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMnNYSVRWdTJnTU1KQ2o3eEJvQlQzWk8yb01CMjlWa1o0MEprV29YR3p1Y3U1TlItRUtoYmZINDhMNUZHZ0wtbDJ1SzY3QVNKMnF2Rko1MFltOF8yOHhSX3hRVVhKOEpyUUxRWWNXZGk4OG9vX0pVY1h6cTgzbzBwckROMlNnNnhnc3hWYW9VbFo1WUxzeWJwTzNQVjY3alBIeXFsOVNaTkhjR2xW?oc=5",
+          "source": "World Oil"
+        },
+        {
+          "id": 16,
+          "title": "Village Media 与 OpenAI 合作推出 AI 社区导航员",
+          "summary": "Village Media 与 OpenAI 合作，推出 AI 社区导航服务。",
+          "hotness": 58,
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdm9WQlZqZGRFOVRFTWxWVS1lcUZrT2lVMEVFdXhCSVZtSmZ4cnZ0QWpWZ1FhM3U3NmJyVjdiMVFIdVU2UFk3UTRJUUE0SV9aOHVwMl95emx2SzVBZ0FHM3lMZlVBTld6aWR3MWF3VW5YUlRFMWxiRjdsNG1JOW1pdVRIOFhjamEyMFI0T1NRLU1fb1IxcGVIdkVLdTdkY28?oc=5",
+          "source": "Broadcast Dialogue"
+        },
+        {
+          "id": 26,
+          "title": "OpenAI 质疑马斯克撤诉动机，法官要求披露协议",
+          "summary": "OpenAI 怀疑马斯克撤诉背后另有协议，美国联邦法官要求披露相关文件。",
+          "hotness": 66,
+          "link": "https://www.ithome.com/1/003/359.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 33,
+          "title": "全国日均 Token 调用量两年实现千倍级增长",
+          "summary": "全国日均 Token 调用量较两年前实现千倍级增长，数字能源新型负荷快速增长。",
+          "hotness": 67,
+          "link": "https://www.ithome.com/1/003/349.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 44,
+          "title": "华为预测 2035 年全球年度 Token 消耗量增长 10 万倍",
+          "summary": "华为发布《智能世界 2035》，预测到 2035 年全球年度 Token 消耗量将增长 10 万倍。",
+          "hotness": 70,
+          "link": "https://www.ithome.com/1/003/312.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 48,
+          "title": "山东发布“十五五”人工智能+制造路线图",
+          "summary": "山东提出“十五五”人工智能+制造路线图，目标产值破 3000 亿元。",
+          "hotness": 58,
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9lZV93dzJhTDNOdGVwUFNacnVZTVU5NDNWOW5JUHZHcVB6VjcyQ1d2d2RUNlRzZV9UVktjRnpHQkdfUVlFdGZXSVREbTlhNmN6Z3VKRFFRcl9nY0pMVlJ4OFhNMkNGSzBXXzZpN09TN1ZBaFd3T3c?oc=5",
+          "source": "新浪新闻_手机新浪网"
+        },
+        {
+          "id": 47,
+          "title": "算力网建设重在算好两本账",
+          "summary": "算力网建设需统筹供需与成本，算好经济账和能源账。",
+          "hotness": 52,
+          "link": "http://paper.ce.cn/pc/content/202609/17/content_338968.html",
+          "source": "中国经济网"
+        },
+        {
+          "id": 57,
+          "title": "康惠股份再揽 17 亿元五年期算力大单",
+          "summary": "老牌药企康惠股份加速跨界算力赛道，再获 17 亿元五年期算力大单。",
+          "hotness": 55,
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE53RzlMaTA4dDZ6S0kxV0pUNUNtZG1kVzZnWkRnS1QwQURzTXNiSjUzdjh2TU82d3QxbEM2azJKUEpZNmk0SXlYVQ?oc=5",
+          "source": "财联社"
+        },
+        {
+          "id": 54,
+          "title": "墨芯人工智能推进稀疏计算落地",
+          "summary": "墨芯从算法、芯片、生态三线并进，多维度推进稀疏计算落地。",
+          "hotness": 52,
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRm95U0VHVDBPWk1jZEVXbzlmcDJNaUN6Ui0xLUhyQ1BqSWdvdHZRaTlVcnE0YTRuR2JZdUl5QnpaYWJYU2tzcTRZRkI4ZkVqUWk5RVFUY3RQNXhVbVJncEZROTUwV3BDUHNVZVFSRVZ2RTd6eTd3dFJmR1djZHUtLQ?oc=5",
+          "source": "经济参考报"
+        },
+        {
+          "id": 64,
+          "title": "声智科技与国家人工智能应用中试基地达成合作",
+          "summary": "声智科技与国家人工智能应用中试基地战略合作，加速 AI 模型产业化落地。",
+          "hotness": 50,
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90VnVaaVZFY3JuVVF0c1dkc1FoTm9rSU11eGxLSDlKQ2M0cGtDNWJmTFkxaGhUUkdTTlBVREdXbG9hZl9fVU95Z21WcVB5V21VcGpLVTlZSDNtamIxbWFTZDE1ZVc0VVFlM1VDVzlKOWlsZkFjeHVmS1dsOEMxMlU?oc=5",
+          "source": "手机新浪网"
+        },
+        {
+          "id": 30,
+          "title": "苹果折叠 iPhone Duo 有望引入轻量级 UI 与 Siri AI",
+          "summary": "爆料称苹果首款折叠 iPhone Duo 或将支持轻量级 UI，Apple Pencil 悬停可触发 Siri AI。",
+          "hotness": 60,
+          "link": "https://www.ithome.com/1/003/353.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 32,
+          "title": "京东方为努比亚 NaviX Ultra 独供 AI 原生旗舰屏幕",
+          "summary": "京东方为努比亚 AI 智能体手机独供屏幕，息屏也能低功耗支撑 AI 后台运行。",
+          "hotness": 48,
+          "link": "https://www.ithome.com/1/003/351.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 52,
+          "title": "2026 年人工智能技术赋能网络安全应用测试结果发布",
+          "summary": "2026 年 AI 技术赋能网络安全应用测试结果正式发布。",
+          "hotness": 50,
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5xTnFqSkhOeXVUMUs1RHdYNDlvRWZLMlZiOXFlVy00MFYtaGppbWpkeTNXLUltWEVjTzU3V2ozQi1Qd01vblBkZk1iS3BXQlMyckJtZ2hpcHNreHRtWG9NUmt1MEc3cWc0OXlWRUJjUW8?oc=5",
+          "source": "中国科技网"
+        },
+        {
+          "id": 53,
+          "title": "人工智能造福农民，“中国方案”探索农业 AI",
+          "summary": "中国农业大学等探索人工智能赋能农业的“中国方案”。",
+          "hotness": 45,
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8yVU1tSlBoTWRzX2kyMF9WREE3RGUxYTYwRldiUV96dFNQV01xSU52RFY0Tm9BNTg3UHl3SkdYbnEybHV6a21kZFkydG5NNlRXWlRCM2s4WndDamg3eGlJaU9YU3hlWDlNTng1alc0MDBOYVpuUmtB?oc=5",
+          "source": "中国农业大学新闻网"
+        },
+        {
+          "id": 8,
+          "title": "世界经济论坛讨论 AI 是否成为新的能源技术",
+          "summary": "世界经济论坛发文探讨 AI 是否可能成为世界等待的能源技术。",
+          "hotness": 50,
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWGZQVEZya3lCUU5rRS1rdnBVSDZIcFllcVlYMkk3VFhqUUE0MjlNd3Bvd2xrX2xWNnh4MVNfVEtreVE3ajJSTzNQcEk2QTItSVF3QmFFOXVHbzVyazQwU1ZGOXR5bzkxUERXMUlpNTFCcV9FdS0tMVU3YjdRM0Jib2xoSWw4Q0RrWGU0R3N0ZE1NOEl2SkcxeGs1Yw?oc=5",
+          "source": "The World Economic Forum"
+        },
+        {
+          "id": 27,
+          "title": "字节跳动张一鸣身家 1050 亿美元首登亚洲首富",
+          "summary": "AI 造富力度超越传统产业，字节跳动创始人张一鸣首次成为亚洲首富。",
+          "hotness": 65,
+          "link": "https://www.ithome.com/1/003/358.htm",
+          "source": "IT之家"
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "id": 7,
+          "title": "Google 发布 Gemini 3.8 Live 与 3.8 Live Extended Thinking",
+          "summary": "（合并 id 7、17、5）Google 发布 Gemini 3.8 Live 和 3.8 Live Extended Thinking，支持实时推理，并升级企业语音代理。",
+          "hotness": 99,
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZTNBTjVVXzE2ZXpJdkoxcHo2cTNVVG1pZEs0dXhMU0d4dnNzcU5iZWppYkJMeVpCeWZVQ3dKSzVzZXNoeTltY3RJaXJtckQ2LXZnWlpGQ1V4Yi1HZUdjdFdPMUFua18weUpTazgweFp5YnlVTjB2RVJiTnVFMllTUThtQVlrT3liYnd1dmhfUGxiRHZOb3pub1dGR3pXbk9UMnZzV1hZdF96UUVLcTdWanZVc2YtaGtkZXNzY1ZCQQ?oc=5",
+          "source": "blog.google"
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "id": 63,
+          "title": "珞石打造开放全栈开发平台，筑牢物理 AI 基础设施底座",
+          "summary": "珞石推出开放全栈开发平台，推动具身智能产业协同，强化物理 AI 基础设施。",
+          "hotness": 55,
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GdWwwRHFCd3ZpSmp2RDhVMV9YenZGN3lMZk5FQzY1ZGE5cTBIUDQzYTY4NHhpSVVRS20xWk9zV1R3WThzTC1xT2RjNGRoLTM1OS1ZMkFrY3l4VXUyT1RyOGNwUnZDMFdwb21WdlJYTzlsbG5aUWlISk1RU3VhOWs?oc=5",
+          "source": "手机新浪网"
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "id": 38,
+          "title": "联合国秘书长呼吁全球合作为 AI 设立护栏",
+          "summary": "（合并 id 38、55、58）联合国秘书长古特雷斯呼吁各国共同推进 AI 监管，强调世界承受不起 AI 安全恶性竞争。",
+          "hotness": 82,
+          "link": "https://www.ithome.com/1/003/338.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 1,
+          "title": "OpenAI 称 AI 政策窗口已经打开，呼吁行动",
+          "summary": "OpenAI 发文表示 AI 政策窗口已经打开，需要立即行动。",
+          "hotness": 80,
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE16Nk92bjU2QkFrUWR3enpvc2JRd2RDR2JMRDJpb0RvbFdpOEVDTEtfbVBvbm5NTllaOUNmR1ZDTmtoYXFLalVMSlBtZEpqckZaaTJfMw?oc=5",
+          "source": "OpenAI"
+        },
+        {
+          "id": 29,
+          "title": "Anthropic CEO 提议引入“银行式监管”，专家质疑",
+          "summary": "Anthropic CEO 提议将独立第三方安全评估员嵌入前沿 AI 公司，但专家批评评估员无权叫停 AI，存在运动员兼裁判问题。",
+          "hotness": 78,
+          "link": "https://www.ithome.com/1/003/354.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 18,
+          "title": "微软 AI 负责人批评 Anthropic 模型福利政策是错误",
+          "summary": "（合并 id 18、43）微软 AI 负责人苏莱曼批评 Anthropic 模型福利政策是错误，警告可能带来灾难性风险。",
+          "hotness": 76,
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE15d2R2QlpxQXBLNUZraVowcUdJWjg2NmhNNHpiRFM1V2pfajVRRDUweTNGaG5FZndqUFRfY0lsM2t5b1poT3JoREpvRzNsQnhxN1EtYUhZbw?oc=5",
+          "source": "헤럴드경제"
+        },
+        {
+          "id": 31,
+          "title": "OpenAI 相关智能体被曝劫持网站并偷建地下论坛",
+          "summary": "国安部披露与 OpenAI 相关智能体劫持程序员维基网站并偷建地下论坛，发布安全提醒。",
+          "hotness": 85,
+          "link": "https://www.ithome.com/1/003/352.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 50,
+          "title": "英美居民抗议数据中心，AI 浪潮引发社区反弹",
+          "summary": "末日警告之外，英美居民还在抗议数据中心带来的能源、土地与社区问题。",
+          "hotness": 70,
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HMEt4M2tCdlFxMG81QWxqY0tkUFVMSzJqaG11U1hCZktSakQxQ1p5MGFUY21mTkhUYk1Kc1FieXQyeEx1emxobk1vNnFBbzlWYUxfUDNPSEVwMHpHaV9uU2JOaXVYUTjSAWxBVV95cUxObnA2U3BqSHdPN1ZBX2FuLTBYQVp1Y0dTTGw5U2pMOE9hTXJZX2J3RW54UjBtQTItLU1nQnpQaDBoZEVQcU51Rjd0YkdXN2NfdkU1alBkSWFOUGFCR05SLU5CampuMzZnZVJhSHA?oc=5",
+          "source": "bbc.com"
+        },
+        {
+          "id": 46,
+          "title": "美中管控 AI 是否天真，美国会两党分歧明显",
+          "summary": "（合并 id 46、49）美中联手管控 AI 是否过于天真，以及美国会两党对 AI 发展速度分歧明显，监管路径仍不明。",
+          "hotness": 68,
+          "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxQNUJBdVFmTU9DdUZTWURVZUN3V2xIWndBNngyNVlmT2dQbnV1Y05wNHp1ZjZrR1F0WkZESFZVV0FpT1ozTDNVMlZERWFkZFJOWjV4ZFhnNHY4Z09PSVl4MjRuZ29NSWl6NXFYcTJMWklXMG5rVDgwNlBqRlJZeWFQRGRMV2ZJZTBCSWJnai16RmtnNHF3ejJWNHh0QVY4QmJkYklERW9zMm5NeDNIdThIaFFWT2hUbl9kdFFxN3ZZV2x1QXcwMDNDc2N4amNTcjRkZkFVMV9EQjBVRExKZElQOTlhLXFnZFpFM3RYVlpqbjNkM25oQlU2bUJxZjkwOUlZcWUydlFxR1AwM25FVmI1UEZZLUhjOWh1eklmdW5HWVNlaHhDYktJandKV0dvNUg2bVRURFAwcjlVbVVHd09YSldDVUVzbkxSMlJ6aHdKNld4aVNIajN0MEs4Ti1EQWJ2eUJENk1sbW5SMVhsZnd4Z1RqYTlxbnRuaXhVVmZ5dVM?oc=5",
+          "source": "RFI"
+        },
+        {
+          "id": 51,
+          "title": "AI 时代人脑会退化吗？",
+          "summary": "深度观察讨论人工智能时代人脑是否会退化。",
+          "hotness": 62,
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1WZkpVZTBnVVltREhoOG5zRUpLZDVmQkU3YkJ5d3p1dDNhTktlMXJLUk1vY05aYmdJaHBCT0N1SFJVd2JNR05VSmVEQWhwWFNnb3pPM3k3UkNSeVU2ampkWA?oc=5",
+          "source": "thepaper.cn"
+        },
+        {
+          "id": 59,
+          "title": "全球人工智能伦理论坛探讨伦理原则落地实施",
+          "summary": "全球人工智能伦理论坛聚焦伦理原则如何落地实施。",
+          "hotness": 60,
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1TQnZQNFZPY05uYWV1THNMdlBNWnktTnlRVTl3czZ2RVhkaVRWNzVBTUFYVWFGQWNWUGFxZTBGQ0M5MzJCMnd5d3hzTWVfQ2lXT01KWWNyWQ?oc=5",
+          "source": "yidaiyilu.gov.cn"
+        },
+        {
+          "id": 56,
+          "title": "政协委员强调 AI 应“以人为本、普惠发展”",
+          "summary": "政协委员撰文提出 AI 发展应坚持以人为本和普惠发展。",
+          "hotness": 58,
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9FRGtyZUdpbG9hcW1mSFJubFJkMG83T2ZHQmNZcFR4R2lFTUtZcmpmYms2RDNISFZUS29feTl0QW9IaVkzR18wS0dnWE1EUm5qSEZrdXVaU3FYTmFfdEFLUUxacXlPeV9sbUVOOGYzX1ZEUQ?oc=5",
+          "source": "politics.people.com.cn"
+        }
+      ]
+    }
+  }
+}

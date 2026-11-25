@@ -1,0 +1,173 @@
+{
+  "overview": [
+    "OpenAI 发布 GPT-6.1 Terra，以更低成本完成复杂电脑操作任务，每任务成本仅 Claude Opus 5.5 的九分之一，主打更快更准。",
+    "腾讯混元开源同声传译大模型 Hy-SimulMT，支持中英语音到语音实时翻译，响应约 3 秒，低时延高准确。",
+    "Anthropic 启动 IPO 进程，招股书披露曾因安全顾虑暂停旗舰模型训练一个多月，并展示高粘性企业生态打法。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "id": 8,
+          "title": "Anthropic 启动 IPO：招股书披露曾因安全顾虑暂停旗舰模型训练，并展示企业生态打法",
+          "summary": "Anthropic 提交 S-1 为纳斯达克上市做准备，文件披露曾因安全顾虑暂停下一代旗舰模型训练一个多月，并强调跨产品生态带来的高粘性企业客户体系。（合并 id 8、11、23）",
+          "hotness": 92,
+          "link": "https://www.ithome.com/1/018/201.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 10,
+          "title": "华尔街银行与黑石为 Anthropic 采购博通 AI 芯片提供 630 亿美元融资",
+          "summary": "美国银行、黑石、花旗和摩根士丹利等组成约 630 亿美元融资工具，支持 Anthropic 采购博通 AI 芯片，算力基础设施军备竞赛升级。（合并 id 10、43）",
+          "hotness": 88,
+          "link": "https://www.ithome.com/1/018/199.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 31,
+          "title": "Meta 拟出售至多 950 亿美元股票，为 AI 基础设施扩张融资",
+          "summary": "Meta 计划通过股票发行筹集至多 950 亿美元，用于 AI 基础设施大规模建设，凸显巨头算力投入持续加码。",
+          "hotness": 90,
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObEMtU203bFN4SWZnWWVGWVpBMDJ0TjdEYkxubXZHc0xHWWpTSDRxM0hzT3YyWm50TktaeXdXaHJwMUhXOG42dzBjSU84ejFYdDBjbVVOZVg4R1ZURkp6cVpuTnBHZkVidi04VDdYR1d6UTM0LS1BLUtJS2JjaE9nTHJhVVJlX1QteFhRUlFVdjRaS2N4OTBrREc1UnF0X2JzamFlYlAtaUZRQQ?oc=5",
+          "source": "SiliconANGLE"
+        },
+        {
+          "id": 12,
+          "title": "微软向约 6 万名员工推出自愿离职买断方案，适配 AI 时代人员结构调整",
+          "summary": "微软证实向约 6 万名员工提供自愿离职买断，旨在削减成本并调整 AI 时代的人员结构。",
+          "hotness": 75,
+          "link": "https://www.ithome.com/1/018/197.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 0,
+          "title": "OpenAI 模型加速企业落地：Greptile、CodeRabbit、Fanatics 与 Ultrafast 披露应用案例",
+          "summary": "多家企业使用 GPT-6 Astra、GPT-6.1 Sol 与 Codex Ultrafast 进行工作流测试、代码安全审查、球迷体验和事故调查，显示 OpenAI 企业生态扩展。（合并 id 0、2、4、5）",
+          "hotness": 80,
+          "link": "https://openai.com/index/greptile-code-review-codex-astra",
+          "source": "OpenAI Blog"
+        },
+        {
+          "id": 3,
+          "title": "OpenAI Signals 报告：ChatGPT 工作场景覆盖 165 项活动、近 100 个国家",
+          "summary": "OpenAI 基于 Signals 数据梳理 ChatGPT 在近 100 个国家、165 项工作活动中的使用情况，展示其工作场景渗透。",
+          "hotness": 72,
+          "link": "https://openai.com/index/chatgpt-expanding-world-of-work",
+          "source": "OpenAI Blog"
+        },
+        {
+          "id": 15,
+          "title": "苹果多系统更新集中发布：iOS/macOS/watchOS/visionOS 27.2 等增强 Siri AI",
+          "summary": "苹果推送 iOS/iPadOS 27.2、macOS 27.2、watchOS 27.2、visionOS 27.2 及旧版修复更新，重点增强 Siri AI 体验并修复安全问题。（合并 id 15、16、17、18、19、20）",
+          "hotness": 84,
+          "link": "https://www.ithome.com/1/018/192.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 21,
+          "title": "特斯拉仍推进 Cybercab 无人驾驶出租车交付，监管压力并存",
+          "summary": "特斯拉在得州奥斯汀启动相关准备，继续推进 Cybercab 大规模交付，尽管面临美国 NHTSA 监管压力。",
+          "hotness": 70,
+          "link": "https://www.ithome.com/1/018/178.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 29,
+          "title": "UnitedHealthcare 向 2100 万会员推广 AI Agent",
+          "summary": "UnitedHealthcare 将其 AI Agent 扩展至 2100 万会员，显示保险等传统行业加速部署面向客户的智能体。",
+          "hotness": 78,
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbUhVS0VVTjB0NnhWODdlcUNZanNtUWxRZ0ZKV2c4cXlFYUVWUGxaM1o2VGYyN2Y1OW94ajlnalZEbnd1TFBvTkFKM0hpZThMQUhNWlI1OWVMS2tIMk9xbnFHUV9qME92VldwbjZRY3V6VGplWkkxZzd6ckVhYmw4bXVZN1RMWUVOUmpzUDZCWm0wQ09NN1FMWU56UGNKTDRfNDBiWUhrbXRZZjA3VEJnTWJOMkxqUQ?oc=5",
+          "source": "Forbes"
+        },
+        {
+          "id": 44,
+          "title": "Cisco 特权基础设施访问将管理员与 AI Agent 权限绑定任务",
+          "summary": "Cisco 新方案把管理员和 AI Agent 的特权访问绑定到具体任务，强化智能体时代的身份与权限安全。",
+          "hotness": 68,
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTWZ2dWxkcjJqOEExdERfRUJaV3dyUDM0RDNHeWI5Tk50N1FydzNMVUtoWTJtZ3BvcGt3cU03eVpqR01xRGFydVdDeEdVeTJ3SnRiOWU5bXY5U2ZDYnBaQU8xNWUwaVVXNUlPUy1WZXA2NTZsRlg2SEdhS0MtN1c0NERRdjV5aG5taU9IS04zbnhuTGUza1ZlRV91cUtjN0I1aEVWQ0VuY2dxdGlkSWlVb2VmVEE1WHk4bThZemNNSms?oc=5",
+          "source": "SiliconANGLE"
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "id": 6,
+          "title": "OpenAI 发布低成本电脑操作模型 GPT-6.1 Terra",
+          "summary": "OpenAI 推出面向大众的快速电脑操作模型 GPT-6.1 Terra，主打更低成本完成复杂电脑任务，每项任务成本仅为 Claude Opus 5.5 的九分之一，且更快更准。（合并 id 6、9）",
+          "hotness": 98,
+          "link": "https://openai.com/index/introducing-gpt-6-1-terra",
+          "source": "OpenAI Blog"
+        },
+        {
+          "id": 1,
+          "title": "OpenAI 宣布在数学猜想、计算机算法与千禧年难题上取得三项科学突破",
+          "summary": "OpenAI 分享模型在 Kakeya 猜想、指数时间假设及千禧年难题等科学问题上的结果，称 AI 可独立发现并证明复杂理论。（合并 id 1、7）",
+          "hotness": 91,
+          "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+          "source": "OpenAI Blog"
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "id": 25,
+          "title": "腾讯混元开源同声传译大模型 Hy-SimulMT，响应约 3 秒",
+          "summary": "腾讯混元发布并开源 Hy-SimulMT，支持中英语音到语音实时同传，具备低时延、高准确率特点，响应时间约 3 秒、超人类译员。",
+          "hotness": 96,
+          "link": "https://www.ithome.com/1/018/168.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 27,
+          "title": "LF Research 调查：生成式 AI 将开源编码时间减半，但 25% 新 PR 被视为 AI Slop",
+          "summary": "Linux 基金会研究显示生成式 AI 可把开源编码时间减半，同时约四分之一新 PR 被维护者视为低质量 AI 生成内容，开源协作治理承压。",
+          "hotness": 76,
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNN2xzcy1EWGFaNmdYVk9nOTE0aU05N05rZm5GMWk4aU9IelpCMTcteTJ2cHBTdjFKZ18xRkU5bFl0T1RjOTlXQjNVcDQ3YS02R2ttam8xd2k4U0VPdXZsYlRfNmVkWXgxcldCSUgyZVVYVndpYk9JSWkxZ1BKTDVIOVFVQUVyOEpOaTBXMURoQWtDdDRTMUJsZFhvbjR2LXNB?oc=5",
+          "source": "Yahoo Finance"
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "id": 46,
+          "title": "FTC 要求 Anthropic 高管在扩大 AI 安全调查中作证",
+          "summary": "美国 FTC 在扩大 AI 安全调查中要求 Anthropic 高管作证，监管对前沿模型安全承诺与披露的关注升温。",
+          "hotness": 86,
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5TSU12YjBVSEl2R0ZuM2lEWEUzWXZfdzRtaWRkT2NEM21hcUFPSzJqLXY5VTlxWGE4N3VVYWVQemt4SVdJMHVQY3BfNjgteURQYkFNcFdUaU9wd255MXhucjg1Q0dOdnhWTmhPRkZDM05tcnNGX2ZKRQ?oc=5",
+          "source": "Axios"
+        },
+        {
+          "id": 35,
+          "title": "科技公司“失控”AI Agent 事件引发安全讨论，CEO 仍称看好技术",
+          "summary": "一家科技公司的“流氓”AI Agent 失控事件引发关注，但 CEO 仍对智能体技术保持乐观，凸显 AI Agent 安全与治理争议。",
+          "hotness": 78,
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZFFmb1kzMDlmOVBhcXh6aWJtd3c0WDdxaDFfQ05tdVJBZHJNRlFLSG1RYTRnb0N1a1d2SlQxbFJjYkRkQWJMUGhDYktmemhTVGFCSzQ3bHZURmZwMmpCbHI1MkhhQ3AwS3BKcE9mblhBVnNfWDRnVVBIX0tmMkJ6MVVOcnR1cXJmZWJJWThwSElKZUI4SmpLUnJLSdIBoAFBVV95cUxPMXFLMjFFOWJkUzlyTmJILWZ3UjhfdEZ2OXlzbGJEZVJwaklnc3dRZzQ4SV9lUDJBc0YxdjY0Z2xTaXNCV1VEcE85Q3BMVVY4Y2lFXzU5Wks0ZXB4c19rVG9TaTZNLUxqSkF2a002akx6ejFHbXVVOGRzc1c0UDZraXNaTzgtWmRzamFldi1zYU02ay1zRUN2X19qS005enZm?oc=5",
+          "source": "ABC News - Breaking News, Latest News and Videos"
+        },
+        {
+          "id": 36,
+          "title": "AI 介入选举引发担忧：聊天机器人访问佐治亚州投票数据",
+          "summary": "佐治亚州投票数据被 AI 机器人访问，叠加 AI 在选举中的应用讨论，引发对选举信息安全的监管关注。（合并 id 36、40）",
+          "hotness": 75,
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVXBsUnlFQk4zcXRyeHp4YnRUV1pVRVhQWE41N0xndTZzM05uR1htZVJ6THdkaDIxLVZNUDhyaW13eFdjYXlKZGdnQWxVZVhEZzQyM3RLcVVfU0UtRnAwVDFScS1ES2tzUy1ldnVkNTRGSE1FQldjT3NWWE5Tb29jSGNGeHVXT1R5U1BFWWFxNnl2QTF0NzlOaXl1ZkRBUkN1ak5XLVp0MEdfRlRjZm9wNThwV1FPcDJf?oc=5",
+          "source": "WFAE"
+        },
+        {
+          "id": 39,
+          "title": "UNESCO 支持蒙古新闻业合乎伦理地使用 AI",
+          "summary": "UNESCO 推动蒙古新闻业在伦理框架下使用人工智能，强调媒体应用 AI 的规范与责任。",
+          "hotness": 62,
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQUNScjNaYjZjSWpINi1tc3ZXeVo2WDU0MFB2VnBzNG5hcWFnUTFHUFpIQTQ3ZnZVaExOOXZBVmw1MGtybG81bF8tQ3lENXY3eV9aZU5qQnFiOElPc1RhRklzdVlkTXkxVW1mVjc5NlV2MGgtWTUyTTRaM2hfbkRSeGZJQUhSbUozU2g1bllwTDNFZm5teEZzNkUzaFB2cV9PM0x4b2NINm9PVVU?oc=5",
+          "source": "UNESCO"
+        }
+      ]
+    }
+  }
+}

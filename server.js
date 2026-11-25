@@ -59,11 +59,15 @@ app.get('/api/summary/:date', async (req, res) => {
   }
 });
 
+function getBeijingDateStr() {
+  return new Intl.DateTimeFormat('en-CA', { timeZone: 'Asia/Shanghai' }).format(new Date());
+}
+
 // API: Manually trigger aggregation
 let isAggregating = false;
 app.post('/api/trigger', async (req, res) => {
   const { action = 'all' } = req.body;
-  const todayStr = new Date().toISOString().split('T')[0];
+  const todayStr = getBeijingDateStr();
 
   if (isAggregating) {
     return res.status(429).json({ success: false, message: '任务已在运行中，请稍后再试。' });

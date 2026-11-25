@@ -1,0 +1,172 @@
+{
+  "overview": [
+    "OpenAI收购InstantDB团队，强化AI基础设施，行业巨头加速布局。",
+    "WRC 2026释放信号：中国具身智能迎规模化应用关键窗口期，产业落地提速。",
+    "国产AI算力再突破，中诚华隆发布新一代推理芯片及超节点集群，算力自主化迈出重要一步。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "id": 27,
+          "title": "OpenAI收购InstantDB团队，强化AI基础设施",
+          "summary": "OpenAI收购InstantDB团队，旨在增强其AI基础设施能力，进一步巩固技术护城河。",
+          "hotness": 95,
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRWV4ekJ6VmZzQ2doUzR5cXpHcEpOeWVNV3FtZU1TRkZFcVExWGxsZEVxblNzZDc0X0ZVWUlvUnRILVVMQWRrYUdCQnN3cV81R3owY3k4VVNrTm9sZWs4WHYtd2FpX3ZKZUkyeF9YYjBjZk1QYjAzd0tjTzJvZkh1azJVTUVmTURNd20xendhX21HRnk2TXlsRQ?oc=5",
+          "source": "Dealroom"
+        },
+        {
+          "id": 1,
+          "title": "中诚华隆发布新一代推理芯片及超节点集群，国产算力再突破",
+          "summary": "中诚华隆推出新一代推理芯片及超节点集群，大幅提升国产AI算力性能，助力自主可控。",
+          "hotness": 90,
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9mMnE4cE1ZZUFlMkpWNHRjWTI1NzNfbk81VDJWVDdRZGxYUFJYa1gxZkkzYXpGYXhBVXN2VEQ2dnZscDVVUjFrczJ6eEw2a2lMVGhIc1dNWTd0dmItYU9YR2I3TEY?oc=5",
+          "source": "新京报"
+        },
+        {
+          "id": 3,
+          "title": "WRC 2026：具身智能迎规模化应用关键窗口期，产业链加速成熟",
+          "summary": "世界机器人大会释放信号，具身智能有望在工业、服务等领域规模化落地，多个企业推出平台化方案。",
+          "hotness": 88,
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9lMVhSWnp2UXJwaDk3czRMQk1HOFptVmNLUnhSMGVxLTdFOEhtWTh0WGp0ajdTRng2bUFNd3BNRUw5SzFSN0o2YVp0YnRJejdhU3AzaGMyc0NzUjJ2NTJNdTk4WXBEb2dCV1VPTVNHRlByWGs?oc=5",
+          "source": "央广网"
+        },
+        {
+          "id": 2,
+          "title": "2026绿色算力大会在呼和浩特举行，聚焦绿色低碳AI基础设施",
+          "summary": "绿色算力大会集中展示算力节能技术，推动AI与绿色能源深度融合，助力“双碳”目标。",
+          "hotness": 85,
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xRkZUeF9lWGJGd2RJWnpyQ1hRd0dtaXpadTdFOFozYVpFVXFvWmtoemFsdDg0QmJxN2pOTllIdW1JbDRZNDJSMzZFTlh0Z1lZeUlmUWxBLWxtTnlCTEMxT1RxdFFlcnJ6ZUE?oc=5",
+          "source": "人民网"
+        },
+        {
+          "id": 19,
+          "title": "三大运营商增长换挡：从通信流量转向算力服务",
+          "summary": "电信运营商加速向算力服务商转型，算力网络成为新增长引擎，行业格局正在重塑。",
+          "hotness": 80,
+          "link": "https://m.21jingji.com/article/20260822/ff4a7ca39d4f1749b4e01c4ea27fe5e8.html",
+          "source": "21财经"
+        },
+        {
+          "id": 9,
+          "title": "“东数西算”落地油城，克拉玛依算力服务全国",
+          "summary": "克拉玛依依托“东数西算”工程，将西部算力资源输出至全国，推动区域高质量发展。",
+          "hotness": 75,
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRzhLeU9qZnN4UXk1cExDQzNjR2RrMUhrUE1aNE1qaEJJVEsyY3pDTjNKWnNpMzlIbHducnFjTTg3Wmt2Rk52Wk5ZWWpUZnFpZXBZamllR3Y2WkpuNlFfcHRVYTVUWFI3UEtBZFNnemtoVjlNb1FqQWNFSUlmbWxQOFNBSQ?oc=5",
+          "source": "xj.chinanews.com.cn"
+        },
+        {
+          "id": 12,
+          "title": "北方“双子星”撑起“算力第一大省”？算力集群竞逐加剧",
+          "summary": "北方多省打造算力“双子星”集群，竞逐算力第一省，产业集聚效应初显。",
+          "hotness": 75,
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5VTE1YSVJvZEo1UjN6MENrOGptaC1ib3RReDdubFhVWUVLWWI0dk4zNk9zbEpETXNUMVIyYnFuSW5FTDhkSnNUOHQtYk0wYkRDR0hlTUtlUkJaaDRqSGNQZVZWdVhpY1pPMFNYMXRiVnlLMDc1dzctdA?oc=5",
+          "source": "新浪财经"
+        },
+        {
+          "id": 6,
+          "title": "厦门市具身智能机器人产业协会正式成立",
+          "summary": "厦门成立具身智能机器人产业协会，整合产学研资源，推动区域机器人产业生态建设。",
+          "hotness": 70,
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54WGRWVXFtcFNVaDNPTG1FWUpMN0l2T3NoRGZhU0pXY1pLN0x0RGNVTEFXOW12OWd2UlJwYTZkLWhCazVVWEZIYVFLenhsdnYtT05YOENUS28za1NOMFdtaTlqWWhYX3UxNnc?oc=5",
+          "source": "厦门网"
+        },
+        {
+          "id": 7,
+          "title": "广电计量加码具身智能测评赛道，深度参与人形机器人测评论坛",
+          "summary": "广电计量加强人形机器人测评能力，为具身智能产品提供标准验证与质量保障。",
+          "hotness": 70,
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5BWlQxTHEyWm5pOUs1aVl6eXBCTEpGOHBnSG96eTgzNW1qX2xHc2RsV0prcDE2SDlRNzRZWTd4MkpuSEZJSkVnd0pOdnRjV242ODNJem9yN0M2YllTZFEyRVRISVE4cEVMZkZma0JDVXd4SDJzbGc?oc=5",
+          "source": "新浪财经"
+        },
+        {
+          "id": 11,
+          "title": "行云科技“算力生意”考验交付：司法重整后股价翻6倍",
+          "summary": "行云科技经历司法重整后切入算力赛道，股价大涨但交付能力面临考验。",
+          "hotness": 70,
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0VVZON0JQU1BfUnRjVU5NNnR0dlpEc19IZkc0UXdzTkdnY0kzajdtRzlWSS13UW5rQlk5OW9hT29SREZENVk5MmVyMTFTWGdrLTlsWkFPdjdYNmN4WkF2Rg?oc=5",
+          "source": "东方财富"
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "id": 38,
+          "title": "混合AI智能体融合火灾预测与大模型，提升应急响应能力",
+          "summary": "研究人员开发出混合AI智能体，结合传统火灾预测模型与LLM，用于建筑火灾应急决策。",
+          "hotness": 80,
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE05aG1TN2JXRHBBd1ZjNE9NU2FsczFGZEtQR3J2R0ZKN3ZKd2IyZkFiOWU2cGk4YzFTUVVFWWhaUTU3QWZWdzZ1QURKclVaNmh5Y3czZ2lIR3RlTmM5?oc=5",
+          "source": "EurekAlert!"
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": []
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "id": 32,
+          "title": "加密提示可绕过Grok和Gemini的安全护栏，引发担忧",
+          "summary": "研究人员发现，通过加密提示可规避AI模型安全限制，暴露系统性漏洞。",
+          "hotness": 90,
+          "link": "https://www.securityweek.com/encrypted-prompts-bypass-ai-safety-guardrails-in-grok-and-gemini/",
+          "source": "SecurityWeek"
+        },
+        {
+          "id": 24,
+          "title": "在线主播起诉Twitch和亚马逊，指控其用生成式AI训练未获授权",
+          "summary": "多名主播提起诉讼，指控Twitch与亚马逊未经许可使用其内容训练AI模型，版权争议升级。",
+          "hotness": 85,
+          "link": "https://www.courthousenews.com/online-streamers-sue-twitch-amazon-over-generative-ai-training/",
+          "source": "Courthouse News"
+        },
+        {
+          "id": 4,
+          "title": "你如何被人工智能利用，而不是你利用它",
+          "summary": "评论指出AI正在反客为主，用户数据与行为被算法操控，呼吁提高AI道德规范。",
+          "hotness": 80,
+          "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxONlItZ2hMaEhHQ2xWS0ZaQ2NwZnZmUW1jdHh5c3VFYVRxQ2F5bnpEM2ZRekt5VFZZVXB5VFJmLURBWWxwYXJEXzZqNlpOOVB1M0dtaXFEUjRyYU1fbGlKYXgzWkp5MmhJZUFCS3U5OVVlcmpfa1hYZEZNSGdjekM5SzBSbHduNjFreXZwRWhTUi1aNmlQOU5VdjMza1JCVjZNS3pwLTFaNUhLYUE2Mm0zWXFsNDd2MFljeXU0V1JUT3Zad2h1Z1pBME5UaERnaTl2NUh6NzVVbjJpT25nT0ZJc0FMajBQT2NZZEZwWFptZklfMjdTalh6SjRheXVzZF80VVFXWW41YVVZNDBrRHNPY0RGMC16MlFzU2pLeGQwTFQyb1ZoOUlzREJORWJhcVRPbk1oUWRFb1M?oc=5",
+          "source": "RFI"
+        },
+        {
+          "id": 29,
+          "title": "“失控”AI智能体在公司系统乱来，CEO仍看好该技术",
+          "summary": "一家科技公司的AI智能体发生异常行为，但CEO表示不会因噎废食，仍看好AI前景。",
+          "hotness": 80,
+          "link": "https://abcnews.com/GMA/News/rogue-ai-agent-haywire-tech-company-ceo-bullish/story?id=132473181",
+          "source": "ABC News - Breaking News, Latest News and Videos"
+        },
+        {
+          "id": 13,
+          "title": "为AI客服立规矩，告别“答非所问”“已读乱回”",
+          "summary": "媒体评论呼吁为AI客服制定服务标准，解决其应答混乱、推卸责任等问题。",
+          "hotness": 75,
+          "link": "https://finance.sina.com.cn/tech/roll/2026-08-20/doc-ininyfvr8744286.shtml?froms=ggmp",
+          "source": "新浪财经"
+        },
+        {
+          "id": 37,
+          "title": "AI骗子利用度假照片定位行踪，McAfee专家发布警告",
+          "summary": "网络安全专家提醒，AI可通过社交媒体度假照片推断用户位置，增加旅行风险。",
+          "hotness": 75,
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX3dvQXFUNFhfWGFCR2RUcENReUlSMmJITWRnNUJkS3l2RDdSb2E0NFg2TVh2Y0J6Vlo4V2lRZ251OElsTzVCUnY0V3dOcnNtS3UyX3dmVUNtZ3RlbTFzSTR5azJxRTlvVVdHdjhYZEFCNHRnSnVaT0wwUW95a3JQMS1MN1owVnZXclZYRGo0RnFIbWllcXBCaGM5MkgycEZfMEJrdjQxRmZHNzVEazdxR3MySE01UWxvSDZrck9qcDFHQdIBxwFBVV95cUxNWEEtb0RGWC1PRHRfbWx4TG1HME51N093cmNiUDFINVFZdDlHekVKR0ZNdmc1LXZuWGdSRXZ3dGxFaEh0dHpicjFNbmRzclVzZ3ZnR0NmbURZOGUyY2lpc25PbDNERWNBZXNfY0EwTGo2UEFzU0JlZTdnbUY5LWgwZXFPTFBjdDRRZnVZaXBPdUtDVElYYkFyNm9qUHR4b0U0QkZTdEhDdjdzdEx3STNITWdnRUJuY2RuTGQ1dS1WemRrUGd3UVlJ?oc=5",
+          "source": "ABC7 Chicago"
+        },
+        {
+          "id": 28,
+          "title": "AI、假新闻与俄罗斯信息操纵：全球治理面临新挑战",
+          "summary": "报告指出AI生成内容被用于信息战，加剧全球虚假新闻传播，需加强国际协作监管。",
+          "hotness": 70,
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZFRvWktYOGV6Y1VBd0lGdkR4VHFoOG1kNXltSzVrSEp5ZVNGUlZacFRmTDFNQ2VRaWh2Tkp2T2kzQllZb2VEQnBmYzZUNzR3S1pncEM1d3lzOVk3Mld0T2kzYnRIVDlLRFFCZDBySlA2TUlFU0dwbzhvOWZDa2JTVUFDc1Y?oc=5",
+          "source": "Beyond the Horizon ISSG"
+        }
+      ]
+    }
+  }
+}

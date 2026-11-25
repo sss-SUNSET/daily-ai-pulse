@@ -1,0 +1,168 @@
+{
+  "overview": [
+    "Anthropic 发布 Claude Fable/Mythos 5.2，称可 8 天从零写操作系统并下调 API 费用 20%；同时推进纳斯达克 IPO。",
+    "Meta 发布轻量级代理执行模型 Muse Ember，并将 Muse 助手扩展至英国与 Apple Watch。",
+    "美团龙猫开源 1.6 万亿参数 LongCat-2.5，支持百万上下文，长程智能体开源竞争升温。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "id": [
+            1,
+            16
+          ],
+          "title": "Anthropic 推进纳斯达克 IPO，估值预期遭遇市场降温",
+          "summary": "传 Anthropic 将于下周四五登陆纳斯达克，目标冲击史上最大 IPO 之一，但估值预期已有所降温。",
+          "hotness": 93,
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EZ19OSTNSY1dhR3hRS1h5MWdBMnQtbDBZRG9lNUl6c2Z3Sy1hYlh2LUY2elVFd1BzbUVrYkdHcC1XQVBuTFZ3d2p3ME9uTkRRb0k5NE1OdjB1eU5XNFFWb3pTcTd1OUw0cTF2Ynd4M25tSGFQaHdhVFFoZVZyR1U?oc=5"
+        },
+        {
+          "id": 12,
+          "title": "ChatGPT Enterprise 上架 AWS Marketplace",
+          "summary": "OpenAI 宣布 ChatGPT Enterprise 可通过 AWS Marketplace 采购，进一步进入企业云采购渠道。",
+          "hotness": 84,
+          "link": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+          "source": "OpenAI Blog"
+        },
+        {
+          "id": [
+            8,
+            19
+          ],
+          "title": "Meta Muse AI 助手将登陆英国并支持 Apple Watch",
+          "summary": "Meta 准备在英国推出 Muse 助手，同时 iOS 版新增 Apple Watch 支持，扩展可穿戴入口。",
+          "hotness": 82,
+          "link": "https://www.cnbc.com/2026/11/09/anthropic-claude-fable-5-2-mythos-5-2.html"
+        },
+        {
+          "id": 6,
+          "title": "Google 将于 11 月 13 日从最低价 AI 套餐移除 Gemini Pro",
+          "summary": "Google 调整 AI Plus 低价套餐权益，5 美元/月计划将不再包含 Gemini Pro 模型。",
+          "hotness": 66,
+          "link": "https://finance.biggo.com/news/9ee5731c-b88f-4e9a-96c9-db3da77f77bb",
+          "source": "BigGo Finance"
+        },
+        {
+          "id": 10,
+          "title": "Amazon 推出短信 AI 购物，加码代理式电商",
+          "summary": "Amazon 允许用户通过短信与 AI 助手完成购物，推动 agentic commerce 落地。",
+          "hotness": 74,
+          "link": "https://www.retailgazette.co.uk/blog/2026/11/amazon-text-messages-agentic-commerce/",
+          "source": "Retail Gazette"
+        },
+        {
+          "id": 46,
+          "title": "AWS 承诺投入 1 亿美元支持 AI 与云技术",
+          "summary": "亚马逊 AWS 宣布 1 亿美元投入，用于 AI 和云技术生态建设。",
+          "hotness": 68,
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5XbnZuZVpyOVN4di1QZ2dmQzBUclFnUDh3M2dsZlFJX1RqdU4ySWdabVpnOG0yT2Y1TGxBdjBSd0gyWWdsLWlGSzdKUWNaT2JWX05oYjh3VHRvNllESXFveg?oc=5",
+          "source": "东方财富"
+        },
+        {
+          "id": 33,
+          "title": "ChatGPT 占全球 AI 聊天机器人流量超 81%",
+          "summary": "最新研究显示 ChatGPT 仍以超 81% 流量份额断层领跑全球 AI 聊天机器人市场。",
+          "hotness": 78,
+          "link": "https://www.ithome.com/1/024/542.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 37,
+          "title": "AI 推高电力需求，服务商抢购二手与翻新涡轮机",
+          "summary": "AI 算力扩张带动电力需求急升，能源服务商正转向二手和翻新涡轮机补充供给。",
+          "hotness": 70,
+          "link": "https://www.cls.cn/detail/2529084",
+          "source": "财联社"
+        },
+        {
+          "id": 28,
+          "title": "iOS 27.3 代码曝光 Siri 个人记忆系统",
+          "summary": "代码显示苹果正为 Siri 开发个人记忆系统，可记录用户各类信息以增强个性化。",
+          "hotness": 72,
+          "link": "https://www.ithome.com/1/024/547.htm",
+          "source": "IT之家"
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "id": [
+            0,
+            3,
+            5,
+            18,
+            52
+          ],
+          "title": "Anthropic 发布 Claude Fable/Mythos 5.2 最强模型",
+          "summary": "Anthropic 推出 Claude Fable 5.2 与 Mythos 5.2，宣称可解黑洞谜题、8 天从零写 OS，API 调用费下降 20%。",
+          "hotness": 98,
+          "link": "https://www.cnbc.com/2026/11/09/anthropic-claude-fable-5-2-mythos-5-2.html"
+        },
+        {
+          "id": [
+            2,
+            4
+          ],
+          "title": "Meta 发布轻量级代理执行模型 Muse Ember",
+          "summary": "Meta 推出迄今最小、最高效的 Muse Ember，专为智能体执行任务优化。",
+          "hotness": 91,
+          "link": "https://www.cnbc.com/2026/11/09/anthropic-claude-fable-5-2-mythos-5-2.html"
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "id": 25,
+          "title": "美团龙猫开源 LongCat-2.5：1.6 万亿参数、百万上下文",
+          "summary": "美团开源面向长程智能体任务的原生多模态模型 LongCat-2.5，总参数 1.6 万亿，支持百万级上下文。",
+          "hotness": 93,
+          "link": "https://www.ithome.com/1/024/556.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 11,
+          "title": "NEAR Protocol 上线 Qwen 3.8 27B Abliterated 模型",
+          "summary": "NEAR 在其 AI Cloud 服务中推出 Qwen 3.8 27B Abliterated 模型，扩展开源模型云上供给。",
+          "hotness": 72,
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeUlhRGJjQk54MDBMVGR4TkhidVhyV3JIa1BGSDdzNlBmQW0xaTBzUHo1ZEt0dkhGR1pQNjRHbWxNMzVlTmxIMXRTZjhtV1EwT3dzaWc4UmZTci0zR2pfZTZBNDI3dUt3RWhxU29WcEtJbHlJNHpQbEpfR2dXNGpZTll4U2tHRFE?oc=5",
+          "source": "Pluang"
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "id": 29,
+          "title": "Meta 全球推广 AI 年龄估算技术",
+          "summary": "Meta 将在全球推广 AI 年龄估算，把更多青少年纳入 Instagram 受保护体验。",
+          "hotness": 76,
+          "link": "https://www.ithome.com/1/024/546.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 13,
+          "title": "OpenAI 推出 Control Room 追踪并停止模型工作负载",
+          "summary": "OpenAI 建立中央系统监控研究基础设施中的模型工作负载，可及时停止异常任务，强化安全治理。",
+          "hotness": 74,
+          "link": "https://openai.com/index/control-room",
+          "source": "OpenAI Blog"
+        },
+        {
+          "id": 50,
+          "title": "中国率先批准成立世界人工智能合作组织协定",
+          "summary": "中国批准《关于成立世界人工智能合作组织的协定》，推动全球 AI 治理合作。",
+          "hotness": 65,
+          "link": "https://www.aseantop.com/post/34932",
+          "source": "东盟头条"
+        }
+      ]
+    }
+  }
+}

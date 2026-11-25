@@ -1,0 +1,166 @@
+{
+  "overview": [
+    "OpenAI 发布首款硬件设备：可移动无屏 AI 伴侣音箱，标志其正式进军消费硬件领域。",
+    "阶跃星辰发布 AI 智能体手机概念机，虽未量产，但引爆市场对 AI 终端形态的讨论。",
+    "AI 伦理与监管升温：Meta 因用 AI 歧视性裁员被起诉，纽约州率先禁建 AI 数据中心。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "title": "OpenAI 首款硬件设备曝光：可移动无屏 AI 伴侣音箱",
+          "summary": "据 Yahoo Finance 报道，OpenAI 首款设备将是一款可移动、无屏幕的智能音箱，定位为 AI 伴侣，标志着其从软件向硬件的战略扩展。",
+          "link": "https://finance.yahoo.com/technology/ai/articles/openai-first-device-movable-screenless-205215714.html",
+          "hotness": 95
+        },
+        {
+          "title": "阶跃星辰发布 AI 智能体手机，未量产未上市仍引热议",
+          "summary": "阶跃星辰展示了其 AI 智能体手机概念，强调深度融合 Agent 能力，但尚未进入量产和销售阶段，引发市场对 AI 原生硬件趋势的讨论。",
+          "link": "https://k.sina.com.cn/article_5953466437_162dab0450670b0mm8.html?from=tech",
+          "hotness": 90
+        },
+        {
+          "title": "上海 AI 企业率先破解大模型“不可能三角”，计算成本大幅降低",
+          "summary": "上海某 AI 企业推出自研架构，声称在保证性能的同时大幅降低计算成本，打破了模型规模、速度与成本的传统权衡。",
+          "link": "https://www.shobserver.com/news/detail?id=1143413",
+          "hotness": 85
+        },
+        {
+          "title": "Apple 正在与初创公司谈判，旨在将 AI 模型缩小至可运行于 iPhone",
+          "summary": "据 CNBC 报道，Apple 正在与一家专注于模型压缩的初创公司接洽，以实现在 iPhone 上本地运行大型语言模型，推动端侧 AI 发展。",
+          "link": "https://www.cnbc.com/video/2026/07/14/apple-in-talks-with-startup-that-shrinks-ai-models-to-run-on-an-iphone.html",
+          "hotness": 88
+        },
+        {
+          "title": "梁文锋身家飙至 360 亿美元，成为全球 AI 创始人首富",
+          "summary": "DeepSeek 创始人梁文锋财富暴涨至 360 亿美元，超越其他 AI 创始人，成为全球最富有的 AI 企业家。",
+          "link": "https://m.21jingji.com/article/20260715/herald/795ee77e373ab6bb74a14182993ab003.html",
+          "hotness": 85
+        },
+        {
+          "title": "IBM 一日内市值蒸发 690 亿美元，AI 引发的抛售潮持续",
+          "summary": "受 AI 市场情绪波动影响，IBM 股价暴跌，单日市值损失 690 亿美元，显示市场对传统科技公司在 AI 时代竞争力的担忧。",
+          "link": "https://www.wsj.com/tech/ai/ibm-stock-profit-warning-earnings-software-8652c06e",
+          "hotness": 80
+        },
+        {
+          "title": "德国电信与 OpenAI 合作，全面用 AI 改造电信业务",
+          "summary": "德国电信宣布与 OpenAI 深度合作，利用 AI 重塑客户服务、员工工作流、网络运营和语音服务，成为“AI native”电信运营商。",
+          "link": "https://openai.com/index/deutsche-telekom",
+          "hotness": 78
+        },
+        {
+          "title": "OpenAI 发布企业 AI 投资管理指南：聚焦 Agent 时代的有用工作/美元",
+          "summary": "OpenAI 发布新博客，指导企业如何在 Agent 时代量化 AI 投资回报，强调测量每美元有用工作以提高效率。",
+          "link": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+          "hotness": 72
+        },
+        {
+          "title": "TCL 亮相链博会：坚定“AI 向实”，激活产业增长新动能",
+          "summary": "TCL 在第四届链博会上展示 AI 落地实践，强调将 AI 技术转化为实际产业增长。",
+          "link": "https://finance.sina.com.cn/tech/roll/2026-06-24/doc-inienpmx8379856.shtml",
+          "hotness": 60
+        },
+        {
+          "title": "2026 世界人工智能大会开幕在即，多平台发布逛展指南",
+          "summary": "2026 世界人工智能大会将于近日开幕，多家媒体发布逛展指南，涵盖展区亮点、AI 体验路线等。",
+          "link": "https://m.sohu.com/a/1050411985_163278?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+          "hotness": 65
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "title": "MIT 研究：生成式 AI 可帮助科学家合成复杂材料",
+          "summary": "MIT 团队利用生成式 AI 辅助设计和合成新型复杂材料，展示了 AI 在材料科学领域的巨大潜力。",
+          "link": "https://news.mit.edu/2026/how-generative-ai-can-help-scientists-synthesize-complex-materials-0202",
+          "hotness": 70
+        },
+        {
+          "title": "MIT JARVIS 挑战：测试 AI 副驾驶在硬科技工程（如制造喷气发动机）中的作用",
+          "summary": "MIT 推出 JARVIS 挑战赛，探索 AI 如何在复杂工程任务（如喷气发动机设计）中作为副驾驶协助人类工程师。",
+          "link": "https://news.mit.edu/2026/can-ai-build-jet-engine-jarvis-challenge-tests-ai-copilots-in-tough-tech-engineering-0714",
+          "hotness": 72
+        },
+        {
+          "title": "Mistral 发布 Robostral Navigate：单摄像头 AI 导航系统",
+          "summary": "Mistral AI 推出基于单摄像头的 AI 导航解决方案 Robostral Navigate，适用于机器人自主移动。",
+          "link": "https://mistral.ai/news/robostral-navigate/",
+          "hotness": 68
+        },
+        {
+          "title": "OpenAI 发布 ChatGPT Work 系列指南：数据科学团队与销售团队的最佳实践",
+          "summary": "OpenAI 连续发布两份指南，分别介绍数据科学团队和销售团队如何利用 ChatGPT Work 进行根因分析、仪表盘规范、客户会议准备等 Agent 工作模式。",
+          "link": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+          "hotness": 75
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": []
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "title": "Meta 被指利用 AI 歧视性裁员，遭现员工和前员工起诉",
+          "summary": "继 CNBC、Reuters 等多方报道，Meta 被指控在裁员过程中使用 AI 算法针对有健康问题的员工，涉嫌歧视，目前已有多起诉讼。",
+          "link": "https://www.cnbc.com/2026/07/14/current-and-former-employees-sue-meta-alleging-discrimination-in-using-ai-to-conduct-layoffs.html",
+          "hotness": 92
+        },
+        {
+          "title": "纽约州成为美国首个禁止建设 AI 数据中心的州",
+          "summary": "纽约州立法通过全美首例 AI 数据中心禁令，理由是对能源消耗和环境影响的担忧，激起行业激烈讨论。",
+          "link": "https://www.cnbc.com/2026/07/14/new-york-becomes-first-u-s-state-to-impose-ai-data-center-ban.html",
+          "hotness": 88
+        },
+        {
+          "title": "研究揭示“西哈诺效应”：AI 爱情代言人上线，如何影响真实人际关系？",
+          "summary": "一项新研究探讨了 AI 作为“爱情代言人”对人与人之间亲密关系的影响，引发对 AI 伦理和社会行为的思考。",
+          "link": "https://www.stdaily.com/web/gdxw/2026-07/14/content_547148.html",
+          "hotness": 70
+        },
+        {
+          "title": "《大西洋月刊》评论：生成式 AI 是一场工程灾难",
+          "summary": "《大西洋月刊》发表尖锐评论，批评生成式 AI 在工程层面存在严重缺陷，引发业界对 AI 可靠性的反思。",
+          "link": "https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901/",
+          "hotness": 74
+        },
+        {
+          "title": "乔治·卢卡斯：AI 让电影制作更简单，但也让粉丝权力过大",
+          "summary": "《星球大战》导演乔治·卢卡斯评论 AI 对电影行业的影响，认为 AI 是不可避免的工具，但批评好莱坞过于迎合粉丝。",
+          "link": "https://variety.com/2026/film/news/george-lucas-test-screenings-embraces-ai-hollywood-1236810656/",
+          "hotness": 65
+        },
+        {
+          "title": "澳大利亚设立政府 AI 办公室，协调全国 AI 监管",
+          "summary": "澳大利亚政府宣布成立专门 AI 办公室，负责协调各州和联邦的 AI 监管政策，推动负责任的 AI 发展。",
+          "link": "https://www.reuters.com/world/asia-pacific/australia-establish-government-ai-office-coordinate-regulation-2026-07-14/",
+          "hotness": 75
+        },
+        {
+          "title": "布鲁金斯学会：中美如何合作降低紧迫的 AI 风险",
+          "summary": "布鲁金斯学会发文，呼吁中美两国在 AI 安全风险领域开展合作，以应对双方共同的全球性挑战。",
+          "link": "https://www.brookings.edu/articles/how-the-us-and-china-can-cooperate-to-reduce-urgent-ai-risks/",
+          "hotness": 68
+        },
+        {
+          "title": "加州启动全美首个 AI 素养计划，由圣地亚哥州立大学领导",
+          "summary": "加州推出全美首个州级 AI 素养教育计划，旨在提升公众对 AI 的基本理解和批判性思考能力。",
+          "link": "https://www.sdsu.edu/news/2026/07/california-launches-first-in-the-nation-ai-literacy-initiative-with-sdsu-leadership",
+          "hotness": 72
+        },
+        {
+          "title": "AI 正在取代白领工作，经济学家警告“更多还在后面”",
+          "summary": "CNBC 报道指出 AI 已开始冲击白领就业市场，经济学家预测未来影响将进一步扩大，引发社会焦虑。",
+          "link": "https://www.cnbc.com/2025/10/22/ai-taking-white-collar-jobs-economists-warn-much-more-in-the-tank.html",
+          "hotness": 76
+        }
+      ]
+    }
+  }
+}

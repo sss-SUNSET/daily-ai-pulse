@@ -1,0 +1,317 @@
+{
+  "overview": [
+    "OpenAI 发布 GPT-6 Sol 与 Luna，并推出 GPT-6 家族模型指南，旗舰模型换代成为今日最高优先级。",
+    "Google 明确 Gemini AI Plus 用量限制并上线 iOS 版 NotebookLM 集成，免费与低价用户访问权限收紧。",
+    "AWS 发布开源 AI Agent 模型 Strands Decider 2B，智能体工具链与开源生态竞争升温。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "id": 2,
+          "title": "Google 明确 Gemini AI Plus 用量限制，并上线 iOS 版 NotebookLM 集成",
+          "summary": "Google 收紧免费与 AI Plus 用户对 Gemini 模型的访问额度，同时在 iOS 推进 NotebookLM 集成，产品分层进一步明显。（合并自 id 2、4、5）",
+          "hotness": 95,
+          "link": "https://9to5google.com/2026/01/28/gemini-app-google-ai-plus/",
+          "source": "9to5Google"
+        },
+        {
+          "id": 29,
+          "title": "OpenAI 洽谈租赁俄亥俄州 10 吉瓦数据中心，算力版图再扩张",
+          "summary": "OpenAI 正洽谈租赁俄亥俄州 10 吉瓦数据中心，以满足大模型训练与推理的庞大算力需求。",
+          "hotness": 92,
+          "link": "https://www.cls.cn/detail/2395969",
+          "source": "财联社"
+        },
+        {
+          "id": 42,
+          "title": "谷歌、Anthropic 排队租算力，月付高达 9.2 亿美元",
+          "summary": "AI 巨头对算力的需求持续推高租赁规模，谷歌与 Anthropic 被曝以月付 9.2 亿美元级别排队租用算力。",
+          "hotness": 88,
+          "link": "https://k.sina.com.cn/article_5953189932_162d6782c06704zzxc.html?from=tech",
+          "source": "手机新浪网"
+        },
+        {
+          "id": 33,
+          "title": "我国生成式 AI 用户规模突破 7 亿，普及率超 50%",
+          "summary": "国内生成式 AI 用户规模突破 7 亿人，普及率超过 50%，大众化与商业化进入新阶段。",
+          "hotness": 85,
+          "link": "https://news.mydrivers.com/1/1154/1154678.htm",
+          "source": "驱动之家"
+        },
+        {
+          "id": 14,
+          "title": "马斯克改口：特斯拉 AI5 芯片内存上调至 96GB DDR5",
+          "summary": "特斯拉 AI5 芯片内存规格从 72GB 提升至 96GB，马斯克确认调整，旨在支撑更高强度车载与机器人 AI。",
+          "hotness": 80,
+          "link": "https://www.ithome.com/1/009/584.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 46,
+          "title": "贝恩警告 AI 基建狂飙背后存在超 4 万亿美元收入缺口",
+          "summary": "贝恩报告指出，AI 基础设施投资远超可预见收入，超 4 万亿美元缺口可能威胁投资回报。",
+          "hotness": 78,
+          "link": "https://www.cls.cn/detail/2495109",
+          "source": "财联社"
+        },
+        {
+          "id": 49,
+          "title": "Megaport 获约 10 亿澳元 AI 基础设施合同，上调 FY2027 指引",
+          "summary": "Megaport 锁定约 10 亿澳元新 AI 基础设施合同，并上调 2027 财年业绩指引。",
+          "hotness": 70,
+          "link": "https://pulse2.com/megaport-secures-about-a1-billion-in-new-ai-infrastructure-contracts-and-raises-fy2027-guidance/",
+          "source": "Pulse 2.0"
+        },
+        {
+          "id": 11,
+          "title": "卡普空公布 REX 升级计划，将 RE 引擎打造成面向 AI 时代的游戏引擎",
+          "summary": "卡普空计划通过 REX 升级把 RE 引擎推向 AI 时代，以应对 3A 开发成本与周期压力。",
+          "hotness": 65,
+          "link": "https://www.ithome.com/1/009/590.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 28,
+          "title": "上合组织人工智能专家论坛在阿斯塔纳举行",
+          "summary": "上合组织成员国专家在阿斯塔纳讨论 AI 合作与治理，区域 AI 政策协调升温。",
+          "hotness": 60,
+          "link": "https://chn.sectsco.org/20261003/2547337.html",
+          "source": "sectsco.org"
+        },
+        {
+          "id": 32,
+          "title": "江苏昆山机器人“上新”，具身智能与工业机器人加速落地",
+          "summary": "昆山展示多类机器人新品，涵盖具身智能、工业机器人与机器狗，地方产业应用提速。",
+          "hotness": 60,
+          "link": "https://finance.sina.cn/2026-10-04/detail-initzerr5734502.d.html?vt=4&wm=4007,4007,4007,4007////?vt",
+          "source": "finance.sina.cn"
+        },
+        {
+          "id": 34,
+          "title": "上半年 AI 热钱涌动，国资基金抢滩人工智能",
+          "summary": "2026 张江 AI 小镇生态日显示，国资基金加速布局 AI，一级市场热度延续。",
+          "hotness": 60,
+          "link": "https://www.cls.cn/detail/2410689",
+          "source": "财联社"
+        },
+        {
+          "id": 37,
+          "title": "2026 人工智能产业大会聚焦算力到产线，山东展示 AI 适配度",
+          "summary": "大会讨论从算力到产线的 AI 产业落地，山东尝试以本地产业场景承接 AI 升级。",
+          "hotness": 55,
+          "link": "https://k.sina.com.cn/article_5328858693_13d9fee4502002jik0.html",
+          "source": "手机新浪网"
+        },
+        {
+          "id": 40,
+          "title": "“人工智能+”赋能新旧动能转换，AI 驱动绿色建筑“好房子”",
+          "summary": "AI 被用于绿色建筑设计与运维，成为新旧动能转换的产业案例。",
+          "hotness": 50,
+          "link": "https://k.sina.com.cn/article_5952915720_162d2490806704y25e.html?from=tech",
+          "source": "手机新浪网"
+        },
+        {
+          "id": 45,
+          "title": "传媒与 AI 深度融合需过“五道关口”",
+          "summary": "文章提出传媒行业应用 AI 需跨越专业、伦理与流程等五道关口，推动深度融合。",
+          "hotness": 50,
+          "link": "https://k.sina.com.cn/article_7967703056_1dae9801000101rz7y.html?from=tech&subch=otech",
+          "source": "手机新浪网"
+        },
+        {
+          "id": 63,
+          "title": "如何为 AI Agent 定价，避免采购流程扼杀交易",
+          "summary": "文章讨论 AI Agent 的定价策略，帮助创业公司通过采购评估并达成交易。",
+          "hotness": 45,
+          "link": "https://startupfortune.com/how-to-price-an-ai-agent-so-procurement-doesnt-kill-the-deal/",
+          "source": "Startup Fortune"
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "id": 0,
+          "title": "OpenAI 发布 GPT-6 Sol 与 Luna，并推出 GPT-6 家族模型指南",
+          "summary": "OpenAI 正式公开 GPT-6 系列 Sol/Luna，并提供面向初创的选型、推理强度调节与提示优化指南，旗舰模型换代。（合并自 id 0、7）",
+          "hotness": 100,
+          "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+          "source": "OpenAI"
+        },
+        {
+          "id": 12,
+          "title": "MacBook Pro 外接 iPhone 17 Pro Max 运行 Qwen3.8-27B，AI 推理预填充最高提升 44%",
+          "summary": "测试显示，M4 Pro MacBook Pro 外接 iPhone 17 Pro Max 可运行 Qwen3.8-27B，预填充性能最高提升 44%，端侧异构推理有新进展。",
+          "hotness": 78,
+          "link": "https://www.ithome.com/1/009/586.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 52,
+          "title": "AI 自动分析冠脉血管内超声的系统综述发表",
+          "summary": "一篇系统综述评估 AI 在冠脉血管内超声自动分析与解读中的应用，医疗 AI 研究继续扩展。",
+          "hotness": 45,
+          "link": "https://www.cureus.com/articles/535230-artificial-intelligence-for-automated-analysis-and-interpretation-of-intravascular-ultrasound-in-coronary-artery-disease-a-systematic-review",
+          "source": "Cureus"
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "id": 58,
+          "title": "AWS 发布开源 AI Agent 模型 Strands Decider 2B",
+          "summary": "AWS 推出开源 AI Agent 模型 Strands Decider 2B，瞄准智能体决策与工具调用，开源 Agent 生态再添重要玩家。",
+          "hotness": 90,
+          "link": "https://shattered.io/aws-strands-decider-2b-open-source-ai-agent-model-2026/",
+          "source": "shattered.io"
+        },
+        {
+          "id": 48,
+          "title": "团队用 AI Agent“氛围编程”自建 Calendly，称 Agent 推动决策正确",
+          "summary": "一团队借助 AI Agent 自主开发 Calendly 替代品，展示 Agent 在软件构建流程中的推动力。",
+          "hotness": 60,
+          "link": "https://www.saastr.com/we-vibe-coded-our-own-calendly-our-ai-agent-pushed-us-to-do-it-and-it-was-right/",
+          "source": "saastr.com"
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "id": 13,
+          "title": "Anthropic 被曝密会宗教领袖讨论 Claude 意识，奥尔特曼批评“将 AI 视为宗教力量”",
+          "summary": "Anthropic 因与宗教领袖讨论 Claude 是否具意识引发争议，OpenAI CEO 奥尔特曼公开批评把 AI 模型神化的倾向。",
+          "hotness": 88,
+          "link": "https://www.ithome.com/1/009/585.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 15,
+          "title": "OpenAI 前安全员工批评模型迭代部署过激，称公司文化已崩坏",
+          "summary": "路透社报道，一名近期离职的 OpenAI 安全员工指责公司追求快速开发的高压文化损害 AI 安全。",
+          "hotness": 80,
+          "link": "https://www.ithome.com/1/009/581.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 39,
+          "title": "报告警示 AI 自我迭代至第四代，人类恐难理解其逻辑并面临失控风险",
+          "summary": "有观点称 AI 已自我迭代至第四代，决策逻辑复杂到人类难以理解，引发失控担忧。",
+          "hotness": 80,
+          "link": "https://k.sina.com.cn/article_7879924057_m1d5ae195903301nzda.html",
+          "source": "手机新浪网"
+        },
+        {
+          "id": 50,
+          "title": "Alphabet 签署 AI 安全协议并获反垄断胜诉，特朗普政府推动 AI 安全协议",
+          "summary": "Alphabet 的 AI 安全承诺与反垄断进展受关注，同时特朗普政府推动新的 AI 安全协议。（合并自 id 50、53、55）",
+          "hotness": 78,
+          "link": "https://simplywall.st/stocks/us/media/nasdaq-googl/alphabet/news/what-do-alphabet-googl-ai-safety-pact-and-antitrust-wins-mea",
+          "source": "Simply Wall Street"
+        },
+        {
+          "id": 54,
+          "title": "研究者用 JavaScript 混淆绕过 AI Agent 防护",
+          "summary": "研究人员发现可通过 JavaScript 混淆绕过 AI Agent 安全保护，暴露智能体防护缺口。",
+          "hotness": 75,
+          "link": "https://www.scworld.com/brief/researchers-bypass-ai-agent-protections-with-javascript-obfuscation",
+          "source": "scworld.com"
+        },
+        {
+          "id": 64,
+          "title": "纽约时报：AI 正在失控，谁该负责？",
+          "summary": "AI 越权与失控事件引发责任归属讨论，法律与伦理框架面临挑战。",
+          "hotness": 75,
+          "link": "https://www.nytimes.com/2026/10/01/technology/ai-rogue-agents-liability.html",
+          "source": "nytimes.com"
+        },
+        {
+          "id": 56,
+          "title": "Meta 裁减四个月前从 Virtue AI 收购的 AI 安全团队",
+          "summary": "Meta 削减此前通过 acqui-hire 并入的 Virtue AI 安全团队，凸显大厂 AI 安全投入摇摆。",
+          "hotness": 72,
+          "link": "https://startupfortune.com/meta-cuts-the-ai-safety-team-it-acqui-hired-from-virtue-ai-four-months-ago/",
+          "source": "Startup Fortune"
+        },
+        {
+          "id": 38,
+          "title": "上市银行首部 AI 管理办法落地，平安银行率先实施",
+          "summary": "平安银行推出上市银行首个人工智能管理办法，银行业 AI 治理进入制度化阶段。",
+          "hotness": 72,
+          "link": "https://m.cls.cn/detail/2496845",
+          "source": "财联社"
+        },
+        {
+          "id": 35,
+          "title": "智能体支付应用需拧紧“安全阀”",
+          "summary": "随着 AI 智能体进入支付场景，安全与风控成为落地关键，行业呼吁建立更严格防护机制。",
+          "hotness": 70,
+          "link": "https://news.sina.com.cn/zx/gj/2026-10-03/doc-initwzsi4116630.shtml",
+          "source": "新浪新闻_手机新浪网"
+        },
+        {
+          "id": 62,
+          "title": "AI Agent 控制成为基础设施优先事项",
+          "summary": "随着智能体快速发展，如何控制、审计与限制 AI Agent 行为正成为基础设施层的重要课题。",
+          "hotness": 70,
+          "link": "https://www.scworld.com/brief/ai-agent-control-emerges-as-infrastructure-priority-amid-rapid-development",
+          "source": "scworld.com"
+        },
+        {
+          "id": 30,
+          "title": "特朗普称 AI 比互联网更重要，并提出改称“超级智能”引发 .si 域名注册暴增",
+          "summary": "特朗普公开强调 AI 的重要性并提议改称“超级智能”，随后斯洛文尼亚 .si 域名注册量环比暴增 2100%。（合并自 id 30、36）",
+          "hotness": 65,
+          "link": "https://k.sina.com.cn/article_7879923854_m1d5ae188e03301wksu.html?from=tech",
+          "source": "手机新浪网"
+        },
+        {
+          "id": 59,
+          "title": "儿童安全倡导者在失去儿子后呼吁 AI 安全改革",
+          "summary": "一位儿童安全倡导者因个人悲剧呼吁 AI 安全改革，推动平台与模型责任讨论。",
+          "hotness": 65,
+          "link": "https://www.foxnews.com/video/6406172849112",
+          "source": "Fox News"
+        },
+        {
+          "id": 61,
+          "title": "调查：大量线上卖家利用 AI 伪装成夫妻店欺骗顾客",
+          "summary": "视觉调查发现，线上卖家使用 AI 生成内容伪装成小型夫妻店，引发消费欺诈与平台责任问题。",
+          "hotness": 60,
+          "link": "https://abc7.com/post/visual-investigation-scores-online-resellers-are-using-ai-fool-customers-pretending-mom-pop-stores/19064255/?userab=kfsn_content_recs-582*variant_b_trending_kfsn-2513,kabc_content_recs-577*variant_c_trending-2482,wls_content_recs-584*variant_b_trending_wls-2517,wtvd_content_recs-585*variant_b_trending_wtvd-2519,ktrk_content_recs-587*variant_b_trending_ktrk-2523,wpvi_content_recs-586*variant_b_trending_wpvi-2521,otv_web_content_rec-539*variant_c_trending-2268,otv_web_topic-580*variant_b_topic_redesign-2509,follow_abcnews_otv_on_google-654*variant_a_control-3493,otv_search_page_design_unification-546*variant_b_search_redesign-2300,otv_web_live-581*variant_a_live-2510,follow_otv_on_google-683*variant_a_control-3659,abcn_popular_reads_exp_followup-648*variant_c_autotagswpopularity-3458,otv_mobile_web_content_recs-639*variant_a_control-3429,kgo_content_recs-583*variant_a_control_kgo-2514,otvlink_abcnnav-576*variant_a_control-2478&userab=kfsn_content_recs-582*variant_b_trending_kfsn-2513,kabc_content_recs-577*variant_a_control-2480,wls_content_recs-584*variant_b_trending_wls-2517,wtvd_content_recs-585*variant_a_control_wtvd-2518,ktrk_content_recs-587*variant_b_trending_ktrk-2523,wpvi_content_recs-586*variant_b_trending_wpvi-2521,otv_web_content_rec-539*variant_c_trending-2268,otv_web_topic-580*variant_b_topic_redesign-2509,follow_abcnews_otv_on_google-654*variant_a_control-3493,otv_search_page_design_unification-546*variant_b_search_redesign-2300,otv_web_live-581*variant_b_live_redesign-2511,follow_otv_on_google-683*variant_b_share_drop_down-3661,abcn_popular_reads_exp_followup-648*variant_b_popularityonly-3457,otv_mobile_web_content_recs-639*variant_a_control-3429,kgo_content_recs-583*variant_a_control_kgo-2514,otvlink_abcnnav-576*variant_c_localnews-3316",
+          "source": "ABC7 Los Angeles"
+        },
+        {
+          "id": 57,
+          "title": "纽约时报问答：老板被 ChatGPT 弄糊涂了，我该配合吗？",
+          "summary": "职场中 ChatGPT 带来的认知依赖与沟通冲突引发讨论，成为 AI 社会影响新话题。",
+          "hotness": 55,
+          "link": "https://www.nytimes.com/2026/04/19/business/ai-at-work-creativity-ageism.html",
+          "source": "nytimes.com"
+        },
+        {
+          "id": 44,
+          "title": "“人工智能治理研究的延续与变革”学术研讨会在京举办",
+          "summary": "学者在京研讨 AI 治理研究的延续与变革，政策与伦理框架持续完善。",
+          "hotness": 50,
+          "link": "https://finance.sina.com.cn/roll/2026-10-03/doc-inityccx0644780.shtml",
+          "source": "finance.sina.com.cn"
+        },
+        {
+          "id": 51,
+          "title": "美国参议员与 Anthropic 高管讨论 AI 未来",
+          "summary": "参议员 Rounds 与 Anthropic 领导层就 AI 未来、安全与政策展开对话。",
+          "hotness": 50,
+          "link": "https://www.kotatv.com/video/2026/10/03/sen-rounds-anthropic-leaders-talk-ais-future-south-dakota-mines/",
+          "source": "KOTA Territory News"
+        }
+      ]
+    }
+  }
+}

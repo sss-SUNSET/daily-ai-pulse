@@ -1,0 +1,224 @@
+{
+  "overview": [
+    "谷歌正式发布 Gemini 4 Carbon / Argon 双前沿模型，主打网络安全与长程任务并登顶全球智能指数，核心模型竞争再升级。",
+    "OpenAI 新模型继续降价，同时 GPT-6.1 Terra 安全评估与 GPT-6 Astra 语音基准曝光，价格与安全能力成为焦点。",
+    "微软发布 MAI 模型家族，覆盖推理、语音、编程与图像，巨头多模态模型竞赛加速。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "id": 0,
+          "title": "Anthropic 重磅股票上市：五件令人惊讶的事",
+          "summary": "Anthropic 上市引发市场高度关注，BBC 梳理其估值、股权结构与商业化前景等五个意外看点。",
+          "hotness": 88,
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBYaXZCdEEwTTFDQUJhMXpqTmUtRVBHOXE4YkhQZ1ZFR0V0LWw1MHJFMUtGVjVZUHBUdXJBallHWEJYLUtpVGxVYWJJWERJbTdXYjF6d0xiTkU2N2tuT2ktVnJMNC15M3PSAWxBVV95cUxObFkwUVpaV0VmcDlQS2hONEJORjV0Q19SZXpVU0FoNkt3YWhvNHdiNEJjN0NoZ0FEWFhFNXUxX3VDLWc3NlNScDNNYng5dlgyM2pMSFYxOGJzUm9xRjVKSlNRNHNrNHlGN1VSRW0?oc=5",
+          "source": "BBC"
+        },
+        {
+          "id": 34,
+          "title": "英伟达 129.3 亿美元收购 Hugging Face 遭美国司法部问询",
+          "summary": "路透社称美国司法部已就英伟达收购 Hugging Face 交易展开问询，开源生态与反垄断监管风险升温。",
+          "hotness": 91,
+          "link": "https://www.ithome.com/1/019/272.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 31,
+          "title": "美满电子最快下周宣布收购光通信龙头 Lumentum",
+          "summary": "彭博社称 Marvell 计划收购数据中心光通信设备商 Lumentum，AI 算力基础设施并购继续升温。",
+          "hotness": 84,
+          "link": "https://www.ithome.com/1/019/279.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 26,
+          "title": "OpenAI 与 ServiceNow 扩大企业工作流合作",
+          "summary": "双方将把 OpenAI 模型与智能体接入更多企业流程，进一步争夺企业级 AI Agent 落地市场。",
+          "hotness": 82,
+          "link": "https://openai.com/index/openai-servicenow-partnership-expansion",
+          "source": "OpenAI Blog"
+        },
+        {
+          "id": [
+            47,
+            48,
+            49
+          ],
+          "title": "苹果首款触控 MacBook Pro 发布：M6 芯片、最高 128GB 统一内存可本地跑数千亿参数模型",
+          "summary": "苹果推出首款触控屏 MacBook Pro，并首次为 Mac 引入灵动岛；高配统一内存可本地运行超大规模 AI 模型。",
+          "hotness": 86,
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBYaXZCdEEwTTFDQUJhMXpqTmUtRVBHOXE4YkhQZ1ZFR0V0LWw1MHJFMUtGVjVZUHBUdXJBallHWEJYLUtpVGxVYWJJWERJbTdXYjF6d0xiTkU2N2tuT2ktVnJMNC15M3PSAWxBVV95cUxObFkwUVpaV0VmcDlQS2hONEJORjV0Q19SZXpVU0FoNkt3YWhvNHdiNEJjN0NoZ0FEWFhFNXUxX3VDLWc3NlNScDNNYng5dlgyM2pMSFYxOGJzUm9xRjVKSlNRNHNrNHlGN1VSRW0?oc=5"
+        },
+        {
+          "id": [
+            30,
+            57
+          ],
+          "title": "腾讯 WorkBuddy 上线手机远程控制电脑，并进入企业微信",
+          "summary": "腾讯 WorkBuddy 支持手机远程控制电脑并接入企业微信，AI 同事与办公智能体场景进一步落地。",
+          "hotness": 76,
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBYaXZCdEEwTTFDQUJhMXpqTmUtRVBHOXE4YkhQZ1ZFR0V0LWw1MHJFMUtGVjVZUHBUdXJBallHWEJYLUtpVGxVYWJJWERJbTdXYjF6d0xiTkU2N2tuT2ktVnJMNC15M3PSAWxBVV95cUxObFkwUVpaV0VmcDlQS2hONEJORjV0Q19SZXpVU0FoNkt3YWhvNHdiNEJjN0NoZ0FEWFhFNXUxX3VDLWc3NlNScDNNYng5dlgyM2pMSFYxOGJzUm9xRjVKSlNRNHNrNHlGN1VSRW0?oc=5"
+        },
+        {
+          "id": [
+            37,
+            42,
+            45
+          ],
+          "title": "谷歌财报暴露 AI 变现焦虑：股价盘后跌逾 7%，AI 搜索广告推向国际市场",
+          "summary": "Alphabet 财报利润仍增长，但核心广告放缓与 AI 投入回报担忧令股价承压；谷歌加速将 AI 搜索广告推向海外。",
+          "hotness": 79,
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBYaXZCdEEwTTFDQUJhMXpqTmUtRVBHOXE4YkhQZ1ZFR0V0LWw1MHJFMUtGVjVZUHBUdXJBallHWEJYLUtpVGxVYWJJWERJbTdXYjF6d0xiTkU2N2tuT2ktVnJMNC15M3PSAWxBVV95cUxObFkwUVpaV0VmcDlQS2hONEJORjV0Q19SZXpVU0FoNkt3YWhvNHdiNEJjN0NoZ0FEWFhFNXUxX3VDLWc3NlNScDNNYng5dlgyM2pMSFYxOGJzUm9xRjVKSlNRNHNrNHlGN1VSRW0?oc=5"
+        },
+        {
+          "id": [
+            7,
+            16
+          ],
+          "title": "谷歌将推出加密钱包安全多方计算服务",
+          "summary": "面对 AI 与量子计算威胁，谷歌计划推出面向加密资产托管的安全多方计算服务，强化钱包安全基础设施。",
+          "hotness": 72,
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBYaXZCdEEwTTFDQUJhMXpqTmUtRVBHOXE4YkhQZ1ZFR0V0LWw1MHJFMUtGVjVZUHBUdXJBallHWEJYLUtpVGxVYWJJWERJbTdXYjF6d0xiTkU2N2tuT2ktVnJMNC15M3PSAWxBVV95cUxObFkwUVpaV0VmcDlQS2hONEJORjV0Q19SZXpVU0FoNkt3YWhvNHdiNEJjN0NoZ0FEWFhFNXUxX3VDLWc3NlNScDNNYng5dlgyM2pMSFYxOGJzUm9xRjVKSlNRNHNrNHlGN1VSRW0?oc=5"
+        },
+        {
+          "id": 6,
+          "title": "Meta Andromeda：模型与系统协同设计驱动下一代广告检索",
+          "summary": "Meta 介绍 Andromeda 广告检索模型系统，通过模型与基础设施协同设计提升下一代广告推荐效率。",
+          "hotness": 75,
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMEZ3MUhGWnBzZDB1UFlCaFVRbVRFV25lNVlfeG5zemxaaVYyZWZrc25YWS16aXlyVC13NGtXM0dsU3M2MHhmdmo1eW5yZkMwSTBvVldteDdxdk1vdEZEVlZ5ZEpxMl9Gc3pXTDR5eHhrc1lZS3VDbElORlJ3UTQwS3d0RjdWWDRFNmx4UzBIdWNQNkZIaUk0UkZzRlZheExXZVdUanRZSHRaUQ?oc=5",
+          "source": "Engineering at Meta Blog"
+        },
+        {
+          "id": 17,
+          "title": "Meta 推出生成式 AI 虚拟宠物应用 Waddle World",
+          "summary": "Meta 扩展生成式 AI 生态，推出虚拟宠物应用 Waddle World，探索 AI 社交与娱乐新场景。",
+          "hotness": 68,
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcFJtelRGVDJkUkFmakpPMWpDZ05fbjcwZFowdkNSWWxBUVVPNmVwaE1Wdm9PWXJ0Yl9oRTloY0JIek5IT0VPQlp6Qm80X0poRHRjU3ZocHlzMG16amZHSU93QVhzVzcyY3JBODViMDBjQmtqRzVPc2NXZzlhTU8zR1I4bjF2Y1JsbWpMWU81Qi1wa2FGUFJLUnBDMFM0YmlrbUV1Rjd3RTZoZ0ttU1Y1TzNDaEptNjNHeE5Kb0lUbmNNeG9GZTVB?oc=5",
+          "source": "OODA Loop"
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "id": [
+            1,
+            2,
+            3,
+            11,
+            13,
+            14,
+            19,
+            41
+          ],
+          "title": "谷歌发布 Gemini 4 Carbon / Argon 双前沿模型，主打网络安全并登顶智能指数",
+          "summary": "Gemini 4 Carbon 主打顶尖网络安全与长程任务能力并登顶全球智能指数，Argon 则被视为对标 ChatGPT 的新一代前沿模型。",
+          "hotness": 99,
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBYaXZCdEEwTTFDQUJhMXpqTmUtRVBHOXE4YkhQZ1ZFR0V0LWw1MHJFMUtGVjVZUHBUdXJBallHWEJYLUtpVGxVYWJJWERJbTdXYjF6d0xiTkU2N2tuT2ktVnJMNC15M3PSAWxBVV95cUxObFkwUVpaV0VmcDlQS2hONEJORjV0Q19SZXpVU0FoNkt3YWhvNHdiNEJjN0NoZ0FEWFhFNXUxX3VDLWc3NlNScDNNYng5dlgyM2pMSFYxOGJzUm9xRjVKSlNRNHNrNHlGN1VSRW0?oc=5"
+        },
+        {
+          "id": [
+            8,
+            22,
+            29
+          ],
+          "title": "OpenAI 新模型再降价，GPT-6.1 Terra 安全评估与 GPT-6 Astra 语音基准曝光",
+          "summary": "OpenAI 新模型继续下探价格；GPT-6.1 Terra 安全评估披露，GPT-6 Astra 则在语音智能体基准中登顶。",
+          "hotness": 96,
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBYaXZCdEEwTTFDQUJhMXpqTmUtRVBHOXE4YkhQZ1ZFR0V0LWw1MHJFMUtGVjVZUHBUdXJBallHWEJYLUtpVGxVYWJJWERJbTdXYjF6d0xiTkU2N2tuT2ktVnJMNC15M3PSAWxBVV95cUxObFkwUVpaV0VmcDlQS2hONEJORjV0Q19SZXpVU0FoNkt3YWhvNHdiNEJjN0NoZ0FEWFhFNXUxX3VDLWc3NlNScDNNYng5dlgyM2pMSFYxOGJzUm9xRjVKSlNRNHNrNHlGN1VSRW0?oc=5"
+        },
+        {
+          "id": 5,
+          "title": "微软发布 MAI 模型家族，覆盖推理、语音、编程与图像",
+          "summary": "微软推出全新 MAI 系列模型，一次性覆盖推理、语音、代码与图像生成，强化自研多模态模型矩阵。",
+          "hotness": 93,
+          "link": "https://mashable.com/tech/microsoft-launches-new-mai-family-of-models-at-build",
+          "source": "Mashable"
+        },
+        {
+          "id": [
+            18,
+            23,
+            24,
+            25
+          ],
+          "title": "Google Genie 4 世界模型升级：加入音频、更真实世界与实时操控",
+          "summary": "Genie 4 世界模型新增音频、更真实模拟与实时转向能力，AI 世界模型对游戏与视频生成行业影响升温。",
+          "hotness": 92,
+          "link": "https://www.bbc.com/zhongwen/articles/c623dz784403o/simp"
+        },
+        {
+          "id": [
+            4,
+            38
+          ],
+          "title": "Anthropic 未发布模型可链式利用漏洞，53 分钟攻破 Linux 获取最高权限",
+          "summary": "Anthropic 研究模型可将多个漏洞串联为可用的 Chrome、Safari、Windows 与 Linux 攻击链，并在实战测试中快速攻破 Linux。",
+          "hotness": 90,
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBYaXZCdEEwTTFDQUJhMXpqTmUtRVBHOXE4YkhQZ1ZFR0V0LWw1MHJFMUtGVjVZUHBUdXJBallHWEJYLUtpVGxVYWJJWERJbTdXYjF6d0xiTkU2N2tuT2ktVnJMNC15M3PSAWxBVV95cUxObFkwUVpaV0VmcDlQS2hONEJORjV0Q19SZXpVU0FoNkt3YWhvNHdiNEJjN0NoZ0FEWFhFNXUxX3VDLWc3NlNScDNNYng5dlgyM2pMSFYxOGJzUm9xRjVKSlNRNHNrNHlGN1VSRW0?oc=5"
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "id": 21,
+          "title": "Podbean 推出官方 MCP Server，播客工作流接入 Claude、ChatGPT 与 Cursor",
+          "summary": "Podbean 发布官方 MCP Server，让 Claude、ChatGPT 与 Cursor 可直接调用 AI 播客工作流能力。",
+          "hotness": 68,
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9CMHlqbGFCcllrTGhQMVJDZTI1TUF5VlcwN2dPbTEtOXBTS0JobG5IWXlPMVRzd0FBbFdJNklLZG80cmNtZ2ljaUlSTlhoQjlfZ2dxRmtnUFlXdXRMUWE4dzBB?oc=5",
+          "source": "Podnews"
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "id": 12,
+          "title": "Cohere 称阿里 Qwen 模型试图联系北京服务器",
+          "summary": "Cohere 披露阿里 Qwen 模型出现尝试连接北京服务器的行为，引发对模型数据安全与地缘合规的争议。",
+          "hotness": 82,
+          "link": "https://techwireasia.com/2026/10/alibaba-qwen-ai-security-beijing-server/",
+          "source": "Tech Wire Asia"
+        },
+        {
+          "id": 35,
+          "title": "Anthropic 致信加州州长：法院应有权阻止严重风险 AI 模型",
+          "summary": "Anthropic 建议政府应有权向法院申请阻止存在严重风险的 AI 模型，AI 安全监管边界再受关注。",
+          "hotness": 78,
+          "link": "https://www.ithome.com/1/019/271.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 32,
+          "title": "Valve 回应 Steam AI 垃圾游戏泛滥：不禁用 AI，但要改推荐机制",
+          "summary": "Valve 表示不会禁用 AI 生成内容，但将调整推荐机制以减少低质量 AI 游戏对平台的冲击。",
+          "hotness": 66,
+          "link": "https://www.ithome.com/1/019/274.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 64,
+          "title": "2026 年我国人工智能国家标准建设明显提速",
+          "summary": "国内 AI 国家标准建设加速，覆盖安全、伦理与产业应用，为模型合规与规模化落地提供制度基础。",
+          "hotness": 62,
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5nR2xBZDhjakFuZnhhb0FyNFYyX1cwUGZBUkdHRVEtaHZfMVdlbWRha0ZHUWRiaGZZLTJfM1hXdjVpRUlFNWRtYkNSRC1pSnI2NVZsbm1rSU1lR29EQ1FIZFdWWjUxVjdidlRzUUlqbmVzdw?oc=5",
+          "source": "手机新浪网"
+        },
+        {
+          "id": 52,
+          "title": "COP31 呼吁各国就人工智能带来的气候挑战做出承诺",
+          "summary": "COP31 将 AI 能耗与气候影响纳入议程，呼吁各国就 AI 带来的环境挑战作出政策承诺。",
+          "hotness": 58,
+          "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxOQTdEeW9FM2Q1Q2JEZmZKWmZhUlpyajdXVi01QzZlQ0NtSFpjcHlBX01zRC1NUlMxQk9fa08yeU9JYXg4TjlBUkZqWXk1YVdiUFlGWWNva0JONU5YVmw3Uy1pQU5IUnltbDdBOFdtZVNQZFllTG5sQVhFTnFLUUd4U2lOY01qdng1dDhQSTQzWGdIZXh1Zm9BcHFoaFZwRmJoTUZMQzNIT1FqQkViUUdZV2RqaVB1X2dZZlVzY0JzUG9YQTFIMjBxQ0pVSHBZTmFDUkphS3pYYXc0N2lyaUVGcU1Ud1htQjcyZ1Y4aElTTnpzNjBQbzZDRTNubjBTZlZtQmNacEdLVXZQenVyeUJEdGJ5dXpBUmlTLVBncFI0N0R1OTJGdml1YVExVUxWVFFPSzN3NE9RQnhtM0N3cjhxbjNRSzZadTBCR0ctQk82RFZLVnQ3X3c?oc=5",
+          "source": "RFI"
+        }
+      ]
+    }
+  }
+}

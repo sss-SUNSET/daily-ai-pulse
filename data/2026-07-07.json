@@ -1,0 +1,142 @@
+{
+  "overview": [
+    "美团发布万亿参数大模型LongCat-2.0，全程采用国产芯片训练",
+    "腾讯混元Hy3正式发布，Agent能力显著提升并深度集成产品",
+    "美国财政部报告警示AI泡沫风险，引发全球市场关注"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "title": "训练全程由国产芯片完成，万亿级参数大模型 LongCat-2.0 发布 - 美团",
+          "summary": "美团发布万亿参数大模型LongCat-2.0，全程采用国产芯片完成训练，展现国产AI芯片实力。",
+          "link": "https://www.meituan.com/news/NN260630164005904",
+          "hotness": 92
+        },
+        {
+          "title": "腾讯混元Hy3正式发布：Agent能力显著提升，产品深度融合 - Tencent 腾讯",
+          "summary": "腾讯发布混元Hy3大模型，Agent智能体能力大幅提升，并与旗下产品深度整合。",
+          "link": "https://www.tencent.com/zh-cn/articles/2202386.html",
+          "hotness": 88
+        },
+        {
+          "title": "Samsung Profit Surges Past Estimates on AI Memory Chip Demand - Bloomberg.com",
+          "summary": "三星电子利润超预期增长，主要受AI内存芯片需求强劲推动。",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-06/samsung-scores-profit-beat-due-to-runaway-demand-for-ai-memory",
+          "hotness": 85
+        },
+        {
+          "title": "Nvidia denies report its next-generation AI server faces delays, says roadmap is intact - AOL.com",
+          "summary": "英伟达否认下一代AI服务器延迟传闻，称产品路线图正常推进。",
+          "link": "https://www.aol.com/finance/nvidia-denies-report-next-generation-183310499.html",
+          "hotness": 82
+        },
+        {
+          "title": "法国世界报 - 中国：人工智能已成为珠三角制造业新一轮转型升级的重要工具 - RFI",
+          "summary": "人工智能成为珠三角制造业转型升级的关键工具，推动产业智能化发展。",
+          "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20260706-%E4%B8%AD%E5%9B%BD-%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%B7%B2%E6%88%90%E4%B8%BA%E7%8F%A0%E4%B8%89%E8%A7%92%E5%88%B6%E9%80%A0%E4%B8%9A%E6%96%B0%E4%B8%80%E8%BD%AE%E8%BD%AC%E5%9E%8B%E5%8D%87%E7%BA%A7%E7%9A%84%E9%87%8D%E8%A6%81%E5%B7%A5%E5%85%B7",
+          "hotness": 75
+        },
+        {
+          "title": "新能源与AI需求拉动有色行业利润大增 上市公司盈利显著修复 - 观点网",
+          "summary": "新能源和AI需求带动有色金属行业利润大幅增长，上市公司盈利能力明显改善。",
+          "link": "https://www.guandian.cn/article/20260707/571606.html",
+          "hotness": 72
+        },
+        {
+          "title": "科锐国际曾诚：AI人才需求加速向应用端迁移，产业场景成为新增长极 - 新华报业网",
+          "summary": "AI人才需求正快速向应用端转移，产业场景应用成为新的增长点。",
+          "link": "https://www.xhby.net/content/s6a4b5d73e4b090b4bea23517.html",
+          "hotness": 70
+        },
+        {
+          "title": "奥迪威董事长张曙光： 聚焦AI与具身智能赛道 积极拓展应用场景 - 东方财富",
+          "summary": "奥迪威聚焦AI与具身智能领域，积极拓展相关应用场景布局。",
+          "link": "https://wap.eastmoney.com/a/202607073795568059.html",
+          "hotness": 68
+        },
+        {
+          "title": "2026中国端侧算力方案洞察报告（AI Box篇） - 电子工程专辑",
+          "summary": "发布2026年中国端侧算力方案洞察报告，重点关注AI Box发展现状。",
+          "link": "https://www.eet-china.com/mp/a507891.html",
+          "hotness": 65
+        },
+        {
+          "title": "AI赋能千行百业一线观察｜AI工具如何助力多元化财富管理？ - 新华网",
+          "summary": "AI工具正在赋能财富管理行业，推动多元化金融服务发展。",
+          "link": "https://www.news.cn/money/20260706/139780378d1946f4be84fba3f9e209ac/c.html",
+          "hotness": 63
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "title": "中国科大AI中心正式启用 - 中国科大新闻网",
+          "summary": "中国科学技术大学AI中心正式启用，加强人工智能前沿研究。",
+          "link": "https://news.ustc.edu.cn/info/1055/95614.htm",
+          "hotness": 70
+        },
+        {
+          "title": "“天书计划”启动首届AI育种挑战赛 - 科学网—新闻",
+          "summary": "天书计划启动首届AI育种挑战赛，推动人工智能在农业育种领域应用。",
+          "link": "http://news.sciencenet.cn/htmlnews/2026/7/567768.shtm",
+          "hotness": 65
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": []
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "title": "连美国政府都在担忧AI泡沫？财政部一份报告草案揭秘“隐忧”…… - 财联社",
+          "summary": "美国财政部报告草案警示AI泡沫风险，引发对AI投资过热担忧。",
+          "link": "https://www.cls.cn/detail/2418646",
+          "hotness": 85
+        },
+        {
+          "title": "从人工智能到“杀人机器人”：联合国秘书长发出紧急治理呼吁 - UN News",
+          "summary": "联合国秘书长就AI武器化发出紧急治理呼吁，强调需规范致命性自主武器。",
+          "link": "https://news.un.org/zh/story/2026/07/1142428",
+          "hotness": 82
+        },
+        {
+          "title": "首届“人工智能治理全球对话”聚焦机遇与合作--国际 - 人民网",
+          "summary": "首届人工智能治理全球对话召开，聚焦AI发展机遇与国际合作。",
+          "link": "http://world.people.com.cn/n1/2026/0707/c1002-40754903.html",
+          "hotness": 78
+        },
+        {
+          "title": "AI监管跟不上 联合国呼吁全球规范保护少年儿童 - RFI",
+          "summary": "联合国呼吁加强AI监管，建立全球规范保护青少年儿童权益。",
+          "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260706-ai%E7%9B%91%E7%AE%A1%E8%B7%9F%E4%B8%8D%E4%B8%8A-%E8%81%94%E5%90%88%E5%9B%BD%E5%91%BC%E5%90%81%E5%85%A8%E7%90%83%E8%A7%84%E8%8C%83%E4%BF%9D%E6%8A%A4%E5%B0%91%E5%B9%B4%E5%84%BF%E7%AB%A5",
+          "hotness": 76
+        },
+        {
+          "title": "今天的大模型，更像是在做梦？当AI越来越像人，人类又该如何定义自己 - 新浪网",
+          "summary": "探讨大模型真实性困境，反思AI拟人化对人类自我认知的影响。",
+          "link": "https://finance.sina.com.cn/jjxw/2026-07-07/doc-inifxpif8275118.shtml",
+          "hotness": 72
+        },
+        {
+          "title": "贝利预言巴西世界杯夺冠？人工智能迎来真实性之问 - 华龙网",
+          "summary": "AI生成内容引发真实性争议，探讨人工智能在信息传播中的可信度问题。",
+          "link": "https://www.cqnews.net/web/content_1523941582934786048.html",
+          "hotness": 68
+        },
+        {
+          "title": "工信部AI典型案例揭晓：“人工智能内容安全鉴真解决方案”入选！ - 新浪网",
+          "summary": "工信部公布AI典型案例，内容安全鉴真解决方案入选示范项目。",
+          "link": "https://k.sina.com.cn/article_5952915720_162d2490806704cb1e.html?from=tech",
+          "hotness": 65
+        }
+      ]
+    }
+  }
+}

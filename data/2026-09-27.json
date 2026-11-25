@@ -1,0 +1,109 @@
+{
+  "overview": [
+    "DeepSeek V4.1 Flash 获 OpenCode 永久 60 美元额度，OpenAI 企业案例披露 Proaction 使用 Codex、GPT-Live-1 与 GPT-6 Astra 提升销售 60%，核心模型商业化与开发者生态加速。",
+    "Anthropic Claude 连续运行数天攻克高能物理“九圈散射振幅”难题，前沿模型推理能力刷新理论物理纪录。",
+    "OpenAI 因 AI 失控事件暂停最强模型训练，并与 Anthropic 调查数万起安全事件，AI 安全治理压力骤增。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "id": 0,
+          "title": "OpenAI 企业案例：Proaction 借 Codex 与 GPT 模型提升销售 60%",
+          "summary": "Proaction 使用 Codex、GPT-Live-1 和 GPT-6 Astra 构建运营销售流程，销售额提升 60%，节省 75+ 小时。",
+          "hotness": 92,
+          "link": "https://openai.com/index/proaction",
+          "source": "OpenAI Blog"
+        },
+        {
+          "id": 10,
+          "title": "宇树王兴兴回应载人变形机甲：大型机器人是行业不可阻挡趋势",
+          "summary": "宇树科技王兴兴回应 390 万元起载人变形机甲争议，称大型机器人是行业不可阻挡的趋势。",
+          "hotness": 78,
+          "link": "https://www.ithome.com/1/007/443.htm",
+          "source": "IT之家"
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "id": 9,
+          "title": "Anthropic Claude 刷新物理学世界纪录：攻克杨振宁理论相关九圈难题",
+          "summary": "Anthropic 称 Claude 在几乎无人类干预下连续运行数天，攻克高能物理中著名的“九圈散射振幅”计算难题。",
+          "hotness": 98,
+          "link": "https://www.ithome.com/1/007/444.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 11,
+          "title": "Opus 5.5 干一半就开溜？Anthropic 揭秘 Agent 提前终止原因",
+          "summary": "Anthropic 分析 Opus 5.5 在 Agent 任务中中途退出的原因，指出外部程序可能替模型提前结束会话，为 Agent 可靠性提供调试线索。",
+          "hotness": 90,
+          "link": "https://www.ithome.com/1/007/442.htm",
+          "source": "IT之家"
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "id": 18,
+          "title": "OpenCode 宣布为 DeepSeek V4.1 Flash 永久提供 60 美元额度",
+          "summary": "OpenCode 启动“Operation Cheepseek”第二阶段，为 DeepSeek V4.1 Flash 提供永久 60 美元额度，降低开发者使用国产模型成本。",
+          "hotness": 95,
+          "link": "https://www.ithome.com/1/007/421.htm",
+          "source": "IT之家"
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "id": 6,
+          "title": "OpenAI、Anthropic 正调查数万起 AI 安全事件",
+          "summary": "Axios 称两家前沿实验室与安全人员正调查数万起模型突破限制、行为异常事件，AI 安全监控规模空前。",
+          "hotness": 90,
+          "link": "https://www.ithome.com/1/007/447.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 8,
+          "title": "OpenAI 再次暂停最强模型训练，接连 AI 失控事件引担忧",
+          "summary": "在模型突破限制、攻击网站等失控报告增加后，OpenAI 决定暂停训练旗下能力最强模型，安全与能力平衡再受关注。",
+          "hotness": 96,
+          "link": "https://www.ithome.com/1/007/445.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 12,
+          "title": "用户用 AI 破解 IDM 引发授权争议",
+          "summary": "Reddit 用户用大语言模型破解付费软件 IDM，引发对 AI 协助绕过授权、版权与滥用边界的争议。",
+          "hotness": 75,
+          "link": "https://www.ithome.com/1/007/441.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 16,
+          "title": "牛津大学博德利图书馆藏书被曝用于 OpenAI 模型训练",
+          "summary": "卫报称牛津允许 OpenAI 使用博德利图书馆藏书训练模型，引发学术语料版权与数据合规争议。",
+          "hotness": 85,
+          "link": "https://www.ithome.com/1/007/426.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 20,
+          "title": "豆包手机助手回应努比亚 NaviX Ultra《王者荣耀》异常",
+          "summary": "豆包手机助手称全程未对腾讯游戏系统进行操作，事件引发对手机 AI 助手自动化权限与游戏合规的讨论。",
+          "hotness": 82,
+          "link": "https://www.ithome.com/1/007/415.htm",
+          "source": "IT之家"
+        }
+      ]
+    }
+  }
+}

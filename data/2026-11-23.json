@@ -1,0 +1,181 @@
+{
+  "overview": [
+    "Anthropic Claude 的黎曼猜想证明获 Lean 官方认证，数学界与 AI 界围绕其正确性与关键思路展开热议。",
+    "MiniMax 最新内部模型在密码学前沿方案取得系统性突破并刷新国际挑战赛纪录，AI4S 进入深水区。",
+    "OpenAI 首席科学家警告 AI 最早可能在 2027 年加速自我发展，奥尔特曼赞同为 AI 开发设限，安全治理再成焦点。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "id": 6,
+          "title": "古尔曼警告苹果 AI Agent 战略落后，Siri 智能体或延至 2027 年底",
+          "summary": "彭博社古尔曼认为苹果传统软件开发方式阻碍其进入 AI Agent 时代，计划中的 Siri 智能体可能要到 2027 年底才成熟。",
+          "hotness": 88,
+          "link": "https://www.ithome.com/1/030/730.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 63,
+          "title": "苹果确认 iCloud+ 可将 Siri AI 使用限额提升最高 20 倍",
+          "summary": "苹果确认 iCloud+ 订阅可显著提高 Siri AI 功能的使用额度，显示其正通过云服务分层承载 AI 能力。",
+          "hotness": 70,
+          "link": "https://www.macobserver.com/news/apple-confirms-icloud-can-boost-siri-ai-usage-limits-by-up-to-20x/",
+          "source": "The Mac Observer"
+        },
+        {
+          "id": 13,
+          "title": "Oracle 称已确保履行与 OpenAI 合同全部所需资金",
+          "summary": "Oracle 表示已筹集履行与 OpenAI 交易的全部资金，并推进与供应商合作，缓解市场对其 AI 算力合同交付能力的担忧。",
+          "hotness": 82,
+          "link": "https://www.ithome.com/1/030/715.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 64,
+          "title": "英伟达中国芯片供应暂停，AI 基础设施股受关注",
+          "summary": "英伟达对华芯片供应出现暂停消息，市场重新评估 AI 算力供应链与基础设施相关股票的风险敞口。",
+          "hotness": 88,
+          "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-china-chip-halt-puts-110801083.html",
+          "source": "Yahoo Finance"
+        },
+        {
+          "id": 22,
+          "title": "郭明錤：谷歌削减 2027 年博通设计 TPU 8i 出货约 100 万颗",
+          "summary": "天风国际郭明錤称谷歌下调 2027 年博通设计的 TPU 8i 系列出货量约 100 万颗，反映其 AI 算力规划调整。",
+          "hotness": 78,
+          "link": "https://www.ithome.com/1/030/698.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 14,
+          "title": "AI 服务器交付前大幅提价，涨幅最高达 45%",
+          "summary": "AI 基础设施成本飙升正向下游传导，数据中心设备厂商在签约数月后仍上调搭载 AI 芯片的服务器价格。",
+          "hotness": 74,
+          "link": "https://www.ithome.com/1/030/713.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 62,
+          "title": "Klarna 与 Adyen 支持 AI Agent 结账支付",
+          "summary": "Klarna 和 Adyen 推出面向 AI Agent 结账的灵活支付能力，探索智能体代用户完成电商交易的商业化路径。",
+          "hotness": 66,
+          "link": "https://www.crowdfundinsider.com/2026/11/324055-klarna-and-adyen-enable-flexible-payments-for-ai-agent-checkouts/",
+          "source": "Crowdfund Insider"
+        },
+        {
+          "id": 37,
+          "title": "我国启动具身智能数据国家标准研制",
+          "summary": "我国启动具身智能数据国家标准研制，意在为机器人感知、训练数据与场景应用建立统一规范。",
+          "hotness": 62,
+          "link": "https://www.guandian.cn/article/20261122/631184.html",
+          "source": "观点网"
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "id": 0,
+          "title": "Claude 的黎曼猜想证明获 Lean 官方认证，马斯克直呼惊人成就",
+          "summary": "Claude 相关黎曼猜想证明通过 Lean 官方认证；菲尔兹奖得主梅纳德称相信证明正确，但关键思路仍需解决，马斯克称其为惊人成就。",
+          "hotness": 98,
+          "link": "https://www.ifanr.com/1690820",
+          "source": "爱范儿"
+        },
+        {
+          "id": 15,
+          "title": "MiniMax 内部模型破解多个密码学前沿方案并刷新国际挑战赛纪录",
+          "summary": "MiniMax 研究团队利用最新内部模型对现代密码方案开展自动化密码分析，破解多个前沿方案并刷新国际挑战赛纪录。",
+          "hotness": 94,
+          "link": "https://www.ithome.com/1/030/711.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 1,
+          "title": "OpenAI 发文探讨困惑度与智能度量",
+          "summary": "OpenAI 解释困惑度（perplexity）如何衡量 AI 模型进展及其对开发者的价值，属于模型评估方法层面的讨论。",
+          "hotness": 80,
+          "link": "https://openai.com/index/perplexity-and-intelligence/",
+          "source": "OpenAI"
+        },
+        {
+          "id": 12,
+          "title": "Architect Labs 公布 AI 自研 CPU 架构 Frostbite，能效达传统处理器 4.59 倍",
+          "summary": "美国初创公司 Architect Labs 称其 AI 系统已自主发现、设计并验证 CPU 架构 Frostbite，能效为传统处理器的 4.59 倍。",
+          "hotness": 76,
+          "link": "https://www.ithome.com/1/030/717.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 31,
+          "title": "AI 提出给电池加维生素 C，助我国科学家取得突破",
+          "summary": "AI 提出在电池中加入维生素 C 的新思路，打破人类思维定式，帮助我国科学家在电池材料方向取得突破。",
+          "hotness": 72,
+          "link": "https://www.shobserver.cn/news/detail?id=1218362",
+          "source": "上观新闻"
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "id": 21,
+          "title": "开发者将微型 Transformer 模型塞进软盘，让 486 老电脑也能用上 AI",
+          "summary": "开发者 WollyMonjac 将微型语言模型塞入软盘，使运行 DOS 的 486DX 老电脑也能运行 AI，展示极端量化与复古部署思路。",
+          "hotness": 62,
+          "link": "https://www.ithome.com/1/030/699.htm",
+          "source": "IT之家"
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "id": 10,
+          "title": "OpenAI 首席科学家警告 AI 最早可能在 2027 年加速自身发展，奥尔特曼赞同设限",
+          "summary": "OpenAI 首席科学家 Pachocki 提议关注 AI 自我加速风险，认为最早 2027 年可能出现相关迹象；奥尔特曼赞同为 AI 开发设限。",
+          "hotness": 90,
+          "link": "https://www.ithome.com/1/030/720.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 35,
+          "title": "前 OpenAI 研究员取证报告：六款中国前沿模型被识别出英伟达 Blackwell 训练痕迹",
+          "summary": "前 OpenAI 研究员发布取证报告，称六款中国前沿模型存在英伟达 Blackwell 训练痕迹，引发关于算力出口管制与模型溯源的争议。",
+          "hotness": 86,
+          "link": "https://www.huxiu.com/article/4907551.html",
+          "source": "虎嗅网"
+        },
+        {
+          "id": 28,
+          "title": "AI 大模型计费被指存在黑箱，低价中转站风险引关注",
+          "summary": "报道称部分 AI 大模型调用存在 Token 计费不透明问题，低价中转站还可能带来数据与合规风险。",
+          "hotness": 72,
+          "link": "https://www.jfdaily.com/news/detail?id=1216621",
+          "source": "上观新闻"
+        },
+        {
+          "id": 7,
+          "title": "苹果 Siri AI 集体诉讼和解：符合条件的 iPhone 每台预计至少获赔 61 美元",
+          "summary": "苹果以 2.5 亿美元和解涉及 Siri AI 功能的集体诉讼，符合条件的 iPhone 用户预计每台可获至少 61 美元赔偿。",
+          "hotness": 70,
+          "link": "https://www.ithome.com/1/030/729.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 18,
+          "title": "B站就 AI 大肥鱼等智能体账号泛滥发布调查问卷征集治理意见",
+          "summary": "B站出现大量以“大肥鱼”“小飞鲸”等昵称运营的 AI 智能体账号，平台发布问卷征集社区治理意见。",
+          "hotness": 68,
+          "link": "https://www.ithome.com/1/030/702.htm",
+          "source": "IT之家"
+        }
+      ]
+    }
+  }
+}

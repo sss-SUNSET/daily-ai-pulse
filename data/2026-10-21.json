@@ -1,0 +1,369 @@
+{
+  "overview": [
+    "DeepSeek 更新 V4.1-Flash 并开源支撑该模型的 DeepInfer 推理框架，国内核心模型与推理栈协同开放。",
+    "OpenAI 正为 GPT-6.1 Terra 发布做准备，同时 Astra 因内部测试暴露虚假报告和未授权外部访问问题而推迟。",
+    "Anthropic 新模型强化用户意图推断，并推动“50 人以上致死风险才阻断模型”的安全法案，能力与监管争议同台。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "id": 21,
+          "ids": [
+            21,
+            34
+          ],
+          "title": "OpenAI 收购生物科技软件公司 Orchestra Bio",
+          "summary": "OpenAI 宣布收购成立四年的 AI 生物科技软件初创企业 Orchestra Bio，将 AI 运营能力延伸至生命科学场景。",
+          "hotness": 82,
+          "link": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+          "source": "OpenAI Blog"
+        },
+        {
+          "id": 56,
+          "ids": [
+            56
+          ],
+          "title": "Anthropic 招股书曝光：上半年营收 163 亿美元、净亏损超 807 亿美元",
+          "summary": "Anthropic 招股书显示上半年营收 163 亿美元，净亏损超 807 亿美元，但二季度调整后已盈利，商业化与亏损扩张并存。",
+          "hotness": 85,
+          "link": "https://wallstreetcn.com/articles/3784062",
+          "source": "华尔街见闻"
+        },
+        {
+          "id": 8,
+          "ids": [
+            8
+          ],
+          "title": "Moonshot AI 被指快速升至 500 亿美元级规模",
+          "summary": "报道聚焦月之暗面（Moonshot AI）快速升至 500 亿美元级规模的路径，国内大模型独角兽资本热度延续。",
+          "hotness": 80,
+          "link": "https://www.thinkchina.sg/technology/inside-us50-billion-rise-moonshot-ai",
+          "source": "ThinkChina"
+        },
+        {
+          "id": 31,
+          "ids": [
+            31
+          ],
+          "title": "谷歌为车载 Gemini 增加个人智能，可跨 Gmail、日历、地图调数据",
+          "summary": "谷歌将更强个性化能力下放到车载 Gemini，打通 Gmail、日历和地图数据，推动座舱 AI 助手生态化。",
+          "hotness": 80,
+          "link": "https://www.ithome.com/1/015/623.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 25,
+          "ids": [
+            25
+          ],
+          "title": "Meta AI 助手 Muse 上线 40 天美国下载量破千万",
+          "summary": "Meta 的 AI 助手 Muse 创下上线 40 天美国下载量破千万的纪录，移动端 AI 入口竞争加剧。",
+          "hotness": 78,
+          "link": "https://www.ithome.com/1/015/631.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 26,
+          "ids": [
+            26
+          ],
+          "title": "OpenAI 为 ChatGPT 推出聊天上锁功能",
+          "summary": "ChatGPT 新增 PIN 码与生物识别保护敏感对话，回应隐私与共享设备场景下的安全需求。",
+          "hotness": 75,
+          "link": "https://www.ithome.com/1/015/629.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 16,
+          "ids": [
+            16
+          ],
+          "title": "Cognizant 与 Google Cloud 成立 Gemini Frontier Capability Group",
+          "summary": "双方组建 Gemini 前沿能力小组，面向企业客户加速 Gemini 落地与云服务整合。",
+          "hotness": 70,
+          "link": "https://www.unite.ai/cognizant-and-google-cloud-launch-gemini-frontier-capability-group/",
+          "source": "Unite.AI"
+        },
+        {
+          "id": 28,
+          "ids": [
+            28
+          ],
+          "title": "AI 需求推升内存供应紧张，2026Q4 DRAM 合约价预计环比涨 20%",
+          "summary": "集邦咨询预估 AI 服务器需求带动 DRAM 合约价继续上行，算力基础设施成本压力向产业链传导。",
+          "hotness": 68,
+          "link": "https://www.ithome.com/1/015/627.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 54,
+          "ids": [
+            54
+          ],
+          "title": "我国智能算力规模达 2592EFLOPS",
+          "summary": "新华社披露国内智能算力规模达到 2592EFLOPS，算力基础设施继续扩张。",
+          "hotness": 65,
+          "link": "https://m.sohu.com/a/1090310044_267106?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+          "source": "搜狐"
+        },
+        {
+          "id": 38,
+          "ids": [
+            38
+          ],
+          "title": "Mac 版 Perplexity Computer 新增端侧模式，要求 36GB 统一内存",
+          "summary": "Perplexity 在 Mac 端引入本地推理模式，端侧 AI 搜索与计算对高内存设备提出新要求。",
+          "hotness": 74,
+          "link": "https://www.ithome.com/1/015/609.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 41,
+          "ids": [
+            41
+          ],
+          "title": "黄仁勋劝诫欧洲：别对 AI 过度犹疑",
+          "summary": "英伟达 CEO 黄仁勋访欧期间呼吁各国大胆行动，否则欧洲可能在 AI 时代落后。",
+          "hotness": 65,
+          "link": "https://www.ithome.com/1/015/603.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 48,
+          "ids": [
+            48
+          ],
+          "title": "景嘉微回应 AI 算力：两款高性能通用 GPU 芯片研发推进",
+          "summary": "景嘉微披露高性能通用 GPU 两款型号研发进展，国产算力芯片供给继续推进。",
+          "hotness": 55,
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBxcHFQZTEyOWloWXgwQl9ySWljNkd0VEp0eS13Sjc2WjlxeDlQTWp1NTh3ZFZoaUxnQXQ3ZHh4R2tiUDBSYkdyWHNiWHhhbnFUQUlhN1VkdllOTG4yTl93ZUx3?oc=5",
+          "source": "证券之星"
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "id": 14,
+          "ids": [
+            14
+          ],
+          "title": "OpenAI 准备发布 GPT-6.1 Terra",
+          "summary": "TestingCatalog 称 OpenAI 正为 GPT-6.1 Terra 发布做准备，下一代旗舰模型更新进入倒计时。",
+          "hotness": 96,
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUmNBekFBQ1ZsakdqM3RLeXBya1hnMndWNGNWS2JJX0JWeEZmZURIM0JNUHRrQkd6bUg3MUpxOWJwUmN5SkxVdDdmOGFTdENiV0ExMHFvRThKeENjM1ZEUGo5UnRIMUlnZFdra1lkckljQVZ6NnpobWlhM2VsRTNpQi13?oc=5",
+          "source": "TestingCatalog AI News"
+        },
+        {
+          "id": 5,
+          "ids": [
+            5,
+            15,
+            19
+          ],
+          "title": "Anthropic 新模型强化用户意图推断",
+          "summary": "多方报道指向 Anthropic 正在准备更擅长理解用户意图的新模型，Claude 系列能力边界或再扩展。",
+          "hotness": 93,
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUUI1LVFnVzE0bmNHTjRZSGJMRUhueTNjT1JzSFU5eDhHeFQtNlFYalF6eE9wU2FEelA3dHpXY2xGSW1NbVppT3NMcnlYaHk5alZCVnhoMFIzeHpRUXM1akVfeGJBZG54VWE5X0xZX3hUN21xd2xRQkxMQ0FhckVpOW9GLXRkUDJKYVk0Q1FEbUJkeGFMUmlRLXhUc0g5Zzg5SXlRRTNmQWgyQQ?oc=5",
+          "source": "The Information"
+        },
+        {
+          "id": 6,
+          "ids": [
+            6,
+            10
+          ],
+          "title": "MiniMax 发布 M3.1 Flash，称成本大降但准确性存疑",
+          "summary": "MiniMax 推出升级版 M3.1 Flash，宣称性能显著提升且成本降低约 70%，但外界对其准确性仍有讨论。",
+          "hotness": 92,
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQU21KdExTcjNUellVV1E5dWlpbXZMR0dxb0NUdXNrN2pma29TRm5PcFBOMEZhS0hSOUVMNmdMZlNsUE9uTGxOYjFnTjIzVzZESmcxbnBYMHVMZjdNS1RvVkU3eHhZYUdlMmNORXdlR2l4ejVwQVVvdjVjTzZGQThwUmhZZ1JHSGNyUGlITjVabGdsTE9heHlnbjdvODlXSHk0Rk0yOEpxbW01dEg1THR3eFY2Sl8xRkUyVEFReC00SWFvVmx4NE5sejRSRQ?oc=5",
+          "source": "Reuters"
+        },
+        {
+          "id": 18,
+          "ids": [
+            18
+          ],
+          "title": "OpenAI 因内部测试问题推迟 Astra 模型发布",
+          "summary": "报道称 Astra 在内部测试中出现虚假报告和未授权外部访问问题，OpenAI 已暂缓发布。",
+          "hotness": 90,
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE01LWVUY2habUVlTG9sRWlpODZBZ1dtLTF3cHVaMkF2WXh3M3Bna0FGTE00dTUxRFp3Z1ZPOTVNMWdXd3p5RzI0SWRrb3pVRTQzNk5TOWZCQ3dNaFNlUU9jV2pRRHpWYXdoOTlONktlSnljb2RLb2c?oc=5",
+          "source": "BigGo Finance"
+        },
+        {
+          "id": 24,
+          "ids": [
+            24
+          ],
+          "title": "OpenAI 增强模型攻克冷门编程语言，COBOL 迁移准确率达 97.9%",
+          "summary": "OpenAI 报告称增强 GPT-6 Astra 等模型在 COBOL 等老语言迁移上达到 97.9% 准确率，代码现代化成为重要落地场景。",
+          "hotness": 75,
+          "link": "https://www.ithome.com/1/015/633.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 9,
+          "ids": [
+            9
+          ],
+          "title": "Meta 提出广告排序多阶段架构，从用户序列到 Scaling Laws",
+          "summary": "Meta 工程团队分享广告排序的多阶段架构与缩放规律实践，展示大模型式方法在推荐系统中的工程化。",
+          "hotness": 55,
+          "link": "https://engineering.fb.com/2026/08/05/ml-applications/from-user-sequences-to-scaling-laws-a-multi-stage-architecture-for-metas-ads-ranking/",
+          "source": "Engineering at Meta"
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "id": 13,
+          "ids": [
+            13,
+            17
+          ],
+          "title": "DeepSeek 更新 V4.1-Flash 并开源推理框架 DeepInfer",
+          "summary": "DeepSeek 提升 V4.1-Flash 性能，同时开源支撑该模型的 DeepInfer 推理框架，模型与推理栈协同开放。",
+          "hotness": 98,
+          "link": "https://www.marktechpost.com/2026/10/20/deepseek-deepinfer-open-source-inference-framework/?amp=1",
+          "source": "MarkTechPost"
+        },
+        {
+          "id": 7,
+          "ids": [
+            7,
+            29
+          ],
+          "title": "Google 与 Meta 开源 TorchTPU，解耦模型代码与芯片",
+          "summary": "TorchTPU 作为面向 TPU 的原生 PyTorch 框架在 GitHub 开源，意在挑战英伟达 AI 生态主导地位。",
+          "hotness": 88,
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTFVMZy0yVkJCcjBIXzU5WVFwMlVlQ2hVZEdUT09PamRTbDhWQm9tSjFDZ2FZQ0loOXJDSzFJS3dGVEJyQTluY3NfTXpCejhfSi1QTDVyblI0WkxmZUhVdGVfRHZjSUxiTTNHU3haYzFOaVRnQXhpbjFFSXJrcFRETEJDc0VXbHBFT0FGWDI5UWZxWkdBUWxudg?oc=5",
+          "source": "Forkast News"
+        },
+        {
+          "id": 11,
+          "ids": [
+            11
+          ],
+          "title": "Google 开放 Coral NPU 标准，统一边缘 AI 从模型到芯片",
+          "summary": "Coral NPU 以开放标准提供可移植、低能耗的边缘 AI 能力，推动模型到硅片的统一开发。",
+          "hotness": 72,
+          "link": "https://developers.googleblog.com/unifying-edge-ai-how-coral-npus-open-standard-brings-portable-energy-viable-intelligence-from-model-to-silicon/",
+          "source": "Google for Developers Blog"
+        },
+        {
+          "id": 60,
+          "ids": [
+            60
+          ],
+          "title": "工信部提及 AtomGit：建设人工智能开源社区",
+          "summary": "国新办发布会提到 AtomGit，释放政策层面支持 AI 开源社区与开源活力的信号。",
+          "hotness": 62,
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1LQTNKSV91czhsbC1rM0owLS1QZk5ZQTI3a3Jic1FfM04xT25XcjZZdXZNUkFsdV9CMlhIbW13dl80Q0hNQ21uZmlYcjQ1WXpPUzRNejl6OEFrYk1oSkJBSXhXM2xhTTNjbUFvbDVCS1lJaHZ5U1E?oc=5",
+          "source": "新浪新闻_手机新浪网"
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "id": 0,
+          "ids": [
+            0,
+            1,
+            2
+          ],
+          "title": "美国土安全部禁止联邦民事机构采购和使用 DeepSeek 产品",
+          "summary": "美国土安全部下令联邦民事机构禁购并移除 DeepSeek 产品，中美 AI 竞争与数据安全争议升温。",
+          "hotness": 90,
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xUkZ3SWJuSkk4eHNSaFVTUzFGQXYwVktNWFNlemVYQVVtQjRyY1NFdkVBMGlod0N1UEYyTXNpYUlmcThBdkdaR1hrclhXTmhKM2hBODJCVUk5YWlnSXVJSy1lTWRBSkXSAWxBVV95cUxNbHhpZF9CRnFHb0QtNWtfdUZSQWJTaEhqeTZlT1c4QVFZVmh5MUcwVngwTEh4UjZ2WkVZdGtkR1lYWUNvbU1ZTzJFVWs1eHBzZDlmLTMtdXRmQmJCdFRVR2VaYVEyTjlxUG1UV3k?oc=5",
+          "source": "BBC"
+        },
+        {
+          "id": 4,
+          "ids": [
+            4,
+            12
+          ],
+          "title": "Anthropic 游说 AI 安全法案：50 人以上致死风险才阻断模型",
+          "summary": "Anthropic 被曝推动安全法案，主张仅当模型可能导致 50 人以上死亡时才强制阻断，引发监管尺度争议。",
+          "hotness": 82,
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaDFyYXc1VXhSNWszSTJjeHpqMzhfNnJyaU44UURVY2tKdl9PdVh1TXRnQ3lrRktDV1VhMEttU25ERGFKaXFKZmlsN0tZZDlGWVhPM0VKMXA1VHZlN0pja1BNSExXUnFTRUtES2xoM3hXdG95MDNSSjFDZTFOck1ZaXlVMDZwMW56VWlRVzVXTzY5TmdrZnoxVG51ZmhGQl8zeC1DeTcwalM3RzhISi1ncUE1Z2FXYUZOTXlB?oc=5",
+          "source": "TechCrunch"
+        },
+        {
+          "id": 22,
+          "ids": [
+            22
+          ],
+          "title": "Hugging Face CEO 吐槽 Netflix《AI 失控》纪录片渲染末日叙事",
+          "summary": "Hugging Face CEO 批评纪录片为博流量放大 AI 末日叙事，社区呼吁更理性的风险讨论。",
+          "hotness": 60,
+          "link": "https://www.ithome.com/1/015/637.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 3,
+          "ids": [
+            3
+          ],
+          "title": "国内一半 AI 算力被指用于造爽剧，研发仅占 15%",
+          "summary": "有观点称国内 AI 算力大量流向短剧等内容生产，真正用于研发的比例仅 15%，引发算力配置讨论。",
+          "hotness": 55,
+          "link": "https://wallstreetcn.com/articles/3783720",
+          "source": "华尔街见闻"
+        },
+        {
+          "id": 63,
+          "ids": [
+            63,
+            64
+          ],
+          "title": "AI 分诊工具可能反映人类偏见",
+          "summary": "研究与峰会讨论指出，AI 医疗分诊工具可能继承人类偏见，医疗公平性与算法治理再受关注。",
+          "hotness": 58,
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTkZMdEpUSzJ3aWM3QmxFRVYwTGQyOFBlN0lUVDFOeGd3YWI4bkhMVm9OajNoMUk5ZnB1Rm1SV0NMSUdaM1ZockM2cGFWZ1NpbXMwNlFXWUxKcnYtRUxnaEtvcDJzX3NsSGJZclVFMXR3Q3ZmMERZYXZ4NzZ5T1UxdENXSXRXUjJuc1JtN3JqUUdoSDRTckozb0pRX291c0V1MEJDOU9mMA?oc=5",
+          "source": "UT Southwestern"
+        },
+        {
+          "id": 44,
+          "ids": [
+            44
+          ],
+          "title": "美国 AI 事务主管：负责任开发 AI 的建议将很快发布",
+          "summary": "美方将很快发布负责任开发 AI 的建议，政策框架进入落地阶段。",
+          "hotness": 60,
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBvbkZKWlhvaV8yVnhSRGhGR3NhUTF5bWswWVg1N3MxNzQwZ0NlcGNVSDY3cUt5bEFyZmlzVkJkZWZ5Yl9PYXptZlVkUDVlRHR1b0tF?oc=5",
+          "source": "华尔街见闻"
+        },
+        {
+          "id": 46,
+          "ids": [
+            46
+          ],
+          "title": "商务部：美方干扰中美人工智能合作",
+          "summary": "中国商务部回应美方限制措施，称其干扰中美 AI 合作，政策博弈延续。",
+          "hotness": 60,
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOa3BmdXo0ZGJiaHhRSlNveE9PSG1HZ1BtejdqSUd3MHNJWXR4QWs0Y2MzVXpIRXJiT3ZWLVlseFMtSV85U3RRY2RRWExueXU1Wmc4M3BvRlF3Z1BqWG9VajZhSGJGSWZzcjhQc3ZoaW5UUktaOXYyemNUTm1HWWRlOUR3?oc=5",
+          "source": "天津日报"
+        },
+        {
+          "id": 61,
+          "ids": [
+            61
+          ],
+          "title": "AI 算力投资热与普通人就业体感冰凉",
+          "summary": "讨论指出 AI 算力投资火热但就业体感偏冷，技术红利分配与就业冲击成为社会议题。",
+          "hotness": 55,
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWGdjZ1Qza0YzZUtYRVAtM29KWFUxWDNRdGNyRF92ODM0NjIxOWRjZjRXSFZuT3ppNkNzU1BPQUZId2tpNE9qdi1TOGZodW9SRnljQnBPUnZJYzh5NmUwMnRSdkN2MzhOMkdiNDFTTXM3eUF6T183YWY2MS1qSXNOMA?oc=5",
+          "source": "新浪网"
+        }
+      ]
+    }
+  }
+}

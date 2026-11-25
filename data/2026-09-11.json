@@ -1,0 +1,342 @@
+{
+  "overview": [
+    "OpenAI 密集发布 GPT-6 Astra、Agents API、GPT-Live-1 与金融服务版 ChatGPT，需求火爆到暂停 200 美元 Pro 20X 新订阅。",
+    "Meta 推出 Muse 购物智能体并获 JPMorgan 上调评级，但同名社交账号冲突与核心研究员离职引发热议。",
+    "DeepSeek 发布 V4.1 Flash 并调整 V4 定价，Anthropic 研究警告 AI 或致 12% 失业率并描绘三种经济未来。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "id": [
+            35
+          ],
+          "title": "GPT-6 Astra 需求空前，OpenAI 暂停 200 美元 Pro 20X 新增订阅",
+          "summary": "OpenAI 首席产品官称因 GPT-6 Astra 需求过高，暂停 200 美元 Pro 20X 新订阅，已订用户及 API 不受影响。",
+          "hotness": 98,
+          "link": "https://www.cls.cn/detail/2377511"
+        },
+        {
+          "id": [
+            21,
+            38
+          ],
+          "title": "OpenAI 推出金融服务版 ChatGPT，集成 GPT-6 Astra 金融数据与细粒度引用",
+          "summary": "面向金融行业提供内置金融数据、估值模型和研究报告能力，并支持细粒度引用。",
+          "hotness": 94,
+          "link": "https://www.cls.cn/detail/2377511"
+        },
+        {
+          "id": [
+            6,
+            9,
+            10,
+            13,
+            14,
+            17,
+            18
+          ],
+          "title": "Meta 发布 Muse AI 购物智能体，JPMorgan 上调评级但命名冲突与研究员离职引关注",
+          "summary": "Muse 可帮用户购物并推动 Meta 股价上涨；但 Meta 抢占同名社交账号，核心研究员 Andrew Tulloch 被曝离职。",
+          "hotness": 95,
+          "link": "https://www.cls.cn/detail/2377511"
+        },
+        {
+          "id": [
+            0
+          ],
+          "title": "Anthropic 销售额暴增，有望迎来首个季度盈利",
+          "summary": "Anthropic 销售额大幅增长，或打破 AI 烧钱魔咒，实现首个季度盈利。",
+          "hotness": 90,
+          "link": "https://www.cls.cn/detail/2377511"
+        },
+        {
+          "id": [
+            57
+          ],
+          "title": "微软推进数据中心扩张，计划将算力扩大两倍",
+          "summary": "为满足 AI 需求，微软继续扩建数据中心，算力规模计划翻倍。",
+          "hotness": 85,
+          "link": "https://www.cls.cn/detail/2377511"
+        },
+        {
+          "id": [
+            49
+          ],
+          "title": "SpaceX 再签 AI 算力大单，明年首发太空算力卫星",
+          "summary": "SpaceX CFO 称年底 ARR 有望冲千亿美元，并计划明年首发太空算力卫星。",
+          "hotness": 85,
+          "link": "https://www.cls.cn/detail/2377511"
+        },
+        {
+          "id": [
+            39
+          ],
+          "title": "谷歌推出 Windows 版 Gemini 独立客户端，支持 Alt+Space 唤起",
+          "summary": "支持 Win10/11，安装后可通过快捷键快速调用 Gemini。",
+          "hotness": 84,
+          "link": "https://www.cls.cn/detail/2377511"
+        },
+        {
+          "id": [
+            30
+          ],
+          "title": "商汤 AI 办公智能体“小浣熊”移动端 App 上线",
+          "summary": "提供 iOS 和安卓版本，进一步切入移动办公智能体场景。",
+          "hotness": 85,
+          "link": "https://www.cls.cn/detail/2377511"
+        },
+        {
+          "id": [
+            12
+          ],
+          "title": "Intel 高数值孔径 EUV 突破，股价大涨 9%",
+          "summary": "先进制程设备突破提振市场预期，目标价关注 106 美元。",
+          "hotness": 80,
+          "link": "https://www.cls.cn/detail/2377511"
+        },
+        {
+          "id": [
+            37
+          ],
+          "title": "AI 推理芯片商 d-Matrix 加入英伟达 NVLink Fusion 生态",
+          "summary": "d-Matrix 将接入 NVLink Fusion，强化推理芯片与英伟达生态协同。",
+          "hotness": 75,
+          "link": "https://www.cls.cn/detail/2377511"
+        },
+        {
+          "id": [
+            50
+          ],
+          "title": "全国首个具身智能数据跨境流通平台亮相",
+          "summary": "为具身智能数据跨境流通提供基础设施，推动机器人与大模型数据合规流动。",
+          "hotness": 75,
+          "link": "https://www.stdaily.com/web/gdxw/2026-09/10/content_578633.html",
+          "source": "中国科技网"
+        },
+        {
+          "id": [
+            51
+          ],
+          "title": "2026 中国算力大会明日启幕",
+          "summary": "国家级算力盛会聚焦算力基础设施与产业生态。",
+          "hotness": 70,
+          "link": "https://www.cls.cn/detail/2479849",
+          "source": "财联社"
+        },
+        {
+          "id": [
+            60
+          ],
+          "title": "10 亿级 AI 算力液冷板项目落户广州花都",
+          "summary": "布局算力散热新赛道，服务高密度 AI 算力集群。",
+          "hotness": 70,
+          "link": "https://www.cls.cn/detail/2377511"
+        },
+        {
+          "id": [
+            22
+          ],
+          "title": "OpenAI 与 GSA 合作向美国联邦及地方政府提供 AI 接入与网络防御",
+          "summary": "覆盖联邦、州、地方和部落政府，扩大 AI 访问并强化网络安全。",
+          "hotness": 80,
+          "link": "https://www.cls.cn/detail/2377511"
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "id": [
+            3,
+            27
+          ],
+          "title": "DeepSeek 发布 V4.1 Flash，并调整 V4 新费率与缓存经济学",
+          "summary": "DeepSeek V4.1 Flash 上线，同时 V4 新价格与缓存优化调整，引发替代方案讨论。",
+          "hotness": 98,
+          "link": "https://www.cls.cn/detail/2377511"
+        },
+        {
+          "id": [
+            24
+          ],
+          "title": "OpenAI 发布 GPT-Live-1，API 支持自然全双工语音对话",
+          "summary": "GPT-Live-1 为开发者带来更自然、低延迟的全双工语音交互能力。",
+          "hotness": 95,
+          "link": "https://www.cls.cn/detail/2377511"
+        },
+        {
+          "id": [
+            11
+          ],
+          "title": "OpenAI 秘密模型解开 100 万美元数学难题",
+          "summary": "传闻中的 OpenAI 秘密模型在数学难题上取得突破，引发能力猜测。",
+          "hotness": 90,
+          "link": "https://www.cls.cn/detail/2377511"
+        },
+        {
+          "id": [
+            19
+          ],
+          "title": "研究者用 Codex 和 ChatGPT 搜索新型抗菌分子",
+          "summary": "César de la Fuente 实验室用 AI 搜索现存与灭绝基因组，寻找抗菌分子。",
+          "hotness": 80,
+          "link": "https://www.cls.cn/detail/2377511"
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "id": [
+            23,
+            33
+          ],
+          "title": "OpenAI 开放 Agents API 公测，提供云端智能体基础设施",
+          "summary": "支持代码执行、工具调用和跨上下文任务，开发者可快速构建云端 Agent。",
+          "hotness": 98,
+          "link": "https://www.cls.cn/detail/2377511"
+        },
+        {
+          "id": [
+            20
+          ],
+          "title": "OpenAI 推出 ChatGPT Work 数据智能体",
+          "summary": "可连接公司数据、发现洞察并自动化工作流。",
+          "hotness": 88,
+          "link": "https://www.cls.cn/detail/2377511"
+        },
+        {
+          "id": [
+            63
+          ],
+          "title": "谷歌推出谷歌云开发者插件，服务 AI 编码助手",
+          "summary": "新插件帮助 AI 编码助手接入谷歌云开发能力。",
+          "hotness": 80,
+          "link": "https://www.cls.cn/detail/2377511"
+        },
+        {
+          "id": [
+            42
+          ],
+          "title": "智谱启动杭州全城 Coding 计划，开发者购卡最高减免 51%",
+          "summary": "联合杭州推动 AI 编程，个人季卡/年卡大幅优惠。",
+          "hotness": 85,
+          "link": "https://www.cls.cn/detail/2377511"
+        },
+        {
+          "id": [
+            34
+          ],
+          "title": "Slack 升级 Slackbot AI，可创建交互式报告和网站",
+          "summary": "Slackbot 新增 Slackforce Surfaces，提升企业协作自动化。",
+          "hotness": 75,
+          "link": "https://www.cls.cn/detail/2377511"
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "id": [
+            1,
+            2,
+            5
+          ],
+          "title": "Anthropic 研究：AI 或致 12% 失业率，并描绘三种经济未来",
+          "summary": "报告称 AI 可大幅提升 GDP，但可能带来 12% 失业率，知识工作走向分化。",
+          "hotness": 90,
+          "link": "https://www.cls.cn/detail/2377511"
+        },
+        {
+          "id": [
+            4,
+            7,
+            64
+          ],
+          "title": "Anthropic 多名研究人员警告 AI 发展风险，前研究员称可能“聪明到杀死我们”",
+          "summary": "内部与前任研究人员密集发声，呼吁重视 AI 失控与安全风险。",
+          "hotness": 88,
+          "link": "https://www.cls.cn/detail/2377511"
+        },
+        {
+          "id": [
+            16
+          ],
+          "title": "Anthropic 披露 Claude 第四次安全事件",
+          "summary": "Claude 再曝安全事件，引发模型安全防护担忧。",
+          "hotness": 78,
+          "link": "https://www.cls.cn/detail/2377511"
+        },
+        {
+          "id": [
+            32
+          ],
+          "title": "“AI 教父”辛顿：AI 灾难越来越近，10% 概率灭绝人类不是危言耸听",
+          "summary": "辛顿再次警告 AI 灭绝风险，呼吁社会严肃对待。",
+          "hotness": 92,
+          "link": "https://www.cls.cn/detail/2377511"
+        },
+        {
+          "id": [
+            29
+          ],
+          "title": "美国高官公开驳斥 Anthropic“AI 末日论”，称担忧源于对变革的恐惧",
+          "summary": "美国国防部首席技术官反驳末日论，认为更多是对变革的恐惧。",
+          "hotness": 82,
+          "link": "https://www.ithome.com/1/001/080.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": [
+            31
+          ],
+          "title": "加州签署法案，禁止社交媒体向 16 岁以下用户提供成瘾性功能",
+          "summary": "被称为全美最严格儿童安全聊天机器人相关法案，限制成瘾性设计。",
+          "hotness": 85,
+          "link": "https://www.cls.cn/detail/2377511"
+        },
+        {
+          "id": [
+            25
+          ],
+          "title": "OpenAI 呼吁抓住 AI 政策窗口，以更强安全证据支撑更强能力",
+          "summary": "Chris Lehane 强调能力提升需匹配安全证据与政策行动。",
+          "hotness": 75,
+          "link": "https://www.cls.cn/detail/2377511"
+        },
+        {
+          "id": [
+            59
+          ],
+          "title": "OpenAI 谈欧盟《行为准则》与人工智能在欧洲的未来",
+          "summary": "OpenAI 就欧盟 AI 行为准则发表立场，关注欧洲 AI 治理。",
+          "hotness": 72,
+          "link": "https://www.cls.cn/detail/2377511"
+        },
+        {
+          "id": [
+            26
+          ],
+          "title": "Paul Christiano 加入 OpenAI Foundation 董事会及安全委员会",
+          "summary": "AI 安全研究者 Christiano 加入，强化 OpenAI 安全治理。",
+          "hotness": 72,
+          "link": "https://www.cls.cn/detail/2377511"
+        },
+        {
+          "id": [
+            55
+          ],
+          "title": "普林斯顿王梦迪：大模型还没在基础学科真正做出新科学发现",
+          "summary": "认为大模型尚未在基础科学产生真正新发现，科研突破仍待验证。",
+          "hotness": 78,
+          "link": "https://www.cls.cn/detail/2377511"
+        }
+      ]
+    }
+  }
+}

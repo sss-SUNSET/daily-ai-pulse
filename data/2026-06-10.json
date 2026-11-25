@@ -1,0 +1,136 @@
+{
+  "overview": [
+    "苹果、微软、英伟达等巨头密集发布AI产品，行业竞争白热化",
+    "全球AI监管政策加速出台，美欧中展开芯片与法规博弈",
+    "AI智能体市场爆发式增长，正重构制造、金融等产业价值链"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "title": "iPhone支持Siri AI/英伟达AI PC/苹果谷歌合作",
+          "summary": "苹果为iPhone推出Siri AI升级（欧洲市场延迟），英伟达推出真AI PC，同时苹果与谷歌合作开发5款新AI模型",
+          "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBaN3ltVGdVV0JGajQ4RC13TjZWaFdHNUU2R0htcWxQWVBOUGJUa21lSFNBZXJlQ1NoVXFZTk15b1hpZUU?oc=5",
+          "hotness": 95
+        },
+        {
+          "title": "微软发布MAI模型家族",
+          "summary": "微软推出全新MAI系列AI模型，涵盖推理、语音、编程和图像生成能力",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQzhvOFFMdzREZTdVcXgtRldpaFlLZENNMEF3dF9wQnF3UWtfRmN3MWt0a2VEVXY1cmJwQTc4dlk0d0hmTHU3bExNTTdkSldJR21ES0l4VnlCT2xERUJGMS0tNFZpMzNBeDJVRW9kc1lBekM1YWZzZjc3VXBMRDJObjdDdXY?oc=5",
+          "hotness": 88
+        },
+        {
+          "title": "三星电子AI大转型",
+          "summary": "三星电子启动全面AI转型，在八大核心业务中引入生成式AI技术",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5CT2p6MkJPU0REMFU0dG1qQVFiSlBQM2Q3bkUwelFsOHN1c0ZTS01vU0Zjbi1fQm13Q2lybmtIYlZNdGdZaC1xaQ?oc=5",
+          "hotness": 85
+        },
+        {
+          "title": "摩根大通部署AI智能体",
+          "summary": "摩根大通计划今年部署更强大的AI智能体，提升金融服务效率",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TUTQya3Jqek1scXBZVVVnZFhDOGpBTE00VFFUX1VKTEtrRXZyTXhCdTV5MjBtZHYtZnRmNzNmRVFneE1uQXhlY1Q4TG9xSlhRdjY4TkNYcDdRTWhtaWhmcFhQdGZaMjF6bjJLQVFn0gFzQVVfeXFMTkZjaHlxUjB3STJiSWRCaEdzRmNPenN4UTdJMVZPSDZEczItWHQtMkxJMFY5enpMWTdEeDZpVWgxQXZEdk1DN1dEbjY4RDM4QnJLTnVtRkZkMldOc3pFanllSG92RU0waEJFS0x4YmVxa2tDZw?oc=5",
+          "hotness": 82
+        },
+        {
+          "title": "SpaceX太空AI基础设施",
+          "summary": "SpaceX计划在2027年底前启动太空AI基础设施演示项目",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4xdVdHbWl5UkQ3a25udXFqeXJpX0pMUEdyRVMxeTZOSTN6SUVEYXJwTXVYY21pWVhOZHZxYU92M0FhZWdJQ3FJRXUyWk4yQQ?oc=5",
+          "hotness": 80
+        },
+        {
+          "title": "AI智能体市场快速增长",
+          "summary": "AI智能体市场规模快速攀升，为软件行业带来结构性变化",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9YWlN1NW5GMkpoMlQ3ZzdlLVFyY0lPY3NwNHVyTjZOd28xM3htUWQzLURYRWp1a2NGVGFXaWk5R2V2d1lhRzlqLXFkQWUtRkVoaUY0OV91VGxzUi13bUVTTlJYYVpiTHo1N0VNOFdSUFB1QQ?oc=5",
+          "hotness": 78
+        },
+        {
+          "title": "广东AI出海重构制造价值链",
+          "summary": "广东AI企业通过智能体技术出海，重构制造业价值链",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9qUFFQY3hlbUl1blZSV3lpbHhpeFFiZWM2NHYxbjdkZ181ZUhiLU5ieFlOMDVaSzVqNGJwTnVYbUoyV3ZpZ0NULUFwY3dsV3FqTkVfMWpkWENoZ2tC?oc=5",
+          "hotness": 75
+        },
+        {
+          "title": "AI投资回报问题凸显",
+          "summary": "企业AI预算持续增长但投资回报未见改善，引发行业反思",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeTdIaW9nWk5ybUVZZGpCdGhOWGlkeVRCVWVONnBtQVNIYU9kLU9kUzMyUGVSRlluOFZQQ3I2TGFtNGRrOXpkWnlZOGtDdldfT2NQcDRUY3lYbU93WXNwU09ibXhUT2J4VjhDTDdWS29lcEJ0WVVkVDU4eGg1MDRpOXBwcFp0Y0l6bTAxOTZ3?oc=5",
+          "hotness": 72
+        },
+        {
+          "title": "AI股票剧烈波动",
+          "summary": "AI概念股再次大幅波动，华尔街经历过山车式行情",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMjdJZlFKcG00NS15VGVKTFQwUzBCX2VjYmpwUmpDdjJMejZiUTBlRlVQcHdqUUd2M0p0aHhfUHlvbW1tTGduWGtPUFB4dGc5QzJwZWppVWVMV2NZa1pOQUJValNTeTl6aV9hQ29KcDJLc0JLUHlaQlpLS1F2ekc2S2hlaWw0TUwwTFBUc3RXR08?oc=5",
+          "hotness": 70
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "title": "Anthropic发布安全版Claude Mythos",
+          "summary": "Anthropic向公众发布安全版本的Claude Mythos AI模型",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbEtEWjN5UjUyS1BjVWNiNTItSHNiXzlVbnZZZ2cyRU5FdmRfQ1BHbmZrTU12SE5QR1Vfc1kyVlVuM2lJWGRjSEQwYXVrRjl0b3AxRXdRYXB4UzZNa0tsVnQ5eWhUaGM5aVNTOFdKM3BTb2NUSkk2bWdmVTk3c2tUUEdGX0JNcjdjMEZv?oc=5",
+          "hotness": 85
+        },
+        {
+          "title": "物理AI与世界模型",
+          "summary": "物理AI成为新风口，世界模型技术成为其核心引擎",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQ2VJS0JwMTRDcHhBOEdDaE9mdGdFTVAxbzVkZHRCbVhlUFB3WTBxV1ZBRFUyMFU5QjdPY21Mbmw3VWpzZkZmOXJqWnF6dDNMem4wYmE5cTdtcE1mdW8yWnp5MGY5WmZwWmNPTlF0V3FPVTRNUWV1bzBmY1BmZzROYUlvSXVwMWJXZlRR?oc=5",
+          "hotness": 80
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": []
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "title": "美加强对华AI芯片限制",
+          "summary": "美国两党议员敦促加强对华AI芯片出口限制，台湾考虑收紧相关管制",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMmMyamVRcS1nNTVNUkxnQUZQMVBZZ3Zvc0RsSWJmSUNSTDlLU2d2RVNIc2RpTGtUNnphbThsZnhGNG1RNjNGNTJpYXd4YjlkRTNoRnNnNkRlNDBVZHJpVmY0Q0hWemhPYkdRdmdSeF9DRW1VZ3ZNQXZPY0RLR0pSSXhTdzTSAYcBQVVfeXFMTmNQeXVyZnJLdWtUZ0w3MGx1LUtDNWpwRzh4VkgwMzFjVmxyOHVBZHNlOFJhMGJ1a2IyVzI5WFZ6X0M5ZENoZzVWZmxvbHJ0TEhfOUg0Z1ItQUxNaGx6WU0wcHdfUUdjMGxIeFpiSmRsSDV1WkZ4TTRrQjN6WXlTdzdGRzZGTmxr?oc=5",
+          "hotness": 90
+        },
+        {
+          "title": "白宫阻止州级AI立法",
+          "summary": "白宫与国会重启努力，试图阻止各州出台独立的AI监管法律",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUFB3YlZUMURCaEdjbFEtZGlSTzViOWxSdWhudUdBYlpYZzdacHF1TEpwZTZjR1pBbXJwZnZOX1dOVlU0MzJONTFobXY5YmZibGFJbVFoTTFSQzZueDMtTEhhYzdGQVRWMEl2SUhIOVZqZ2tmeWVMMG55QTdJNktub3pfeS1SWjZXeGt6Q0VB?oc=5",
+          "hotness": 85
+        },
+        {
+          "title": "AI被指为最危险军备竞赛",
+          "summary": "学者警告AI竞赛已成为历史上最危险的军备竞赛",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWWs4NWVqR2VSUkxUNlQzdGNPZWZBUlFLQlVnbE9yblBtc1FpUEIxMk5hc3Z3MnpMOWRJTDlpc1kzdDQ1VTBBbnhuMGNnb0lKWlVoU2I0WV9MaHZjNEtYbnRlelF2bzdkWTJDS2JGNXFTSUVIUHpLUUQ4dURXUzdLMng5UlFDYnF4?oc=5",
+          "hotness": 82
+        },
+        {
+          "title": "AI对新闻准确性的影响",
+          "summary": "研究揭示依赖AI获取新闻信息可能带来的准确性风险",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ1pBY1ktNW1CdHZyZExrN2dPMENvUjBMQ1JhbzBCS1d1NEdLbUN2ek55QXhLNThUT2hjb2h3bFd2MXJvaTh3QXMxVi1YUUcybFIwMGVMUk1IVzlEbG9GTkIyejNtM003Y204M2QzVlduWW5mY1A2QlhtWERvOWZtN2Z0Ml8?oc=5",
+          "hotness": 78
+        },
+        {
+          "title": "课题申报用AI走捷径争议",
+          "summary": "教育界警示在课题申报中使用AI走捷径的做法不可取",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5WbmkyaWZZbFI1LW9FUlN0WUltVGZuQmFDdlZ2MHdKUzNvSklYalpzc0dLQnJQUTNTVzFzb2xJdFlLcnhjUkJUc01wRndNT1ZBY3hEbmoyRmgwVlpJX1pGNk5QTGVYNUhGMXA0?oc=5",
+          "hotness": 75
+        },
+        {
+          "title": "AI导致知识工作者失业问题",
+          "summary": "探讨如何帮助因AI失业的知识工作者重新就业",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOX0MzYVl6cENZNXFsWWtqX0JpSFBPRUphSjQ3aldSWjlGc1NBckhuNXV2U01JTHJ3WXRtWDM0RE40NllKQ09QUFJGaTNPc0VudGdZMmJ2b0puY3hwN01LY1Fkdkxub1dpNEVLZTlwM0k5eW9GLThROUVxdGlnYTFKdFA4MjRsQ1hNTWRZMg?oc=5",
+          "hotness": 72
+        },
+        {
+          "title": "AI在教育领域的成功前景",
+          "summary": "专家讨论AI在教育领域应用的成功可能性与挑战",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0tUThpaFcwVmNWOWRFWk9oSUhaRU1fNHpGa2hMWmU4d2ZJRXdXb29TdE5EMVEzbWdHeWc3Y3RWRlhHanFCMnBSdXRVQk5FQlhlaTRuc0FhY1RRbmMxVUNYRjJmdTVEaEQ5eGUtM2tLY2ZMUQ?oc=5",
+          "hotness": 70
+        }
+      ]
+    }
+  }
+}

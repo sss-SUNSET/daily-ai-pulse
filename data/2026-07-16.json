@@ -1,0 +1,125 @@
+{
+  "overview": [
+    "前OpenAI CTO Mira Murati创办的AI公司发布首款模型，挑战行业巨头格局。",
+    "苹果AI正式通过中国备案，华为等7款手机端侧生成式AI服务获批，AI手机商业化启幕。",
+    "上海AI大会展示首款原生智能体手机，实现软硬件模型深度集成，自主执行复杂任务。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "title": "Mira Murati创办的AI公司发布首款模型，挑战现有格局",
+          "summary": "前OpenAI CTO Mira Murati创立的AI初创公司发布首个模型，旨在提供更开放高效的替代方案，降低对AI巨头的依赖。",
+          "link": "https://www.wsj.com/tech/ai/mira-muratis-ai-startup-releases-first-model-in-bid-to-loosen-ai-giants-grip-e042bb2b",
+          "hotness": 95
+        },
+        {
+          "title": "苹果、华为等7款手机端侧生成式AI服务获中国备案",
+          "summary": "中国完成首批7款手机端侧生成式AI服务备案，苹果、华为等品牌在列，标志着手机AI商业化在中国正式开启。",
+          "link": "https://www.guancha.cn/economy/2026_07_15_823819.shtml",
+          "hotness": 90
+        },
+        {
+          "title": "上海AI大会展示原生智能体手机，软硬件模型深度集成",
+          "summary": "全球首款原生智能体手机在上海亮相，融合端侧大模型、专用芯片和操作系统，能自主执行复杂任务。",
+          "link": "https://www.stdaily.com/web/gdxw/2026-07/15/content_547829.html",
+          "hotness": 88
+        },
+        {
+          "title": "OpenAI与合作伙伴推出AI物理键盘配件",
+          "summary": "OpenAI推出限量版AI物理键盘，提供快捷访问AI功能的新交互方式。",
+          "link": "https://www.axios.com/2026/07/15/openai-keyboard-codex-agents",
+          "hotness": 80
+        },
+        {
+          "title": "英伟达与日本合作推出全栈AI和机器人解决方案",
+          "summary": "NVIDIA宣布与日本政府和产业合作，推动AI和机器人技术在制造、医疗等行业应用。",
+          "link": "https://blogs.nvidia.com/blog/japan-ecosystem-2026/",
+          "hotness": 75
+        },
+        {
+          "title": "世卫组织聚焦AI医疗，AI制药商业化加速",
+          "summary": "WHO召开高级别会议探讨AI医疗应用；同时国内AI制药商业化提速，资本巨头竞相布局。",
+          "link": "https://news.un.org/zh/story/2026/07/1142482",
+          "hotness": 70
+        },
+        {
+          "title": "普华永道报告：中国企业AI适配度跻身全球第一梯队",
+          "summary": "报告显示中国企业在AI采用和融合方面表现突出，位居全球前列。",
+          "link": "https://k.sina.com.cn/article_5953189932_162d6782c06704nd1o.html",
+          "hotness": 65
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "title": "上海AI企业发布自研架构，破解大模型“不可能三角”",
+          "summary": "新架构大幅降低计算成本，同时兼顾性能、效率和可解释性，为模型部署提供新路径。",
+          "link": "https://k.sina.com.cn/article_5953740931_162dee08306703mr60.html",
+          "hotness": 90
+        },
+        {
+          "title": "MIT发起JARVIS挑战赛，测试AI在工程领域的辅助能力",
+          "summary": "MIT的“JARVIS挑战”要求AI作为副驾驶协助设计喷气发动机，探索AI在硬科技工程中的潜力。",
+          "link": "https://news.mit.edu/2026/can-ai-build-jet-engine-jarvis-challenge-tests-ai-copilots-in-tough-tech-engineering-0714",
+          "hotness": 75
+        },
+        {
+          "title": "中国学者在多模态AI模型及肿瘤防治应用取得进展",
+          "summary": "研究团队开发多模态AI模型，提升肿瘤早期诊断和防治效率。",
+          "link": "https://www.nsfc.gov.cn/p1/3381/2825/138925.html",
+          "hotness": 70
+        },
+        {
+          "title": "OpenAI发布GPT-Red，利用自我对抗提升模型鲁棒性",
+          "summary": "GPT-Red通过自动化红队测试和自我博弈，增强模型对对抗性攻击和提示注入的防御能力。",
+          "link": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+          "hotness": 78
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "title": "AI初创公司Thinking Machines发布开源权重模型",
+          "summary": "新创企Thinking Machines发布开放权重模型，推动开源AI生态发展，挑战巨头垄断。",
+          "link": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N43H12E:0-ai-startup-thinking-machines-launches-an-open-weight-ai-model/",
+          "hotness": 85
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "title": "美国多家新闻机构起诉OpenAI，版权争议升级",
+          "summary": "美国新闻集团对OpenAI提起诉讼，指控未经授权使用版权材料训练模型。",
+          "link": "https://k.sina.com.cn/article_5328858693_v13d9fee4502002fe00.html?from=news&subch=onews",
+          "hotness": 85
+        },
+        {
+          "title": "美国伊利诺伊州通过前沿AI安全法",
+          "summary": "伊利诺伊州签署法案，要求高风险AI系统进行安全测试和披露，为全美AI监管树立先例。",
+          "link": "https://www.dwt.com/blogs/artificial-intelligence-law-advisor/2026/07/illinois-frontier-ai-safety-law",
+          "hotness": 80
+        },
+        {
+          "title": "全球AI治理进程加速，中国提出创新治理方案",
+          "summary": "在世界人工智能大会期间，全球AI治理创新中心发布系列成果，呼吁加快建立包容的国际治理框架。",
+          "link": "https://www.shobserver.com/news/detail?id=1145035",
+          "hotness": 70
+        },
+        {
+          "title": "AI创作作品获奖引发‘真实性’定义讨论",
+          "summary": "多件AI生成作品在艺术比赛中获奖，引发关于AI创作真实性和原创性的广泛争议。",
+          "link": "https://m.21jingji.com/article/20260716/herald/df47db329b6a04d646ca161cff0c6420.html",
+          "hotness": 65
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,293 @@
+{
+  "overview": [
+    "OpenAI 宣布放缓前沿模型训练，AI 自主网络攻击能力令安全护栏被迫升级。",
+    "国内首个智能体跨端互联协议发布，AI Agent 商业化与跨应用协作加速落地。",
+    "Anthropic 为 Claude 引入文本水印，AI 内容溯源与去水印工具陷入军备竞赛。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "title": "OpenAI 宣布放缓前沿模型训练：AI 自主网络能力引发安全护栏升级",
+          "summary": "OpenAI 暂停 Astra 等前沿模型训练，起因是 AI 自主展现出网络攻击能力；公司表示将加强监控、对齐与安全性，并主动调整开发节奏。",
+          "link": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+          "hotness": 99
+        },
+        {
+          "title": "国内首个智能体跨端互联协议发布",
+          "summary": "国内发布首个智能体跨端互联协议，推动 Agent 跨 App 协作与商业化落地，商家支付费率低至 6 折。",
+          "link": "https://m.sohu.com/a/1064632800_122014422?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+          "hotness": 88
+        },
+        {
+          "title": "OpenAI 推出 ChatGPT for Teens 青少年版",
+          "summary": "新版 ChatGPT 面向青少年提供学习支持，内置更强内容保护、健康使用功能及家长控制。",
+          "link": "https://openai.com/index/chatgpt-for-teens",
+          "hotness": 82
+        },
+        {
+          "title": "微信重大更新：朋友圈可 AI 点评、AI 帮写，聊天图片可 AI 处理",
+          "summary": "微信将 AI 能力接入朋友圈与聊天图片处理，用户可直接获得写点评、帮写和图像编辑等智能体验。",
+          "link": "https://www.qlwb.com.cn/detail/27995980.html",
+          "hotness": 80
+        },
+        {
+          "title": "AI 芯片创企 Etched 估值一个月翻倍至 210 亿美元",
+          "summary": "Etched 因 Transformer 专用 AI 芯片获资本追捧，估值在不到一个月内跃升至 210 亿美元。",
+          "link": "https://www.reuters.com/technology/ai-chip-startup-etched-valued-21-billion-latest-funding-round-2026-08-18/",
+          "hotness": 80
+        },
+        {
+          "title": "OpenAI 与 CodeAI 合作，为 AI 原生一代做准备",
+          "summary": "OpenAI 与 CodeAI 达成合作，帮助学生建立 AI 素养与批判性思维，安全负责任地使用和塑造 AI。",
+          "link": "https://openai.com/index/partnering-with-codeai",
+          "hotness": 78
+        },
+        {
+          "title": "SpaceX 600 亿美元收购 Cursor，强化马斯克 AI 布局",
+          "summary": "Barron's 分析 SpaceX 以 600 亿美元收购 AI 编程工具 Cursor，将显著增强马斯克在 AI 领域的竞争力。",
+          "link": "https://www.barrons.com/articles/spacex-stock-price-ai-musk-cursor-e773d2aa",
+          "hotness": 75
+        },
+        {
+          "title": "字节跳动与美国电影协会签署 AI 版权协议",
+          "summary": "字节跳动与美国电影协会达成 AI 版权合作，为模型训练与内容使用确立规范。",
+          "link": "http://cn.chinadaily.com.cn/a/202608/18/WS6a845f0aa3105d3d7a27ba04.html",
+          "hotness": 75
+        },
+        {
+          "title": "谷歌：AI 已可承担前沿部署工程师的部分工作",
+          "summary": "谷歌内部评估显示，AI 能接手部分前沿部署工程师任务，技术岗位的职责边界正在被重绘。",
+          "link": "https://www.guandian.cn/article/20260819/586865.html",
+          "hotness": 72
+        },
+        {
+          "title": "AI 概念股集体回调，美股科技板块承压",
+          "summary": "存储、光通信等 AI 概念股大幅下跌，闪迪、SK 海力士等跌幅超 9%，拖累美股远离历史高位。",
+          "link": "https://www.marketwatch.com/story/ai-chip-stocks-were-riding-high-heres-why-micron-and-others-are-now-pulling-back-cb4fd5af",
+          "hotness": 70
+        },
+        {
+          "title": "NVIDIA 借助 ChatGPT Work 扩展全球工作流",
+          "summary": "NVIDIA 团队利用 ChatGPT Work 减少手动任务、抓取实时信号，并已在全球规模化推广最佳实践。",
+          "link": "https://openai.com/index/nvidia/chatgpt-work",
+          "hotness": 70
+        },
+        {
+          "title": "中国 AI 黑板全球出圈，有企业海外收入飙涨 120%",
+          "summary": "中国 AI 教育黑板产品在海外热销，部分企业海外收入同比增长 120%，成为 AI 硬件出海新亮点。",
+          "link": "https://finance.eastmoney.com/a/202608193844994684.html",
+          "hotness": 68
+        },
+        {
+          "title": "Anthropic 与 OpenAI 会停止向企业售卖最强 AI 模型吗？",
+          "summary": "业内讨论两大实验室是否因安全与责任考量，限制企业客户使用最强模型。",
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-inintpiu3356308.shtml?cre=tianyi&mod=pchp&loc=5&r=0&rfunc=14&tj=cxvertical_pc_hp&tr=12",
+          "hotness": 65
+        },
+        {
+          "title": "新奥尔良等城市开始测试 AI 911 接线员",
+          "summary": "新奥尔良加入多座城市，尝试用 AI 担任 911 接线员辅助紧急求助分流，但可靠性与伦理仍待观察。",
+          "link": "https://mashable.com/tech/911-dispatchers-ai-new-orleans",
+          "hotness": 65
+        },
+        {
+          "title": "美团 AI 转型如何调整以避免重蹈覆辙",
+          "summary": "分析美团 AI 战略转型的调整方向，讨论其如何避开此前业务扩张中的教训。",
+          "link": "https://k.sina.com.cn/article_7879996025_1d5af327906803j7mk.html?from=tech",
+          "hotness": 62
+        },
+        {
+          "title": "天津海河医院发布重症 AI 系统“锐治”",
+          "summary": "天津海河医院推出重症 AI 辅助系统“锐治”，用于重症监护中的临床决策支持。",
+          "link": "https://epaper.tianjinwe.com/tjrb/html/2026-08/19/content_143086_3752434.htm",
+          "hotness": 62
+        },
+        {
+          "title": "上海交大成立 AI 时代商科人才培养联盟",
+          "summary": "上海交大与产业共建 AI 商科人才联盟，安泰 MBA 计划共创 1000 个 AI 应用场景。",
+          "link": "https://news.sjtu.edu.cn/jdyw/20260818/225465.html",
+          "hotness": 60
+        },
+        {
+          "title": "AI 在诊室中的作用：不止于记录病历",
+          "summary": "莱斯大学研究指出，AI 在诊室正从语音转录转向参与临床记录撰写，重新定义医生与 AI 的协作。",
+          "link": "https://news.rice.edu/news/2026/whos-writing-your-medical-record-ai-exam-room-more-note-taker",
+          "hotness": 58
+        },
+        {
+          "title": "华为举办 2026 金融创新数据基础设施峰会",
+          "summary": "华为聚焦 AI 时代金融数据基础设施，发布面向金融创新的最新方案与生态合作动态。",
+          "link": "https://e.huawei.com/cn/events/minisite/finance-innovation-data-infrastructure-summit",
+          "hotness": 58
+        },
+        {
+          "title": "复旦学者：AI 有望为后发国家提供“弯道超车”机会",
+          "summary": "江天骄在接受人民日报海外版采访时表示，AI 可能帮助后发国家在技术浪潮中实现跨越式发展。",
+          "link": "https://fddi.fudan.edu.cn/06/e5/c18965a788197/page.htm",
+          "hotness": 52
+        },
+        {
+          "title": "AI、生产率与利率：宏观影响再讨论",
+          "summary": "宏观分析认为 AI 对生产率的提升路径将影响利率走势，但短期效果存在高度不确定性。",
+          "link": "https://theovershoot.co/p/ai-productivity-and-rates-part-2",
+          "hotness": 50
+        },
+        {
+          "title": "西浦“教育+AI”项目加速：93 个项目获资助",
+          "summary": "西交利物浦大学从 156 份申请中资助 93 个“教育+AI”项目，推动校园 AI 应用创新。",
+          "link": "https://www.xjtlu.edu.cn/zh/news/2026/08/xipudejiaoyujiaaijiasudu",
+          "hotness": 50
+        },
+        {
+          "title": "第二届“渝创星火”人工智能领域赛收官",
+          "summary": "重庆举办 AI 硬核实力比拼赛事，多个创新创业项目进入产业视野。",
+          "link": "http://www.eeo.com.cn/2026/0818/1003043.shtml",
+          "hotness": 45
+        },
+        {
+          "title": "夏威夷大学毛伊学院获 66 万美元推进 AI 与网络安全教育",
+          "summary": "UH Maui College 获得 66 万美元资助，用以增强 AI 与网络安全教育课程。",
+          "link": "http://www.hawaii.edu/news/article.php?aId=14750",
+          "hotness": 42
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "title": "Anthropic 为 Claude 推出 AI 文本水印，去水印工具随之兴起",
+          "summary": "Anthropic 在 Claude 中引入 AI 文本水印，随即出现大量去水印工具，形成内容溯源与反溯源的攻防。",
+          "link": "https://mashable.com/tech/what-claude-ai-text-watermark-actually-does",
+          "hotness": 78
+        },
+        {
+          "title": "AI 蒸馏：为何成为美中科技竞争新战场",
+          "summary": "BBC 分析 AI 蒸馏技术如何让小模型获得大模型能力，并由此成为中美 AI 技术竞争的重点领域。",
+          "link": "https://www.bbc.com/zhongwen/articles/cjrp2g758pdo/simp",
+          "hotness": 73
+        },
+        {
+          "title": "王虹专访：AI 是数学助推器，不是对手",
+          "summary": "数学家王虹表示，AI 可帮助数学家突破计算与验证瓶颈，是助推器而非替代者。",
+          "link": "https://k.sina.com.cn/article_7879923377_1d5ae16b106801br9k.html?from=edu",
+          "hotness": 50
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "title": "AI 或许是我们夺回开放网络的最佳机会",
+          "summary": "观点文章认为，AI 技术有望帮助用户对抗平台垄断与封闭生态，成为重夺开放互联网的新工具。",
+          "link": "https://www.techdirt.com/2026/03/25/ai-might-be-our-best-shot-at-taking-back-the-open-web/",
+          "hotness": 48
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "title": "OpenAI 启动国家安全领域的 AI 民主监督计划",
+          "summary": "OpenAI 启动新计划，向政府机构提供工具、培训和专家支持，加强 AI 在国家安全应用中的民主监督。",
+          "link": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+          "hotness": 76
+        },
+        {
+          "title": "Meta 儿童安全诉讼在联邦法院开庭",
+          "summary": "Meta 因社交媒体产品伤害青少年而面临儿童安全诉讼，原告方指责平台把利润置于安全之上。",
+          "link": "https://www.npr.org/2026/08/18/nx-s1-5935458/meta-child-safety-social-media-addiction-trial-opening",
+          "hotness": 74
+        },
+        {
+          "title": "AI 生成炸弹威胁致高中疏散停课",
+          "summary": "加州一所高中因 AI 生成的炸弹威胁被迫疏散并取消课程，凸显 AI 滥用带来的公共安全风险。",
+          "link": "https://www.kcra.com/article/wheatland-high-school-ai-generated-bomb-threat/73464241",
+          "hotness": 72
+        },
+        {
+          "title": "皮尤/华盛顿邮报：年轻美国人对 AI 警惕上升",
+          "summary": "皮尤数据显示年轻美国人因就业担忧对 AI 越来越反感，华盛顿邮报用两张图表直观呈现这一趋势。",
+          "link": "https://www.washingtonpost.com/technology/2026/08/18/americans-under-30-are-becoming-more-pessimistic-about-artificial-intelligence/",
+          "hotness": 72
+        },
+        {
+          "title": "谷歌用精神航空数据训练 AI 遭空乘工会炮轰",
+          "summary": "谷歌被曝计划用精神航空乘务员数据训练 AI，空乘工会强烈反对，称该做法“离谱”。",
+          "link": "https://www.forbes.com/sites/suzannerowankelleher/2026/08/18/google-train-ai-spirit-airlines-data/",
+          "hotness": 70
+        },
+        {
+          "title": "AI 带货须亮明“身份”",
+          "summary": "媒体与监管关注 AI 直播带货的透明度问题，强调 AI 生成内容必须标明身份，防止误导消费者。",
+          "link": "https://finance.sina.cn/2026-08-19/detail-ininuzku8334346.d.html?vt=4&cid=76675&node_id=76675",
+          "hotness": 68
+        },
+        {
+          "title": "如果中国赢得 AI 竞赛，真正会发生什么？",
+          "summary": "《大西洋月刊》探讨中国在 AI 竞赛中领先后的全球技术格局、安全秩序与产业影响。",
+          "link": "https://www.theatlantic.com/technology/2026/08/what-if-china-wins-ai-race/688256/",
+          "hotness": 68
+        },
+        {
+          "title": "Twitch 用用户内容训练亚马逊 AI，用户可手动退出",
+          "summary": "Twitch 默认使用用户内容训练亚马逊 AI，引发隐私争议，用户现可选择退出。",
+          "link": "https://mashable.com/tech/twitch-amazon-training-ai-streamers-how-to-opt-out",
+          "hotness": 67
+        },
+        {
+          "title": "德国 160 万份工作将因 AI 转型——中国是否是个警示？",
+          "summary": "研究称 AI 将影响德国 160 万工作岗位，文章以中国为参照讨论产业转型与就业冲击的警示意义。",
+          "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260818-%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD-%E5%BE%B7%E5%9B%BD160%E4%B8%87%E4%BB%BD%E5%B7%A5%E4%BD%9C%E5%B0%86%E8%BD%AC%E5%9E%8B-%E4%B8%AD%E5%9B%BD%E6%98%AF%E5%90%A6%E6%98%AF%E4%B8%AA%E8%AD%A6%E7%A4%BA",
+          "hotness": 66
+        },
+        {
+          "title": "美国业界在 AI 监管问题上分歧加剧",
+          "summary": "围绕 AI 监管方式，美国业界意见分裂加剧，反映出商业利益与公共安全之间的深层博弈。",
+          "link": "https://epaper.tianjinwe.com/tjrb/html/2026-08/19/content_143088_3752445.htm",
+          "hotness": 65
+        },
+        {
+          "title": "Deepfake 风险与夏威夷州强化 AI 保护",
+          "summary": "夏威夷大学研究深度伪造风险，州政府同步加强 AI 相关法律保护与公众防范。",
+          "link": "https://www.hawaii.edu/news/2026/08/18/deepfakes-concerns-ai-protections/",
+          "hotness": 60
+        },
+        {
+          "title": "AI 进课堂：为何重要、由谁决定",
+          "summary": "卡托研究所探讨课堂 AI 的使用影响与决策权归属，提出教育场景中的 AI 治理问题。",
+          "link": "https://www.cato.org/blog/ai-classroom-why-it-matters-who-decides",
+          "hotness": 55
+        },
+        {
+          "title": "面对人工智能的存在主义羞愧，人类特质无可比拟",
+          "summary": "评论文章讨论 AI 能力提升带来的存在主义焦虑，同时强调人类创造力与情感体验不可替代。",
+          "link": "https://k.sina.com.cn/article_2312738937_m89d9987903301y3t2.html?from=tech",
+          "hotness": 52
+        },
+        {
+          "title": "医生通常对技术变革犹豫，为何 AI 不同",
+          "summary": "美国医学会分析医生群体对技术变革的保守态度，以及 AI 在临床场景中为何更容易获得接受。",
+          "link": "https://www.ama-assn.org/practice-management/digital-health/doctors-often-hesitate-tech-changes-why-ai-different",
+          "hotness": 50
+        },
+        {
+          "title": "爱是艺术，AI 是算法",
+          "summary": "评论文章讨论 AI 与艺术创作的关系，认为人的爱与情感仍是 AI 难以复制的创作内核。",
+          "link": "https://cbgc.scol.com.cn/news/7860803",
+          "hotness": 45
+        },
+        {
+          "title": "“赛博狗奶”具体指哪类 AI 生成内容？",
+          "summary": "文章解释“赛博狗奶”这一 AI 生成内容网络流行语的具体含义与来源。",
+          "link": "https://k.sina.com.cn/article_7880068206_1d5b04c6e068092fim.html?from=tech",
+          "hotness": 42
+        }
+      ]
+    }
+  }
+}

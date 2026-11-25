@@ -1,0 +1,76 @@
+{
+  "overview": [
+    "苹果发布新一代Siri AI并宣布全生态AI战略，与谷歌英伟达达成合作",
+    "OpenAI提交保密IPO申请，AI公司加速涌向华尔街",
+    "中国多地推进AI产业落地，从制造业到视听领域全面赋能"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "title": "苹果WWDC发布全生态AI战略，新一代Siri AI登场",
+          "summary": "苹果在WWDC发布全新AI战略，推出能力大幅提升的新一代Siri AI助手，并与谷歌、英伟达合作集成最先进AI模型。",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE13U2R2aUdYd3BvNHN5bnNQdU92MDJJQkpUUGNOaDRuQ0E1WU1pT2hKbU9mSlE4bndPZGJUV0ZpLW5TVW5SVktWbG9sYkNaSkYzb0E?oc=5",
+          "hotness": 95
+        },
+        {
+          "title": "OpenAI提交保密IPO申请",
+          "summary": "OpenAI已向SEC提交保密IPO文件，标志着AI公司开始大规模进军华尔街，AI投资竞赛进一步加剧。",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE90QWIzaHhCR2xlRVVmWEZyWWNrMXkyOUtCZFJJN2dSOHp0ZWtLdkg1dGdIdU9rVEtVMG5ZeGVVRFZIemFLalZhSnQySFE0VnM4VmNmSEY3eHB1aXl6SmRpQ01QLWw4ZUdKV2h4bXpn?oc=5",
+          "hotness": 90
+        },
+        {
+          "title": "英伟达推动Windows迎来真AI PC",
+          "summary": "英伟达技术突破推动Windows系统实现真正的AI PC体验，为个人计算带来革命性变化。",
+          "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5jYmJkdnRNc3MzOG4xLUllTWU2NGdNUG5yMnY4dUMwN3B1WlZEcTlNZExrbHpVNk4zWmhfOC1iMmdGNTg?oc=5",
+          "hotness": 85
+        },
+        {
+          "title": "青岛人工智能产业集聚发展",
+          "summary": "青岛汇聚500余家企业，特色化大模型加速落地，形成人工智能产业发展新势能。",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBab290RVI5ZmUzRlAySy1aNWd1UHRZZVAzWkZwT25helVBWXl6M3QwdXRfVERuek9PbVJLWnJ1SmFndlBGaXdYZ2JScUlaSnhfQWdCQ1NfWkcwYW45eE1KWUZCWl90TERVOG9vaW5QbTQ5Z25BYlRVNw?oc=5",
+          "hotness": 75
+        },
+        {
+          "title": "中国AI出口超预期增长",
+          "summary": "中国乘AI浪潮出口激增，超出市场预期，显示AI技术在国际市场的竞争力。",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOY2o3a2p0QWozaW1DOTdQX2ZhTmp6UTdSaktSZEVnckVDUmhXVnA2R1RwMHRqV2tZc2ZBc3lNUFRQM2dxeUU2bEZuOGxlSnRmYXlNUnM5ckJoYVZzQ0poOXZYT1dCRVlfSmlnRnZXYVdvLVlkY2VUX3RZS0FMM0s0eWhaeHNtMmUzdGtBUzZvUWxCWGJPbDBnSEVHVThYVGdSTE9PZjREX2RhRGVfTzRtbjNUNGJpVGxkcFAw?oc=5",
+          "hotness": 80
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "title": "杨立昆重磅论文论证AI未来是专精而非万能",
+          "summary": "AI教父杨立昆发表重要论文，从根本上质疑AGI概念，论证AI的未来发展方向是专业化而非通用智能。",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HSTQ0Wmh5WkdWcmdRYklZY3BjMXVKUWgtZmxLNThSNjRLTFE5a3RpRXVwTlFRYkhTcUxsOGt4WVB4OENIR1JvUXBobjJWZUs4ZElhUVZLS1V3bnd1T29fdg?oc=5",
+          "hotness": 70
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": []
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "title": "ESPN因网络批评撤回NBA总决赛AI图像",
+          "summary": "ESPN在NBA总决赛报道中使用AI生成图像引发网络强烈批评后，决定撤回相关AI内容。",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOU2dvVTY5NjFJaVV5TXFtS0pQUzQ0czhpUWtDa3dEcFN1YmVJbFhfcEIxTUhXb1RSVmFvUXAzeXlzR0NWM0k2dTktdWI4OUc2LVF4cEhlSUZYS0hyTG16TWlHdW1neUwwNkFWTGFYMENHc0IyWC05QUtxb2lEcGl5V2ZESm5pWEpVTnk3VHBQaUxhNU93R0VPWU1Pa0l6QXplRTlUWXUzWFhQbXZY?oc=5",
+          "hotness": 65
+        },
+        {
+          "title": "人民日报谈治理AI污染要防管结合",
+          "summary": "人民日报发表评论文章，强调治理AI污染需要预防与管理相结合，确保AI技术健康发展。",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOEtHWlZ1d3Zvd0JDZy1vZGhaTHhEZVZDTTJLdS1RMFRZT2RRNmVxbkVwMnFpOGF4MVI3NWJacFZTOHljZFNQR2h0aW04TUgtMU5xZnpVRHNVVlNkVUpZT0FpYndhMXc1b3huZWlpVVRwX1FVTHdRVExVTFVWY3lobA?oc=5",
+          "hotness": 60
+        }
+      ]
+    }
+  }
+}

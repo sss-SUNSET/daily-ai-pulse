@@ -1,0 +1,100 @@
+{
+  "overview": [
+    "Anthropic 的 Claude 在不到 30 分钟内破解密码学界 26 年的 NSA 参数来源谜题，AI 辅助科研能力再突破。",
+    "Anthropic 报告与内部调查显示 AI 工时已达人类 6 倍，多数员工预计 2030 年 AI 可完成至少八成工作，劳动替代与治理讨论升温。",
+    "英特尔计划 2028 年推出 700 TOPS 物理 AI 处理器，马斯克团队开发企业 AI 砍价工具，产业与算力基础设施持续升温。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "id": 5,
+          "title": "Anthropic 报告：AI 工时已是人类 6 倍，初级程序员岗位骤减，人均创收远超 Meta/谷歌同期",
+          "summary": "Anthropic 称公司成立约 5 年后人均创收达 Meta/谷歌同期的 2 至 4 倍，AI 处理工时已是人类 6 倍，初级编程岗位明显减少。",
+          "hotness": 88,
+          "link": "https://www.ithome.com/1/014/195.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 8,
+          "title": "马斯克要让 AI 帮企业“砍价”：成本效益有望提升 5% 以上",
+          "summary": "马斯克称团队正投入大量资源开发面向企业的 AI 议价与采购工具，目标帮企业降本，成本效益提升 5% 以上。",
+          "hotness": 86,
+          "link": "https://www.ithome.com/1/014/192.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 6,
+          "title": "英特尔计划 2028 年面向物理 AI 推出 Razor Lake AX 处理器，平台算力 700 TOPS",
+          "summary": "英特尔高管称将推出面向人形机器人与物理 AI 的处理器平台，算力达 700 TOPS，预计 2028 年落地。",
+          "hotness": 82,
+          "link": "https://www.ithome.com/1/014/194.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 4,
+          "title": "英监管机构拟认定微软商业软件“垄断地位”，或干预旗下产品捆绑销售",
+          "summary": "英国竞争与市场管理局拟认定微软在商业软件市场具有“战略市场地位”，可能获得干预其产品捆绑销售等行为的权力。",
+          "hotness": 76,
+          "link": "https://www.ithome.com/1/014/200.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 16,
+          "title": "长鑫科技 2026 年前三季度预计归母净利润 1310~1325 亿元，同比扭亏为盈",
+          "summary": "长鑫科技预计前三季度营收 2650 亿元，归母净利润 1310 亿至 1325 亿元，同比扭亏，存储芯片周期与 AI 需求或为主要支撑。",
+          "hotness": 68,
+          "link": "https://www.ithome.com/1/014/168.htm",
+          "source": "IT之家"
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "id": 9,
+          "title": "Claude 当起“数字考古学家”：不到 30 分钟揭开困扰密码学界 26 年的 NSA 参数来源之谜",
+          "summary": "Anthropic 称内部研究用 Claude 模型不到 30 分钟追溯出五条 NSA 参数来源线索，破解密码学界 26 年谜题，展示 AI 科研辅助潜力。",
+          "hotness": 95,
+          "link": "https://www.ithome.com/1/014/191.htm",
+          "source": "IT之家"
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": []
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "id": 2,
+          "title": "Anthropic 内部调查：大多数员工相信到 2030 年 AI 能完成至少八成工作",
+          "summary": "Anthropic 内部调查显示多数员工认为 AI 将取代自身大部分工作，而多数美国劳动者看法更保守，就业焦虑升温。",
+          "hotness": 86,
+          "link": "https://www.ithome.com/1/014/205.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 0,
+          "title": "苹果 App Store 新规落地，AI 深度伪造迎来最严审核",
+          "summary": "苹果更新 App 审核指南 1.2 条款，加强对 AI 内容创作类应用治理，重点打击深度伪造等滥用风险。",
+          "hotness": 82,
+          "link": "https://www.ithome.com/1/014/209.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 7,
+          "title": "Anthropic 向美国国会推介 AI 监管草案，仅允许出现严重风险时封锁模型",
+          "summary": "Anthropic 被曝向国会山议员推介 AI 监管草案，主张仅在模型出现严重风险时进行封锁，试图影响前沿 AI 立法。",
+          "hotness": 80,
+          "link": "https://www.ithome.com/1/014/193.htm",
+          "source": "IT之家"
+        }
+      ]
+    }
+  }
+}

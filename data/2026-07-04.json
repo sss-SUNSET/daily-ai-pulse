@@ -1,0 +1,143 @@
+{
+  "overview": [
+    "美团发布万亿级参数大模型LongCat-2.0，全程采用国产芯片训练",
+    "Meta即将发布具备高级编码能力的新AI模型，Anthropic同步出招引发行业逻辑变化",
+    "AI Agent技术在多领域加速落地，日本市场积极拥抱AI软件工程师"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "title": "训练全程由国产芯片完成，万亿级参数大模型 LongCat-2.0 发布 - 美团",
+          "summary": "美团发布万亿级参数大模型LongCat-2.0，这是首个全程采用国产芯片完成训练的超大规模模型。",
+          "link": "https://www.meituan.com/news/NN260630164005904",
+          "hotness": 95
+        },
+        {
+          "title": "砸钱时代落幕？Meta和Anthropic接连出招，AI行业逻辑悄然生变 - 财联社",
+          "summary": "Meta和Anthropic相继推出新策略，标志着AI行业从单纯烧钱转向更注重技术突破和商业化的新阶段。",
+          "link": "https://www.cls.cn/detail/2416232",
+          "hotness": 88
+        },
+        {
+          "title": "Meta to release new AI model with advanced coding capabilities 'soon' - SiliconANGLE",
+          "summary": "Meta即将发布具备高级编码能力的新AI模型，进一步强化其在编程辅助领域的技术布局。",
+          "link": "https://siliconangle.com/2026/07/03/meta-release-new-ai-model-advanced-coding-capabilities-soon/",
+          "hotness": 85
+        },
+        {
+          "title": "国常会：要加力推进人工智能创新突破，加快关键技术攻关和超大规模智算集群建设 - 财联社",
+          "summary": "国务院常务会议部署加力推进AI创新突破，重点加快关键技术攻关和超大规模智算集群建设。",
+          "link": "https://www.cls.cn/detail/2412070",
+          "hotness": 82
+        },
+        {
+          "title": "Forbes 2026 AI 50 List | Top Artificial Intelligence Companies - Forbes",
+          "summary": "福布斯发布2026年AI 50强榜单，评选全球最具影响力的50家人工智能公司。",
+          "link": "https://www.forbes.com/lists/ai50/",
+          "hotness": 78
+        },
+        {
+          "title": "覆盖四大赛道 成都高新区10项AI应用入选工信部典型案例 - 四川新闻",
+          "summary": "成都高新区10项AI应用入选工信部典型案例，覆盖智能制造、医疗健康等四大赛道。",
+          "link": "https://sichuan.scol.com.cn/ggxw/202607/83281800.html",
+          "hotness": 75
+        },
+        {
+          "title": "AI硬件全线“崩塌” 原因找到了！股民：刚切到科技两天就被套了18% - 东方财富",
+          "summary": "AI硬件板块出现大幅调整，市场分析认为与估值过高和技术迭代预期变化有关。",
+          "link": "https://wap.eastmoney.com/a/202607023791933577.html",
+          "hotness": 72
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "title": "Generalizable AI predicts immunotherapy outcomes across cancers and treatments - Nature",
+          "summary": "Nature发表研究显示，通用AI模型能够跨癌症类型和治疗方案预测免疫疗法效果。",
+          "link": "https://www.nature.com/articles/s41591-026-04502-7",
+          "hotness": 80
+        },
+        {
+          "title": "Introducing GeneBench-Pro - OpenAI Blog",
+          "summary": "OpenAI推出GeneBench-Pro基准测试，专门评估AI在基因组学和生物学研究中的性能表现。",
+          "link": "https://openai.com/index/introducing-genebench-pro",
+          "hotness": 78
+        },
+        {
+          "title": "AI-generated compounds hit specific cell types and outperform conventional screening - Phys.org",
+          "summary": "AI生成的化合物在靶向特定细胞类型方面表现优异，超越传统筛选方法的效果。",
+          "link": "https://phys.org/news/2026-06-ai-generated-compounds-specific-cell.html",
+          "hotness": 76
+        },
+        {
+          "title": "怀柔科学城打造AI for Science融合示范样本 - 新京报",
+          "summary": "怀柔科学城推进AI for Science融合示范，打造科学研究与人工智能深度融合的样板。",
+          "link": "https://www.bjnews.com.cn/detail/1783077635129283.html",
+          "hotness": 70
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "title": "Meta Llama: Everything you need to know about the open generative AI model - TechCrunch",
+          "summary": "TechCrunch全面解析Meta开源的Llama生成式AI模型的技术特点和应用前景。",
+          "link": "https://techcrunch.com/2025/10/06/meta-llama-everything-you-need-to-know-about-the-open-generative-ai-model/",
+          "hotness": 75
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "title": "'Devin-kun': Japan embraces agents as legacy code and a shrinking workforce create a perfect market for an AI software engineer - Fortune",
+          "summary": "日本积极拥抱AI软件工程师Agent，老龄化社会和遗留代码问题创造了AI代理的完美市场。",
+          "link": "https://fortune.com/2026/07/03/devin-kun-cognition-ai-japan-russell-kaplan/",
+          "hotness": 82
+        },
+        {
+          "title": "AI发展速度过于惊人！欧洲监管层警告：传统金融监管已跟不上技术演进 - 财联社",
+          "summary": "欧洲监管机构警告AI发展速度过快，传统金融监管体系已无法跟上技术演进步伐。",
+          "link": "https://www.cls.cn/detail/2416948",
+          "hotness": 80
+        },
+        {
+          "title": "AI时代的技术性失业再思考 - eeo.com.cn",
+          "summary": "深入探讨AI时代技术性失业问题，分析自动化对就业市场的长期影响和应对策略。",
+          "link": "http://www.eeo.com.cn/2026/0704/941713.shtml",
+          "hotness": 78
+        },
+        {
+          "title": "Libertyville middle school teacher Matthew Sheffer accused of using AI to create explicit images of students, child porn charges - ABC7 Chicago",
+          "summary": "美国中学教师被指控使用AI生成学生不雅图像，面临儿童色情相关指控。",
+          "link": "https://abc7chicago.com/post/libertyville-middle-school-teacher-matthew-sheffer-accused-using-ai-create-explicit-images-students-child-porn-charges/19442819/",
+          "hotness": 85
+        },
+        {
+          "title": "A Twist in This Year’s Strangest Literary AI Scandal - The Atlantic",
+          "summary": "大西洋月刊报道今年最奇怪的文学AI丑闻出现新转折，涉及AI生成内容的版权争议。",
+          "link": "https://www.theatlantic.com/technology/2026/07/commonwealth-prize-ai-writing-jamir-nazir/687806/",
+          "hotness": 75
+        },
+        {
+          "title": "AI Data Centers Use Far More Water Than Most Tech Giants Report - WSJ",
+          "summary": "华尔街日报调查发现AI数据中心用水量远超科技巨头报告数据，引发环境可持续性担忧。",
+          "link": "https://www.wsj.com/tech/ai/ai-data-centers-water-use-901e2902",
+          "hotness": 78
+        },
+        {
+          "title": "Mapping Europe’s AI Workforce Opportunity - OpenAI Blog",
+          "summary": "OpenAI报告分析AI如何重塑欧盟就业市场，识别面临自动化、增长或工作流程变化的职业。",
+          "link": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+          "hotness": 76
+        }
+      ]
+    }
+  }
+}

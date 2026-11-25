@@ -1,0 +1,250 @@
+{
+  "overview": [
+    "OpenAI 正式推出“AI Futures”计划，布局下一代 AI 前沿方向，成为今日最受关注的官方发布。",
+    "英伟达罕见下场，为 OpenAI 俄亥俄数据中心提供 1050 亿美元融资，AI 算力军备竞赛再次升级。",
+    "阿里云 AI 业绩超预期：云增速升至 45%，模型矩阵全面跻身全球一流，中国 AI 云格局加速重构。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "title": "OpenAI 推出 AI Futures",
+          "summary": "OpenAI 官方发布“AI Futures”计划，探索人工智能未来的发展路径与前沿方向。",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pZlh4LWwzcDRQZW1LZHFOeDdkZ0h2aFFVbmF1U3VnRzN3NzR6d1VBZjZBODBfWVlId1BQOFR2anNwVWxCd2huNDBTdUNFaVBBSzA5Rm9FYnhIY0NI?oc=5",
+          "hotness": 90
+        },
+        {
+          "title": "英伟达为OpenAI俄亥俄数据中心提供1050亿美元融资支持",
+          "summary": "英伟达参与为 OpenAI 在俄亥俄州的数据中心项目提供 1050 亿美元融资，AI 算力基础设施投入再创纪录。",
+          "link": "https://www.cnbc.com/2026/08/17/nvidia-financing-open-ai-data-center-ohio.html",
+          "hotness": 95
+        },
+        {
+          "title": "阿里AI答卷亮眼：云增速升至45%，模型矩阵全部跻身全球一流",
+          "summary": "阿里云营收增速升至 45%，AI 模型矩阵全部达到全球一流水准，算力回报周期明确，全球 AI 云格局正在重构。",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1rR20xZjF6M1lhd0tZQm9zT0xHUnE2Z3BzOTRPYmpGWExfS0k3R3VaTmQ3ZEk2T2p2TXdrdWluaDdHVVE0S193cVJDa3VHek4tb1lyUk54TnRfTnhWSVVTOXNtc1pIdzlNREpVR1NPYmVHQzFkajIyLQ?oc=5",
+          "hotness": 88
+        },
+        {
+          "title": "Meta被曝，每周消耗数万亿Token",
+          "summary": "据披露，Meta 每周在 AI 训练与推理上消耗数万亿 Token，其算力投入规模极其惊人。",
+          "link": "https://finance.sina.cn/2026-08-21/detail-ininzprc1597964.d.html?vt=4",
+          "hotness": 82
+        },
+        {
+          "title": "博通寻求超600亿美元AI债务融资",
+          "summary": "博通正计划发起超过 600 亿美元的债务融资，用于支撑其 AI 基础设施扩张。",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaW1JdkM5Si1JUXF0SjF4aWw5SXlicHI4NmV0SndDZHc2ejdMY3ZnVjJaRG5lQ0w4YVUtejhYT1lYR0NJR3BORnFhUi1neE4yOGJHRGVNMjZFUXZxSHRXa0tHcmw4M0M2ekYxYTdSWFJJb2loaDU5MEEzYzZweF9paUdBWEVNN0ltWS00X2NWNEhmeFpvZ3U3S2N3ZTZBSGdORGo3d1lHc3o2MzhSY2c?oc=5",
+          "hotness": 80
+        },
+        {
+          "title": "宇树科技：专注物理AI模型自进化，推动机器人智能化",
+          "summary": "宇树科技上市后首次发声，董事长王兴兴透露正推进物理 AI 机器人模型自进化，使机器人具备自我迭代能力。",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5kUFJoSkZjTTBGZGZ4T3BCSzkwWVBOSHV3RlR2alc4YWV4WTd2VGl2OGhidTJ4X2VOY3JWWmQ5aFB4Q1RZbTg3WkxEVmZKVkxnN3hxeXpBUnBoaUU4T0I4OWtGY05ray1VLXJz?oc=5",
+          "hotness": 82
+        },
+        {
+          "title": "乐宠它推出首个宠物AI智能体，完成AI养宠生态升级",
+          "summary": "乐宠它发布首个宠物专用 AI 智能体，升级 AI 养宠生态，提供更智能的宠物养护服务。",
+          "link": "https://www.guandian.cn/m/show/588219",
+          "hotness": 72
+        },
+        {
+          "title": "Agentic AI为肿瘤决策带来上下文辅助",
+          "summary": "智能体 AI 正在为肿瘤临床决策提供上下文关联的辅助信息，帮助医生提升诊断与治疗精准度。",
+          "link": "https://www.targetedonc.com/view/agentic-ai-brings-context-to-oncology-decision-making",
+          "hotness": 70
+        },
+        {
+          "title": "AI投资倒逼中国科技巨头筛选业务",
+          "summary": "日经报道，AI 巨额投入正迫使中国科技巨头重新聚焦核心业务，收缩非核心战线。",
+          "link": "https://cn.nikkei.com/china/ccompany/63692-2026-08-21-05-00-45.html",
+          "hotness": 70
+        },
+        {
+          "title": "Clark大学与AWS联手举办首届AI Agent学院",
+          "summary": "Clark 大学联合亚马逊云科技启动 AI 智能体学院，面向开发者培养 Agentic AI 构建能力。",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOblhQb1VIdVd0ckcySzNMTXFrVE5zeWM3QU16b3BMMnpqZUZsbmFjVHJkZWw1YmhPRWpNeFhYaDl4SWVCdUZsOERlSzEzRWVBZHpZN09PVFBxV29fTWh2ZDRPVk1JYnMxd1R1Ym1uWnNINWVLQkhsOHJsUWZjNTRrZEN1cUdFZUNjSW9qZERJZVlOaHl0cnBmem81ZG5WU1cwMW5J?oc=5",
+          "hotness": 68
+        },
+        {
+          "title": "AI转型：谁能先跨过“盈亏平衡线”",
+          "summary": "媒体聚焦 AI 企业盈利难题，分析各家公司的 AI 投入何时能跨过盈亏平衡点。",
+          "link": "https://finance.eastmoney.com/a/202608213848377653.html",
+          "hotness": 65
+        },
+        {
+          "title": "北京亦庄释放千万元AI场景订单，多家OPC创新企业签约入驻",
+          "summary": "北京亦庄发布千万元级 AI 场景订单，吸引多家 OPC 创新企业签约，加速 AI 应用落地。",
+          "link": "https://www.stdaily.com/web/gdxw/2026-08/20/content_566980.html",
+          "hotness": 60
+        },
+        {
+          "title": "交大成立AI时代商科人才培养联盟，共创1000个AI场景",
+          "summary": "上海交大发起 AI 时代商科人才培养联盟，计划与企业共创 1000 个 AI 应用场景，推动产教融合。",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbjd2RnNycW92VXloTFgyNmdVOXI0cWdXaGw4N2lBeVIyNDVmX0xOVjJSTHBfTFBKNW5mS3BsTjlkMWtKOEFYYzV2cjlMUEp4MHRzWUN5YmdsUGFrM0Iwa1NpbmpKRktjT1RvekkxVm5qcUJIYUhyYTNoTXpCeDhHdTRNNnQwRTZLRXF2cS1pSVVWaG13d3ZIRFJOcG1fWDNXR2ZuOQ?oc=5",
+          "hotness": 60
+        },
+        {
+          "title": "AI平台识别番茄病害准确率达99%",
+          "summary": "一款 AI 平台识别番茄病害的准确率达到 99%，为农业植保提供了有力工具。",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBT0VkRzFOMHRzNHU2MVFxNy1hdy1xM25WZll4SXhhZDZsUEVNMW9HaTZSQUpPZHZZZGc1T0NaZFJlUnN6eElYWmNFZTRIQWF2dzNPNG02MlJKci1oUThQYXMtWkZWWGhmdXVwek4yNHU?oc=5",
+          "hotness": 58
+        },
+        {
+          "title": "重庆通用人工智能研究院调研，推动“两院一湾”建设",
+          "summary": "重庆市主要领导调研通用人工智能研究院并召开座谈会，加快推动“两院一湾”建设，打造 AI 创新应用高地。",
+          "link": "https://www.cq.gov.cn/ywdt/jrcq/202608/t20260820_15958534_app.html",
+          "hotness": 55
+        },
+        {
+          "title": "成都高新区：AI“上岗”成果转化流程，为科研“减负”",
+          "summary": "成都高新区将 AI 引入科技成果转化流程，帮助科研人员减轻事务性负担，提升转化效率。",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4xdnQxdXFfRXNFdHJ4b0VBZU5XQmtjV3BIMHlIa19zYnphYTF4aXJndDRrYXB2Q3p4dGZLeTFfaDBqY0VXWk5xcXRoRFdQUmZ6WERyd29LTkJhM2hkYXRheHRRNnpEc3FRbnRFc2NZZEk?oc=5",
+          "hotness": 55
+        },
+        {
+          "title": "AI健康黑科技集中亮相，爱康AI生命展在京举办",
+          "summary": "爱康 AI 生命展在北京举办，集中展示 AI 健康领域的最新黑科技产品与应用。",
+          "link": "https://www.stdaily.com/web/gdxw/2026-08/20/content_566815.html",
+          "hotness": 55
+        },
+        {
+          "title": "“人工智能+”为美好生活赋能",
+          "summary": "报道“人工智能+”在生活各领域的落地应用，展现 AI 提升公共服务与生活品质的潜力。",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIdUZWVDNzaGxiVE1RV0libGgySl85WmtnY2RrRUowY09LMUprbDNxUVJHQVFxUjFtWjgyXzBsYU0wNlFjSmlhUF9WTk9VcHVvZEhVMzJKbGxYT3FCMDlMag?oc=5",
+          "hotness": 50
+        },
+        {
+          "title": "哈佛商业评论：四步用AI改造“中台”业务",
+          "summary": "哈佛商业评论提出四步法，帮助企业利用 AI 升级中台业务，提升运营效率与响应速度。",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB3RHp4ZTBmMHhPRHhFU3ZhVHZlendNWEkwMFNGTGhxc0swa1BUU2JCcVB3dnd6bXNienlpYmpwdEgyZjVIMmxkN0E3TE5RQWJqUnd0YjF4V082QXBsdU00Mlh1Rm1vMDhIc3dRMWlsR1czcjhzaFhJSHZB?oc=5",
+          "hotness": 50
+        },
+        {
+          "title": "AI辅助城市设计：规划者如何应对？",
+          "summary": "文章探讨 AI 在城市设计中的应用潜力，以及规划者需要如何调整方法以应对技术变革。",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Ga1NEZWhNME1OOXdJOGpoMGltYVJGcjhPbmZDaDJ2Y1pCT0V1bGNMenhmcXZSMmFmQXBMdG1GYW4zTEZ4emdwNVdUbkRMZkp0cl9JbjdoMzlhd1RWT2RocmgzeGEyd0Zpa3JoNENZLVlGNHY4NXJB?oc=5",
+          "hotness": 50
+        },
+        {
+          "title": "石溪大学AI创新研究所发放45万美元小额资助",
+          "summary": "石溪大学 AI 创新研究所为多个前沿 AI 项目提供总计 45 万美元的种子资金支持。",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQa2ttcnFfajBRbUYzVVlSaDlKOU8tT1hiM3lrUExHbXBld2Y2YmNpTkQ4aDBsVzZ1Q1U0cE5UUFZVYkt5OWdLX0V2T2t0SjBsWFpkcDY5QUJ0a0N3WnlkcXppLThCZXRmVXZ3WXluU0hPQWFPbktSbWdXVm8zYU9zNndHdWdqaHptUzl0bGxiR2FkWlpaMk9zNi1WcWZFUDdrUTY1M2dINA?oc=5",
+          "hotness": 45
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "title": "Yann LeCun在布朗大学演讲：AI新方法",
+          "summary": "Yann LeCun 在布朗大学发表演讲，介绍一种不同于当下主流范式的新 AI 方法，引发学界关注。",
+          "link": "https://www.brown.edu/news/2026-04-01/yann-lecun-artificial-intelligence-pioneer",
+          "hotness": 78
+        },
+        {
+          "title": "清华医学院团队提出医疗AI安全风险分级框架",
+          "summary": "清华大学黄天荫团队合作提出一套医疗 AI 安全风险分级框架，为医疗 AI 监管落地提供方法学参考。",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1WclV2dUphcTlGM1RyYnhMX2hFNTRqejI4VUowQ0hDQTJVd29EaThhRzdSTVVLNTNPU3MzcklOR283QkRacERlRGhLMV9tRnpUVkNqeFpLUEwyWGo1?oc=5",
+          "hotness": 70
+        },
+        {
+          "title": "上交大：AI为能源材料研发开启“加速模式”",
+          "summary": "上海交大研究指出，AI 正为能源材料研发带来“加速模式”，大幅缩短新材料的发现与验证周期。",
+          "link": "https://news.sciencenet.cn/htmlnews/2026/8/570116.shtm",
+          "hotness": 62
+        },
+        {
+          "title": "石溪大学本科生展示前沿AI研究",
+          "summary": "石溪大学 REU 暑期研讨会上，本科生们展示了涵盖多领域的 AI 前沿研究项目。",
+          "link": "https://news.stonybrook.edu/university/undergrads-showcase-cutting-edge-ai-research-at-stony-brooks-reu-summer-symposium/",
+          "hotness": 50
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": []
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "title": "欧盟AI法案“大倒退”，出海AI公司松口气？",
+          "summary": "欧盟 AI 法案监管力度出现“大倒退”，可能显著减轻出海 AI 公司的合规压力。",
+          "link": "https://www.21jingji.com/article/20251121/herald/ed4d1e8e6e0f820a9ba8c0c1cc227409.html",
+          "hotness": 75
+        },
+        {
+          "title": "刻意误导、恶意伪造，AI滥用挑战合规底线",
+          "summary": "媒体评论指出，AI 的刻意误导与恶意伪造正在挑战合规底线，需警惕“AI风”扰乱大众生活。",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB3cnAtR19EYWZzdFRtdU5WbWNzWF9yZ2FLdHk2M2ZKVkdsRFd4VHc4WU50Y0doVHRpczc0emx5QXJWbU0wZXJxZHZPVmhGOUZUazBHeWVTaWs?oc=5",
+          "hotness": 68
+        },
+        {
+          "title": "独家：德州学生吹哨揭发恶意AI黑客行为",
+          "summary": "路透社独家报道，一名德州学生曝光了一起恶意的 AI 黑客攻击企图，引发 AI 安全关注。",
+          "link": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
+          "hotness": 65
+        },
+        {
+          "title": "应届毕业生：AI让求职更难？经济学家看法不一",
+          "summary": "NPR 报道，许多应届毕业生认为 AI 加剧了求职难度，但经济学家对此存在明显分歧。",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeXcwYzhYTk9CcnpwT0ZObkR0dVdXMXpLeDhoV3I4S2Z2NmhTQkN2Tm5GcE5SX0FNQXk1UUw3Z2c4bnktZVlNU2dZUDE2b0Y3TGZ5LXNFdXBxbzVkbkQyaUp4a3hKZXpaTFhtT3VhNElxQnlmTzhEOWd1TFNtTnpZYS1xWGxmVVNnMXV2dHZiXzVpSTQxc21NMWJTMUVzRFpsNlBIQmFaSmxVc2lPbkRoeTZUYUU5Nm9wX2dvcktZWkNfclFxRXo5WGRB?oc=5",
+          "hotness": 62
+        },
+        {
+          "title": "纽约时报观点：AI写作之争",
+          "summary": "纽约时报发表观点文章，辩论在写作中使用 AI 的合理性与边界。",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdnZkN1FrYllkUU01WUxGUmN1N2dHWXF6cnlkSHR5dFlmbUgyT3ZGUzQzZWpmdmRNNWpjWXM4TjhwRTQzSDlCZHc2cnBUNnM2VmhqS2hSdl93aXl4d09lMHNYUWRfdHo0aUZvMDZNUFBxV01MQUIxUnFPZ3hwVWRqNEZSYk4?oc=5",
+          "hotness": 60
+        },
+        {
+          "title": "医疗AI应用进展与监管落地挑战",
+          "summary": "国际原子能机构发文，探讨医疗 AI 应用进展及其带来的监管实施挑战。",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5jMDhveDB6c3gwUlZNQ0ZSR3NZTVpGMkVIM2xKWU55TmpJOVpwMzV4RmxrTjZ2Wk9DTGI1NHZubVRWMWRIaXI4dmVPYw?oc=5",
+          "hotness": 58
+        },
+        {
+          "title": "北京经开区发布“AI人才八条”，最高500万元支持",
+          "summary": "北京经济技术开发区推出“AI人才八条”，为 AI 产业精英提供最高 500 万元资金支持。",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1RSHVQWEJ0VW5PQnBaeXp6ZXFIejlWblFPVGJybTlzdWhJYTZxMTB1d1VmWXpUc1JUWWltc2oxN2xWMUdYb0ljbThvVGI0aUt3amdocUkzcjFSR1hHMjI5MEhzX0ozV0g1ZVFjWWdmSkdCY0lj?oc=5",
+          "hotness": 55
+        },
+        {
+          "title": "民主党人“有胆量尝试”：逆转AI怀疑论",
+          "summary": "Politico 报道，部分民主党人开始积极尝试 AI，与党内主流怀疑态度形成对比。",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYXpEQzV6U2JhWFZCZ256UVl4M0hFdXVEUGRvYV9CNlRaQzJTWkdseXRLWmo2aGtta2U0bnlFYzVLeDFkMXJsSzJ3T09BaHBtYVA4YlBnNzJMalo4UmNxeW96dG1jMDNKSEdKNkJYZGk5MzRZcC1JSExNSm9zQTdYak9qSWw?oc=5",
+          "hotness": 55
+        },
+        {
+          "title": "加密货币、AI与博彩公司推动2026中期选举创纪录支出",
+          "summary": "路透社报道，加密货币、AI 和博彩公司正在为 2026 年美国中期选举提供创纪录的资金支持。",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeENQNnM1RGoxMUFwdGJ2c19GUDRnTUhiWVdieDZNZG1qX2QzN29SYVBqU0NBcnVaMjRISjB3ZFc5WTlRbXYwQ1FkallpcmdLeEcwWk1wcS1pbG9TbTB6WFQ4VENCa25wMTE1TmJMeGJ1dEFtY0xrX0hOb0ZURkZJWlRmM3lFcHFZaXpqTWFCYVhHdDc0UXJzNEpPTUo5LXdBYzlCcXppZklKbkN5cnc4NGFsU3p5U0xPNnJ1dGUxYWEzQVI0Y3ZqcA?oc=5",
+          "hotness": 50
+        },
+        {
+          "title": "清华：拥抱人工智能时代，做臻于至善的清华人",
+          "summary": "清华大学发文鼓励师生积极拥抱 AI 时代，追求卓越与完善。",
+          "link": "https://www.tsinghua.edu.cn/info/3290/127759.htm",
+          "hotness": 45
+        },
+        {
+          "title": "AI、陀思妥耶夫斯基与自由的恐惧",
+          "summary": "文章借陀思妥耶夫斯基的哲学，反思人类面对 AI 时对自由失去的深层恐惧。",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTmZaY0VuSUZTaV9OQ2FvcWhIeFBudEFOYkdzbHVkaDFKeGRTbDBMdVRGTEFLRzRmNlZyNnZVRWhsN1p6YTZQSUZDRGNvdVdxYkRnZDJuYUFDVTlZeE9JRnBsTF9lNFFrMW82Q0R0Uld0SkJvV3p1UVZlQUZkT3p2Um5SZEtEOG1KaWt1MkRnSmVidm1iWnhyY0dnZnZXYVM3TTE4X3hwSzNXVDRpbUtENGJ3?oc=5",
+          "hotness": 45
+        },
+        {
+          "title": "播客：隐私、网络安全与AI治理成商业要务",
+          "summary": "Consumer Finance Monitor 播客探讨隐私、网络安全和 AI 治理为何正成为企业必须面对的商业议题。",
+          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPTjFVYUY0SlFYRUdPTzhiakgtMmkxSG9xa1hUQmVqNWtMbkd5OGNqdmNJWG02eWw5VHdVdTh6VTQyT3V6TUt5SlJKbWVOUVg4dTV2T1pZYWN1X00wdVZyZUItUnNIbGxkTmNId3A3REYzSXhHVG5MejAtX0tOeklLcFExeXZzaXZUc09PaXQwN0RUYmVLQzdaZVR6N0k4d1hwSVY2eWtsbjI0WEJ1Q1c2UmtLZG9WWG0wVEwxdjcwME83TWRqbHFoYmlwVTg3S0hJWUhsd1JVMlNIUkRTTm5pM3VNZlZWTmEzRXg4MTdHQUxVN0xqLU1DQ0J2T2VqWlpMczNGWVhMUQ?oc=5",
+          "hotness": 40
+        }
+      ]
+    }
+  }
+}

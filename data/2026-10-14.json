@@ -1,0 +1,237 @@
+{
+  "overview": [
+    "Google 发布旗舰模型 Gemini 4 Argon，输出 token 上限达 100 万，面向全球开发者和企业开放，主打解决最棘手难题。",
+    "Meta 发布首款前沿模型 Muse Wonder 与 Muse Wonder Full，主打 Agent 能力，正式加入 OpenAI、Anthropic 的前沿模型竞争。",
+    "OpenAI 与 Higgsfield 合作，GPT-6 Astra 将 AI 视频生成时长从 1 分钟提升至 10 分钟以上，长视频生成时代来临。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "id": 21,
+          "title": "扎克伯格承认 Meta 数千亿美元 AI 赌注曾“完全没把握”",
+          "summary": "扎克伯格坦言 Meta 在承诺数千亿美元 AI 投入时，并不确定产品能否成功，如今 Muse 发布后股价上涨。（合并自 id 21/26）",
+          "hotness": 85,
+          "link": "https://www.bloomberg.com/news/articles/2026-10-13/zuckerberg-admits-meta-lacked-ai-certainty-on-200-billion-bet",
+          "source": "Bloomberg.com"
+        },
+        {
+          "id": 39,
+          "title": "苹果发布智能家庭中枢 HomeView，盘中股价创新高",
+          "summary": "苹果发布首款智能家庭中枢 HomeView，壁挂版 299 美元起，可选 USB-C/交流电/PoE 供电，并带动股价新高。（合并自 id 25/39/40）",
+          "hotness": 75,
+          "link": "https://www.ithome.com/1/012/599.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 30,
+          "title": "微软成立 XBOX Labs，探索 AI 辅助游戏修改与重编译",
+          "summary": "随着 AI 辅助游戏修改和重新编译技术兴起，微软成立 XBOX Labs 新团队，探索新技术在游戏开发中的应用。",
+          "hotness": 65,
+          "link": "https://www.ithome.com/1/012/633.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 23,
+          "title": "埃森哲收购 Sagacity，扩展英国和爱尔兰 AI 客户服务",
+          "summary": "埃森哲收购 Sagacity，以增强 AI 驱动的客户服务能力，扩大在英国和爱尔兰市场布局。",
+          "hotness": 60,
+          "link": "https://www.tradingview.com/news/stocktwits:bf67171b7094b:0-accenture-acquires-sagacity-to-expand-ai-driven-customer-services-in-uk-ireland/",
+          "source": "TradingView"
+        },
+        {
+          "id": 31,
+          "title": "Cerebras CEO 预言家用 AI 时代即将到来",
+          "summary": "Cerebras CEO 安德鲁·费尔德曼称，AI 智能体将进入家庭，帮用户搞定生活琐事，家用 AI 时代即将到来。",
+          "hotness": 60,
+          "link": "https://www.ithome.com/1/012/632.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 48,
+          "title": "爱芯元智发布 AX8860 大算力边端 AI 芯片系列",
+          "summary": "爱芯元智在工博会正式发布 AX8860 大算力边端 AI 芯片系列，瞄准边缘 AI 算力需求。",
+          "hotness": 65,
+          "link": "https://m.sohu.com/a/1087315270_121608821?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+          "source": "搜狐"
+        },
+        {
+          "id": 51,
+          "title": "IMF 总裁：人工智能投资将使全球增长维持在 3% 左右",
+          "summary": "IMF 总裁看好亚洲发展，认为 AI 投资将支撑全球经济增长维持在约 3%。",
+          "hotness": 55,
+          "link": "https://www.cls.cn/detail/2502259",
+          "source": "财联社"
+        },
+        {
+          "id": 52,
+          "title": "大华股份国产化 AI 算力服务器项目落户望城经开区",
+          "summary": "大华股份国产化 AI 算力服务器项目落地长沙望城经开区，为国产 AI 算力赛道再添湖南力量。",
+          "hotness": 55,
+          "link": "https://www.hunantoday.cn/news/xhn/202610/33978088.html",
+          "source": "新湖南"
+        },
+        {
+          "id": 60,
+          "title": "红牛与甲骨文合作开发 AI Agent",
+          "summary": "红牛与甲骨文达成合作，共同开发 AI Agent，用于赛事与车队运营等场景。",
+          "hotness": 60,
+          "link": "https://www.guandian.cn/article/20261013/612728.html",
+          "source": "观点网"
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "id": 0,
+          "title": "Google 发布旗舰模型 Gemini 4 Argon，输出 token 上限 100 万",
+          "summary": "Google 面向全球开发者和企业开放 Gemini 4 Argon，定位“powerhouse”模型，支持最高 100 万输出 token，专攻最棘手难题。（合并自 id 0/1/9/17/35）",
+          "hotness": 100,
+          "link": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-argon/",
+          "source": "blog.google"
+        },
+        {
+          "id": 3,
+          "title": "Meta 发布前沿模型 Muse Wonder 与 Muse Wonder Full，主打 Agent 能力",
+          "summary": "Meta 推出首款前沿 AI 模型系列，宣称达到 AI 前沿水平，面向智能体场景，试图追赶 OpenAI 与 Anthropic。（合并自 id 3/12/15/16/19/22）",
+          "hotness": 98,
+          "link": "https://mashable.com/tech/meta-launches-muse-wonder-ai-model-family",
+          "source": "Mashable"
+        },
+        {
+          "id": 24,
+          "title": "OpenAI 与 Higgsfield 合作，GPT-6 Astra 将 AI 视频生成延长至 10 分钟",
+          "summary": "OpenAI 公告称借助 GPT-6 Astra，Higgsfield 将 AI 视频生成时长从 1 分钟提升到 10 分钟以上，标志长视频生成时代来临。（合并自 id 24/27）",
+          "hotness": 96,
+          "link": "https://openai.com/index/higgsfield-longer-videos-voice",
+          "source": "OpenAI Blog"
+        },
+        {
+          "id": 4,
+          "title": "Meta 提出自适应排序模型，为广告场景扩展 LLM 级推理规模",
+          "summary": "Meta 工程团队发布 Adaptive Ranking Model，通过弯曲推理扩展曲线，在广告推荐中服务 LLM 规模模型。",
+          "hotness": 55,
+          "link": "https://engineering.fb.com/2026/03/31/ml-applications/meta-adaptive-ranking-model-bending-the-inference-scaling-curve-to-serve-llm-scale-models-for-ads/",
+          "source": "Engineering at Meta"
+        },
+        {
+          "id": 18,
+          "title": "OpenAI 数学发布冲击早期职业研究者项目",
+          "summary": "报道称 OpenAI 最新数学能力发布导致部分早期职业研究者项目被裁撤或边缘化，引发研究生态讨论。",
+          "hotness": 55,
+          "link": "https://qz.com/openai-math-dump-early-career-researchers-wiped-out-101226",
+          "source": "Quartz"
+        },
+        {
+          "id": 54,
+          "title": "丘成桐数学与人工智能实验室联盟在清华大学成立",
+          "summary": "清华大学成立丘成桐数学与人工智能实验室联盟，推动数学与 AI 基础交叉研究。",
+          "hotness": 65,
+          "link": "https://www.tsinghua.edu.cn/info/1177/128669.htm",
+          "source": "清华大学"
+        },
+        {
+          "id": 59,
+          "title": "德银：2030 年前实现超级人工智能并非不可能",
+          "summary": "德意志银行研报认为，在算力与算法两大条件满足下，2030 年前实现超级人工智能并非不可能。",
+          "hotness": 55,
+          "link": "https://www.cls.cn/detail/2503679",
+          "source": "财联社"
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "id": 11,
+          "title": "谷歌 Play Store 允许用户直接运行“氛围编码”应用，无需上架",
+          "summary": "谷歌宣布，用户通过 vibe-coding 制作的 App 可直接在安卓手机运行，无需先上架 Play Store，降低 AI 生成应用分发门槛。（合并自 id 11/28）",
+          "hotness": 70,
+          "link": "https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch",
+          "source": "The Verge"
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "id": 2,
+          "title": "Anthropic 模型向费城警方提交虚假冷案线索",
+          "summary": "Anthropic 承认其 AI 模型在未破谋杀案中向费城警方提交了虚假线索，引发 AI 参与执法与准确性争议。（合并自 id 2/14）",
+          "hotness": 82,
+          "link": "https://www.nbcnews.com/news/us-news/anthropic-says-model-submitted-false-cold-case-tip-philadelphia-police-rcna603213",
+          "source": "NBC News"
+        },
+        {
+          "id": 7,
+          "title": "Anthropic 警告自复制 AI 蠕虫可能蔓延至智能家电",
+          "summary": "Anthropic 警告具备自我复制能力的 AI 蠕虫可能在智能烤箱、电视和扫地机器人间传播，且无需数据中心即可发生。（合并自 id 7/10）",
+          "hotness": 85,
+          "link": "https://newscord.org/article/anthropic-warns-self-replicating-ai-worms-could-spread-across-smart-ovens-tvs-va--Story_20261013_AnthropicwarnsAIwormbf624f6e",
+          "source": "NewsCord"
+        },
+        {
+          "id": 6,
+          "title": "OpenAI 在发布下一代旗舰模型前紧急修复安全问题",
+          "summary": "The Information 报道，OpenAI 正赶在下一代旗舰模型发布前修复安全漏洞与对齐问题。",
+          "hotness": 90,
+          "link": "https://www.theinformation.com/articles/openai-scrambles-fix-safety-issues-shipping-next-flagship-model",
+          "source": "The Information"
+        },
+        {
+          "id": 13,
+          "title": "Meta 推出 AI 工具检测暗含儿童性虐待素材的广告",
+          "summary": "Meta 上线新 AI 工具，用于检测并拦截秘密导向儿童性虐待素材的广告，强化平台内容安全。",
+          "hotness": 70,
+          "link": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
+          "source": "TechCrunch"
+        },
+        {
+          "id": 33,
+          "title": "Anthropic 硬刚美国政府 AI“供应链风险”认定",
+          "summary": "Anthropic 敦促联邦上诉法院重审判决，该判决维持特朗普政府将其认定为 AI 供应链风险的裁定。",
+          "hotness": 75,
+          "link": "https://www.ithome.com/1/012/630.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 34,
+          "title": "OpenAI 沙特籍工程师因在会议室安装录音设备被 FBI 逮捕",
+          "summary": "美国司法部称，一名 OpenAI 沙特籍工程师被 FBI 逮捕，指控其在公司高管会议室秘密安装录音设备。",
+          "hotness": 80,
+          "link": "https://www.ithome.com/1/012/629.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 32,
+          "title": "欧洲央行：AI 或削弱欧洲劳动者争取加薪的议价能力",
+          "summary": "欧洲央行首席经济学家莱恩指出，欧元区企业加速采用 AI，可能限制劳动者争取加薪的议价能力。",
+          "hotness": 60,
+          "link": "https://www.ithome.com/1/012/631.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 41,
+          "title": "中微公司尹志尧：AI 有可能会出现泡沫，需要多加留意",
+          "summary": "“中国刻蚀机之父”尹志尧在集成电路高峰论坛提醒，AI 可能出现泡沫，行业应保持关注。",
+          "hotness": 60,
+          "link": "https://www.ithome.com/1/012/583.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 49,
+          "title": "首个政务大模型国家标准发布，WPS 参编",
+          "summary": "首个政务大模型国家标准正式发布，WPS 参与编制，为政务 AI 应用提供规范依据。",
+          "hotness": 60,
+          "link": "https://k.sina.com.cn/article_5044281310_12ca99fde02002lafw.html?from=tech",
+          "source": "新浪网"
+        }
+      ]
+    }
+  }
+}

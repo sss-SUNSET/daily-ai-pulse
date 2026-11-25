@@ -1,0 +1,137 @@
+{
+  "overview": [
+    "字节跳动豆包与阿里千问宣布7月15日下线智能体功能，引发行业对AI智能体商业化路径的重新思考",
+    "Meta开始对外销售算力服务，标志着科技巨头业务模式的重要转变",
+    "Midjourney要求好莱坞制片厂披露AI使用情况，AI版权争议进入新阶段"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "title": "豆包、千问齐宣布：将于7月15日下线智能体功能",
+          "summary": "字节跳动豆包与阿里巴巴千问同日宣布将于7月15日下线智能体功能，用户需及时备份数据。",
+          "link": "https://wap.eastmoney.com/a/202607043794216756.html",
+          "hotness": 92
+        },
+        {
+          "title": "当Meta开始卖算力，机构的AI“信仰”变了吗？",
+          "summary": "Meta正式对外提供算力服务，标志着科技巨头从产品提供商向基础设施服务商的战略转型。",
+          "link": "https://wap.eastmoney.com/a/202607043794209257.html",
+          "hotness": 85
+        },
+        {
+          "title": "放弃热门通用大模型，李开复65岁二次创业，道出AI行业真相",
+          "summary": "李开复放弃通用大模型赛道转向垂直领域创业，反映AI行业从技术竞赛向商业化落地的重要转变。",
+          "link": "https://finance.sina.com.cn/wm/2026-07-05/doc-inifszcn9107961.shtml",
+          "hotness": 82
+        },
+        {
+          "title": "德勤戴耀华：AI是长期红利，企业数字化进入“智能体协同”阶段",
+          "summary": "德勤专家指出企业数字化正从单点应用进入智能体协同新阶段，AI将带来长期商业价值。",
+          "link": "https://m.21jingji.com/article/20260705/herald/319470d203f8ba4e4d56da9532a7bfc7.html",
+          "hotness": 78
+        },
+        {
+          "title": "AI光互联领域重要信号！英伟达技术大牛跳槽 VCSEL路线重塑CPO格局？",
+          "summary": "英伟达光互联技术专家跳槽，VCSEL技术路线可能重塑共封装光学市场格局。",
+          "link": "https://www.cls.cn/detail/2416215",
+          "hotness": 76
+        },
+        {
+          "title": "智行众维：构筑AI具身智能体与物理真实世界之间的桥梁",
+          "summary": "智行众维致力于开发连接AI具身智能体与物理世界的关键技术，推动智能体在真实环境中的应用。",
+          "link": "https://wap.eastmoney.com/a/202607053794223571.html",
+          "hotness": 75
+        },
+        {
+          "title": "2026全球数字经济大会人工智能融合应用发展论坛在京举办",
+          "summary": "全球数字经济大会AI融合应用论坛探讨人工智能在各行业的落地路径和发展趋势。",
+          "link": "https://www.stdaily.com/web/gdxw/2026-07/04/content_542088.html",
+          "hotness": 72
+        },
+        {
+          "title": "How ChatGPT adoption has expanded",
+          "summary": "OpenAI数据显示ChatGPT全球采用率持续增长，用户使用频率和功能探索深度不断提升。",
+          "link": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+          "hotness": 70
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "title": "Introducing GeneBench-Pro",
+          "summary": "OpenAI推出GeneBench-Pro基准测试，专门评估AI在基因组学、生物学等科学领域的性能表现。",
+          "link": "https://openai.com/index/introducing-genebench-pro",
+          "hotness": 75
+        },
+        {
+          "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
+          "summary": "TechCrunch深度解析Mistral AI，这家欧洲AI初创公司正成为OpenAI的重要竞争对手。",
+          "link": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+          "hotness": 73
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "title": "Core dump epidemiology: fixing an 18-year-old bug",
+          "summary": "OpenAI工程师通过大规模核心转储分析修复了存在18年的软件bug，展示了AI在系统调试中的应用。",
+          "link": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+          "hotness": 68
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "title": "Midjourney反击好莱坞：要求迪士尼等制片厂披露自身AI使用情况",
+          "summary": "Midjourney要求好莱坞各大制片厂公开AI使用细节，AI生成内容版权争议进一步升级。",
+          "link": "https://finance.sina.cn/stock/jdts/2026-07-05/detail-inifszci9670006.d.html?vt=4&wm=1224?pagetag&cid=76993&node_id=76993",
+          "hotness": 88
+        },
+        {
+          "title": "当AI改进自己：递归自我改进与AI监管",
+          "summary": "探讨AI递归自我改进技术带来的监管挑战，以及如何确保AI发展符合人类价值观。",
+          "link": "http://www.eeo.com.cn/2026/0705/943017.shtml",
+          "hotness": 82
+        },
+        {
+          "title": "AI造谣，该当何罪丨天府新视界",
+          "summary": "分析AI生成虚假信息的法律责任认定问题，探讨相关法律法规的完善方向。",
+          "link": "https://cbgc.scol.com.cn/news/7730666",
+          "hotness": 80
+        },
+        {
+          "title": "OpenAI提出的“对AI征税”的构想，可行吗？",
+          "summary": "讨论OpenAI提出的AI征税方案可行性，分析其对AI产业发展和公共利益的影响。",
+          "link": "https://news.bjd.com.cn/2026/07/05/11845057.shtml",
+          "hotness": 78
+        },
+        {
+          "title": "涉网络AI、未成年人保护等 新管理办法草案征求意见",
+          "summary": "新管理办法草案针对网络AI应用和未成年人保护等领域公开征求意见，完善AI监管框架。",
+          "link": "https://www.ycnews.cn/guonei/2026/07-04/VDWwjBaD.html",
+          "hotness": 75
+        },
+        {
+          "title": "An AI agent allegedly deleted a startup's production database, causing a huge outage",
+          "summary": "AI智能体误删初创公司生产数据库导致严重服务中断，引发对AI系统安全性的担忧。",
+          "link": "https://mashable.com/article/ai-agent-deletes-data-30-hour-service-outage-pocketos",
+          "hotness": 85
+        },
+        {
+          "title": "Mapping Europe’s AI Workforce Opportunity",
+          "summary": "OpenAI报告分析AI对欧盟就业市场的影响，识别面临自动化风险和高增长潜力的职业类型。",
+          "link": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+          "hotness": 72
+        }
+      ]
+    }
+  }
+}

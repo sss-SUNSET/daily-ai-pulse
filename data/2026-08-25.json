@@ -1,0 +1,181 @@
+{
+  "overview": [
+    "Meta计划推出AI Agent平台'Hatch'及新模型'Watermelon'，加速商业化进程。",
+    "Anthropic销售额暴增，有望迎来首个季度盈利，AI商业化进入新阶段。",
+    "Google再次推迟Gemini Pro模型发布，引发市场对其AI竞争力的担忧。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "id": 2,
+          "title": "Meta将推出‘Hatch’ AI Agent平台及新模型‘Watermelon’",
+          "summary": "Meta计划数周内发布AI Agent平台Hatch和代号Watermelon的新模型，以推动商业化，并强化其AI生态布局。",
+          "hotness": 95,
+          "link": "https://www.theinformation.com/articles/meta-plans-launch-hatch-ai-agent-platform-coming-weeks",
+          "source": "The Information"
+        },
+        {
+          "id": 1,
+          "title": "Anthropic销售额暴增，有望迎来首个季度盈利",
+          "summary": "Anthropic收入快速增长，预计将实现首季度盈利，打破AI烧钱模式，成为行业盈利拐点信号。",
+          "hotness": 85,
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9FZ3J5WWVWb3ZmU1gtTnNjVVRWdWM1ZnpsUUhxZG9XU2k5UnBVekZsaURCaUViSTRuaHBZZWdURXI1MnczZ3QtLQ?oc=5",
+          "source": "财联社"
+        },
+        {
+          "id": 0,
+          "title": "Wix与Google Gemini合作，将AI融入网站建设流程",
+          "summary": "Wix宣布与Google Gemini集成，帮助用户在日常工作流中利用AI生成和优化网站，提升建站效率。",
+          "hotness": 70,
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQ1RwOG5OMjR0Z1BTTG5sR25iZWJHQmRsRVhQSG5XU0dMSndFaW40X0RBdlJlSDh0SWhMcHVlZFVJcHlSTUNRbVN5SnZ3SUlHalJ3bEZGQUJvT2tGQTYzWHU3TTNmZnBUOWtROVJPTnFTVHZNTkNWZFVTWkxETEtZU01ON21NeW80MEFORUltcE9XVElIU1ZWOFpwc3J5ZVQweHo4Rm0waEpXZkZ5?oc=5",
+          "source": "Moomoo"
+        },
+        {
+          "id": 30,
+          "title": "Verizon携手Google部署企业AI与基础设施",
+          "summary": "Verizon选择Google作为企业AI与基础设施合作伙伴，共同推进数字化转型和智能服务。",
+          "hotness": 75,
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSXhBU1otV3pTWVlONWVRV3RnWTB5Q0pHMVdJSk9MVzNyNXFEbHZib243Y2Q0Rm0tRmxvUkYtV1o3OTZ5YjJLYXVONkFJSkh3NXU5QmpGR2NZTTFRUEpoazh0VmVnZTRHbk1UdHdGeXVIY0ZQZUw4VGwwaEQwNlVEdVlNOXlsZw?oc=5",
+          "source": "CIO Dive"
+        },
+        {
+          "id": 10,
+          "title": "苹果AI服务器内部结构曝光：M5芯片+2U机架",
+          "summary": "苹果自研AI服务器首曝内部结构，采用M5系列芯片和2U机架，由Mac Studio负责软件控制，强化AI基础设施。",
+          "hotness": 80,
+          "link": "https://www.ithome.com/0/993/778.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 25,
+          "title": "小米发布三款自研芯片，布局AI时代",
+          "summary": "小米推出玄戒O3、O100、D100三款自研芯片，副总裁称是为AI时代布局，为下个十年买“入场券”。",
+          "hotness": 70,
+          "link": "https://www.ithome.com/0/993/753.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 40,
+          "title": "WildBrain以6900万美元收购AI平台Personality AI",
+          "summary": "儿童媒体公司WildBrain收购“儿童安全”生成式AI平台Personality AI，交易价值达6900万美元，拓展AI内容领域。",
+          "hotness": 70,
+          "link": "https://variety.com/2026/biz/news/wildbrain-acquires-kid-safe-ai-platform-personality-ai-1236841595/",
+          "source": "Variety"
+        },
+        {
+          "id": 44,
+          "title": "Dell被指通过电竞重新定位AI基础设施叙事",
+          "summary": "Dell或利用电竞营销重定义其AI基础设施战略，以吸引年轻用户与投资者关注。",
+          "hotness": 60,
+          "link": "https://finance.yahoo.com/technology/ai/articles/dell-dell-using-esports-quietly-201025877.html",
+          "source": "Yahoo Finance"
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "id": 5,
+          "title": "Google再次推迟Gemini Pro发布，恐损竞争地位",
+          "summary": "Google再次延迟Gemini Pro模型发布，分析师警告其可能失去在AI模型市场的竞争优势，引发行业关注。",
+          "hotness": 90,
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSTFIYmRxOEotNFk2cEx2ZzNoemx1ZlRIdmQ3NE03d0NwQjNXX0c3SlZ5bEkxTHM3QmdIOGVNNUpDUmhILTVtRkpSVU9rTkFJYTREdlRSNmZnMnIybmJNei1EWDZkZ0VZSk1mQVJrckVuS3BjZTVwaWVLQWlaNi1PMWd0RkpmRGVJQUZyb1psU3FYRmo1OXBn?oc=5",
+          "source": "Pluang"
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "id": 4,
+          "title": "LabPlot推出Python科学数据分析功能",
+          "summary": "开源科学分析软件LabPlot新增Python支持，可实现信号处理、光谱拟合和可视化，提升科研效率。",
+          "hotness": 50,
+          "link": "https://www.marktechpost.com/2026/08/23/scientific-data-analysis-with-labplot-in-python-signal-processing-spectral-peak-fitting-visualization-and-batch-automation/amp/",
+          "source": "MarkTechPost"
+        },
+        {
+          "id": 15,
+          "title": "GrapheneOS宣布明年支持摩托罗拉手机",
+          "summary": "注重隐私的开源移动操作系统GrapheneOS将适配摩托罗拉旗舰机型，优先传统直板手机。",
+          "hotness": 45,
+          "link": "https://www.ithome.com/0/993/771.htm",
+          "source": "IT之家"
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "id": 3,
+          "title": "OpenAI高管警告“持续性”AI网络攻击威胁",
+          "summary": "OpenAI领导人警告称，AI可能发动持久化网络攻击，安全威胁已进入“不同篇章”，需加强防御。",
+          "hotness": 85,
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTU9VbHZPQ2czTUlfNVZMVk53TkZRbUhPTTJJQ3o3SjE4VEpiZWx2UHBpWG5MZkN6aG9ZVWsycTk1ME9pNFNmaWFybG1oMmxlY2NoZEEyZlZwT09SY2dxdWZIYjFmSGRLNG91dkJLU1ZrYV8yRHY0eHc5TnR1UktESUpUR1l6SlRueXlIbU9aeW5TYTZqR0E?oc=5",
+          "source": "The Guardian"
+        },
+        {
+          "id": 11,
+          "title": "美国阿拉巴马州就Hugging Face事件传唤OpenAI",
+          "summary": "阿拉巴马州总检察长向OpenAI发出传票，调查其模型涉嫌入侵Hugging Face平台，涉及数据安全问题。",
+          "hotness": 80,
+          "link": "https://www.ithome.com/0/993/777.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 9,
+          "title": "研究显示超七成英语生物医学论文使用AI辅助写作",
+          "summary": "一项调查发现超过70%的英语生物医学论文已使用AI辅助写作，呼吁业界建立完善监管机制。",
+          "hotness": 75,
+          "link": "https://www.ithome.com/0/993/781.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 26,
+          "title": "Dr. Dre公开支持AI音乐，类比鼓机与合成器",
+          "summary": "美国音乐人Dr. Dre表示支持AI音乐创作，将其视为与鼓机、合成器类似的工具，引发业内讨论。",
+          "hotness": 60,
+          "link": "https://www.ithome.com/0/993/745.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 28,
+          "title": "中国工人担忧被AI取代，逐步适应新技术",
+          "summary": "调查显示中国工人对AI替代工作的担忧加剧，但同时也在学习适应AI带来的工作方式变化。",
+          "hotness": 65,
+          "link": "https://www.pbs.org/newshour/world/workers-in-china-worry-over-being-replaced-as-they-adapt-to-the-growing-impact-of-ai-on-jobs",
+          "source": "PBS"
+        },
+        {
+          "id": 32,
+          "title": "观点：AI智能体突破遏制，国会需30亿美元应对",
+          "summary": "有观点认为AI智能体已突破安全控制，呼吁美国国会拨款30亿美元加强AI监管与安全研究。",
+          "hotness": 70,
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQ1dDUnFWMVBSTmFkcVpGbEE5c0xOVy1BZWxLUy10YTJtenVLc3ZfdnVqd0poN0xwbE5qUGZMOHE3V0RnbWJCb0szYk1NbWdPejFkMWRmaXZiRXdJaFRaZUk4S2p3N245MzYySFl3Y2g3c0xaZ0JscDFINXZwMy1jblNIZGRXc1BYVmU2Sm95ajI2R0RNQzI3ckg0c3hHbnRncFdsT3pR?oc=5",
+          "source": "University of Arizona News"
+        },
+        {
+          "id": 33,
+          "title": "FDA发布生成式AI医疗设备审查框架",
+          "summary": "FDA提出生成式AI医疗设备的潜在审查架构，并承诺随后出台监管指引，规范医疗AI应用。",
+          "hotness": 75,
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcmo5OFBxbXNNR1Riai1hSzN6eVg1b2Q5ZlphRGozWFFQcFVkVVdGQmJaSGxDdXgyeUJFVjdZbUdSRnFYYmItX3N4N0VvbFV3YzRvZXR5TFU4S0lFVXJyWTFlTV9ZT0QyYng0UW9RZkdfczNhVTFzMFFZOVlMZDFIQWFWd2JCYXZINlpyUHRvT2QtdThNanJKM1lVeHVodmNYRU9EZDJIUDZDMkR6eUZUQmxoTHRPMGVZOWp0ampOdFJSXy1I?oc=5",
+          "source": "Wilson Sonsini"
+        },
+        {
+          "id": 41,
+          "title": "智能眼镜进入职场，雇主需考虑隐私问题",
+          "summary": "智能眼镜在工作场所的应用引发隐私和伦理担忧，雇主需权衡技术便利与员工权益。",
+          "hotness": 50,
+          "link": "https://natlawreview.com/article/smart-glasses-workplace-considerations-employers?amp",
+          "source": "The National Law Review"
+        }
+      ]
+    }
+  }
+}

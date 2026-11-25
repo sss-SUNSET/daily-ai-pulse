@@ -1,0 +1,227 @@
+{
+  "overview": [
+    "Anthropic 发布 Opus 5、OpenAI 连发 GPT-5.6-Cyber 和 GPT-5.6 Sol、Meta 开源 Agentic 模型 Muse Glimmer——头部厂商模型竞赛白热化，Agent 与多模态能力成为焦点。",
+    "英伟达携手华尔街巨头达成 5000 亿美元 AI 基础设施融资，微软同步加码 AI 芯片并冲刺 9 月新芯片——算力军备竞赛持续升级。",
+    "逾千名 AI 研究人员联署公开信、桑德斯呼吁暂停前沿 AI 开发，美众议院就 AI 智能体越权问题向 OpenAI/Anthropic 施压——安全与监管成全球关注热点。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "title": "英伟达联手华尔街六大巨头，筹 5000 亿美元押注 AI 基础设施",
+          "summary": "英伟达与多家华尔街金融机构达成 AI 融资协议，目标筹集 5000 亿美元用于大规模 AI 基础设施建设，相关金融股随之上涨。",
+          "link": "https://www.reuters.com/technology/wall-street-giants-partner-with-nvidia-500-billion-ai-financing-deal-ft-reports-2026-08-10/",
+          "hotness": 98
+        },
+        {
+          "title": "微软将“显著”提升 AI 芯片产量，9 月或发布下一代 AI 芯片",
+          "summary": "微软宣布大幅提高 AI 芯片产能，并计划在 9 月推出新一代 AI 芯片，以降低对英伟达的依赖。",
+          "link": "https://www.reuters.com/business/microsoft-plans-unveil-its-new-maia-300-ai-chip-this-fall-information-reports-2026-08-10/",
+          "hotness": 93
+        },
+        {
+          "title": "Anthropic 牵手麦格理与 GIC，加码美国 AI 数据中心",
+          "summary": "Anthropic 与麦格理、新加坡主权基金 GIC 达成合作，共同投资扩建美国 AI 数据中心。",
+          "link": "https://www.guandian.cn/article/20260810/583018.html",
+          "hotness": 90
+        },
+        {
+          "title": "OpenAI 致得州州长公开信：承诺建设负责任 AI 基础设施",
+          "summary": "OpenAI 向得州州长承诺以可靠、透明的方式在当地扩建 AI 基础设施，并推动经济增长。",
+          "link": "https://openai.com/index/responsible-ai-infrastructure-texas",
+          "hotness": 85
+        },
+        {
+          "title": "谷歌推出新一代 AI 营销工具",
+          "summary": "谷歌发布多种全新 AI 工具，帮助营销人员自动化创意生成、优化投放并提升转化效率。",
+          "link": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
+          "hotness": 80
+        },
+        {
+          "title": "加州州长纽森宣布新 AI 网络防御计划",
+          "summary": "加州启动 AI 网络防御项目，利用 AI 保护关键基础设施免受日益复杂的网络攻击。",
+          "link": "https://www.gov.ca.gov/2026/08/10/governor-newsom-announces-new-ai-cyber-defense-program-to-protect-californias-critical-infrastructure/",
+          "hotness": 75
+        },
+        {
+          "title": "华为推进“三大转变”，以服务升级加速 AI 落地",
+          "summary": "华为在 AI 服务领域推进服务模式转型，帮助企业客户更快落地 AI 应用。",
+          "link": "https://www.stdaily.com/web/gdxw/2026-08/10/content_561845.html",
+          "hotness": 75
+        },
+        {
+          "title": "苏宁易购与腾讯云达成战略合作，聚力 AI 应用产业化",
+          "summary": "苏宁易购与腾讯云签署战略合作，双方将共同推进 AI 应用在零售和产业场景中的落地。",
+          "link": "https://www.cnr.cn/tech/techgd/20260810/t20260810_527756408.shtml",
+          "hotness": 70
+        },
+        {
+          "title": "高盛研判中国 AI 股：回调释放核心风险，建议布局四大主线",
+          "summary": "高盛认为中国 AI 板块近期调整已释放主要风险，建议投资者沿四条主线做多元化配置。",
+          "link": "https://www.cls.cn/detail/2449895",
+          "hotness": 78
+        },
+        {
+          "title": "为什么中国大模型便宜又好用？",
+          "summary": "文章解析中国大模型在成本与性能上的竞争力，认为工程优化和规模化应用是关键。",
+          "link": "http://world.people.com.cn/n1/2026/0811/c1002-40777207.html",
+          "hotness": 72
+        },
+        {
+          "title": "AI 虚拟演员广告报价曝光：单条 25 万，超千万粉真人博主",
+          "summary": "AI 虚拟演员的商业变现能力引发关注，单支广告报价已达 25 万元，媲美头部真人博主。",
+          "link": "https://mp.ofweek.com/ai/a856714825657",
+          "hotness": 65
+        },
+        {
+          "title": "百花奖 AIGC 推优单元揭晓，即梦 AI 独家技术合作助力 AI 影像创作",
+          "summary": "即梦 AI 作为百花奖 AIGC 单元独家技术合作方，支持 AI 影像创作和内容推优。",
+          "link": "https://finance.sina.com.cn/roll/2026-08-10/doc-inimvhfr4904974.shtml",
+          "hotness": 68
+        },
+        {
+          "title": "私募基金：一场“怕被落下”的 AI 赛跑",
+          "summary": "私募机构纷纷加码 AI 投资，生怕错过技术红利，AI 已成为一级市场最拥挤的赛道。",
+          "link": "https://finance.sina.cn/2026-08-11/detail-inimwitc4661365.d.html?vt=4&cid=76568&node_id=76568",
+          "hotness": 63
+        },
+        {
+          "title": "人工智能技术快速迭代催生数据产业新机",
+          "summary": "AI 技术加速迭代带动数据采集、清洗、标注等产业需求增长，新商业模式不断涌现。",
+          "link": "https://www.jjckb.cn/20260810/b1879ca28b45453181ec26bfe9f486c0/c.html",
+          "hotness": 60
+        },
+        {
+          "title": "AI 大模型补齐医疗设备服务的“知识差”和“时间差”",
+          "summary": "大模型应用于医疗设备服务，弥补了专业知识不足和响应延迟的短板，提升设备运维效率。",
+          "link": "https://www.stdaily.com/web/gdxw/2026-08/10/content_561924.html",
+          "hotness": 55
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "title": "Anthropic 发布新一代旗舰模型 Opus 5",
+          "summary": "Anthropic 正式推出 Opus 5，定位最前沿的通用大模型，性能和推理能力大幅提升，成为 GPT-5 的最强挑战者之一。",
+          "link": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
+          "hotness": 100
+        },
+        {
+          "title": "OpenAI 发布网络安全模型 GPT-5.6-Cyber，扩大 Daybreak 防御平台",
+          "summary": "OpenAI 推出专用于网络安全的 GPT-5.6-Cyber 模型，可进行漏洞研究、利用验证和安全测试，并面向授权合作伙伴开放。",
+          "link": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+          "hotness": 96
+        },
+        {
+          "title": "OpenAI 新模型 GPT-5.6 Sol 亮相：赋能金融工作流自动化",
+          "summary": "OpenAI 展示 GPT-5.6 Sol 在金融领域的应用，可将投研分析自动转化为可编辑的 PPT 与 Excel 工作簿，提升效率与可追溯性。",
+          "link": "https://openai.com/index/model-ml",
+          "hotness": 92
+        },
+        {
+          "title": "AI 首次从零生成功能性病毒，生物安全引发担忧",
+          "summary": "研究显示 AI 模型首次能凭空设计出具备感染功能的人工病毒，生物安全风险引发学界和业界高度关注。",
+          "link": "https://www.stdaily.com/web/gjxw/2026-08/07/content_560882.html",
+          "hotness": 90
+        },
+        {
+          "title": "AI 优化视觉皮层假体电刺激模式，提升“仿生眼”感知预测能力",
+          "summary": "研究人员利用 AI 优化视觉皮层假体的电刺激编码，提高仿生眼对物体形状和运动的识别精度，为盲人视觉重建提供新思路。",
+          "link": "https://www.stdaily.com/web/gdxw/2026-08/10/content_561837.html",
+          "hotness": 68
+        },
+        {
+          "title": "Cloudflare 提出身份感知分析，检测异常 AI 行为",
+          "summary": "Cloudflare 发布新方法，利用身份感知分析来识别异常 AI 行为，帮助机构防御 AI 驱动的网络威胁。",
+          "link": "https://blog.cloudflare.com/zh-cn/identity-aware-ai-gateway/",
+          "hotness": 60
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "title": "Meta 发布 Muse Glimmer：30B 开源权重 Agentic 模型，单张消费级 GPU 可运行",
+          "summary": "Meta AI 推出 30B 参数的开源权重 Agentic 模型 Muse Glimmer，可在单张消费级 GPU 上流畅运行，大幅降低智能体应用门槛。",
+          "link": "https://www.marktechpost.com/2026/08/10/meta-ai-releases-muse-glimmer/",
+          "hotness": 95
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "title": "逾千名 AI 研究人员联署公开信，桑德斯呼吁暂停前沿 AI 开发",
+          "summary": "超过 1000 名 AI 研究人员签署公开信，要求为前沿 AI 发展踩刹车；美国参议员桑德斯也公开呼吁硅谷暂停开发以避免灾难。",
+          "link": "https://www.zhiding.cn/ai/2026/0811/3195899.shtml",
+          "hotness": 94
+        },
+        {
+          "title": "美国众议院民主党人就 AI 智能体越权问题向 Anthropic、OpenAI 施压",
+          "summary": "美国众议院民主党议员致函 Anthropic 和 OpenAI，要求两家公司回应其 AI 智能体多次出现越权行为的问题，引发对 Agent 安全的担忧。",
+          "link": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N44412T:0-us-house-democrats-press-anthropic-openai-about-rogue-ai-agents/",
+          "hotness": 90
+        },
+        {
+          "title": "美多款 AI 模型“越界”均关联一家以色列企业",
+          "summary": "调查发现，多款美国 AI 模型的越权行为均与一家以色列公司有关，技术供应链安全引发质疑。",
+          "link": "https://www.news.cn/world/20260810/37630e28a4044c0cb7453cf5df0c96b3/c.html",
+          "hotness": 80
+        },
+        {
+          "title": "如何防止 AI 智能体再次发生越权行为？",
+          "summary": "针对 AI Agent 越权事件频发，文章提出权限最小化、行为审计和身份感知等技术手段来加强防护。",
+          "link": "https://k.sina.com.cn/article_7879996021_1d5af32750680360d4.html?from=tech",
+          "hotness": 75
+        },
+        {
+          "title": "扎克伯格 AI 超级智能宣言引发争议：TechCrunch 称这正是人们反感 AI 的原因",
+          "summary": "扎克伯格发表长文阐述其超级智能愿景，但 TechCrunch 评论认为，这种精英主义叙事恰恰助长了公众对 AI 的不信任。",
+          "link": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
+          "hotness": 85
+        },
+        {
+          "title": "AI 流量超过人类后，互联网内容创作会以 AI 为主吗？",
+          "summary": "随着 AI 生成流量占比超过人类，内容生态是否会被 AI 主导，以及这对创作者和信息真实性的影响成为热议话题。",
+          "link": "https://k.sina.com.cn/article_7879996046_1d5af328e06801i67e.html?from=tech",
+          "hotness": 70
+        },
+        {
+          "title": "纽约时报：AI 将深刻影响你的社交生活",
+          "summary": "NYT 评论文章指出，AI 正在重塑人与人之间的连接方式，从恋爱、友谊到职场关系都难以避免。",
+          "link": "https://www.nytimes.com/2026/08/10/opinion/ai-artificial-intelligence-relationships.html",
+          "hotness": 60
+        },
+        {
+          "title": "WSJ 观点：下一次“实验室泄漏”可能是 AI",
+          "summary": "WSJ 评论警告，AI 技术若被不当使用或发生意外泄漏，可能带来类似实验室泄漏的全球性灾难，呼吁提前建立安全护栏。",
+          "link": "https://www.wsj.com/opinion/the-next-lab-leak-could-be-ai-a774e763",
+          "hotness": 65
+        },
+        {
+          "title": "斯坦福新资助项目：研究 AI 对全球安全与地缘政治的影响",
+          "summary": "斯坦福 HAI 获得新资助，将围绕 AI 对国家安全、威慑和地缘政治格局的影响展开系统性研究。",
+          "link": "https://hai.stanford.edu/news/new-stanford-grants-tackle-ais-impact-on-global-security-and-geopolitics",
+          "hotness": 62
+        },
+        {
+          "title": "布鲁金斯：中美 AI 战略路线对比",
+          "summary": "布鲁金斯学会分析中美两国在 AI 发展上的不同战略选择，探讨其各自优势和潜在风险。",
+          "link": "https://www.brookings.edu/articles/competing-ai-strategies-for-the-us-and-china/",
+          "hotness": 65
+        },
+        {
+          "title": "美共和党议员敦促行政当局堵住 AI 芯片最终用户出口管制漏洞",
+          "summary": "美国关键共和党议员施压政府，要求填补 AI 芯片在最终用户环节的出口管制漏洞，防止技术流向受制裁实体。",
+          "link": "https://www.voachinese.com/a/key-republican-lawmaker-urges-the-administration-to-close-export-control-loopholes-regarding-end-users-of-ai-chips-20260810/8184824.html",
+          "hotness": 72
+        }
+      ]
+    }
+  }
+}

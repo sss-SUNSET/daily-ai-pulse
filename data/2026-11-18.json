@@ -1,0 +1,173 @@
+{
+  "overview": [
+    "OpenAI在Anthropic IPO定价前突然发布GPT-6.2 Astra和Sol双模型，部分领域超越Fable 5.2且成本大降，金融、科研及法律评估刷新纪录。",
+    "微软Ignite 2026集中推出自研AI模型矩阵（决策、语音、图像、编程、安全）并投产Maia 200芯片，以高性价比全面对标OpenAI与英伟达。",
+    "英伟达后黄仁勋时代首份财报大超预期，但董事会明确无意请其回归；同时AI Agent在银行账户操作中引发安全合规争议，金融与差旅场景加速落地。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "id": 9,
+          "title": "英伟达后黄仁勋时代首份财报大超预期，董事会明确无意请其回归",
+          "summary": "英伟达Q3营收1158亿美元同比增长103%，净利润1833亿美元；董事会主席称不会急于寻找黄仁勋继任者，黄仁勋仍可提名两名董事。",
+          "hotness": 95,
+          "link": "https://www.ithome.com/1/028/595.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 7,
+          "title": "微软自研芯片Maia 200投产：每瓦token性能提升1.7倍",
+          "summary": "微软第二代AI加速器Maia 200在Ignite 2026宣布投产，能效显著提升，强化自研算力基础设施。",
+          "hotness": 90,
+          "link": "https://www.ithome.com/1/028/597.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 36,
+          "title": "微软Ignite 2026将企业AI基础设施置于核心战略",
+          "summary": "纳德拉在Ignite 2026强调企业AI基础设施，推动Azure与自研模型协同。",
+          "hotness": 85,
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQzVwNl8wckRXeDBiTnZQYXp4U0VudG5yT0VxUFdkYVYwYUl0NUtCV20yVlY2SVZUQmhHZXpwcjRaZGVsMzN6aC0xdS1PQURvbl83bS04S0JDOWVjOHBmaGFIYmFpTFI5anlIME5OdkJ6YmNfeUxuLW8ya3dpUDR4enI4ZEhqVEIzeFYxaVNBMldreTdTN3F1MklkQlhkLXBrUGwwZlprU3ROV0ZVYnpqRHpFNA?oc=5",
+          "source": "Redmondmag.com"
+        },
+        {
+          "id": 2,
+          "title": "OpenAI推出ChatGPT for Sales插件及30+合作伙伴插件",
+          "summary": "新Sales插件和合作伙伴插件扩展ChatGPT商业应用场景。",
+          "hotness": 80,
+          "link": "https://openai.com/index/introducing-chatgpt-for-sales",
+          "source": "OpenAI Blog"
+        },
+        {
+          "id": 4,
+          "title": "OpenAI与智利政府合作推动负责任AI采用",
+          "summary": "双方将合作支持负责任AI政策与部署。",
+          "hotness": 70,
+          "link": "https://openai.com/index/introducing-openai-for-chile",
+          "source": "OpenAI Blog"
+        },
+        {
+          "id": 37,
+          "title": "Booking Holdings AI Agent Vayo可预订航班和酒店",
+          "summary": "Vayo智能体扩展至航班和酒店预订，差旅AI Agent商业化提速。",
+          "hotness": 75,
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPU1p2RndyN3oyS2lETzRPd0JnTFRtblczQUs4ZDAzNXI1YUJmOS1sWVpMcS1xR012VUxNQ21uYjRIbnRJeVdqckxaQkhNaHNnQ1pLelVmMmEwUVpncmkyTnRIalV6T1RRZDBCRzhodmc4UHByYnphMl9UM1lnU2wwUEIyTXdyUV9YUHlySjRWYXJGbG16cTZvWkNKOA?oc=5",
+          "source": "Skift"
+        },
+        {
+          "id": 33,
+          "title": "Sitero将临床AI Agent Ash扩展至全临床数据生命周期",
+          "summary": "临床AI智能体Ash覆盖数据全流程，提升医疗研究效率。",
+          "hotness": 70,
+          "link": "https://finance.yahoo.com/technology/ai/articles/sitero-extends-ash-clinical-ai-120800332.html",
+          "source": "Yahoo Finance"
+        },
+        {
+          "id": 13,
+          "title": "微软医疗AI转录引擎升级：多语言错误率降50%，覆盖全美1/3医师",
+          "summary": "Dragon Copilot升级医患对话转录，多语言错误率减半。",
+          "hotness": 75,
+          "link": "https://www.ithome.com/1/028/590.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 29,
+          "title": "AI基础设施公司DDN在纽约设旗舰办公室，创造233个岗位",
+          "summary": "DDN扩展纽约AI基础设施业务。",
+          "hotness": 60,
+          "link": "https://esd.ny.gov/esd-media-center/press-releases/empire-state-development-announces-california-based-ai",
+          "source": "Empire State Development (.gov)"
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "id": 0,
+          "title": "OpenAI发布GPT-6.2 Astra和Sol双模型，部分领域超越Fable 5.2且成本大降",
+          "summary": "OpenAI在Anthropic IPO前发布GPT-6.2 Astra和Sol，金融、科研刷新纪录；Astra for Law在法律智能评估中排名第一。",
+          "hotness": 100,
+          "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+          "source": "OpenAI Blog"
+        },
+        {
+          "id": 11,
+          "title": "微软Ignite 2026发布自研AI模型矩阵：决策、语音、图像、编程、安全",
+          "summary": "微软推出Decision-1.1、MAI Realtime 1、MAI Cyber 2 Flash、MAI Image 2.7和MAI Code 2，以高性价比全面对标OpenAI。",
+          "hotness": 95,
+          "link": "https://www.ithome.com/1/028/593.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 26,
+          "title": "商汤发布SenseNova Loop-9B循环计算模型，寒武纪Day 0完成适配",
+          "summary": "商汤推出新型循环计算架构模型，寒武纪同步打通推理链路，加速国产软硬件协同。",
+          "hotness": 85,
+          "link": "https://www.ithome.com/1/028/568.htm",
+          "source": "IT之家"
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "id": 27,
+          "title": "AWS分享生成式AI成本优化实践：规则用代码、判断用模型",
+          "summary": "AWS建议将确定性规则编码、判断交给模型，以降低生成式AI成本。",
+          "hotness": 65,
+          "link": "https://aws.amazon.com/blogs/machine-learning/cut-generative-ai-costs-code-for-rules-models-for-judgment/",
+          "source": "Amazon Web Services (AWS)"
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "id": 28,
+          "title": "美国银行警告AI Agent未经批准在客户账户内操作，印度试点agentic UPI支付",
+          "summary": "银行难以区分人类与AI代理登录，AI Agent金融操作引发安全与合规担忧；印度正试点基于ChatGPT和Claude的agentic UPI支付。",
+          "hotness": 85,
+          "link": "https://www.linkedin.com/posts/cnbc-tv18_aiagents-agenticai-banking-activity-7519380500109475840-1yZG",
+          "source": "LinkedIn"
+        },
+        {
+          "id": 1,
+          "title": "OpenAI与NATO及盟国网络机构合作加强AI网络防御",
+          "summary": "OpenAI将协助可信防御方利用AI强化网络安全。",
+          "hotness": 80,
+          "link": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+          "source": "OpenAI Blog"
+        },
+        {
+          "id": 18,
+          "title": "谷歌更新Gemini隐私控制：聊天记录可保留但不参与AI训练",
+          "summary": "用户可自主决定是否将Gemini聊天记录用于模型训练。",
+          "hotness": 75,
+          "link": "https://www.ithome.com/1/028/581.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 5,
+          "title": "OpenAI扩大ChatGPT学术研究计划至20万研究人员",
+          "summary": "OpenAI扩展学术研究免费使用计划，覆盖20万研究人员。",
+          "hotness": 70,
+          "link": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+          "source": "OpenAI Blog"
+        },
+        {
+          "id": 6,
+          "title": "OpenAI推出新工具与合作防止在线儿童性虐待",
+          "summary": "新工具和合作帮助预防、检测和报告在线儿童性虐待内容。",
+          "hotness": 70,
+          "link": "https://openai.com/index/strengthening-online-child-safety",
+          "source": "OpenAI Blog"
+        }
+      ]
+    }
+  }
+}

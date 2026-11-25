@@ -1,0 +1,132 @@
+{
+  "overview": [
+    "Google 发布 Gemini 3.8 Live 语音模型，支持实时推理，语音 AI 交互迎来重大突破。",
+    "Meta 计划秋季推出无摄像头智能眼镜，在隐私争议下调整产品策略。",
+    "Google 向所有工程师开放 Anthropic 的 Claude 模型，同时 Anthropic 与 OpenAI 推出金融服务工具，AI 巨头竞合加剧。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "id": 0,
+          "title": "Meta 计划秋季推出无摄像头智能眼镜，隐私争议下调整策略",
+          "summary": "据 The Information 报道，Meta 计划推出无摄像头智能眼镜以应对隐私担忧，预计秋季上市。",
+          "hotness": 75,
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbG1sTzZ4d21xMVU0WlpXa3RaMWNuQjU1NUhqeUh2YjZfV2JSUDE5U2EwY1k5OVgwZGJzbUMyR2Q4anc5MzJaVVVldU5zeE1YZURGc3VnbDljSDlIYzJrQWVwMzhaUkk3VWNjeVBaLVVwVUo5OVF6ckpjVkxWRHhRQ3JoMjhqbGRQazdFSm5nOUluWUoyM19nS3RhZXNoVjAySndoTXJIVFNoanYzemFPOHo1NA?oc=5",
+          "source": "Reuters"
+        },
+        {
+          "id": 2,
+          "title": "TotalEnergies 与 Mistral 合作推出 AI 油气勘探项目",
+          "summary": "TotalEnergies 与法国 AI 公司 Mistral 合作，利用 AI 技术提升石油和天然气勘探效率。",
+          "hotness": 80,
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMnNYSVRWdTJnTU1KQ2o3eEJvQlQzWk8yb01CMjlWa1o0MEprV29YR3p1Y3U1TlItRUtoYmZINDhMNUZHZ0wtbDJ1SzY3QVNKMnF2Rko1MFltOF8yOHhSX3hRVVhKOEpyUUxRWWNXZGk4OG9vX0pVY1h6cTgzbzBwckROMlNnNnhnc3hWYW9VbFo1WUxzeWJwTzNQVjY3alBIeXFsOVNaTkhjR2xW?oc=5",
+          "source": "World Oil"
+        },
+        {
+          "id": 5,
+          "title": "Meta 采取重大举措削减 AI 成本",
+          "summary": "Meta 宣布重大举措以降低 AI 基础设施成本，以应对 AI 热潮带来的财务压力。",
+          "hotness": 70,
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZEhVZmVsYXU1aGpfMUZ3MmFILUpJVDZBdktNMUJxeHZldGZsTjFWY0NRR3dhTkNtamo3cndtdEhjS25wdFR1Y3dUTFQ0RkRfd000bkItenM1ak42ekNJSHQ4dnV2aS1fMjlpLTQ2QVVfdlEyRFFWTEVYdHA2dU5MY3ZFLVBESmZ2b3JwMnNhdWFpT1RQa2Z1ZQ?oc=5",
+          "source": "Yahoo Finance"
+        },
+        {
+          "id": 7,
+          "title": "Orion 让 Claude 直接访问投资组合与 CRM 数据",
+          "summary": "财富管理平台 Orion 集成 Anthropic 的 Claude 模型，允许其直接访问投资组合和 CRM 数据，提升智能投顾能力。",
+          "hotness": 80,
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVVVpd3JMNHNQV3RfUjRyLWJSdmNhZWZOYzI4eFlKZXRmU3A4OW91T1FRVG9RWnd3Y2Z6eVp3VllMUkxPRjh3T09XNllUeFVkcG50dWlVXzVlZGUtYU9WX2pDc0JfSGVxQmNQVnktY3Rsc1B0R1FiR2FEZVBDbVgtcGN0T2lUR3VRSlVnc1MzX003clBaSHBsalBxWFI?oc=5",
+          "source": "thewealthadvisor.com"
+        },
+        {
+          "id": 8,
+          "title": "Meta 下一代头显在 Connect 2026 前泄露",
+          "summary": "Meta 下一代 VR 头显在 Connect 2026 大会前泄露，但 Valve 的 Steam Frame 发布可能不受影响。",
+          "hotness": 65,
+          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOV1FqeHZYZUl3Tnc5U2x5TmhoSDc0LTl3aWVLSjhUS1lidUt0bVZTNnlnc0w1UVdjWUZvREdGVVJJQTl0RnE0Z1RDeTVQTndDcDdIU1piVlBQV1gxUHNoSFE3bUJHZ0otT0lUUDVSbGs3RDRQMTNYVnNpTm40SVlJODJza0d5QXQxVmM2aGZpZ2x6T3N0OENwZjlJSXlyVmE5NzFuNGIydEplUnRnTFdmZV9DVzVlcWNxOVRPdHBUWmpCbnJGc2RMMkRLUjhhVWlacUxvQzJCNWwwVS1XakFxU3JzWERSZ0dsakRoR1pWUWxUUW03YnJfNEwxa2Q0YXRTRDBUaDMxNA?oc=5",
+          "source": "GamesRadar+"
+        },
+        {
+          "id": 9,
+          "title": "iPhone Duo 与其他折叠屏手机对比",
+          "summary": "The Verge 对比了苹果即将推出的折叠屏 iPhone Duo 与其他折叠屏手机的优劣。",
+          "hotness": 55,
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVDlGMzZRSm5tQ21iaF8yYXJJWVN6WmdldEhLektkZk9WSElTYm9PNWt5Q25IUnFld2RJS3p1bmQ4ektpa0JTLTlyc3FTdWZnTzVsUEVfbmxPbW5ocjd3SGtBWUYwc2RYdFZDWi1hSVpldWtDMUxoOHhZLWFqSjFSOUswOUFNR0JjTzFVOFN0OVZEQ1No?oc=5",
+          "source": "The Verge"
+        },
+        {
+          "id": 10,
+          "title": "Google 打破内部先例，向所有工程师开放 Anthropic 的 Claude 模型",
+          "summary": "Google 突破内部惯例，允许所有工程师使用 Anthropic 的 Claude 模型，反映 AI 竞争下的合作新态势。",
+          "hotness": 85,
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0tNWUxRjFObnZGemtqY3dHUHMweUVja2NkeUdiVWpING41ZHpPLWEwVVczTDdITUtDZHc4ei1ONHgyV0ZzNUJXU0pUVW42U2E4ZGo0ekhnY3FkR3pxenAwdWRHSVQ5UWdSWW5rYmJXYTM1WFJPTVE?oc=5",
+          "source": "finance.biggo.com"
+        },
+        {
+          "id": 11,
+          "title": "Anthropic 与 OpenAI 推出新的金融服务工具",
+          "summary": "Anthropic 和 OpenAI 分别推出面向金融服务的 AI 工具，加速 AI 在金融行业的落地。",
+          "hotness": 85,
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQWtrZTY2X29zQlVDWjJkTzVieEwxZGhkNGtZY3pNUnhrUXJsTkVlUThya1I1dW1ldXEyLVhXTmI2ejhYcF9VbEpCMFFjbDlsQi1yQlQ3ZExWa1V3M1Uyc19xMmVyd1Z4RU1oekpCN0cwb004TWdCeTF5TElLSFhrOU9FUWp2elRfb0VjekhjNA?oc=5",
+          "source": "investordaily.com.au"
+        },
+        {
+          "id": 12,
+          "title": "高盛：Meta Muse 发布与法律和解为股价扫清障碍",
+          "summary": "高盛报告称，Meta 的 Muse AI 模型发布及法律和解有助于提升投资者信心，为股价上涨铺平道路。",
+          "hotness": 80,
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5sZ2Q1X0U0SG9TY2xEZ0dCTkZMT0lDT0FDM2I2M1VGM3hpZWZnSEhaZmpsWFhDa1UzdkllZzdCTGhCT1N6azdycy1VdHJfcllLc1RNNkw4OEJhTkc0X2hSX0lyNElheWc1NFdXM2hCS1ZzNXJLbUE?oc=5",
+          "source": "finance.biggo.com"
+        },
+        {
+          "id": 4,
+          "title": "Meta One 发布是否需要投资者行动？",
+          "summary": "分析认为 Meta One 的发布可能对 Meta 投资者产生影响，需关注其市场表现。",
+          "hotness": 60,
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQVd1NlFnNVhkVFpZaVF2czdhZ2diSGlndzBoY2UxTnFQVHRabm45WkJ3LWRBSF9aWHR4ZnRGYzFCek5JQ3QxdEstdnlzck11ME05U1pHT1dfSGhTTnZ6Mndsc1NqZFJuZUN2SHF6aDhIUjVpWWZtSHpEQUdFRFhudnVEMjhUblFwdEd6dVNDWjJRR25KU1ZlLTA5ajB6bm5mdDZ1YmZPOW5IckUtRlpnTWJVUGRCWDdGa0h5cVhPckZMZmx3QkExTG1B0gHPAUFVX3lxTFAtcXh1S01CWWkzOTROTXY4OTRjOEcydm9LMDNmOGR0dHZaZmFqVnhPV0tGNWhpZE4tX242LUFWUjJLb3NtM2RoSFZkZlF3Wl9OeXFSc0pQZTV5ZzZILWlJb2NYbEpMbzRPeUpxY1FfN0ZTVHA2WVZfV2JYTXJoamdNUExFQjhyYVpCOTN4WWZSTjJWTHVTdEdmNzNKVXNCYjY5Vy0yU0pnZ19NSXE5aGV1VVhGWFc2dnd5b0lzQzhhRndfNzkwejZWVW1kTWVkOA?oc=5",
+          "source": "simplywall.st"
+        },
+        {
+          "id": 13,
+          "title": "Siacoin 发布 Sia 存储应用，目标 Google Drive 级易用性",
+          "summary": "Siacoin 推出 Sia 存储应用，目标在 2026 年 Q4 实现类似 Google Drive 的易用性。",
+          "hotness": 40,
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWUlmRC1sUXEzY0otemRYbVBVbDZlRkJEZl9lZ25lUkk3VUFVZVh4M0VpaVJqeWpXaUkzRG9XLUJJLVRxdzRXX1RvZUZLNWg0TlA5VFZPMXFaREhkWWNNNjFGOG54Q0dXMDNwdmlVM1pSUWpQNkFnb0tiMk5FUUYzVFVtbjNYTzZtM2hWWHItZTA5ZmFaM0xlZjVBOXlKX3F5dDF6RnF0eDBoSF9kY3RVaUR5TU5qdHVCYng0bzU5ZTNOOWVmUVBlLXJaS0Q5dFBmZUpodkY1OA?oc=5",
+          "source": "TradingView"
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "id": 3,
+          "title": "Google 发布新语音模型 Gemini 3.8 Live，支持实时推理",
+          "summary": "Google 推出 Gemini 3.8 Live 语音模型，具备实时推理能力，标志着语音 AI 交互的重大突破。",
+          "hotness": 95,
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMlZIeDNsV2gwRElEYm1rd2NnTmp0Sk9GWWNYVFR4VGwxM0lWVnY1TFhuc1gxNWUzN3F5STA2Vnh4anRfVDhabDZ6RWVGWWdwMHlTMDByQmJKdVVtcTZXbjFHOElqYmw4VDBPaXgxdnU5ZHI5X080bElONFlYZjBSNk84Ymg3cFg5ZUR3emItSmJIUnhLT09lQkRENS1nenNYVUtyYXhXVHZ1QQ?oc=5",
+          "source": "SiliconANGLE"
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": []
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "id": 6,
+          "title": "加州新聊天机器人法案 'Adam's Law' 反映 OpenAI 监管策略转变",
+          "summary": "加州通过针对聊天机器人的 'Adam's Law'，显示 OpenAI 在州级 AI 监管上的策略调整。",
+          "hotness": 75,
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWnhmRFpWMnMtRzVCWExrX2JvZnQ1bkRoUy1td2tjaUhTeW1rZTFYOUZWN2VRS0xaLW9jdy1FelBsc3k3V0luSFJQaHlWZHB6RVRMX1NlRkpFQ3NMSlUzTlV6Z1JHS3BVclhMcDRGMkE4NU1OMnI1dTE2T1oxVVZXb2pfSnJpTmVsOGl2RjRKWGVLbzlkQWJPVWI5VGoyU3J2WFN4N3RndnM2LVNwUm5LR1N1OUpuQW8?oc=5",
+          "source": "inkl"
+        }
+      ]
+    }
+  }
+}

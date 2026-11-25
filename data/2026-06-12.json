@@ -1,0 +1,76 @@
+{
+  "overview": [
+    "AI产业基础建设与融合应用成为主流趋势",
+    "AI伦理争议与监管问题日益凸显",
+    "医疗健康领域AI应用取得显著进展"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "title": "AI产业基础建设与企业发展",
+          "summary": "多篇报道聚焦AI产业基础建设，包括央广网强调打牢AI产业地基，南方日报报道AI散热赛道出现百亿级企业，SK海力士考虑引入ChatGPT等外部AI服务。",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE85NHp4OXhQOWNMa1NlZ0U2WmZpUlJSbG13c1pTcC1tN0t1d2VtcGxtWmFfaXdxUTFVQUtJNnpsOVJSZmlVczQ4blRhNndOYmNkVGlyRDk3NENsOUszNW9pNjNqbU9PRlpNOF9SVFRKQQ?oc=5",
+          "hotness": 85
+        },
+        {
+          "title": "OpenAI收购与巨头竞争",
+          "summary": "OpenAI宣布收购Ona以支持其AI编程助手Codex，同时路透社报道Anthropic与OpenAI围绕AI未来展开激烈竞争。",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE55b0NuQ2NnRUxsRnl1MlBBX2pFNUIzSll5WEVHN3V0TzRIT01RQ0dEbDlGLWVaWXdaaHRybmJjb25URHB6cDl1bmlOcTA4dGg2c2xqSjhHaVZSMXFKSTRvR0hacWNkeFN0aWNzVVl6Z0V2d0Np0gF6QVVfeXFMTXBKWlVVckZnRFlrcE42SWlkTnROWTBwSnpRRjZHTnU3WktnbkQwZ1VIekNXVmVINE8yR3VWNzh1cVFxdGRtNnNETG1WZF84elJLTUNrc2ZFNWN1dXlpcUN6LTV2dFFHdVZJZXltQ0stRTZwOXBzdEl2cFE?oc=5",
+          "hotness": 88
+        },
+        {
+          "title": "企业AI应用与融资动态",
+          "summary": "银信科技成立智算科技公司含AI及机器人业务，Upriver获得1400万美元融资用于自动化企业数据工程。",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5KS2RsaG44dU93Yjc1YVBpV09XWVBjblZMNHhXc0RVMUF2NkVLQ0xmVjYtMjZ0SmV6dmQ2a2FIUkZwTlBGdlRYWjRMT3FfSXpQVHhnR2xSRmxRVzh2Vmc?oc=5",
+          "hotness": 75
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "title": "AI在数学与医疗研究突破",
+          "summary": "AI接连破解经典数学难题深度融入研究核心环节，加州大学开发新AI技术大幅缩短乳腺癌筛查时间。",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zLWd3X2o1LTMyMUdzbjg4U3VXU0d0WUUzSGpwN3g4T25LNE0tY0xyX0M3Qm55SEVrUFd4eWlOa0h5eExGYWYtaXlQMlk5QjVpTFUwTjVMWHQwejM4bF9sSVVyZTRBOW9BZXFvUU5BWmM?oc=5",
+          "hotness": 82
+        },
+        {
+          "title": "神经网络与脑科学研究",
+          "summary": "北京脑所赵瑚表示神经网络研究工作有望反哺AI发展，南加州大学研究员领导240万美元AI核心项目治疗小脑疾病。",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMW5ucmh6MmFxbXgwVURQcDFXZWFlRVN6MGxpMC1ncjhxV2FZQ2VHS0hRa3YzUzluWnFmU0lzQW1wMG9jVmRmQnlsdjhMRld3cGlpZG45Y29uSXFjYWNDcmNmaGVFNkYzdy1VbzZsQnJlVjRtWVBidkNqZTBhb19aSkhnal9TbEpobDBPU0pSbw?oc=5",
+          "hotness": 78
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": []
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "title": "AI伦理争议与监管挑战",
+          "summary": "OpenAI指控中国相关行动利用ChatGPT介入美国AI政策辩论，佛蒙特州国会选举AI生成视频测试新披露法，法官因律师草率使用AI而将其撤换。",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObFdrWDhLdFJBQjR6SVJpUXhRZU13SXRNODRxVTI1Z212RFZhSVRvRjJQdXpodC1ZSUk1M2ZkRmdaVF9DMk9mUkI5MHdneENDUnlYc2xOekhvMl9YRXBjeS1rbTJCRDZXaW1EdW5XZ204SU5KZ0czcnluMDZ3M3U1T2JwV3NkbXktYjdwQUV4UU9sZDFSQUktXzV1T0t5WDgyUkpCYXJCdWxOOXRfWHE3MU9CNkFueGFjb3BReXpLbTA4UzNzR0hsemkwZ1NJRmvSAc8BQVVfeXFMTmxXa1g4S3RSQUI0eklSaVF4UWVNd0l0TTg0cVUyNWdtdkRWYUlUb0YyUHV6aHQtWUlJNTNmZEZnWlRfQzJPZlJCOTB3Z3hDQ1J5WHNsTnpIbzJfWEVwY3kta20yQkQ2V2ltRHVuV2dtOElOSmdHM3J5bjA2dzN1NU9icFdzZG15LWI3cEFFeFFPbGQxUkFJLV81dU9LeVg4MlJKQmFyQnVsTjl0X1hxNzFPQjZBbnhhY29wUXl6S20wOFMzc0dIbHppMGdTSUZr?oc=5",
+          "hotness": 90
+        },
+        {
+          "title": "AI社会影响与反弹",
+          "summary": "贝索斯驳斥AI抢饭碗论调称未来十年将迎多个黄金时代，同时出现AI反弹现象，专家呼吁商业通信中谨慎使用AI。",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5CQmVPR05xSHFMV2xLdk8xYkVvTDBfdUlMa3ZHQkRReG9COW9lVnNBWkdubEJZY1pYbm1CRmVDOGtRV184RjVYWA?oc=5",
+          "hotness": 85
+        },
+        {
+          "title": "AI成本与泡沫担忧",
+          "summary": "医疗保险公司称AI推高医疗成本，同时有分析探讨AI泡沫破裂的可能情形及其影响。",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZE5BZ0ZtbkJnQ21CcW82VEdDMjAwUzBqMVB3Z1hYR0dYcXVEUHNjblRvX0RURS0xSXJ4blo2SnZEcms0X3dSVXRpaklhTjdBQnVSeTRRRUI2LUhGbUFkSDdzSTM3enF6dmswczk0OUpkcktwM1JzNWxtNDhfdTJ6SlM0OFkxVzR4cmRzaXVJUnktTmRPVUUzMkxCRHA?oc=5",
+          "hotness": 80
+        }
+      ]
+    }
+  }
+}

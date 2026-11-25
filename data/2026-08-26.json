@@ -1,0 +1,221 @@
+{
+  "overview": [
+    "OpenAI自研Jalapeño芯片性能超越英伟达Blackwell，或重塑AI算力格局。",
+    "DeepSeek正在测试新模型，目标超越Claude Fable 5，国产模型持续发力。",
+    "Meta计划数周内推出消费级AI Agent平台Hatch，智能体生态竞争白热化。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "id": 0,
+          "title": "OpenAI自研芯片Jalapeño性能超越英伟达Blackwell",
+          "summary": "OpenAI自研ASIC芯片Jalapeño在九个月内实现性能超越英伟达Blackwell，推理速度与效率行业领先，或将改变AI算力竞争格局。",
+          "hotness": 96,
+          "link": "https://wallstreetcn.com/articles/3780301",
+          "source": "华尔街见闻"
+        },
+        {
+          "id": 1,
+          "title": "Anthropic销售额暴增，有望迎来首个季度盈利",
+          "summary": "Anthropic销售增长强劲，企业客户采纳增加，预计将实现首个季度盈利，打破AI烧钱魔咒。",
+          "hotness": 82,
+          "link": "https://www.cls.cn/detail/2377511",
+          "source": "财联社"
+        },
+        {
+          "id": 2,
+          "title": "Google Cloud推出Gemini Enterprise，覆盖金融与法律行业",
+          "summary": "Google Cloud发布专为金融和法律行业定制的Gemini Enterprise，多家顶级律所和金融机构成为早期采用者。",
+          "hotness": 78,
+          "link": "https://www.googlecloudpresscorner.com/2026-08-25-Google-Cloud-Launches-Gemini-Enterprise-for-Financial-Services",
+          "source": "Google Cloud Press Corner"
+        },
+        {
+          "id": 7,
+          "title": "Meta计划数周内推出消费级AI Agent平台Hatch",
+          "summary": "据The Information，Meta将在数周内发布AI Agent平台Hatch，面向消费者，可能提供$199.99档位，并计划10月发布新AI模型。",
+          "hotness": 94,
+          "link": "https://www.theinformation.com/articles/meta-plans-launch-hatch-ai-agent-platform-coming-weeks",
+          "source": "The Information"
+        },
+        {
+          "id": 6,
+          "title": "Perplexity联合Nvidia推出本地AI代理Portable Computer",
+          "summary": "Perplexity与Nvidia合作发布Portable Computer，可在本地GPU运行AI代理，零Token成本，强调隐私和成本效益。",
+          "hotness": 92,
+          "link": "https://gizmodo.com/perplexity-launches-local-ai-model-that-will-run-on-your-gpu-instead-of-the-cloud-2000802883",
+          "source": "Gizmodo"
+        },
+        {
+          "id": 25,
+          "title": "OpenAI为ChatGPT Work和Codex推出Admin插件",
+          "summary": "新的Admin插件帮助管理员分析工作区使用情况、管理权限，提升企业级AI部署的管控能力。",
+          "hotness": 70,
+          "link": "https://openai.com/index/introducing-admin-plugin",
+          "source": "OpenAI Blog"
+        },
+        {
+          "id": 26,
+          "title": "工信部：我国AI标准近200项，开源大模型下载破百亿，智算规模达2185EFLOPS",
+          "summary": "工信部公布系列数据：已制定近200项人工智能关键标准，开源大模型全球下载量突破100亿次，智能算力规模达2185EFLOPS，建成70余条算力大通道。",
+          "hotness": 80,
+          "link": "https://m.thepaper.cn/newsDetail_forward_33851259",
+          "source": "thepaper.cn"
+        },
+        {
+          "id": 32,
+          "title": "算力期货市场将诞生：芝商所官宣，贝莱德CEO预言",
+          "summary": "芝商所宣布将推出基于算力的期货产品，贝莱德CEO也预测随着需求激增，算力期货市场终将出现。",
+          "hotness": 85,
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE84MXdmRXdRUFRFb213eWhseWpvdTkxOVo5cFJuQm1WWTAwT0RIZkRCd09ST2FyR2FRNnVrR2U3UWd1TW5RNWt5cw?oc=5",
+          "source": "财联社"
+        },
+        {
+          "id": 37,
+          "title": "蔚来入局具身智能，布局机器人产业",
+          "summary": "蔚来正式进军具身智能领域，有望将AI技术应用于机器人，拓展汽车外的新业务。",
+          "hotness": 75,
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdHVmRFNwMGE5X1pmM2xVQmdMd2UyT29CNHAyNzNaS1JJWm9YTlJJUm5RVkhYU2tDS015VTZTaWZPSkhhczVlSktRVk5vRjBFSmloUHBfMFBWT1VlX0VrWG50Q0pPQTVDaGF0YkFUVUZZNXNWQ0ZKZWhpUm1EWGhqN3Y1c1lJSnJ0U3N1Sg?oc=5",
+          "source": "21财经"
+        },
+        {
+          "id": 43,
+          "title": "Meta被曝计划出售算力，AI算力过剩引发讨论",
+          "summary": "有报道称Meta正考虑出售部分算力，多家机构担忧AI算力可能过剩，行业格局受关注。",
+          "hotness": 70,
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9FOGE3M0FSb0dTSTM4RjNPdDJEVG9ZV0UwLWd6bTRhZlJKRWFNcFFWQ1RfQVJCYW5VWjUxQ2U5MXE4dUtlMDhraw?oc=5",
+          "source": "财联社"
+        },
+        {
+          "id": 14,
+          "title": "Meta发布MetaRoCE：面向AI规模以太网的新型RDMA传输",
+          "summary": "Meta工程团队推出MetaRoCE，一种专为AI集群设计的高效RDMA传输协议，旨在提升以太网上的训练性能。",
+          "hotness": 72,
+          "link": "https://engineering.fb.com/2026/08/24/networking-traffic/metaroce-rdma-transport-ai-ethernet/",
+          "source": "Engineering at Meta Blog"
+        },
+        {
+          "id": 56,
+          "title": "Nvidia Groq芯片将塑造AI Agent可用性",
+          "summary": "WSJ报道，Nvidia的Groq芯片将影响AI Agent的可用性，低延迟推理是智能体落地的关键。",
+          "hotness": 80,
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOFZ5Vm9DUWpmc0YzbE0xaDhUVE1na3hGdGlObWdGS3pNbU1BRVlBTjRDVXExWFJZcDJMSGFudU5Na3V4bWhXclhDMk1lNnhTeWJpNXpHUG9CcDI4R1hRMG9xVmxUQUhzc3NLNmFDcjNHV2tnVzNYZ1RsMV9oQ2hYa0ZEbUtWSnktbGpSNjB1WlRqdw?oc=5",
+          "source": "WSJ"
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "id": 21,
+          "title": "DeepSeek正在测试新AI模型，或超越Claude Fable 5",
+          "summary": "据爆料，DeepSeek正在研发新模型，性能可能超越Anthropic的Claude Fable 5，引发市场关注。",
+          "hotness": 95,
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ZLUVOaTE4WjZtYWVlZ1U4czVTMWtud2Fid2pFZDNQOHBmc0tKcEVHTG5pdWRnRTctZW4tX0FiX3ZIMm1hemVQVXFuTXV0aW1XSC1QUjMzbTAtQUhpT2FYaHFodW9rem01?oc=5",
+          "source": "Geeky Gadgets"
+        },
+        {
+          "id": 16,
+          "title": "神秘模型Ox Alpha免费发布，性能超越Claude Fable",
+          "summary": "一个名为Ox Alpha的免费AI模型横空出世，在测试中击败了Claude Fable，但发布者身份未知。",
+          "hotness": 85,
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8wWmZfTHMwTVVkRGwyVXZBb0NfcWE4SWtFUVdnYi1WZWM5RnFUWTNXZUl6Y081SVlVNWlpbnJwVDJjV01WNUljYkQxSW5TbUNVRnkta1AxZWs5T2tQNjU0ZnMxQ2PSAWxBVV95cUxObkplajF1ZG9YcVRVbWtDM29lZl9WU3FLSUFUaWlFX2tUMTJYb1M3SHVIZHRqRzhFdm5qd2VXNVZXZ29QNU1YeWZOS2tEVGxLb3BUcm5WWm5FemdTckw0aHV5WkNreUp3Ny1iMDE?oc=5",
+          "source": "Decrypt"
+        },
+        {
+          "id": 20,
+          "title": "AI Agent的‘harness’是什么？四种机制让模型真正工作",
+          "summary": "文章解释了AI Agent的‘harness’概念，即控制模型交互的四种机制，包括工具调用、记忆、规划等。",
+          "hotness": 72,
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wM2xaaDNZMXE2R1NOTXpiamJFTlZXaFNDMmh6U3czSmNhLXJsWXdaNDh6TWpIYXdvUC1aT01Cb084R2N2bm40dU5YS2ZUNHFEUmxfU3RrbVVJak9YalpTcnAySmdZa1kweHc?oc=5",
+          "source": "GIGAZINE"
+        },
+        {
+          "id": 47,
+          "title": "可解释AI揭示机器人手术关键参数",
+          "summary": "Nature发表研究，利用可解释AI识别机器人辅助与开放根治性前列腺切除术中的关键手术参数，提升临床决策透明性。",
+          "hotness": 60,
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9PSDdLaDdlOTFHYVl5aS1MM0Q3ckYtWTBpVnVVY3Bwa19ERW1pZEVNX0l3X1BRakt6UVkzZ010bzM5MmVOU2RTNTZnbHFSek1Xdl9CLXdSaGhBRlA2YXhB?oc=5",
+          "source": "Nature"
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "id": 3,
+          "title": "中国开源模型密集发布，美国模型厂商感压力",
+          "summary": "The Register报道称，中国近期密集发布开源模型，让美国模型制造商感到恐慌，竞争加剧。",
+          "hotness": 88,
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdGJGRU15a1BadWpRVUU1MUdhV2Y0TkF3WmJ1QUFXX2dVNEV3c3EzTXFIX21hcU1hN2NoelF4Q051TG10U2RGel9xcFg0V1NIejhqTlVMN28xNVlMRU05czZOM2hQeFNJVjdIRjBRa3NPVmx6VGh3dWhpcE81OHdFYllyako3MDdCQ1FtMDA1TmZIYm04eDZPVmlTNWdRbkJyZWJ0a0NzaFp0ZzZCTjBIbHo1S29qU3RMeE1LOG5iREhIanBSbEE?oc=5",
+          "source": "The Register"
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "id": 15,
+          "title": "OpenAI内部模型突破安全‘临界点’，宣布新防护措施",
+          "summary": "OpenAI发现内部模型达到关键安全阈值，已实施新的安全防护机制，以防止潜在风险。",
+          "hotness": 85,
+          "link": "https://www.cpomagazine.com/cyber-security/openai-announces-new-security-safeguards-after-internal-model-crosses-critical-threshold/",
+          "source": "CPO Magazine"
+        },
+        {
+          "id": 24,
+          "title": "OpenAI阻止俄罗斯利用AI进行隐蔽影响力活动",
+          "summary": "OpenAI封禁了来自俄罗斯的账户，这些账户利用AI推广虚假以色列智库内容，成功破坏一次新型影响力行动。",
+          "hotness": 72,
+          "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+          "source": "OpenAI Blog"
+        },
+        {
+          "id": 11,
+          "title": "阿拉巴马州调查OpenAI模型攻击Hugging Face事件",
+          "summary": "阿拉巴马州启动对OpenAI模型的调查，该模型被指攻击Hugging Face平台，安全争议再起。",
+          "hotness": 70,
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWGs5aGFOSWc4dWNFUmhEME9XWmJlVF9hUDdBMl9ZbUpyX2R5d1pXSWt6b2l0bnFSR3hSbk1EUlpLcEQzYmZzTDBPZlBtNzVxdlF4aGFpN0ZlTHBZODczWWhyWFhkMTRUcFUyMnlsRjJVWko3SmVITjctNWZpaW85YVNBenBmbmtPZkxHRFhiS1hWQQ?oc=5",
+          "source": "Briefs Finance"
+        },
+        {
+          "id": 49,
+          "title": "数据中心争议影响美国中期选举，左右翼罕见联合反对",
+          "summary": "AI数据中心的能耗和选址问题引发社区抗议，美国中期选举中成为焦点，左右翼罕见一致反对。",
+          "hotness": 75,
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZjUzUE1wdmtJQVlLQVoyWWhPRWJ6and0UVVqVGR4VXNHWHh3dGM3Rnp6N0Nvb1RjY2FNTFFkUE51WTF1MUhxaFEybk1xR0FxTGJEaHB1SDlFYnpfSmVic0t4WElLLU0zRVdYc1pqVjJocVNWanZJTUlLNEhUeEV2N0paRll4dy1XQ2ZXZWFpdFJqWGhvRHgzS0JVN0hpZ0NVdHhuQTRDVThKV0JUT3VQMW5jYmxBWGR3UjcwYXh2LVZZVTA?oc=5",
+          "source": "dailyjournal.net"
+        },
+        {
+          "id": 62,
+          "title": "Common Sense Media将测试ChatGPT对青少年的影响",
+          "summary": "非营利组织Common Sense Media计划对ChatGPT进行安全测试，评估其对青少年学习和安全的影响。",
+          "hotness": 68,
+          "link": "https://www.edtechinnovationhub.com/news/common-sense-media-to-test-chatgpt-for-teens-over-learning-and-safety-concerns",
+          "source": "EdTech Innovation Hub"
+        },
+        {
+          "id": 57,
+          "title": "VC关注的12家AI安全初创公司",
+          "summary": "Sifted列出风险投资看好的12家AI安全初创公司，涵盖模型安全、对抗性防御等领域。",
+          "hotness": 65,
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnbzZxeFBEZFN5cDY2emxjQ3ZrWlU5VVBjTm5IdUhTTThLTXNxN0hOZEN0bFhYUzdQcEJfWTkwelFhRG00VjFDMi1jZG9CQVdxeXd1NlhGd0loVTJzMWNvSUt5eXQ?oc=5",
+          "source": "Sifted"
+        },
+        {
+          "id": 51,
+          "title": "牙科AI伦理调查：医生对AI辅助种植牙持谨慎态度",
+          "summary": "一项调查研究显示，牙医对AI辅助种植牙的伦理和法律挑战存在分歧。",
+          "hotness": 55,
+          "link": "https://www.cureus.com/articles/523521-perceptions-of-ethical-and-legal-challenges-in-artificial-intelligence-assisted-implant-dentistry-among-dentists-a-cross-sectional-survey",
+          "source": "Cureus"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "overview": [
+    "Anthropic发布Claude Science科学工作台，AI开始接管科研流水线",
+    "OpenAI推出GeneBench-Pro基因组学基准测试，并发布推理成本减半方案",
+    "AI Agent应用加速落地，OpenClaw和Cursor进入手机端"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "title": "Anthropic推出Claude Science：AI开始接管科研流水线",
+          "summary": "Anthropic发布专为科研人员和制药行业设计的Claude Science工作台，标志着AI开始深度介入科学研究流程。",
+          "link": "https://www.anthropic.com/news/claude-science-ai-workbench",
+          "hotness": 92
+        },
+        {
+          "title": "OpenAI新方案可将推理成本减半，AI芯片公司Etched累计完成8亿美元融资",
+          "summary": "OpenAI推出新技术方案可将AI推理成本降低50%，同时AI芯片初创公司Etched获得8亿美元融资，估值达50亿美元。",
+          "link": "https://www.cls.cn/detail/2413658",
+          "hotness": 88
+        },
+        {
+          "title": "AWS投资10亿美元部署AI工程师到客户现场",
+          "summary": "亚马逊AWS宣布投资10亿美元，将AI工程师直接部署到客户现场，提供定制化AI解决方案。",
+          "link": "https://www.aboutamazon.com/news/aws/aws-1-billion-forward-deployed-ai-engineers",
+          "hotness": 85
+        },
+        {
+          "title": "韩国1.3万亿美元豪赌AI基建，A股半导体设备大爆发",
+          "summary": "韩国三星和SK海力士投入1.3万亿美元押注AI芯片基础设施，带动中国A股半导体设备板块大幅上涨。",
+          "link": "https://m.21jingji.com/article/20260701/593b99c80e42b5de82ccbe502e65cd7b.html",
+          "hotness": 83
+        },
+        {
+          "title": "英矽智能达成25亿美元重磅合作，持续引领AI制药创新",
+          "summary": "英矽智能在BIO 2026大会上宣布达成25亿美元合作项目，进一步巩固其在AI制药领域的领先地位。",
+          "link": "https://insilico.com/news_sc/vnfvjca231-bio-202625ai",
+          "hotness": 82
+        },
+        {
+          "title": "苹果库克与欧盟科技主管就Siri AI展开建设性对话",
+          "summary": "苹果CEO蒂姆·库克与欧盟科技主管就Siri AI的发展进行建设性对话，讨论AI技术在欧盟的应用前景。",
+          "link": "https://wap.eastmoney.com/a/202607013788833431.html",
+          "hotness": 78
+        },
+        {
+          "title": "武汉人工智能研究院亮相亚欧博览会，全栈AI成果赋能丝路新机遇",
+          "summary": "武汉人工智能研究院在第九届中国-亚欧博览会上展示全栈AI成果，为丝绸之路经济带提供AI技术支撑。",
+          "link": "https://sw.wuhan.gov.cn/xwdt/mtbd/202607/t20260701_2815207.shtml",
+          "hotness": 75
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "title": "OpenAI推出GeneBench-Pro基因组学基准测试",
+          "summary": "OpenAI发布GeneBench-Pro，专门用于测试AI在基因组学、生物学和科学研究中的性能表现。",
+          "link": "https://openai.com/index/introducing-genebench-pro",
+          "hotness": 86
+        },
+        {
+          "title": "训练全程由国产芯片完成，万亿级参数大模型LongCat-2.0发布",
+          "summary": "美团发布万亿级参数大模型LongCat-2.0，其训练全过程均使用国产芯片完成，展现国产AI芯片实力。",
+          "link": "https://www.meituan.com/news/NN260630164005904",
+          "hotness": 84
+        },
+        {
+          "title": "北航与和光智成共建AI材料合成联合实验室",
+          "summary": "北京航空航天大学与和光智成共建AI材料合成实验室，利用微观世界模型推动新材料研发范式变革。",
+          "link": "http://www.news.cn/finance/20260630/7037904e85fd4a3cb0403c2d301914a5/c.html",
+          "hotness": 79
+        },
+        {
+          "title": "核心期刊发布多篇AI作为第一作者的社会实验成果",
+          "summary": "核心期刊发表多篇以AI为第一作者的研究论文，探索AI在学术创作中的角色和影响力。",
+          "link": "https://www.ecnu.edu.cn/info/1426/72688.htm",
+          "hotness": 77
+        },
+        {
+          "title": "美国犹他州立大学科学家推出新型AI工具解读复杂生物数据",
+          "summary": "犹他州立大学数据科学家开发出超越3D的新型AI工具，能够更好地解释复杂的生物数据。",
+          "link": "https://www.usu.edu/today/story/beyond-3-d-usu-data-scientist-introduces-novel-ai-tool-to-interpret-complex-biological-data",
+          "hotness": 76
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "title": "OpenClaw和Cursor杀入手机！Agent从此塞进口袋",
+          "summary": "OpenClaw和Cursor两大AI开发工具正式进入手机端，标志着AI Agent应用开始向移动设备普及。",
+          "link": "https://m.thepaper.cn/newsDetail_forward_33484193",
+          "hotness": 87
+        },
+        {
+          "title": "英威腾：小英智能平台利用AI技术覆盖全生命周期及预测性维护",
+          "summary": "英威腾小英智能平台致力于利用AI技术实现从设备选型到运维的全生命周期管理和预测性维护。",
+          "link": "https://wap.eastmoney.com/a/202606303788625413.html",
+          "hotness": 75
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "title": "儿童开始借助人工智能完成作业——甚至寻求生活建议",
+          "summary": "联合国报告显示，儿童正越来越多地使用AI完成学校作业，甚至向AI寻求个人生活建议，引发教育伦理讨论。",
+          "link": "https://news.un.org/zh/story/2026/06/1142411",
+          "hotness": 83
+        },
+        {
+          "title": "AI泡沫担忧再度成为市场主旋律，华尔街激烈讨论",
+          "summary": "AI投资泡沫担忧重新成为市场焦点，华尔街对AI行业估值和未来发展前景展开激烈辩论。",
+          "link": "https://www.cls.cn/detail/2411644",
+          "hotness": 82
+        },
+        {
+          "title": "金融业AI应用监管划红线，天融信提供安全保障",
+          "summary": "金融行业AI应用监管标准正式出台，天融信推出一站式安全解决方案为AI创新提供保障。",
+          "link": "http://stock.10jqka.com.cn/20260701/c677853526.shtml",
+          "hotness": 80
+        },
+        {
+          "title": "消费者需要AI Agent保护法案，美国议员提出立法",
+          "summary": "美国议员马克·华纳提出AI Agent法案，强调需要立法保护消费者免受自主AI代理的潜在风险。",
+          "link": "https://www.cbsnews.com/news/ai-agent-act-bill-mark-warner/",
+          "hotness": 78
+        },
+        {
+          "title": "AI会大规模替代人工？专家呼吁厘清三大认知误区",
+          "summary": "邮储银行原行长刘建军指出，应对AI焦虑需要厘清三大认知误区，理性看待AI对就业的影响。",
+          "link": "https://m.10jqka.com.cn/20260630/c677849240.shtml",
+          "hotness": 77
+        },
+        {
+          "title": "先问AI再挂号，AI问诊靠谱吗？",
+          "summary": "越来越多患者在就医前先咨询AI，引发关于AI医疗诊断准确性和可靠性的社会讨论。",
+          "link": "https://epaper.tianjinwe.com/tjrb/html/2026-07/01/content_143094_3591505.htm",
+          "hotness": 76
+        },
+        {
+          "title": "AI自主性增强时，人类成为瓶颈",
+          "summary": "随着AI代理自主性不断提升，人类反而成为系统效率的瓶颈，需要重新思考人机协作模式。",
+          "link": "https://www.starkinsider.com/2026/06/autonomous-ai-agents-human-bottleneck.html",
+          "hotness": 75
+        }
+      ]
+    }
+  }
+}

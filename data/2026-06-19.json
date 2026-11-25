@@ -1,0 +1,112 @@
+{
+  "overview": [
+    "中美AI产业竞争加剧，美国强化AI安全规则制定，中国加速AI规模化应用落地",
+    "AI芯片市场竞争白热化，亚马逊洽售自研AI芯片挑战英伟达，端侧AI推理芯片受关注",
+    "AI伦理问题凸显，学生作弊检测困难、AI造谣事件频发引发社会担忧"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "title": "亚马逊高管证实洽售自研AI芯片 与英伟达争夺数据中心市场",
+          "summary": "亚马逊证实正在洽谈出售自研AI芯片，直接挑战英伟达在数据中心市场的主导地位。",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA4Y2EwT2U3UVFDRnhGOS03MkpaZFBBZFRjN3d2V25fWm1Ldnh4VVgyMk5xRE5QTmFKdDQtYVhrVGNvOFczdVVNQQ?oc=5",
+          "hotness": 85
+        },
+        {
+          "title": "Meta签署新AI计算协议与数据中心公司Crusoe合作",
+          "summary": "Meta与数据中心公司Crusoe签署新的AI计算协议，扩大其AI基础设施能力。",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNY2hGMmJVYWZybndVbUpRZWtXdzlOdlpWQmZWTjd1Z1RIT3JLZEc5aFJSLXNjR0xVeXlybzFrTGpDclZOV043cEtkR1RaOGtDYzhrNWVaQmdTeFctUmtsV2NDcnBNNDZiLVJITHF2RDg0V0RTQlc4dGIxMEJrdUlUb0Ztd0RVeF9NWXJyVEZmMy05UkF5QVpzTTBqbVJKSVIwaXNFbnpsMGNtS3FzdVRnWEFnYWVlQjZpR1Vrc1pEZw?oc=5",
+          "hotness": 75
+        },
+        {
+          "title": "中国AI进入规模应用临界点 业界共议产业落地行动路标",
+          "summary": "中国AI产业达到规模化应用临界点，行业共同讨论产业落地路径和发展方向。",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1lTERDTmFvRzRWajMzLUV6T044Q3FsSTlISUpwQUcwY0NmeXJrQ2VtdWE4SDlxS185aVNidWVJakxfUWZsNnNaVHAtSDBUYlJDcnJreVpqRlJzcEpYZ1dzVHdrSmtnRlBkbmM4cmNEbw?oc=5",
+          "hotness": 80
+        },
+        {
+          "title": "八部门推出17项举措推动人工智能+消费发展",
+          "summary": "中国八部门联合推出17项具体措施，推动人工智能与消费领域深度融合。",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOd2NkSGpDbE1HS3Nna0FIWEl3UTRLMHFQYVhRVkl4WXQwWjVwWlptbkV1ejVGekIwYjZkVGRLX1FfMjdPQjRRNXZralNhWnV1QUdlMXdibDFQeWZaenFLckk5aDZHc09DcklycXJFTU9yZUVEaVVtSDNVdnIxOHo0eQ?oc=5",
+          "hotness": 78
+        },
+        {
+          "title": "全球端侧AI推理芯片行业报告发布",
+          "summary": "电子工程专辑发布全球端侧AI推理芯片行业报告，分析边缘AI芯片市场发展趋势。",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNTUhodFlxTmdYcjN2T3JUendyVm1DOEFLWGFLSXhjR3FTM3I2SXFtcUhRWXpyUU5IbWZDRXozYlh0dm1jWE5tRFJNaXJHTWtYZlVr?oc=5",
+          "hotness": 70
+        },
+        {
+          "title": "Momenta港股IPO证监会备案通过 推动物理AI加速跨界赋能",
+          "summary": "自动驾驶公司Momenta港股IPO获证监会备案通过，加速物理AI技术跨界应用。",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTnN1VWZCQ2xUQVhOcFVOUGpBUTVnN0FibE92blNwdVNpeHNfaDRNVWU5ckVYTzd3cU9sazRLUVYyT3REenBveUVWaUs3QVdBdVFHWWlrR3Q4M3d5Zm52WlR2a2ZvOUxZUHhPQ0MySG0weG5nRlZldlpPLS1GTEppdU1DT2xFMEs2bmlSc25ONWVoeHJ0Zy14Y0Zn?oc=5",
+          "hotness": 72
+        },
+        {
+          "title": "Snap将AI视频团队分拆为新公司Dotmo",
+          "summary": "Snap因成本原因将AI视频团队分拆为独立公司Dotmo运营。",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPa0RPUEJQaFNTRnlqb0NQVFRsQTNZRzFfbW1nS0RpTjY5R0FKQ0lmWWNyOHJsWm1TamRKWEd4M3pYOVNnSmRUbXl0NS1GZDlSOHV5SmVxcTctUTVUZEZNTU9qXzYteklXZDNXYWtYZWo3T0VHcFV1cmJHS09KdTFoQjhJWmtRSGFyMlpMS2tCaXpxRnlhX1Y0X1pDU2lTOTJO?oc=5",
+          "hotness": 68
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "title": "大模型发展重塑AI算力运营模式",
+          "summary": "大模型技术发展正在重新定义AI算力的运营和服务模式。",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5QcHpqaFRHTkJIV3d0Zml0Ui0xYjZmUlF6R1c3cG1kbnFvMm5helI2VmZlTWxndl9FYWJHZHhJTURwd05qMlNHNk9SUGZDNXNZdjBSSnRvaU9qTlYtVHp3czd1Y1BDaHBpUzA1NDk3aEY?oc=5",
+          "hotness": 65
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": []
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "title": "美国围绕AI竞争推出两个新动作值得关注",
+          "summary": "美国在AI竞争领域采取两个重要新举措，涉及技术安全和产业政策。",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE54NWRXNU8zU1JfdWVYa29PR3FJc2ZSWW1SMUNxZ1VRemlwTXRzMDdSTFdPbE9sQUNIajdhUlFHa0NnX01wZ3RXbkRQM28xM3FjVGJ5bThaNWNON0JPdzQ5ajQzOFZkdDNx?oc=5",
+          "hotness": 82
+        },
+        {
+          "title": "白宫与Anthropic会谈转向制定AI安全规则",
+          "summary": "白宫与AI公司Anthropic的会谈重点转向制定AI安全监管规则。",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPa0FXaGwzckVjWDF5WFdrUHJkVV9aWGtxbFpDMmNTNEtQMzZsaXl3elJFX2c0ZFpaUFZhX1U3Vkh6Q1NwbHFzVEVUeUY5Z0Q5UC1rYjhqZ1BoU3FyaFRTSmc2U2JkYzdqQVdjLUhOC1HZWI4RE8tbHVxaU80YnIwa1Z6Nm5RYkZ5T3NndVBkNjB3ZWlPamFyb1FraTBKdGpYUkpKbmJTQ1hNOC02MHJEbkFrbjFRX0N4?oc=5",
+          "hotness": 78
+        },
+        {
+          "title": "AI时代学生作弊变得难以检测",
+          "summary": "纽约时报报道，在AI时代，学生使用AI作弊的行为变得越来越难以检测。",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBrZ2piSXFFLXZTZVAzd1A2dFB4YWMxZmVpX1lDZWl3MWVvaXJqSUVCdG85VUNFLUl0Q3RrM29zY1lzcHlRNnRha2ZkMVRGMmk2akdDSDNIS0xubldyejB6RzJNb2xpQVlvMHVpNUlUMHBhems?oc=5",
+          "hotness": 75
+        },
+        {
+          "title": "两人因使用AI造谣博流量被处罚",
+          "summary": "两人因冒用警务形象、使用AI虚构险情博取流量而遭到法律处罚。",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9EbUJ3a25nY0FMcWtnRmJZb1YyUVJKc3ZHME5EZldoRU9hbDEwb2VQUS1hWHhRb2E0d3kzNFBnRmdaam41bEgzOXhUMFF2VURLV0hxZF9mWTZ2Z0M2NERnVFJmZzlYUFNfSno4?oc=5",
+          "hotness": 72
+        },
+        {
+          "title": "伯尼·桑德斯提议公共AI所有权年度支付1000美元",
+          "summary": "伯尼·桑德斯提出通过公共AI所有权向民众每年支付1000美元的方案。",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeWh3R2pldGFITk9ReUVuUHExd3FPNHg5eTR5dDZxU3JabkN0SjBOZnEtdjgxbm5rRlNhSU9LU2pjMzBjeG1TV2VuRlg3bEZBb0tJcUlLa3BUSkJFU1BnejVmWkNNTGZKRnNWR19KdTVmRWVmendEc1VSTnlYdmxFZG1oNGNQeWVxOElXYVo4aHdFdTJQUTVQb0NlRG9ydHpDMy1LcTZwai1yejlpZFFFWg?oc=5",
+          "hotness": 70
+        },
+        {
+          "title": "AI革命下'我们人民'能否生存？",
+          "summary": "华尔街日报探讨在AI革命背景下，民主制度和公民社会面临的生存挑战。",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWG9mVWpNNWI1NVhVSE5xdWhxRXRtOXhTbE94RG9vTnhiT3JXbkNndHFXMDdsdXVtRFhaTGpCbWREY0hWUFBvbE9WQ3h1MDRORk9VcjRPTDlRNWpXeV9renBOSVpyOXhWVjhwMk5FMURtaUxsOGJfM3FRNGFQQ1o1OHJJaVFULXM?oc=5",
+          "hotness": 68
+        }
+      ]
+    }
+  }
+}

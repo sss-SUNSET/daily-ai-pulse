@@ -1,0 +1,213 @@
+{
+  "overview": [
+    "Google 正式发布 Gemini 4 Hydrogen，主打日常编程与智能体工作流，百万 Token 输入 1.5 美元；同时推出 Gemini Decisions API，单次调用可评分最多 1000 个问题。",
+    "MiniMax 开源图像模型 H3-Image，高阶高速档逼近 10 秒 4K 生成，国产开源多模态继续加速。",
+    "字节跳动计划数周内推出对标 Meta Muse 的 AI Agent；百度“O计划”转向智能体调度，国内智能体入口竞争升温。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "id": 18,
+          "title": "字节跳动计划数周内推出对标 Meta Muse 的 AI Agent",
+          "summary": "消息称字节跳动正筹备新的 AI 智能体产品，直接对标 Meta 的 Muse，国内大厂 Agent 入口竞争进一步升温。（源ID：18）",
+          "hotness": 90,
+          "link": "https://www.benzinga.com/markets/tech/26/11/63137541/bytedance-plans-to-take-on-metas-muse-eyes-rival-ai-agent-launch-in-coming-weeks-report",
+          "source": "Benzinga"
+        },
+        {
+          "id": 44,
+          "title": "百度启动“O计划”：搜索向智能体调度演进",
+          "summary": "百度将搜索能力升级为智能体调度平台，试图把用户需求分发给不同 AI Agent，重塑搜索入口。（源ID：44）",
+          "hotness": 88,
+          "link": "https://wallstreetcn.com/articles/3765399",
+          "source": "华尔街见闻"
+        },
+        {
+          "id": 2,
+          "title": "Google 与三星将于 12 月发布 AI 智能眼镜",
+          "summary": "Google 与三星计划年底推出 AI 智能眼镜/Android XR 眼镜，智能眼镜赛道迎来巨头级新品。（合并源ID：1,8）",
+          "hotness": 82,
+          "link": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-hydrogen/",
+          "source": "blog.google"
+        },
+        {
+          "id": 13,
+          "title": "Meta 预告未来 12 个月 VR 将“极其激动人心”",
+          "summary": "Meta 在 VR 眼镜发布前释放积极信号，称未来一年虚拟现实将迎来密集产品与生态进展。（源ID：13）",
+          "hotness": 70,
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTkNiRU9veXN4SzFka2NtaGFxWVIyVlFoa0dsd3c0V19IdGM1NTdJYzEwRnl0ejlRbVd4cVhlOVljckZsTVE2VEZac2NJbnAzd2RXZXZYenpxTDREV3E3cy1qX1lmZEY3T3lFVlM0NjJpbTJVQmE2OGV4LWxnVVY2MEVNekN1U2pTajJNTlJ1VmZvNERnN0txenJYWHNoazZSWFcyeGYxREdybjl6ZERtRGd4dm5pNzZ6aU1RcWEzczQ1aTdWN05lTVBQOVk?oc=5",
+          "source": "PC Guide"
+        },
+        {
+          "id": 22,
+          "title": "黄仁勋辞任英伟达 CEO 引发 AI 股震荡，司法部启动多项调查",
+          "summary": "黄仁勋因丑闻辞任英伟达 CEO，公司遭美国司法部多项调查，特朗普呼吁库克接任；英伟达股价大跌后抄底资金推动市值重回 4 万亿美元。（合并源ID：22,26,28,31,36,38,41）",
+          "hotness": 95,
+          "link": "https://www.ithome.com/1/026/469.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 29,
+          "title": "SpaceX 拟投入超 740 亿美元建设超级算力帝国",
+          "summary": "马斯克旗下 SpaceX 计划在得州和亚利桑那等地投入超 740 亿美元建设 AI 算力基础设施，进军超级算力市场。（源ID：29）",
+          "hotness": 84,
+          "link": "https://www.ithome.com/1/026/455.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 30,
+          "title": "马斯克推进 SpaceX 与特斯拉合并谈判",
+          "summary": "彭博社称两家公司董事会正推进合并谈判，最快 12 月公布，或成为全球规模最大的企业合并交易之一。（源ID：30）",
+          "hotness": 88,
+          "link": "https://www.ithome.com/1/026/452.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 17,
+          "title": "Anthropic 三天内将模型移植到 AMD GPU，挑战 CUDA 生态",
+          "summary": "Anthropic 展示模型快速迁移至 AMD GPU 的能力，为英伟达 CUDA 之外的算力生态提供可行路径。（源ID：17）",
+          "hotness": 88,
+          "link": "https://dataconomy.com/2026/11/12/anthropic-ports-model-to-amd-gpus-in-three-days/",
+          "source": "Dataconomy"
+        },
+        {
+          "id": 0,
+          "title": "CoreWeave 指引超预期，Anthropic 与英伟达带动 AI 板块反弹",
+          "summary": "AI 云服务商 CoreWeave 发布超预期业绩指引，叠加 Anthropic 与英伟达相关消息，市场情绪回暖。（源ID：0）",
+          "hotness": 80,
+          "link": "https://www.moomoo.com/news/post/1004369878/coreweave-crwvus-issues-guidance-exceeding-expectations-while-anthropic-and-nvidia",
+          "source": "Moomoo"
+        },
+        {
+          "id": 60,
+          "title": "AI 电荒推动北美算力需求外溢亚洲",
+          "summary": "北美 AI 算力电力瓶颈加剧，需求可能向亚洲外溢，国产燃气轮机等配套产业迎来出海机会。（源ID：60）",
+          "hotness": 74,
+          "link": "https://hk.stockstar.com/IG2026111300008690.shtml",
+          "source": "证券之星"
+        },
+        {
+          "id": 43,
+          "title": "港股大模型双雄遭“杀估值”，空头资金却加速撤退",
+          "summary": "港股大模型公司估值承压，但空头资金反而加速离场，反映市场对 AI 资产分歧加大。（源ID：43）",
+          "hotness": 68,
+          "link": "https://www.cls.cn/detail/2477915",
+          "source": "财联社"
+        },
+        {
+          "id": 50,
+          "title": "沪上 AI 芯片“四小龙”上市后，资本开始为芯片间互联定价",
+          "summary": "AI 芯片竞争从单芯片延伸到芯片间高速互联，资本开始重估“高速公路”环节的价值。（源ID：50）",
+          "hotness": 70,
+          "link": "https://www.jfdaily.com/news/detail?id=1209469",
+          "source": "上观新闻"
+        },
+        {
+          "id": 51,
+          "title": "大湾区首家通用具身智能大模型完成备案",
+          "summary": "大湾区首个通用具身智能大模型完成备案，具身智能商业化与合规落地再进一步。（源ID：51）",
+          "hotness": 72,
+          "link": "http://www.news.cn/finance/20261112/9d264628a958497c859f23dc33933907/c.html",
+          "source": "新华网"
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "id": 34,
+          "title": "Google 发布 Gemini 4 Hydrogen：主打日常编程与智能体工作流",
+          "summary": "Google 正式推出 Gemini 4 Hydrogen，面向日常编码和 Agent 工作流，百万 Token 输入 1.5 美元；此前内部测试与 Flash 发布传闻同步落地。（合并源ID：2,3,5,7,21,34）",
+          "hotness": 98,
+          "link": "https://www.ithome.com/1/026/446.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 4,
+          "title": "Google 推出 Gemini Decisions API / Decision 1 决策模型",
+          "summary": "Google 进军决策模型市场，Decision 1 可在单次 API 调用中评分最多 1000 个问题，低至每百万 Token 0.10 美元。（合并源ID：4,15,20）",
+          "hotness": 92,
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSGJUSThZcHo0dy1rYmlqQ3cwOHVWWGkxdmlGUnNMdWItMjNnVHI2UE94eHFlTW1CcnN5MWU2b2lvYVRyXzNnRHQtSUF0LWw2TkNfSjlmVVAtZWV4RFRKbFk5XzlFYzFWNUlDaG1VbDdfZnNvdGo3OU85cmJKeUdSM3NMVG43UkZpWEJRaGptenZsZUM4ck1jbTFZcGdheEN2VnBTQw?oc=5",
+          "source": "SiliconANGLE"
+        },
+        {
+          "id": 11,
+          "title": "Google DeepMind 发布 AlphaGenome 2 与新一代机器人 AI 模型",
+          "summary": "DeepMind 推出 AlphaGenome 2，可在 30 分钟内预测 DNA 变异影响，并发布先进机器人 AI 模型，扩展 AI 在基因与机器人领域的应用。（合并源ID：11,14）",
+          "hotness": 90,
+          "link": "https://www.dongascience.com/en/news/80848",
+          "source": "DongA Science"
+        },
+        {
+          "id": 6,
+          "title": "科学家确认 OpenAI 量子物理结果",
+          "summary": "《Scientific American》报道科学家确认 OpenAI 的量子物理重磅结果，显示 AI 正在加速基础科学发现。（源ID：6）",
+          "hotness": 84,
+          "link": "https://www.scientificamerican.com/article/openais-shepherds-affirm-blockbuster-physics-result/",
+          "source": "Scientific American"
+        },
+        {
+          "id": 9,
+          "title": "Anthropic 构建出击败 Opus 的模型，却仍推荐 Opus",
+          "summary": "Anthropic 新模型在评测中超过 Opus，但系统仍推荐 Opus，引发对模型能力、对齐与产品策略的讨论。（源ID：9）",
+          "hotness": 82,
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ib1lQMHNQaWZJS01McXkyYmNfdmgyOW1WdW5yWDdKUDBsLWJQWHBzcHdFWFZZVHFKVlBtcG03QlU1cU80bzNjVmVFYzRzRTE1TlN3eFQ1S3luSDlMQ3c?oc=5",
+          "source": "The New Stack"
+        },
+        {
+          "id": 53,
+          "title": "鹰瞳 Airdoc 发布无创光学脑机接口 PBM 大模型",
+          "summary": "鹰瞳 Airdoc 发布 PBM 大模型及近视防控 6 个月临床数据，探索 AI 与无创光学脑机接口在眼科健康中的应用。（源ID：53）",
+          "hotness": 68,
+          "link": "https://feng.ifeng.com/c/8xkjGtpWeLv",
+          "source": "凤凰网"
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "id": 10,
+          "title": "MiniMax 开源图像模型 H3-Image",
+          "summary": "MiniMax 发布开源权重图像模型 H3-Image，高阶高速档逼近 10 秒生成 4K 图像，国产开源多模态能力再进一步。（源ID：10）",
+          "hotness": 95,
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNa2l1cUdxTVAxeDFiQ0NpbEZfT1NEV242VWl4a3gxRFNWZE5wckxjemlpdkdGakhQVHhMcmRWN0ZhQnVVcG5RRkZvNzZDeHpBVDZ2X2lhTG9selk3cnZYbXljX0RwOFlJMThLdk5XaXdMZmh2VXhGczFzOF8wQkNod21aT2drRG42U3JaSElyVWk3VV9JbW81bmpyMnFGc2YxVmh0WWR2aTIwYjJvenc3TFlPM2ZBUkR1T2phdFduLU82VU9henpJWjFkN2dNTml1UkdfZmo3bjVlZHFqWW16c00tbDVSUQ?oc=5",
+          "source": "Tech Times"
+        },
+        {
+          "id": 64,
+          "title": "VS Code 1.146 加入 AI Agent Inbox、模型对比与聊天窗口",
+          "summary": "VS Code 新版本强化 AI Agent 工作流，新增 Agent Inbox、模型对比和聊天窗口，提升开发者多模型协作体验。（源ID：64）",
+          "hotness": 78,
+          "link": "https://visualstudiomagazine.com/articles/2026/11/12/vs-code-1-146-adds-ai-agent-inbox-model-comparisons-and-chat-windows.aspx",
+          "source": "Visual Studio Magazine"
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "id": 23,
+          "title": "OpenAI、Anthropic、Google 等 AI 巨头遭安全与专利双重诉讼",
+          "summary": "四家非营利组织起诉 OpenAI、Anthropic、Google、Meta 等，要求叫停 ChatGPT/Claude/Gemini；同时 Flinn AI 指控 OpenAI、Anthropic 侵犯五项神经网络专利。（合并源ID：23,24）",
+          "hotness": 82,
+          "link": "https://www.ithome.com/1/026/466.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 42,
+          "title": "北京发布具身智能新方案：制造资本支持与全生命周期安全监管并重",
+          "summary": "北京新方案落子制造与资本，提出五年培育五家国际一流整机企业，同时将安全治理和全生命周期监管纳入量产准入。（合并源ID：42,54,57）",
+          "hotness": 78,
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TUWxUSk01bzBqaG1LOThEYmhsNkxFZlUtTTBicWVMU0FLRkFSN1Z6cjFIdU1KOFNXTzV4anNOdU80a2hmSHhEU0Q3bVJyR0YwU0R1akkzam1RbjFDUEhDSQ?oc=5",
+          "source": "同花顺财经"
+        }
+      ]
+    }
+  }
+}

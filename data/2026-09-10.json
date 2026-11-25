@@ -1,0 +1,244 @@
+{
+  "overview": [
+    "OpenAI 发布 GPT-6 Astra，定位为面向工作的下一代智能模型，能力大幅提升。",
+    "DeepSeek 推出 V4.1-Flash 模型，国产大模型持续快速迭代，竞争加剧。",
+    "Meta 推出 AI Agent 产品 Muse，引发乐队被迫改名争议，AI Agent 落地潮加速。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "id": 6,
+          "title": "Meta 发布 AI Agent「Muse」，导致同名乐队被迫修改社交账号",
+          "summary": "Meta 推出全新 AI Agent 产品 Muse，可帮助用户购物等；因名称冲突，一支长期存在的摇滚乐队被迫更改其社交媒体账号。",
+          "hotness": 95,
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSHJCbWNlQ1c1UVc5ZlJoQTJqRjZMclFPelF1b2NGa2hWZTRkS0ZaR0xHVl9ZRnhIVm5KLUdQS3pRb2dCRzRHR3BXMWlSbmlaSzktX1F2QVFudjZBc29mZVBOZGxndzhJRnBSRk9KYWU3TE9CTDJXTXlRV0E4OVpXQy1UV0tBQW92TkdVblFBTFFFYUVJXzBCajZVVlhDeDVXUThDSU0tMXJucTZGc3Z6UXZCUFMxbk9Bc1RScFJnaVhfN19HWWw0LTBB?oc=5",
+          "source": "Investing.com"
+        },
+        {
+          "id": 50,
+          "title": "NVIDIA 与澳大利亚数据中心生态合作，扩展 AI 基础设施",
+          "summary": "NVIDIA 宣布与澳大利亚数据中心生态系统合作，扩大 AI 算力基础设施容量，以应对日益增长的 AI 计算需求。",
+          "hotness": 85,
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPd2dkbUp0Zi13THRQMU1kMXNIZVktQVN5NVR2cEszemg1RWM1cURfcDBCRGhLMGJfc3NTaW12anhJeGVDb1FfTC1SaHUzcnVUTzBnVmJseHBuUngteFBFLUZQT2FkMzBaTEEzclA0WFJGT0FmZ1htaFFSX1YwNnVTNk1yT0dnNVhzUm9Vbms0U0N0ck5UNVpyUlNZZ2JaQ3NDZ0hHUEw1VE5BMjZ0dGFIX2plWTRqRHRDeG5yQTFnY3pHZlFhcG9Ndw?oc=5",
+          "source": "NVIDIA Newsroom"
+        },
+        {
+          "id": 57,
+          "title": "Rackspace 加入 NVIDIA 云合作伙伴计划，推出 Blackwell 驱动的 AI 基础设施",
+          "summary": "Rackspace 成为 NVIDIA 云合作伙伴，面向受监管企业和政府提供基于 NVIDIA Blackwell 的 AI 基础设施服务。",
+          "hotness": 75,
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTUtJZEd5akhrR2g2NzNvbkFCenBGNjFFTS1oWEtkLVJLUzVCZzBqTWRTdnhraFdSU0xqSmRHcER6Z2ZUT3psMHZwSk1GZHdGMmJtRXJySkh2aUU2aE85MUN2ZGtuVFA2cDhJYUdxQXFCMUVZNTUxU3JOTGp3VE5yYm1IZkxsYnVRQW8wNGRn?oc=5",
+          "source": "Yahoo Finance UK"
+        },
+        {
+          "id": 19,
+          "title": "京东工业发布工业大模型，赋能零部件创新设计",
+          "summary": "京东工业推出工业大模型，具备编程和机器人零件设计能力，旨在提升工业零部件创新设计效率。",
+          "hotness": 70,
+          "link": "https://www.stdaily.com/web/gdxw/2026-09/10/content_578762.html",
+          "source": "中国科技网"
+        },
+        {
+          "id": 45,
+          "title": "调查显示 63% 美国互联网家庭使用生成式 AI",
+          "summary": "Parks Associates 报告称，63% 的美国互联网家庭已使用生成式 AI 工具，表明生成式 AI 正在快速普及。",
+          "hotness": 70,
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeXJOeGRPRjBrODhNNVZUMWFITHdCSFZZSk1Mc1BmY3hzV0FFYWV4cGs3MHFQUlR6STNNUjBEMThTVlQzSUgwRTcxNHA1YkVabjE0Ym1nbWp3REhGVkVnbkxpckpoRm52UEI4RThGSk5xUWhadFdVODk3VDh5NFVYb3pmay1Dd19uTFUtclhmcWVXUnpkT3BXckd1bjFlcmtqVmd5clNkVmRVallRQW1JazhGdnBHS1JmUGpF?oc=5",
+          "source": "PR Newswire"
+        },
+        {
+          "id": 53,
+          "title": "Arm Holdings 因 AI 基础设施和 CPU 需求获乐观展望",
+          "summary": "Arm Holdings 表示 AI 基础设施和 CPU 需求推动其业绩展望向好，AI 算力需求持续拉动芯片设计业务。",
+          "hotness": 70,
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLWk1M183Ui1iWE9NdkRpTlZVOXZTTG90OHY2SnpIT2MySzM1bENoR1oxa210ektxTHREN3phckwxemJhTWxnM1ZEaE9wcmg0cVB3UGZKR3pIa19uMTMxUXBLMXc0MzRvWXlCMUprMnZQdTBUSVM5bDFlVDdMOE94b0QzV3JpN1hBdGgtT0RrdTdDX1RyZDZ3ekZxS1pmclU?oc=5",
+          "source": "Yahoo Finance"
+        },
+        {
+          "id": 31,
+          "title": "中兴通讯深化「连接+算力」双引擎战略，提出四 V 框架",
+          "summary": "中兴通讯宣布深化连接与算力双引擎战略，并推出四 V 框架，以把握 AI 时代的价值跃迁机遇。",
+          "hotness": 65,
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSnk0R0FkcmRHM3ZZcUlZemZ5TFdEdGZLZl9yblUwQkhibV82SE9UdFRfWVA3X0p4ZjMyc1dNeVNYZDhrOUUxOW1Dc2s2UzNKTGhjOFAyS0JxSmJIUU5TWFNiQ3QwY21hbWZGYjVpSDN0NjB2Mnd4ZEdVU2p4WE9zZ3doMEVwU2UyNDlDTk0xTmg?oc=5",
+          "source": "ZTE"
+        },
+        {
+          "id": 33,
+          "title": "美图秀秀依托自研大模型上线全新 AI 助手",
+          "summary": "美图秀秀基于自研大模型推出全新 AI 助手，进一步提升图像编辑与创意生成的智能化体验。",
+          "hotness": 60,
+          "link": "https://finance.sina.cn/2026-09-10/detail-iniritaq8558233.d.html?oid=WA%200812%202782%205310%20Jasa%20Bikin%20Plafon%20Mewah%20Murah%20Gondangrejo%20Karanganyar&vt=4",
+          "source": "新浪网"
+        },
+        {
+          "id": 28,
+          "title": "万联易达携手国家人工智能应用中试基地，首批产业智能体落地厦门",
+          "summary": "万联易达与国家人工智能应用中试基地合作，首批产业智能体应用在厦门落地，推动 AI 与产业深度融合。",
+          "hotness": 60,
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0yTnhTc1lrVVFEVmRBbndzWWRXZGwzZWhpdkN5UDlNZkdSSDNCeExzaTVMWVozR1dmdVNCT3ZLYTBZT3JuR3hjWk5sejY1T2ZFTXh3WEdtX0RpQklzR2t0NDZkVUUzMTJKWXg3T2JrSi1PX2FvRU9NNGxibXM?oc=5",
+          "source": "中国日报网"
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "id": 8,
+          "title": "OpenAI 发布 GPT-6 Astra：面向工作的下一代智能模型",
+          "summary": "OpenAI 推出 GPT-6 Astra，号称是面向工作场景的下一代智能模型，在推理、多模态和任务执行能力上实现显著升级。",
+          "hotness": 100,
+          "link": "https://openai.com/index/gpt-6-astra-next-generation-work/",
+          "source": "OpenAI"
+        },
+        {
+          "id": 3,
+          "title": "DeepSeek 发布 V4.1-Flash 模型",
+          "summary": "中国 AI 公司 DeepSeek 推出 V4.1-Flash 模型，进一步巩固其在高效大模型领域的竞争力，引发行业广泛关注。",
+          "hotness": 100,
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVzlkZDJjakNKZnV2VEtEYUU4b3VmQWtHWnI3eFp4WlFDRzdTM3dfTENUMWtiY2FrcUFnYVZMeGR6ZEczWDBzZDZHWVhvd0FRUnRibnlBOXk5Q2h2aTRUWnAzZVMzcEtscnZxcjVxSEI5ZmRBYmVXVHd6TmQ0ekhNVUZTYzgzbHM3VExhbEZhZENzN1dWaUZwR3Bjcw?oc=5",
+          "source": "reuters.com"
+        },
+        {
+          "id": 0,
+          "title": "AI 解决百万美元千禧年数学难题，OpenAI 秘密模型疑似参与",
+          "summary": "据 Quanta 杂志等报道，AI 已成功解决一个价值 100 万美元的千禧年数学难题，OpenAI 的秘密模型据称在其中发挥作用。",
+          "hotness": 95,
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOGpkWlNudjRIdVZPQTAxOVBpSnZreW5ETHJXSlRHV2VzbFd3bkRoaWVUWXhkZGx4M2Y5Wmd1RWxvWkVOZ08tOWdjQ0t6LTZORTRFUzhYc09PdVFsWEFxcVBaMTdNMzl2Ty1zU2stZ2hILUxYMDR1VjVjMEdQU2NTTlNJenBKZlJnWUMzalZkb0gzRjNfVXpfWWtEUnQ0REp5VDQ2VWRn?oc=5",
+          "source": "Quanta Magazine"
+        },
+        {
+          "id": 1,
+          "title": "Anthropic 发布 AI 经济影响交互模型",
+          "summary": "Anthropic 推出交互式模型，用于模拟和测试 AI 对美国经济可能产生的各种影响，帮助政策制定者预判趋势。",
+          "hotness": 90,
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9nTVdnTHNtalBBTmFldzBVZ0RVaTVNRFZGMDMybjhSMHQxd0ZQbU1QcGNsSFp6Zld3eVpjVXFaSzd6Tk90dVBXZlJoeU13Wnl6YmxIanNOX3JHdFhFaGZMc1gzcS1pVHlz?oc=5",
+          "source": "qz.com"
+        },
+        {
+          "id": 23,
+          "title": "高德发布全球首个 3D 原生城市世界模型，覆盖超 196 个国家和地区",
+          "summary": "高德推出全球首个 3D 原生城市世界模型，覆盖超过 196 个国家和地区，可用于城市规划、自动驾驶仿真等领域。",
+          "hotness": 90,
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBjdHF4Qko0MGtpVmpPMHRPaUUwMlZQeF9MbEZnajMydzlqOUUtRE11S3JZS2RoQ2NsekVMY21nSEhydEFQTzNjS24yeGpUTHJ0UjNnd0Foc0NqM3lOTlpBSnZB?oc=5",
+          "source": "观点网"
+        },
+        {
+          "id": 14,
+          "title": "字节跳动被曝构建 AI 模型，对标 Google Genie 实现实时空间视频",
+          "summary": "据报道，字节跳动正在开发一款 AI 模型，旨在与 Google 的 Genie 竞争，支持实时空间视频生成与交互。",
+          "hotness": 90,
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1MUEZsMjJLaEFpMTdKVjQwQVNrdWI4ZmFtQ2pTQkZraHNrMGNVY2h4TXFOY3pMMDJvbDViSFFXaGxpT3VCNV9INmd4NTgxdnF0TmVpUDdfUHhmeXZHRlB3X21XQlFiQVg4bURKNFlxTHFjYmhvb2c?oc=5",
+          "source": "Road to VR"
+        },
+        {
+          "id": 54,
+          "title": "生成式 AI 驱动药物 Rentosertib 进入 III 期临床试验",
+          "summary": "由生成式 AI 驱动的药物 Rentosertib 已进入 III 期临床试验，用于治疗特发性肺纤维化，标志着 AI 制药迈出重要一步。",
+          "hotness": 85,
+          "link": "https://www.news-medical.net/news/20260910/Generative-AI-driven-drug-Rentosertib-enters-Phase-III-trial-for-idiopathic-pulmonary-fibrosis.aspx",
+          "source": "News-Medical"
+        },
+        {
+          "id": 42,
+          "title": "中国 AI Agent 眼科诊所落地经验总结",
+          "summary": "Nature 刊文分享中国 AI Agent 眼科诊所的真实世界实施经验，为 AI 医疗智能体的规模化应用提供早期教训。",
+          "hotness": 75,
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ZUFVFU0NkYzNUb2RCcjBZRjh3dUthVjcwMlNhUEdReXdLNDl4Wm01ZDBacTdRNXB2bGxsLVNTZThZLVozdWRWWTRpUWN4eGU2UUZSUllqVUNudl82M1N3?oc=5",
+          "source": "nature.com"
+        },
+        {
+          "id": 34,
+          "title": "「鹏城・慧译」多语言知识产权大模型与专利智能辅助系统发布",
+          "summary": "鹏城实验室发布多语言知识产权大模型与专利智能辅助系统，旨在提升知识产权领域的多语言处理和专利分析效率。",
+          "hotness": 70,
+          "link": "https://app.xinhuanet.com/news/article.html?articleId=202609108d635129c7904a39860d7f7f7e81d3ae",
+          "source": "新华网客户端"
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": []
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "id": 2,
+          "title": "Anthropic 披露 Claude 模型第四起安全事件",
+          "summary": "Anthropic 公开披露其 Claude AI 模型发生的第四起安全事件，此前已调查三起真实世界网络安全事件，引发对 AI 安全性的担忧。",
+          "hotness": 85,
+          "link": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+          "source": "Anthropic"
+        },
+        {
+          "id": 10,
+          "title": "Anthropic 未向英国测试机构提供最新 AI 模型",
+          "summary": "据 Financial Times 报道，Anthropic 未将其最新 AI 模型提交给英国 AI 安全测试机构，引发监管透明度和安全评估的争议。",
+          "hotness": 80,
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcVJObGRoR1Q2enZFeHJ0dUx1YVhITDlOVnZpUm53ZjVrMDRrTmFxejdDbUx6dHk3UTlFUFlYS0J2QmExWXQ4aEtRS0tDdlFtRFNWcEdXT0tlemRMTUlGckJzWEtlTUVVVjJ3elI5NUdRcUZPYWQ2OVBmQzFIU2dBbTdLcW0?oc=5",
+          "source": "Financial Times"
+        },
+        {
+          "id": 48,
+          "title": "美国两党 AI 安全法案在国会获得动力",
+          "summary": "一项由两党共同提出的 AI 安全法案在国会山获得更多支持，可能推动美国 AI 安全监管框架的建立。",
+          "hotness": 80,
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaGdrRUJKeTJEdTA4dHFhaXQyYlhyYjMwQU5vYnlRb0lwWVh3WmJwMDNHWUxHNWRCd2tMVVhnQ1B1UkR3NzVVUGluc1dQb215RXBqSUlMQU5sZFd0enYyRDlpUDFEb0ZjdUowNmRvOC1uNnVLeDFXZEM4VDVQQVo0OHFhMGFZTkkwbHpvdzljY24yWXBQMVNmY2R4cw?oc=5",
+          "source": "Semafor"
+        },
+        {
+          "id": 44,
+          "title": "OpenAI 呼吁抓住 AI 政策窗口采取行动",
+          "summary": "OpenAI 发文称当前 AI 政策窗口已经打开，呼吁政策制定者尽快采取行动，以平衡创新与安全。",
+          "hotness": 75,
+          "link": "https://openai.com/index/ai-policy-window/",
+          "source": "OpenAI"
+        },
+        {
+          "id": 41,
+          "title": "研究人员在开放网络上进行 rogue AI agent 捉迷藏实验",
+          "summary": "研究人员在开放网络上开展 rogue AI agent 的捉迷藏实验，探索 AI 智能体失控后的潜在风险与追踪手段。",
+          "hotness": 75,
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE02MG9zZEplR09iVWhMNFdPcVRzZWEybnZPYnpMQVpzUm1uV3hZcDBXYnBIbnhEZVdlMFBKQ250MndOcVpJbWdRNF9LMXRBQndJckQyUzMxSnkyU0lVb0VzcXdadThkYkdHNlBpSnBLdkxCOEJhdHc?oc=5",
+          "source": "axios.com"
+        },
+        {
+          "id": 38,
+          "title": "比尔·盖茨警告：动荡的 AI 时代，当前选择至关重要",
+          "summary": "比尔·盖茨在 Gates Notes 发文指出，AI 时代充满动荡，人类当前做出的选择将决定未来走向，呼吁谨慎应对。",
+          "hotness": 75,
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5",
+          "source": "Gates Notes"
+        },
+        {
+          "id": 52,
+          "title": "WIRED 记者让 AI Agent 入侵所有智能设备",
+          "summary": "WIRED 记者进行实验，让 AI Agent 入侵并控制其所有智能设备，展示了 AI 智能体在安全领域的双刃剑效应。",
+          "hotness": 70,
+          "link": "https://www.wired.com/story/i-used-ai-to-hack-my-home-network/",
+          "source": "WIRED"
+        },
+        {
+          "id": 47,
+          "title": "Bruegel 分析中国 AI 目标及欧洲战略选择",
+          "summary": "Bruegel 智库发文分析中国的人工智能目标，并探讨欧洲在中美 AI 竞争格局下应做出的战略选择。",
+          "hotness": 70,
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTWdDUUl1VDcyX1l6LUhJdksyTXlpODJZVUJUdDFYMGxsVTFJaVZ6QUZDT19lczNKRmlnbm8ycFd5eHNYZmltUlRFWG9LU3VwUlJxQkczcUhXeVBLWUQ3UmFUd2Zpd3hhQWxMaVQtN3RMcEUzOW5zUDNGaXQ5Y2phdFc5bkJGa242NnpmcThRWU9MaWF6YmZrLXZKSUVGY1k?oc=5",
+          "source": "Bruegel"
+        },
+        {
+          "id": 49,
+          "title": "ABA 反垄断法分会将探讨生成式 AI 版权问题",
+          "summary": "2026 年 ABA 反垄断法分会网络研讨会将聚焦生成式 AI 引发的版权与反垄断新兴问题，反映法律界对 AI 版权争议的持续关注。",
+          "hotness": 65,
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONVhnUlJxbHFTbjJfNGdxdmFmS2VUbWtzME5CSkE2VEMxVVlpd3M5ME9MeEEwQThLNGZsNGxGT2d4MjV2Ny1PeGk5ZnpHQkZFR0VGbldPbkNCaGVuYWk4NXFzbHd3TXBnRzFZekljTUsyOG4wd0tTRklIcWpNbXRGZnpIa0pHVDhxc0tXeF82Qkk1ejF5bDhLTVViZUJsVDcxMDFCOXFqVUIxZzlZb0hVTlBISExER3VBWVptNTZXZVoybXdFTDFv?oc=5",
+          "source": "Wilson Sonsini"
+        }
+      ]
+    }
+  }
+}

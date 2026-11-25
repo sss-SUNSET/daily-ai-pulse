@@ -1,0 +1,133 @@
+{
+  "overview": [
+    "OpenAI 面向所有 ChatGPT 用户推出 GPT-6 系列模型与智能体功能，周活超12亿，互动式 AI 能力升级，为今日最重磅发布。",
+    "Anthropic 发布最快最便宜的 Claude Haiku 5.5，运行成本较 4.5 降低约 75%，进一步压低企业级模型使用门槛。",
+    "博通拟为 OpenAI 定制 AI 芯片筹资超 500 亿美元，算力基础设施军备竞赛升级；xAI 的 Grok Bot 也转向按任务择优调用 Claude 等多家模型。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "id": 1,
+          "title": "Anthropic 冲击 IPO 估值争议：New Constructs 称 1500 亿美元估值或为“2026 年最荒唐 IPO”",
+          "summary": "在 Anthropic 即将登陆纳斯达克、估值传闻高达 2 万亿美元之际，New Constructs 给出 1500 亿美元估值并质疑其 IPO 合理性。",
+          "hotness": 85,
+          "link": "https://www.ithome.com/1/010/360.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 2,
+          "title": "马斯克：Grok Bot 不再只认自家模型，按用户任务择优用 Claude 等最佳 AI",
+          "summary": "xAI 的 Grok Bot 将根据任务自动选择最优模型，包括 Anthropic Claude 等，不再局限于自家 Grok。",
+          "hotness": 92,
+          "link": "https://www.ithome.com/1/010/359.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 5,
+          "title": "前字节实习生田柯宇进军世界模型，创业公司估值达 2 亿美元",
+          "summary": "曾被字节辞退的实习生田柯宇创办世界模型公司，尚未公开产品便获 2 亿美元估值，对标李飞飞方向。",
+          "hotness": 85,
+          "link": "https://www.ithome.com/1/010/356.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 6,
+          "title": "博通拟为 OpenAI 定制 AI 芯片筹资超 500 亿美元，SpaceX 洽谈 400 亿美元融资",
+          "summary": "为满足 OpenAI 等 AI 基础设施需求，博通推动超 500 亿美元私人债务融资；SpaceX 同时洽谈 400 亿美元融资。",
+          "hotness": 92,
+          "link": "https://www.ithome.com/1/010/352.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 10,
+          "title": "华硕推出 ProArt P14/P16 笔记本：搭载英伟达 RTX Spark 超级芯片",
+          "summary": "华硕发布 ProArt 系列新本，搭载英伟达 RTX Spark 超级芯片，面向 AI 创作与本地推理。",
+          "hotness": 65,
+          "link": "https://www.ithome.com/1/010/334.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 14,
+          "title": "GitHub Copilot 不再纯云端 AI 模型：Surface Laptop Ultra 本地推理吞吐量最高每秒 63 词元",
+          "summary": "微软宣布 GitHub Copilot 支持本地推理，Surface Laptop Ultra 最高达每秒 63 词元，推动 AI PC 端侧落地。",
+          "hotness": 88,
+          "link": "https://www.ithome.com/1/010/330.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 16,
+          "title": "戴尔推出 XPS 16 Creator Edition 笔记本：16 英寸触控屏、18 核 RTX Spark",
+          "summary": "戴尔发布 XPS 16 Creator Edition，配备 18 核英伟达 RTX Spark，主打创作者与 AI 工作负载。",
+          "hotness": 65,
+          "link": "https://www.ithome.com/1/010/328.htm",
+          "source": "IT之家"
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "id": 11,
+          "title": "Anthropic 发布 Claude Haiku 5.5：最快最便宜模型，成本较 4.5 低约 75%",
+          "summary": "Anthropic 推出 Claude Haiku 5.5，号称当前最快、最便宜模型，运行成本较前代下降约 75%，适合高并发轻量任务。",
+          "hotness": 95,
+          "link": "https://www.ithome.com/1/010/333.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 17,
+          "title": "OpenAI ChatGPT 升级 GPT-6：周活超 12 亿，互动式 AI 教你打麻将",
+          "summary": "OpenAI 面向所有 ChatGPT 用户推送 GPT-6 系列模型与智能体体验，周活超 12 亿，并展示互动式 AI 教学场景。",
+          "hotness": 100,
+          "link": "https://www.ithome.com/1/010/327.htm",
+          "source": "IT之家"
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "id": 19,
+          "title": "微软发布 VS Code v1.141：清理“僵尸”Agent 会话等",
+          "summary": "VS Code 1.141 更新聚焦 AI Agent 体验，新增清理僵尸 Agent 会话等能力，提升开发工作流稳定性。",
+          "hotness": 80,
+          "link": "https://www.ithome.com/1/010/325.htm",
+          "source": "IT之家"
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "id": 3,
+          "title": "OpenAI 首份青少年报告：日均使用不足 15 分钟，安全提醒机制遭质疑",
+          "summary": "OpenAI 称青少年日均使用 ChatGPT 不足 15 分钟，但连续使用超 3 小时的安全提醒机制受到质疑。",
+          "hotness": 80,
+          "link": "https://www.ithome.com/1/010/358.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 7,
+          "title": "原 OpenAI 安全负责人戴维·罗宾逊炮轰老东家：对待 AI 安全说一套做一套",
+          "summary": "OpenAI 前安全系统团队负责人批评公司 AI 安全承诺与实际做法不一致，引发对安全文化的讨论。",
+          "hotness": 82,
+          "link": "https://www.ithome.com/1/010/351.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 15,
+          "title": "10 年内预估仅 5%：诺奖经济学家背书，AI 不会大规模抢走你的饭碗",
+          "summary": "微软 AI CEO 苏莱曼援引诺奖经济学家观点称，未来 10 年 AI 仅影响约 5% 岗位，不会大规模取代人类工作。",
+          "hotness": 75,
+          "link": "https://www.ithome.com/1/010/329.htm",
+          "source": "IT之家"
+        }
+      ]
+    }
+  }
+}

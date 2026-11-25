@@ -1,0 +1,118 @@
+{
+  "overview": [
+    "中国AI新星Kimi K3模型发布，性能媲美Claude与ChatGPT，引发全球AI市场第二次“DeepSeek冲击”，美芯片股大跌。",
+    "2026世界人工智能大会（WAIC）在上海开幕，习近平主席首次出席并强调开源与全球治理，华为昇腾950等国产芯片亮相。",
+    "AI智能体应用加速落地：Claude被部署为AI副总裁、Vint Cerf提出为每个AI智能体分配持久ID、博涛科技发布双智能体矩阵。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "title": "2026世界人工智能大会开幕，习近平发表主旨讲话强调开源与全球治理",
+          "summary": "习近平主席首度出席WAIC，提出构建公正合理的全球AI治理体系，华为昇腾950超节点真机、多个行业AI应用亮相大会。",
+          "link": "https://www.news.cn/politics/leaders/20260717/72728b6f94154d63b3eaaaf9808b51eb/c.html",
+          "hotness": 95
+        },
+        {
+          "title": "Kimi K3发布引发AI芯片股抛售潮，市场现第二次DeepSeek冲击",
+          "summary": "月之暗面开源Kimi K3模型性能震惊业界，导致Nvidia等AI芯片股大跌，投资者担忧中国低成本模型颠覆行业格局。",
+          "link": "https://www.reuters.com/business/media-telecom/musks-spacex-talks-provide-computing-power-pentagon-wsj-reports-2026-07-17/",
+          "hotness": 85
+        },
+        {
+          "title": "Claude成为AI VP：一家公司用Claude替代传统软件，年省10万美元",
+          "summary": "创业公司将Claude部署为AI产品副总裁，10分钟内替代了一款价值1万美元的应用，展示了AI智能体的巨大潜力。",
+          "link": "https://www.saastr.com/claude-became-our-ai-vp-of-product-we-moved-10-years-off-marketo-for-14-our-agent-killed-a-10k-app-in-an-hour-the-agents-010/",
+          "hotness": 90
+        },
+        {
+          "title": "Vint Cerf加入项目，为每个AI智能体分配持久标识符",
+          "summary": "互联网先驱Vint Cerf参与“Agentic ID”计划，旨在为AI智能体提供稳定的身份标识，推动智能体生态标准化。",
+          "link": "https://www.forbes.com/sites/johnkoetsier/2026/07/17/agentic-id-vint-cerf-joins-project-to-give-every-ai-agent-a-durable-identifier/",
+          "hotness": 85
+        },
+        {
+          "title": "博涛科技携双AI智能体矩阵亮相WAIC 2026",
+          "summary": "博涛科技在WAIC展示双AI智能体矩阵，推动智能体在行业场景中的落地应用。",
+          "link": "http://www.news.cn/info/20260717/620910fd36864eb98813578233213230/c.html",
+          "hotness": 80
+        },
+        {
+          "title": "SpaceX洽谈向五角大楼提供计算能力",
+          "summary": "马斯克的SpaceX正与五角大楼讨论提供高性能计算能力，可能用于AI训练或国防应用。",
+          "link": "https://www.reuters.com/business/media-telecom/musks-spacex-talks-provide-computing-power-pentagon-wsj-reports-2026-07-17/",
+          "hotness": 75
+        },
+        {
+          "title": "OpenAI发布AI投资回报率Scorecard，衡量AI成效",
+          "summary": "OpenAI CFO提出AI Scorecard，通过有用工作、每任务成本、可靠性和计算回报四个维度量化AI投资回报。",
+          "link": "https://openai.com/index/a-scorecard-for-the-ai-age",
+          "hotness": 70
+        },
+        {
+          "title": "Cars24利用OpenAI智能体处理超百万分钟对话",
+          "summary": "印度二手车平台Cars24部署OpenAI驱动的语音和聊天智能体，每月处理超100万分钟对话，挽回12%流失线索。",
+          "link": "https://openai.com/index/cars24",
+          "hotness": 75
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "title": "月之暗面Kimi K3开源模型性能达到前沿水平，震惊美国AI界",
+          "summary": "中国AI公司月之暗面发布开源权重模型Kimi K3，在多项基准测试中与Claude、ChatGPT不相上下，引发市场震荡和行业反思。",
+          "link": "https://apnews.com/article/kimi-k3-china-ai-0d8a5e268deb11a673f4d444fc597cc5",
+          "hotness": 100
+        },
+        {
+          "title": "OpenAI发布GPT-Red：通过自我博弈实现自动红队测试",
+          "summary": "GPT-Red利用自博弈机制自动生成对抗样本，提升AI模型对提示注入等攻击的鲁棒性和安全性。",
+          "link": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+          "hotness": 80
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": []
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "title": "白宫启动“金鹰”AI网络安全清算中心",
+          "summary": "白宫推出GOLD EAGLE计划，建立AI网络安全清算中心，为金融机构提供威胁情报和最佳实践。",
+          "link": "https://www.consumerfinancemonitor.com/2026/07/17/white-house-launches-gold-eagle-ai-cybersecurity-clearinghouse-what-it-could-mean-for-financial-institutions/",
+          "hotness": 75
+        },
+        {
+          "title": "白宫据称控制前沿AI模型访问权限，权力从科技巨头转移",
+          "summary": "消息人士透露白宫正通过政策影响OpenAI、Anthropic等公司对外提供模型的权限，引发开发者社区争议。",
+          "link": "https://www.cnbc.com/2026/07/17/white-house-ai-access-anthropic-openai.html",
+          "hotness": 85
+        },
+        {
+          "title": "OpenAI呼吁联邦与州协同行动，构建AI安全框架",
+          "summary": "OpenAI提出“反向联邦主义”路径，以州立法推动国家层面的AI安全治理，强调民主参与。",
+          "link": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+          "hotness": 70
+        },
+        {
+          "title": "OpenAI推出青少年安全措施，确保AI使用安全",
+          "summary": "OpenAI为青少年用户实施年龄适配保护、学习工具和家长控制，并与专家合作保障安全。",
+          "link": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+          "hotness": 65
+        },
+        {
+          "title": "人工智能聊天机器人可能并不客观自由",
+          "summary": "RFI分析指出AI聊天机器人在价值观和内容输出上并非中立，存在隐含偏见，引发对AI客观性的讨论。",
+          "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260717-%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD-ai-%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8F%AF%E8%83%BD%E5%B9%B6%E4%B8%8D%E5%AE%A2%E8%A7%82%E8%87%AA%E7%94%B1",
+          "hotness": 60
+        }
+      ]
+    }
+  }
+}

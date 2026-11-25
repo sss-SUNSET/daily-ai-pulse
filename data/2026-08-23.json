@@ -1,0 +1,140 @@
+{
+  "overview": [
+    "OpenAI大幅下调GPT-5.6 Sol模型开发者定价，美国AI公司掀起降价潮，大模型商业化进入价格战。",
+    "前DeepMind员工创立的Inherent实验室推出小参数AI智能体Faraday，宣称科研复现能力超越GPT-5.5与Claude Opus 4.8，小模型展现巨大潜力。",
+    "Anthropic多款Claude旧模型被曝可被越狱生成露骨内容，AI安全防护缺陷引发业界担忧。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "id": 1,
+          "title": "OpenAI下调GPT-5.6 Sol模型开发者定价超20%，美国AI公司掀起降价潮",
+          "summary": "OpenAI宣布将前沿模型GPT-5.6 Sol的开发者使用价格下调超过20%，带动多家美国AI公司跟进降价（合并自报道id:1,25,43）。大模型商业化竞争加剧。",
+          "hotness": 90,
+          "link": "https://www.reuters.com/technology/openai-cuts-developer-pricing-frontier-gpt-56-sol-model-by-more-than-20-2026-08-21/",
+          "source": "Reuters"
+        },
+        {
+          "id": 19,
+          "title": "内存成本飙升，英伟达AI芯片服务器明年初涨价或超15%",
+          "summary": "受内存成本大幅上涨影响，搭载英伟达AI芯片的服务器价格将在2027年初上涨超过15%，并可能波及普通电脑市场（合并自报道id:19,42）。",
+          "hotness": 85,
+          "link": "https://www.ithome.com/0/993/136.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 32,
+          "title": "芝商所官宣推出算力期货市场，AI算力将成‘原油期货’",
+          "summary": "芝商所宣布将推出算力期货，为AI算力提供金融对冲工具，被视为AI时代的大宗商品交易创新。",
+          "hotness": 80,
+          "link": "https://www.cls.cn/detail/2369513",
+          "source": "财联社"
+        },
+        {
+          "id": 44,
+          "title": "算力赛道重磅利好：1361亿项目集中签约，万亿算力市场迎来驱动",
+          "summary": "多个算力项目集中签约，总额达1361亿元，为万亿算力赛道带来强劲驱动。",
+          "hotness": 82,
+          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNdjl4TkRvbjFlemU0ZFozcXhRMTUyanVpUGtMT2FKeFktTnFTWU9IN0F2eGxiSDExeWVwZWNKY3ZsVHVtZkphUzZrUDFjWmdabmoxZmMzVWVOUF9ieFdlZ3RoaFFCell6a0ZSNHpLZjd4YTZPRXhZQmJDb0cyT2p3NjdzQUhPb3lyMDg1aEJMaUNWa1EzaU8zUFg0R3NaVVoxcmh6UHprcDBCZ0FSQWY5UkFXamlDN2VZbU1OWDgzWUhIZHFXbUxscEszSzktQmZQWWRNa0J0TEVoRTdTa2E3VEZDNks5c3VJT3o1eXBRT0U3Y0JZclkySEFvYUFidUtzZkUyUFVQQy1Edw?oc=5",
+          "source": "finance.sina.com.cn"
+        },
+        {
+          "id": 31,
+          "title": "世界机器人大会发布多项仿生具身智能机器人创新成果",
+          "summary": "2026世界机器人大会集中展示了仿生具身智能机器人的技术突破，涵盖多项创新成果（合并自报道id:31,35），推动产业生态建设。",
+          "hotness": 75,
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE41TXpUaDBkMWtzY1pWWUw4b2pGbFVpY2NGY2FZZEEzcGpFOVRVcFBKWlRFREF6ZzdYclg2dXVueUJCMFVNbTFoU1pqT0dGM2VzMjJuNGxScDdqc0g0R2lHdkllRlcyWUZj?oc=5",
+          "source": "人民网"
+        },
+        {
+          "id": 0,
+          "title": "政治影响数据中心，OpenAI落后Anthropic，AI行业面临‘太大不能倒’困境",
+          "summary": "分析指出政治因素干扰数据中心建设，OpenAI在竞争中被Anthropic反超，AI产业已成长到‘大到不能倒’的阶段。",
+          "hotness": 72,
+          "link": "https://siliconangle.com/2026/08/21/politics-hits-data-centers-openai-falls-behind-anthropic-and-now-ai-is-too-big-to-fail-quietly/",
+          "source": "SiliconANGLE"
+        },
+        {
+          "id": 23,
+          "title": "DeepSeek周末统一按低谷价计费，降低用户使用成本",
+          "summary": "DeepSeek宣布在周末将所有时段统一按低谷价计费，进一步降低大模型API调用成本。",
+          "hotness": 78,
+          "link": "https://www.ithome.com/0/993/129.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 3,
+          "title": "谷歌云与Econz合作推出硅谷首个Gemini企业体验中心",
+          "summary": "谷歌云携手Econz在硅谷设立专门的Gemini企业体验中心，为企业提供AI解决方案的实地体验和咨询。",
+          "hotness": 65,
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORmpFa1loNHYtRy05X19fcTZsUG5LSFk2amhfTnlFLWtoa0dvMC1lOHMyU3h5dV81R0otRmZoZDhSMnB4NUVmMER6MjA4UXVfMDB3RjZRMnJvZ3Zsd1FIRllnTmtkNjNHR0NfdUpzbXVWT3pXN2xsREFZMFdOMVN6MkFBd05feHlFN3VJZkJFSkFTQUpWRUF5VmNyWGx2ZjdMOUUtOHNZNThIbnA5VVQ2RHFsQU40U2ZwVkZiZGJCUTZEeFVEemlWOVg5RC1qS3VqR1IwWnM5UTRUZkNZcmfSAeMBQVVfeXFMUGw1N2xBbTBlUUp2dUJqblJCQXZ1Uktqc0NrMnJBSk55NmpJMmpQY1NBNGkxbEpmRnF2YjA3OTBzamNnclJlQmhnR1FyVHo2dThzQjg1M0NnUUR2eHkxSDJfNVRJeTc4eldDOXB6VTR5Z1RPcUVXa3k4TlQxVl9GRUpnN3E0YXJ2SjNmcm43dnpJM2tZa29ncTVfTV82eEJpRFMwT05LMVhDNG1uU3FpRjd2ZlNsUEt4Mmdnc1ZsODh0UE1Gam1ZZWd0SVdPX1o0cW1MQXBjOEJGMGt1Wm50Rl9QSVE?oc=5",
+          "source": "ThePrint"
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "id": 20,
+          "title": "Inherent推出小参数AI智能体Faraday，科研复现能力超越GPT-5.5与Claude Opus 4.8",
+          "summary": "前谷歌DeepMind员工创立的伦敦AI实验室Inherent发布小参数智能体Faraday，在科研复现任务上超越GPT-5.5和Claude Opus 4.8，小模型效率引发关注。",
+          "hotness": 95,
+          "link": "https://www.ithome.com/0/993/133.htm",
+          "source": "IT之家"
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": []
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "id": 15,
+          "title": "Anthropic多款Claude旧模型被曝存在越狱漏洞，可生成露骨色情内容",
+          "summary": "安全测试发现Anthropic多款Claude旧模型可被越狱，绕过安全限制生成露骨色情内容，引发对AI安全防护的担忧。",
+          "hotness": 85,
+          "link": "https://www.ithome.com/0/993/149.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 17,
+          "title": "OpenAI一改此前立场，呼吁加州强化AI安全法案",
+          "summary": "OpenAI转变态度，公开呼吁加州进一步加强AI安全法案，支持更严格的监管。",
+          "hotness": 80,
+          "link": "https://www.ithome.com/0/993/141.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 2,
+          "title": "LinkedIn用户点击AI垃圾报告按钮达百万次，平台AI内容泛滥受关注",
+          "summary": "LinkedIn用户已点击超过一百万次“举报AI生成垃圾内容”按钮，反映AI生成内容在社交平台的泛滥问题。",
+          "hotness": 70,
+          "link": "https://startupfortune.com/linkedin-users-click-its-ai-slop-reporting-button-a-million-times/",
+          "source": "Startup Fortune"
+        },
+        {
+          "id": 30,
+          "title": "中国的人工智能末日论者在哪？——纽约时报讨论中国AI安全话语缺失",
+          "summary": "纽约时报发文探讨中国对AI末日风险的讨论为何较少，引发对AI安全文化差异的关注。",
+          "hotness": 65,
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5DOEVDR0U4SElKazlyT0VZd3JqSEVIN2J2aE5yQU9NUEpUTzZHSk45WDNXOHRsc09jLUI2RUpWZFl3T0k4YVRLeEdBbW9lYTFWTjEzQWt4dTMwVWNjUWlIMG1EM0ItTTBnclE?oc=5",
+          "source": "纽约时报中文网"
+        },
+        {
+          "id": 14,
+          "title": "Oura遭集体诉讼，被指夸大智能戒指睡眠追踪准确性",
+          "summary": "智能戒指制造商Oura因被指控夸大睡眠追踪准确性而面临集体诉讼，AI健康产品宣传引争议。",
+          "hotness": 60,
+          "link": "https://www.ithome.com/0/993/151.htm",
+          "source": "IT之家"
+        }
+      ]
+    }
+  }
+}

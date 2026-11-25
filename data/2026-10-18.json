@@ -1,0 +1,92 @@
+{
+  "overview": [
+    "DeepSeek V4.1 Flash-1017 新版本发布，国产核心大模型迭代加速，轻量高速推理路线成为今日最重磅模型动态。",
+    "算力基础设施密集推进：鹏城云脑Ⅲ 10000P国产算力上线试运行，美光EIM与华硕Intel Arc Pro B70分别补强边缘推理和工作站AI算力。",
+    "微软Edge商业版水印保护年底全面上线，企业敏感内容防泄漏与合规治理成为浏览器侧的新焦点。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "id": 17,
+          "title": "“鹏城云脑Ⅲ”10000P国产算力上线试运行",
+          "summary": "“鹏城云脑Ⅲ”10000P国产算力上线试运行，采用边建设边运营模式；国产大模型算力基础设施供给进一步扩大。",
+          "hotness": 85,
+          "link": "https://www.ithome.com/1/014/387.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 7,
+          "title": "美光研发边缘推理内存EIM，面向物理AI降低延迟并提升带宽",
+          "summary": "美光推进面向物理AI的专用边缘推理内存EIM，旨在降低数据处理延迟并提高带宽；边缘AI存储栈成为新竞争点。",
+          "hotness": 75,
+          "link": "https://www.ithome.com/1/014/419.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 4,
+          "title": "特斯拉被指控施压三星压低AI芯片报价、索要敏感信息并挖角人才",
+          "summary": "一名韩国半导体工程师指控特斯拉在与三星AI芯片代工合作中施压压价、索要敏感信息并挖角人才；AI芯片供应链博弈与合规风险受关注。",
+          "hotness": 72,
+          "link": "https://www.ithome.com/1/014/422.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 9,
+          "title": "英伟达否认RTX 5090停产传闻，承认供应链产能受限",
+          "summary": "英伟达高管回应称RTX 5090并未停产，但供应链产能仍受限；该消息与IT早报（id 1）中的相关条目为同一事件。",
+          "hotness": 68,
+          "link": "https://www.ithome.com/1/014/407.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 15,
+          "title": "华硕推出首款英特尔Arc Pro B70显卡：32GB ECC显存、367 TOPS AI算力",
+          "summary": "华硕推出旗下首款Intel Arc Pro B70工作站显卡，配备32GB ECC显存、AI算力达367 TOPS，面向AI推理及专业工作站市场。",
+          "hotness": 65,
+          "link": "https://www.ithome.com/1/014/390.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 5,
+          "title": "WPS抢鲜适配iPhone Duo，支持伴随式AI全新布局",
+          "summary": "WPS宣布抢鲜适配iPhone Duo新形态，并推进伴随式AI布局；办公场景的端侧与伴随式AI入口竞争升温。",
+          "hotness": 60,
+          "link": "https://www.ithome.com/1/014/421.htm",
+          "source": "IT之家"
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "id": 1,
+          "title": "DeepSeek V4.1 Flash-1017 新版本发布，主打轻量高速推理",
+          "summary": "IT早报显示DeepSeek发布V4.1 Flash-1017新版本，命名指向轻量高速推理路线；作为国内核心大模型迭代，其推理效率与API/开源策略值得重点跟踪。",
+          "hotness": 100,
+          "link": "https://www.ithome.com/1/014/427.htm",
+          "source": "IT之家"
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": []
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "id": 3,
+          "title": "微软Edge商业版水印保护功能年底全面上线，防敏感内容外泄",
+          "summary": "微软面向商业版Edge推进水印保护，强化合规管理并提示用户浏览内容可能被追踪；企业敏感内容防泄漏成为浏览器治理新焦点。",
+          "hotness": 58,
+          "link": "https://www.ithome.com/1/014/425.htm",
+          "source": "IT之家"
+        }
+      ]
+    }
+  }
+}

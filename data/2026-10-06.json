@@ -1,0 +1,261 @@
+{
+  "overview": [
+    "Google Gemini 4 Argon 在 19 项 AI 基准中领先 14 项，核心大模型竞赛再度升级。",
+    "OpenAI 在 ChatGPT 上线图片广告，并按欧盟规则为文本输出添加隐形水印，商业化与合规并行。",
+    "开源生态与国内监管同频：Together Link 支持 Kimi K3/GLM 5.3，国家网信办发布 AI 拟人化互动服务管理暂行办法。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "id": 6,
+          "title": "OpenAI 在 ChatGPT 中推出全新图片广告形式",
+          "summary": "OpenAI 面向美国免费用户测试生成图片时的交互式广告，并扩展广告衡量工具，称不会影响生成结果。（合并源 ID：6/14/26）",
+          "hotness": 86,
+          "link": "https://gagadget.com/en/728685-openai-to-launch-interactive-ads-in-chatgpt-during-image-generation-for-free-users-in-the-us/",
+          "source": "Gagadget.com"
+        },
+        {
+          "id": 3,
+          "title": "Google 调整 Gemini 订阅权益：免费用户受限、Pro 门槛提高",
+          "summary": "Google 将免费用户限制至 Flash-Lite 模型，且部分低价订阅用户也无法使用 Pro 模型，AI 付费墙进一步收紧。（合并源 ID：3/11）",
+          "hotness": 82,
+          "link": "https://www.ndtvprofit.com/technology/gemini-ai-paywall-google-restricts-free-users-to-flash-lite-model-from-october-9-12142783",
+          "source": "NDTV Profit"
+        },
+        {
+          "id": 1,
+          "title": "扎克伯格发布 6500 字长文谈 AI 超级智能",
+          "summary": "Meta CEO 扎克伯格发文主张让所有人获得 AI 超级智能，引发对技术普惠与平台权力的讨论。",
+          "hotness": 80,
+          "link": "https://www.404media.co/mark-zuckerberg-posts-deranged-6-500-word-essay-about-giving-everyone-ai-superintelligence/",
+          "source": "404 Media"
+        },
+        {
+          "id": 15,
+          "title": "华为与高通达成广泛专利许可协议，覆盖 5G、AI、计算",
+          "summary": "双方宣布达成专利许可协议，覆盖 5G、AI 与计算领域；高通成为净支出方，专利合作范围明显扩大。（合并源 ID：15/34/41）",
+          "hotness": 76,
+          "link": "https://www.ithome.com/1/009/925.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 20,
+          "title": "英伟达股价连续 3 天创新高，市值有望冲击 6 万亿美元",
+          "summary": "英伟达股价连创新高，纳指盘中亦创新高，AI 算力龙头继续获得资本市场强力追捧。（合并源 ID：20/24）",
+          "hotness": 78,
+          "link": "https://www.ithome.com/1/009/914.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 17,
+          "title": "Google Call for Me 升级：Gemini 可代用户拨打亲友电话",
+          "summary": "Google 计划升级 Call for Me 功能，让 Gemini 支持代用户拨打私人亲友电话，AI 代理进一步进入日常通讯场景。",
+          "hotness": 76,
+          "link": "https://www.ithome.com/1/009/921.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 40,
+          "title": "全球大模型第一股大涨近 7%",
+          "summary": "被称为“全球大模型第一股”的公司股价大涨，反映资本市场对 AI 大模型板块的关注升温。（合并源 ID：40/54）",
+          "hotness": 68,
+          "link": "https://www.cls.cn/detail/2497893",
+          "source": "财联社"
+        },
+        {
+          "id": 42,
+          "title": "港股 AI 算力硬件全线爆发，PCB 板块领涨",
+          "summary": "港股三大指数收涨，AI 算力硬件产业链表现强势，PCB 板块领跑市场。（合并源 ID：42/49）",
+          "hotness": 66,
+          "link": "https://wap.eastmoney.com/a/202610053888643313.html",
+          "source": "东方财富"
+        },
+        {
+          "id": 18,
+          "title": "Apple TV 4K 第四代或将支持 Siri AI 与 Apple Intelligence",
+          "summary": "tvOS 27.2 代码显示苹果新一代 Apple TV 4K 有望获得 Siri AI 和 Apple Intelligence 支持。",
+          "hotness": 62,
+          "link": "https://www.ithome.com/1/009/920.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 45,
+          "title": "具身智能入驻商圈，人机互动焕新消费",
+          "summary": "具身智能进入商业场景，通过人机互动提升消费体验，成为 AI 落地线下商圈的新尝试。（合并源 ID：45/47/51）",
+          "hotness": 58,
+          "link": "https://huacheng.gz-cmc.com/pages/2026/10/05/6c8cc59b083f46528f58c8a70482ea3b.html",
+          "source": "广州日报新花城"
+        },
+        {
+          "id": 62,
+          "title": "Teradyne 与 Bright Machines 合作建设 AI 基础设施微工厂",
+          "summary": "双方将机器人、测试技术引入 AI 基础设施微工厂，瞄准 AI 硬件制造与产能扩张需求。",
+          "hotness": 52,
+          "link": "https://www.ien.com/artificial-intelligence/news/22975719/teradyne-partners-with-bright-machines-to-put-robots-test-tech-in-ai-infrastructure-microfactories",
+          "source": "Industrial Equipment News"
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "id": 5,
+          "title": "Google Gemini 4 Argon 在 14/19 项基准中领先",
+          "summary": "Google 新一代 Gemini 4 Argon 在 19 项 AI 基准中拿下 14 项领先，显示核心模型能力竞争进一步白热化。",
+          "hotness": 98,
+          "link": "https://parametric-architecture.com/google-gemini-4-argon-release/",
+          "source": "Parametric Architecture"
+        },
+        {
+          "id": 4,
+          "title": "Tibo 誓言连续 28 天模型发布或重置，OpenAI 面临信任危机",
+          "summary": "Tibo 公开承诺“连续 28 天模型发布或重置”，在模型迭代节奏与透明度上给 OpenAI 带来严重信任压力。",
+          "hotness": 90,
+          "link": "https://eu.36kr.com/en/p/4012179282874240",
+          "source": "36Kr"
+        },
+        {
+          "id": 60,
+          "title": "物理研究 AI Agent 有望加速量子计算与暗物质搜索",
+          "summary": "新型物理 AI Agent 可辅助科研流程，或加速量子计算和暗物质探测等前沿领域研究。",
+          "hotness": 70,
+          "link": "https://www.newswise.com/articles/an-ai-agent-for-physics-could-speed-up-quantum-computing-and-dark-matter-searches",
+          "source": "Newswise"
+        },
+        {
+          "id": 50,
+          "title": "AI 十大展望发布：可交互世界建模、灵巧手、AI 算力入选",
+          "summary": "连续第四年发布的 AI 十大展望覆盖可交互世界建模、灵巧手、AI 算力等方向，勾勒下一代 AI 技术路线。",
+          "hotness": 62,
+          "link": "https://finance.sina.cn/stock/jdts/2026-07-19/detail-iniiirzc3426358.d.html?oid=%E6%B1%9F%E8%AF%97%E4%B8%B9%E9%A1%BF%E9%AB%98%E4%BB%BF51111b%E2%97%87%E5%BE%AE%E4%BF%A189486682%E2%97%87%E4%BB%BF%E5%8A%B3%E5%8A%9B%E5%A3%AB%E5%90%8D%E8%A1%A8%E5%9B%9E%E6%94%B6%E6%9F%A5%E8%AF%A2%E2%96%81%E5%BE%AE%E4%BF%A189486682%E2%96%81%E5%93%AA%E9%87%8C%E6%B5%AA%E7%90%B4%E4%BA%8C%E6%89%8B%E6%89%8B%E8%A1%A8%E5%9B%9E%E6%94%B6%E4%BE%BF%E5%AE%9C%E2%96%8D%E5%BE%AE%E4%BF%A189486682%E2%96%8Dm1La&vt=4",
+          "source": "finance.sina.cn"
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "id": 9,
+          "title": "Together Link：免费 CLI 让 Kimi K3、GLM 5.3 在 Claude Code 等工具中运行",
+          "summary": "Together Link 提供免费命令行工具，可在 Claude Code、Codex、OpenCode 中调用 Kimi K3、GLM 5.3 等开放模型，降低开源模型接入门槛。",
+          "hotness": 94,
+          "link": "https://www.marktechpost.com/2026/10/05/meet-together-link-a-free-cli-that-runs-open-models-like-kimi-k3-and-glm-5-3-inside-claude-code-codex-and-opencode/?amp=1",
+          "source": "MarkTechPost"
+        },
+        {
+          "id": 27,
+          "title": "卡普空开源 RE:Dox 结构化数据引擎",
+          "summary": "卡普空将新一代数据处理与序列化基础库 RE:Dox 开源，JSON 反序列化最高提速 2.84 倍。",
+          "hotness": 66,
+          "link": "https://www.ithome.com/1/009/886.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 59,
+          "title": "AWS 发布在 SageMaker AI 上用编码代理部署 Hugging Face 模型指南",
+          "summary": "AWS 介绍如何通过编码代理在 SageMaker AI 上部署 Hugging Face 模型，简化开源模型上云与运维流程。",
+          "hotness": 68,
+          "link": "https://aws.amazon.com/blogs/machine-learning/deploy-hugging-face-models-on-amazon-sagemaker-ai-with-coding-agents/",
+          "source": "Amazon Web Services (AWS)"
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "id": 39,
+          "title": "国家网信办等五部门公布《人工智能拟人化互动服务管理暂行办法》",
+          "summary": "新规针对 AI 拟人化互动服务作出管理要求，标志着国内对情感陪伴、虚拟人交互等场景的监管进一步细化。",
+          "hotness": 88,
+          "link": "https://www.news.cn/20260410/4f04477dfa8346e298e907551fed5f67/c.html",
+          "source": "新华网"
+        },
+        {
+          "id": 37,
+          "title": "美国组建“超级智能”工作组，拟与中国建立 AI 事故通报机制",
+          "summary": "美国设立超级智能工作组并计划与中国建立 AI 事故通报机制，AI 安全治理进入大国协调阶段。（合并源 ID：37/52）",
+          "hotness": 80,
+          "link": "https://www.voachinese.com/amp/us-forms-super-intelligence-task-force-plans-ai-incident-notification-mechanism-with-china-20261005/8208000.html",
+          "source": "voachinese.com"
+        },
+        {
+          "id": 35,
+          "title": "联合国人权高专警告：对 AI 实施监管的时间正在流逝",
+          "summary": "联合国人权高专敦促各国尽快建立 AI 监管框架，强调技术发展不能脱离人权保障。",
+          "hotness": 72,
+          "link": "https://news.un.org/zh/story/2026/10/1142943",
+          "source": "UN News"
+        },
+        {
+          "id": 16,
+          "title": "麦当劳在美遭集体诉讼，被指用 AI 系统非法操纵菜单价格",
+          "summary": "麦当劳被指控借助 AI 定价系统操纵菜单价格，面临全国性集体诉讼，AI 定价公平性再受质疑。",
+          "hotness": 75,
+          "link": "https://www.ithome.com/1/009/924.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 53,
+          "title": "李飞飞：10 年后 AI 普及，全球将只剩两类劳动",
+          "summary": "李飞飞预测 AI 普及后全球劳动力将分化为两类，引发对就业结构、技能价值与社会公平的广泛讨论。",
+          "hotness": 78,
+          "link": "http://k.sina.com.cn/article_1662214194_m6313603205301mu2i.html",
+          "source": "手机新浪网"
+        },
+        {
+          "id": 61,
+          "title": "孙正义警告 AI 安全风险",
+          "summary": "软银孙正义公开警告 AI 安全议题，呼吁在推进超级智能的同时重视风险控制。",
+          "hotness": 74,
+          "link": "https://www.bloomberg.com/news/videos/2026-10-05/softbank-s-masayoshi-son-warns-on-ai-safety-video",
+          "source": "bloomberg.com"
+        },
+        {
+          "id": 13,
+          "title": "OpenAI 将在欧盟为 ChatGPT 和 Codex 文本输出添加隐形水印",
+          "summary": "为配合欧盟 AI 法案透明要求，OpenAI 将在欧盟地区为 ChatGPT 和 Codex 文本输出加入隐形水印。（合并源 ID：13/25）",
+          "hotness": 76,
+          "link": "https://openai.com/index/eu-text-provenance",
+          "source": "OpenAI Blog"
+        },
+        {
+          "id": 58,
+          "title": "评论称不信任 Meta Muse AI 代理处理个人数据",
+          "summary": "PCWorld 评论对 Meta 的 Muse AI 代理处理个人数据表示担忧，AI Agent 隐私与信任问题再被放大。",
+          "hotness": 64,
+          "link": "https://www.pcworld.com/article/3250739/i-wouldnt-trust-metas-muse-ai-agent-with-my-personal-data-yet.html",
+          "source": "PCWorld"
+        },
+        {
+          "id": 46,
+          "title": "乌克兰称 AI 炮塔首次成功拦截俄无人机",
+          "summary": "乌方称 AI 炮塔首次成功拦截俄无人机，自主武器实战化继续引发军事伦理争议。",
+          "hotness": 66,
+          "link": "https://finance.sina.cn/2026-10-05/detail-iniuezxv9383714.d.html?vt=4",
+          "source": "finance.sina.cn"
+        },
+        {
+          "id": 2,
+          "title": "Anthropic 联合创始人曾几乎退出 Magnifica Humanitas 发布",
+          "summary": "Anthropic 联合创始人差点退出 Magnifica Humanitas 发布，折射 AI 公司与人文、宗教伦理之间的张力。",
+          "hotness": 55,
+          "link": "https://thecatholicherald.com/article/anthropic-co-founder-nearly-pulled-out-of-magnifica-humanitas-launch",
+          "source": "The Catholic Herald"
+        },
+        {
+          "id": 48,
+          "title": "光明网：人工智能发展要与人类伦理价值同频同向",
+          "summary": "评论文章强调 AI 发展需与人类伦理价值保持一致，避免技术狂奔脱离社会共识。",
+          "hotness": 50,
+          "link": "https://theory.gmw.cn/2026-10/05/content_39029431.htm",
+          "source": "光明网理论"
+        }
+      ]
+    }
+  }
+}

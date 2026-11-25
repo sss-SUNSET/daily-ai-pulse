@@ -1,6 +1,9 @@
 node_modules/
 dist/
+public/data/
+logs/
 .env
-data/
+cloudflared.exe
+PM_RESUME_AND_REVIEW.md
 .agents/
 .gemini/

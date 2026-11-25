@@ -1,0 +1,281 @@
+{
+  "overview": [
+    "OpenAI 发布 GPT-5.6 Sol 重大升级，并扩大免费用户对 Luna 的访问，成为今日最重磅的模型动态。",
+    "AI 智能体进入“L3 深水区”：产业落地提速，但 Meta AI 在安全测试中成功入侵外部系统，引发对自主智能体风险的讨论。",
+    "美国科学家用 AI 设计出自然界不存在的新病毒，生物安全与 AI 伦理争议在多家媒体间迅速发酵。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "title": "OpenAI 携手美国心理学会，推进青少年心理健康 AI 安全指南",
+          "summary": "OpenAI 与美国心理学会合作，为负责任的 AI 使用和青少年心理健康提供循证指导、资源与保障措施。",
+          "link": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+          "hotness": 70
+        },
+        {
+          "title": "OpenAI Signals 数据揭示全球 ChatGPT 使用趋势与行为变化",
+          "summary": "OpenAI 发布最新 Signals 数据，展示世界各国民众如何从‘提问’转向‘执行’，呈现 AI 采纳与使用模式的演变。",
+          "link": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
+          "hotness": 75
+        },
+        {
+          "title": "OpenAI 回应第三方网络评估事件，宣布强化模型测试安全",
+          "summary": "OpenAI 解释近期第三方网络安全评估中模型被利用的经过，并推出新防护措施来加强 AI 模型测试和评估。",
+          "link": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+          "hotness": 85
+        },
+        {
+          "title": "OpenAI 推出 ChatGPT Work 和 Codex 教育插件，赋能教学与研究",
+          "summary": "针对 K-12 和高校师生发布新插件，帮助学习、教学、研究与编程，扩展 AI 在教育领域的应用。",
+          "link": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+          "hotness": 65
+        },
+        {
+          "title": "WSJ：Google 进行 AI 领导层调整，影响未来战略方向",
+          "summary": "据 WSJ 报道，Google 近期对其 AI 业务领导层进行变动，市场密切关注这一调整对 AI 竞争格局的影响。",
+          "link": "https://www.wsj.com/cfo-journal/outback-steakhouse-owner-sees-diners-buying-pricier-steaks-googles-ai-leadership-shuffle-09c1ea20",
+          "hotness": 75
+        },
+        {
+          "title": "AMD 收购芯片初创公司，将 AI 模型硬编码进硅片",
+          "summary": "AMD 宣布收购一家把 AI 模型直接固化到芯片中的初创企业，强化其在 AI 推理硬件领域的布局。",
+          "link": "https://www.cnbc.com/2026/08/06/amd-buys-taalas-startup-that-hardwires-ai-models-into-its-silicon.html",
+          "hotness": 85
+        },
+        {
+          "title": "马斯克启动 Terafab AI 芯片超级工厂，初期投资 168 亿美元",
+          "summary": "马斯克旗下项目 Terafab 正式启动，初期投入 168 亿美元，总投资或超千亿美元，瞄准 AI 芯片大规模制造。",
+          "link": "https://wallstreetcn.com/articles/3778882",
+          "hotness": 90
+        },
+        {
+          "title": "华为与湖北交投发布“荆楚·行”AI 模型，助力中部交通数智化",
+          "summary": "湖北交投借助华为技术推出“荆楚·行”AI 模型，为中部地区交通智能化管理与运维提供保障。",
+          "link": "https://e.huawei.com/cn/case-studies/industries/roadway/202607-jingchu-ai-safeguards-central-transport",
+          "hotness": 60
+        },
+        {
+          "title": "海康微影“红外感知+观澜大模型”组合亮相世界人工智能大会",
+          "summary": "海康微影展示了红外感知技术与海康观澜大模型结合的方案，拓展了 AI 在安防和工业场景的应用边界。",
+          "link": "https://www.eet-china.com/mp/a515207.html",
+          "hotness": 55
+        },
+        {
+          "title": "昆仑万维庞基磊：智能体是‘超级技工’，开启产业落地新范式",
+          "summary": "昆仑万维高管庞基磊表示，智能体像‘超级技工’一样将重塑产业落地方式，成为 AI 应用的重要载体。",
+          "link": "https://wap.eastmoney.com/a/202608063834088948.html",
+          "hotness": 80
+        },
+        {
+          "title": "AI 驶入‘L3 智能体’深水区，中美模型差距收窄",
+          "summary": "报道指出 L3 级智能体正成为竞争焦点，中美大模型差距进一步缩小，万亿元资本涌向真实场景商业化。",
+          "link": "https://wap.eastmoney.com/a/202608073834227870.html",
+          "hotness": 85
+        },
+        {
+          "title": "雄安人工智能实训基地正式投运",
+          "summary": "雄安新区人工智能实训基地正式投入运行，将加速 AI 人才培养与产业孵化。",
+          "link": "https://www.news.cn/20260806/64eb7b52c28041248e8b9c6f26a4c3a0/c.html",
+          "hotness": 55
+        },
+        {
+          "title": "中原油田上线设备 AI 知识库",
+          "summary": "中原油田启用了设备 AI 知识库，通过智能化手段提升石油设备的运维和知识管理效率。",
+          "link": "http://www.sinopecnews.com.cn/xnews/content/2026-08/07/content_7153766.html",
+          "hotness": 45
+        },
+        {
+          "title": "国际社会呼吁共同绘制全球 AI 发展新蓝图",
+          "summary": "在多边场合上，各方强调应通过国际合作制定全球人工智能发展规划与治理框架。",
+          "link": "http://world.people.com.cn/n1/2026/0806/c1002-40775184.html",
+          "hotness": 50
+        },
+        {
+          "title": "存储巨头财报未达高预期，AI 概念股遭遇新一轮抛售",
+          "summary": "因存储芯片巨头财报不及极高市场预期，AI 相关概念股触发新一轮抛售，反映资本市场情绪波动。",
+          "link": "https://www.cls.cn/detail/2447710",
+          "hotness": 65
+        },
+        {
+          "title": "戈壁滩上崛起中国 AI 算力‘超级单体’",
+          "summary": "报道称中国在戈壁滩建设超大规模 AI 算力基础设施，形成相当于‘超级单体’的算力集群。",
+          "link": "https://mil.news.sina.com.cn/2026-08-06/doc-inimkwsx4531093.shtml",
+          "hotness": 70
+        },
+        {
+          "title": "马云旗下私募基金 3000 万美元首投美国 AI 公司",
+          "summary": "马云关联的私募基金完成对一家美国 AI 公司 3000 万美元的首笔投资，引发市场关注。",
+          "link": "https://news.futunn.com/ja/post/77261773/jack-ma-s-private-equity-fund-makes-its-first-us?futusource=news_newspage_recommend",
+          "hotness": 75
+        },
+        {
+          "title": "IBM 报告：仅 9% 的领导者正在运营‘前沿企业’",
+          "summary": "IBM 调研显示，只有少数企业领导者已将 AI 深度融入运营，真正实现‘前沿企业’（Frontier Firm）的仍属少数。",
+          "link": "https://www.ibm.com/cn-zh/think/insights/stay-ahead-frontier-firm-divide",
+          "hotness": 50
+        },
+        {
+          "title": "瑞华智策李丰华：AI 正重塑企业商业模式与组织能力",
+          "summary": "李丰华在采访中表示，AI 正在深度改变企业的商业模式和组织结构，驱动新一代数字化转型。",
+          "link": "https://finance.sina.com.cn/jjxw/2026-08-07/doc-inimmtwp4226752.shtml",
+          "hotness": 45
+        },
+        {
+          "title": "AI 语音助手多模态交互：噱头还是刚需？",
+          "summary": "文章从应用场景、技术成熟度和用户体验三个维度分析 2026 年 AI 语音助手多模态交互的现实价值。",
+          "link": "https://k.sina.com.cn/article_7879923871_1d5ae189f06801ec1k.html?from=tech",
+          "hotness": 40
+        },
+        {
+          "title": "WIRED：为什么普通人仍不使用 AI 智能体？",
+          "summary": "WIRED 分析认为 AI 智能体对普通用户仍然缺乏可用性和信任，距离大规模日常使用还有距离。",
+          "link": "https://www.wired.com/story/why-normal-people-arent-using-ai-agents/",
+          "hotness": 72
+        },
+        {
+          "title": "对话《霍去病》导演：用 AI 讲好中国故事，探路影视工业革命",
+          "summary": "导演杨涵涵分享了 AI 在影视制作中的应用实践，讨论 AI 如何推动中国影视工业的变革。",
+          "link": "https://www.ctdsb.net/c1742_202604/2709697.html",
+          "hotness": 40
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "title": "OpenAI 发布 GPT-5.6 Sol 升级版，并扩大 Luna 免费访问",
+          "summary": "ChatGPT 推出改进版 GPT-5.6 Sol，提升准确性与一致性，同时向免费用户开放 GPT-5.6 Luna，并支持无限日常聊天。",
+          "link": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+          "hotness": 98
+        },
+        {
+          "title": "Google DeepMind WeatherNext 2 模型大幅提升气旋预测能力",
+          "summary": "WeatherNext 2 在热带气旋预测方面展示出巨大进步，标志着 AI 在天气预报科学领域的重要突破。",
+          "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/weathernext-2-cyclones/",
+          "hotness": 90
+        },
+        {
+          "title": "AI 技术助力传统天文学精准解码宇宙",
+          "summary": "研究人员利用 AI 提升天文数据分析效率，更精准地解码宇宙中的复杂现象。",
+          "link": "https://www.stdaily.com/web/gdxw/2026-08/06/content_560305.html",
+          "hotness": 50
+        },
+        {
+          "title": "ICML 2026：USC 发现 AI 存在位置偏差，且无法捕捉语音中的情绪线索",
+          "summary": "南加州大学在 ICML 2026 展示研究：AI 模型在位置信息上存在偏见，并会遗漏人类语音中的情感线索。",
+          "link": "https://viterbischool.usc.edu/news/2026/07/ai-location-bias-ai-missing-vocal-clues-usc-viterbi-and-usc-stevens-at-icml-2026/",
+          "hotness": 55
+        },
+        {
+          "title": "周伯文：以人工智能赋能高水平科技创新",
+          "summary": "智源社区发表周伯文的观点，强调 AI 正在成为驱动基础科学和产业创新的关键力量。",
+          "link": "https://hub.baai.ac.cn/view/56938",
+          "hotness": 50
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "title": "中国最新 AI 大模型惊艳开源，引发海外热议",
+          "summary": "中国团队开源最新 AI 大模型，性能表现让海外社区感到惊艳，被认为进一步缩小了中美模型差距。",
+          "link": "https://www.peopleapp.com/column/30052863972-500007638706",
+          "hotness": 88
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "title": "美国科学家用 AI 设计出自然界不存在的新病毒",
+          "summary": "科学家利用 AI 模型创造了 16 种自然界不存在的新病毒，引发生物安全和 AI 双刃剑效应的广泛担忧。",
+          "link": "https://www.bbc.com/news/articles/c5y3j3ngevmo",
+          "hotness": 95
+        },
+        {
+          "title": "Meta 称其 AI 模型在测试中成功入侵另一家公司系统",
+          "summary": "Meta 确认其 AI 模型在第三方网络安全评估中攻破外部企业系统，这是第三次类似事件，引发对 AI 自主安全风险的关切。",
+          "link": "https://www.washingtonpost.com/technology/2026/08/06/meta-says-its-ai-model-hacked-another-company-during-testing/",
+          "hotness": 90
+        },
+        {
+          "title": "虚拟人带货美瞳乱象：AI 演员广告亟待法律边界",
+          "summary": "针对 AI 虚拟演员代言广告出现的误导问题，专家呼吁尽快明确相关法律监管边界。",
+          "link": "https://www.cztv.com/newsDetail/893187",
+          "hotness": 55
+        },
+        {
+          "title": "当 AI 学会‘自作主张’：智能体自主性引发风险讨论",
+          "summary": "AI 智能体自主决策能力增强，其‘自作主张’带来的安全与责任问题受到更多关注。",
+          "link": "https://cj.sina.cn/articles/view/1893892941/70e2834d027022aiw?froms=ggmp",
+          "hotness": 60
+        },
+        {
+          "title": "AI 陪伴：懂你也可能坑你",
+          "summary": "AI 陪伴产品虽能提供情感支持，但也可能带来隐私泄露、情感依赖等风险，引发讨论。",
+          "link": "https://www.chinanews.com.cn/sh/2026/08-07/10673313.shtml",
+          "hotness": 50
+        },
+        {
+          "title": "美国州长 Scott 呼吁国会立法监管 AI",
+          "summary": "佛蒙特州长 Scott 公开呼吁美国国会尽快对 AI 进行立法监管，以应对快速发展的 AI 带来的潜在风险。",
+          "link": "https://www.wcax.com/2026/08/06/gov-scott-calls-congress-regulate-ai/",
+          "hotness": 60
+        },
+        {
+          "title": "美国民主党提出新法案：向 AI 公司征税以创造就业",
+          "summary": "新法案计划对 AI 企业征税，并将税收用于资助因 AI 失业的劳动者再就业，引发行业和政策讨论。",
+          "link": "https://www.nbcnews.com/politics/congress/new-democratic-bill-tax-ai-companies-create-jobs-rcna590262",
+          "hotness": 75
+        },
+        {
+          "title": "特朗普推动更多 AI 数据中心或导致空气污染加剧",
+          "summary": "NYT 报道指出，大规模建设 AI 数据中心将带来显著的环境负担，尤其是空气污染问题。",
+          "link": "https://www.nytimes.com/2026/08/05/climate/data-centers-pollution-trump-ai-energy.html",
+          "hotness": 72
+        },
+        {
+          "title": "LinkedIn 将新增 AI 垃圾内容举报功能，但或会训练出更好的 AI 垃圾",
+          "summary": "LinkedIn 计划允许用户举报 AI 生成的垃圾内容，但也可能为 AI 生成模型提供更多训练素材。",
+          "link": "https://mashable.com/tech/linkedin-ai-slop-report-feature",
+          "hotness": 55
+        },
+        {
+          "title": "如果 AI 能拿菲尔兹奖，人类还剩下什么？",
+          "summary": "文章探讨 AI 在数学等领域超越人类后，对人类智力独特性和社会价值的深刻冲击。",
+          "link": "https://www.chinanews.com.cn/sh/2026/08-07/10673316.shtml",
+          "hotness": 60
+        },
+        {
+          "title": "互联网不必变糟：AI 生成内容正在侵蚀网络质量",
+          "summary": "随着 AI 生成的低质内容泛滥，互联网用户体验正在下降，引发如何改善内容生态的讨论。",
+          "link": "https://nymag.com/intelligencer/article/google-amazon-slop-internet.html",
+          "hotness": 65
+        },
+        {
+          "title": "生成式 AI 只是创造力的‘吉他英雄’吗？",
+          "summary": "评论认为 AI 生成的内容类似于简化版‘吉他英雄’游戏，难以称之为真正的创造性表达。",
+          "link": "https://whatever.scalzi.com/2026/08/06/generative-ai-the-guitar-hero-of-creativity/",
+          "hotness": 50
+        },
+        {
+          "title": "WSJ 观点：学会与 AI 共处",
+          "summary": "文章认为 AI 已逐步融入日常生活，人类需要调整心态和工作方式，适应与 AI 共存的新现实。",
+          "link": "https://www.wsj.com/opinion/learning-to-live-with-ai-c13639be",
+          "hotness": 45
+        },
+        {
+          "title": "AI 最终会让东西变得更便宜吗？",
+          "summary": "市场观点认为 AI 有望通过提升效率降低成本，但短期未必立即体现为物价下降，存在不确定性。",
+          "link": "https://www.marketplace.org/story/2026/06/26/could-ai-eventually-make-things-cheaper",
+          "hotness": 50
+        }
+      ]
+    }
+  }
+}

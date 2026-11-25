@@ -1,0 +1,149 @@
+{
+  "overview": [
+    "Anthropic发布媲美Fable 5的新模型，且价格更低，AI模型竞争白热化。",
+    "智能体终端与应用加速落地：字节跳动“豆包手机”瞄准智能体风口，连连数字推出智能体支付，Anthropic Claude Code推动AI开发新范式。",
+    "英伟达重金布局AI基础设施与安全：投资韩国Naver 10亿美元、Ilya Sutskever初创公司50亿美元，并牵头成立开放安全AI联盟。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "title": "黄仁勋、马斯克同日发声：中国的人工智能注定卓越",
+          "summary": "英伟达CEO黄仁勋与马斯克同日表示，中国AI将成全球领导者。",
+          "link": "https://www.cls.cn/detail/2437146",
+          "hotness": 85
+        },
+        {
+          "title": "报道：特朗普政府即将敲定AI自愿监管框架",
+          "summary": "消息称特朗普政府即将完成AI自愿监管框架的制定。",
+          "link": "https://wallstreetcn.com/articles/3778070",
+          "hotness": 75
+        },
+        {
+          "title": "美国警告制裁中国AI公司 北京反控美企蒸馏模型并威胁反制",
+          "summary": "美国威胁制裁中国AI企业，中方反指美国公司通过蒸馏模型窃取技术并准备反制。",
+          "link": "https://amp.dw.com/zh/%E7%BE%8E%E5%9B%BD%E8%AD%A6%E5%91%8A%E5%88%B6%E8%A3%81%E4%B8%AD%E5%9B%BDai%E5%85%AC%E5%8F%B8-%E5%8C%97%E4%BA%AC%E5%8F%8D%E6%8E%A7%E7%BE%8E%E4%BC%81%E8%92%B8%E9%A6%8F%E6%A8%A1%E5%9E%8B%E5%B9%B6%E5%A8%81%E8%83%81%E5%8F%8D%E5%88%B6/a-78133474",
+          "hotness": 78
+        },
+        {
+          "title": "英伟达向韩国Naver投资10亿美元 布局AI基础设施",
+          "summary": "英伟达向韩国搜索巨头Naver投资10亿美元，强化AI基础设施合作。",
+          "link": "https://www.cls.cn/detail/2437851",
+          "hotness": 84
+        },
+        {
+          "title": "英伟达将向Ilya Sutskever的AI初创公司投资50亿美元",
+          "summary": "消息称英伟达计划向OpenAI联合创始人Ilya Sutskever的AI初创公司投资50亿美元。",
+          "link": "https://www.reuters.com/legal/transactional/nvidia-invest-5-billion-ilya-sutskevers-ai-startup-source-says-2026-07-27/",
+          "hotness": 88
+        },
+        {
+          "title": "Alphabet现金流首度转负 AI资本支出压力考验科技巨头财报",
+          "summary": "Alphabet自由现金流首次转为负值，AI巨额资本支出给财报带来压力。",
+          "link": "https://www.cls.cn/detail/2435521",
+          "hotness": 80
+        },
+        {
+          "title": "“豆包手机”有了上海基因 瞄准智能体终端风口 上海定下3000亿元目标",
+          "summary": "字节跳动“豆包手机”在上海落地，聚焦AI智能体终端，上海提出3000亿元产业目标。",
+          "link": "https://wap.eastmoney.com/a/202607283822534432.html",
+          "hotness": 90
+        },
+        {
+          "title": "人工智能与跨境支付深度融合 连连数字携手银联国际推动全球采购智能体支付落地",
+          "summary": "连连数字与银联国际合作，推出基于AI智能体的全球采购支付方案。",
+          "link": "https://finance.sina.cn/stock/jdts/2026-07-27/detail-inikfsvc3055977.d.html?vt=4&cid=76993&node_id=76993",
+          "hotness": 85
+        },
+        {
+          "title": "IDC王吉平：智能体手机发展路径仍处探索阶段",
+          "summary": "IDC分析师表示，智能体手机尚未成熟，行业仍处于探索期。",
+          "link": "https://www.guandian.cn/m/show/577511",
+          "hotness": 70
+        },
+        {
+          "title": "OpenAI推出ChatGPT健康功能、建设AI基础设施等多项更新",
+          "summary": "OpenAI发布Health in ChatGPT（可连接健康数据）、在佐治亚州建设AI数据中心、与能源部合作推进科学发现等。",
+          "link": "https://openai.com/index/health-in-chatgpt",
+          "hotness": 86
+        },
+        {
+          "title": "美股“惊魂”！AI硬件股集体“闪崩”，中概股大涨",
+          "summary": "美股AI硬件股暴跌，光刻机、存储芯片等板块重挫，中概股逆势上涨。",
+          "link": "https://m.21jingji.com/article/20260728/herald/a61a1db79735a3ae57e352bd2eb8359b.html",
+          "hotness": 77
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "title": "Anthropic发布新AI模型，性能媲美Fable 5且更便宜",
+          "summary": "Anthropic推出新款大模型，在评测中与Fable 5相当，但推理成本更低，引发企业对AI成本的关注。",
+          "link": "https://www.cnbc.com/2026/07/24/anthropic-claude-opus-5-ai-fable-5-cost.html",
+          "hotness": 95
+        },
+        {
+          "title": "OpenAI研究：AI正在扩展工作边界，ChatGPT用户跨角色完成任务",
+          "summary": "OpenAI最新研究显示，AI正在重塑工作内容，用户利用ChatGPT承担多种角色任务。",
+          "link": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+          "hotness": 72
+        },
+        {
+          "title": "OpenAI与美能源部合作推动国家科学前沿",
+          "summary": "OpenAI宣布与美国能源部及国家实验室合作，利用前沿AI加速科学发现。",
+          "link": "https://openai.com/index/advancing-the-next-era-of-national-science",
+          "hotness": 70
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "title": "英伟达牵头成立“开放安全AI联盟”，力挺开放权重模型",
+          "summary": "英伟达联合产业链成立Open Secure AI Alliance，致力于开源AI安全与安全标准，并支持开放权重模型。",
+          "link": "https://blogs.nvidia.com/blog/open-secure-ai-alliance/",
+          "hotness": 88
+        },
+        {
+          "title": "Anthropic Claude Code创建者：别再微管理你的AI",
+          "summary": "Claude Code的开发者呼吁用户信任AI智能体，减少不必要的指令干预，以充分发挥其自主能力。",
+          "link": "https://uk.news.yahoo.com/creator-anthropics-claude-code-wants-220802157.html",
+          "hotness": 90
+        },
+        {
+          "title": "微软发布AI网络安全工具，重新定义AI时代的安全",
+          "summary": "微软推出针对AI应用的安全工具，帮助组织防御AI驱动的新威胁。",
+          "link": "https://www.nytimes.com/2026/07/27/technology/microsoft-unveils-ai-cybersecurity-tools.html",
+          "hotness": 68
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "title": "奥尔特曼宣称人类已处于“奇点”之中，AI将带来巨大积极影响",
+          "summary": "OpenAI CEO Sam Altman声称AI奇点已经到来，并认为AI将对社会产生巨大的积极影响。",
+          "link": "https://www.cls.cn/detail/2437876",
+          "hotness": 82
+        },
+        {
+          "title": "AI作品“入侵”文艺评奖 堵漏洞更要立规矩",
+          "summary": "AI生成作品参与文艺评奖引发争议，专家呼吁完善规则、明确底线。",
+          "link": "https://k.sina.com.cn/article_5953740931_162dee08306703qrte.html?from=tech",
+          "hotness": 74
+        },
+        {
+          "title": "AI冲击下，就业市场迎来万亿元新机遇与新职业",
+          "summary": "报告称AI将催生一批新职业，但同时传统岗位面临淘汰风险。",
+          "link": "https://finance.ifeng.com/c/8v7SfF44GkA",
+          "hotness": 65
+        }
+      ]
+    }
+  }
+}

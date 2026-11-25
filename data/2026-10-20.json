@@ -1,0 +1,353 @@
+{
+  "overview": [
+    "DeepSeek 发布 V4.1-Flash 更新、MiniMax 推出 M3.1 Flash 并大幅降价，国内核心模型在性能、价格与智能体场景上加速竞速。",
+    "Anthropic 筹备更懂用户意图的新模型，xAI 将 Grok 转向四模型路由，Mistral 发布 Timestral 时序预测模型，前沿模型竞争转向能力细分与调度。",
+    "Google Gemini 4 Argon 智能体 27 小时通关《我的世界》并扩展 AI Mode 至 19 国；微软推出 Guardian Agents 应对智能体安全威胁。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "id": [
+            18,
+            22,
+            23
+          ],
+          "title": "OpenAI 加速新一轮融资、Anthropic IPO 预期升温，施密特持股将获巨额回报",
+          "summary": "OpenAI 赶在 Anthropic 预计上市前争取投资者承诺，估值或超 1.4 万亿美元；前谷歌 CEO 施密特持有 Anthropic 1% 股份，也将因 IPO 获得巨额回报。",
+          "hotness": 96,
+          "link": "https://www.theinformation.com/newsletters/ai-agenda/anthropic-readies-model-reads-users-intentions-better"
+        },
+        {
+          "id": 35,
+          "title": "Tenstorrent 完成 15 亿美元 E 轮融资，投后估值 62 亿美元",
+          "summary": "RISC-V AI 计算企业 Tenstorrent 宣布完成 15 亿美元融资，显示算力芯片与开放架构赛道仍受资本追捧。",
+          "hotness": 82,
+          "link": "https://www.ithome.com/1/015/045.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": [
+            29,
+            30,
+            31
+          ],
+          "title": "苹果 iOS/macOS/watchOS 27.2 RC 扩展 Siri AI 语言与多项体验",
+          "summary": "苹果向多平台推送 27.2 RC，Siri AI 新增多语言支持，并更新 Apple Music 视觉、亮度/音量滑块等。",
+          "hotness": 78,
+          "link": "https://www.theinformation.com/newsletters/ai-agenda/anthropic-readies-model-reads-users-intentions-better"
+        },
+        {
+          "id": 38,
+          "title": "苹果被曝研发 AI 室内摄像头 J450，可分析环境",
+          "summary": "古尔曼称苹果正研发代号 J450 的室内摄像头，将依靠 AI 分析环境，进一步扩展家居生态。",
+          "hotness": 60,
+          "link": "https://www.ithome.com/1/015/023.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 8,
+          "title": "Cognizant 与 Google Cloud 成立 Gemini Frontier Capability Group",
+          "summary": "双方组建专项能力组，推动 Gemini 企业级前沿能力落地，强化云与 AI 服务合作。",
+          "hotness": 70,
+          "link": "https://www.unite.ai/cognizant-and-google-cloud-launch-gemini-frontier-capability-group/",
+          "source": "Unite.AI"
+        },
+        {
+          "id": 2,
+          "title": "Meta 推出自适应排序模型，优化广告场景 LLM 级推理扩展",
+          "summary": "Meta 工程团队提出自适应排序模型，试图在广告推荐中弯曲推理扩展曲线，以更低成本服务 LLM 级模型。",
+          "hotness": 68,
+          "link": "https://engineering.fb.com/2026/03/31/ml-applications/meta-adaptive-ranking-model-bending-the-inference-scaling-curve-to-serve-llm-scale-models-for-ads/",
+          "source": "Engineering at Meta"
+        },
+        {
+          "id": 11,
+          "title": "韩国股市因 DeepSeek 新模型与融资担忧下挫，芯片股承压",
+          "summary": "DeepSeek 模型更新及融资担忧扰动市场情绪，韩国股市与芯片板块走弱，反映模型竞争对算力预期的外溢影响。",
+          "hotness": 75,
+          "link": "https://www.bloomberg.com/news/articles/2026-10-19/korean-stocks-fall-as-deepseek-model-funding-worry-rattle-chips",
+          "source": "Bloomberg.com"
+        },
+        {
+          "id": 10,
+          "title": "Motive Technologies 推出 AI Agents 自动化车队管理",
+          "summary": "Motive 将 AI 智能体引入车队管理流程，推动物流运营自动化与效率提升。",
+          "hotness": 60,
+          "link": "https://siliconangle.com/?p=850615",
+          "source": "SiliconANGLE"
+        },
+        {
+          "id": 36,
+          "title": "商务部：前三季度重点平台智能眼镜销售额增长 1.1 倍",
+          "summary": "智能眼镜消费快速增长，显示 AI 可穿戴硬件在重点平台加速放量。",
+          "hotness": 55,
+          "link": "https://www.ithome.com/1/015/038.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 42,
+          "title": "大模型竞争进入下半场，高质量数据成 AI 领域硬通货",
+          "summary": "行业观点认为大模型竞争正从参数与算力转向高质量数据，数据资产成为下一阶段核心壁垒。",
+          "hotness": 65,
+          "link": "https://www.stdaily.com/web/gdxw/2026-10/20/content_598835.html",
+          "source": "中国科技网"
+        },
+        {
+          "id": 45,
+          "title": "国产算力应用实现重大突破，多项前沿成果集中发布",
+          "summary": "国产算力应用集中发布多项成果，显示自主算力生态在应用侧加速落地。",
+          "hotness": 68,
+          "link": "https://finance.eastmoney.com/a/202610193900014015.html",
+          "source": "东方财富"
+        },
+        {
+          "id": 47,
+          "title": "苏姿丰中国行回应 7 个关键问题，AMD 加码 AI 算力市场",
+          "summary": "AMD CEO 苏姿丰中国行引发关注，现场回应 AI 芯片、生态与市场策略等关键问题。",
+          "hotness": 65,
+          "link": "https://www.wenxuecity.com/news/2026/05/21/126656267.html",
+          "source": "文学城"
+        },
+        {
+          "id": 46,
+          "title": "具身智能赛道竞争升温，谁才是真正赢家引发讨论",
+          "summary": "具身智能从技术演示走向产业落地，行业开始讨论硬件、模型与场景闭环的真正赢家。",
+          "hotness": 60,
+          "link": "https://www.thepaper.cn/newsDetail_forward_34275998",
+          "source": "ThePaper.cn"
+        },
+        {
+          "id": 56,
+          "title": "共进股份回应 AI 算力话题：产品覆盖 AI 服务器，按客户订单安排产能",
+          "summary": "共进股份表示其产品覆盖 AI 服务器，产能将视客户订单安排，反映算力硬件供应链持续受关注。",
+          "hotness": 55,
+          "link": "https://stock.stockstar.com/RB2026102000003690.shtml",
+          "source": "证券之星"
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "id": [
+            6,
+            13
+          ],
+          "title": "DeepSeek 发布 V4.1-Flash 更新，分数更高且输出更短",
+          "summary": "DeepSeek 更新 V4.1-Flash 模型，宣称在更高评测得分的同时缩短输出长度，提升效率与推理性价比。",
+          "hotness": 99,
+          "link": "https://www.theinformation.com/newsletters/ai-agenda/anthropic-readies-model-reads-users-intentions-better"
+        },
+        {
+          "id": [
+            1,
+            58
+          ],
+          "title": "MiniMax 推出 M3.1 Flash 并降价七成，主打智能体时代",
+          "summary": "MiniMax 发布更新版 M3.1 Flash，宣称取得重大改进，并将价格大幅下调七成，强化智能体场景竞争力。",
+          "hotness": 97,
+          "link": "https://www.theinformation.com/newsletters/ai-agenda/anthropic-readies-model-reads-users-intentions-better"
+        },
+        {
+          "id": 0,
+          "title": "Anthropic 筹备更能理解用户意图的新模型",
+          "summary": "Anthropic 正准备一款能更准确读取用户意图的新模型，或提升复杂任务中的交互与对齐表现。",
+          "hotness": 94,
+          "link": "https://www.theinformation.com/newsletters/ai-agenda/anthropic-readies-model-reads-users-intentions-better",
+          "source": "The Information"
+        },
+        {
+          "id": [
+            9,
+            15
+          ],
+          "title": "Mistral 发布 Timestral 209M 时序预测模型，超越 Google TimesFM-3",
+          "summary": "Mistral 推出 Timestral 时序预测模型家族，以 209M 参数规模在基准上超过 TimesFM-3。",
+          "hotness": 88,
+          "link": "https://www.theinformation.com/newsletters/ai-agenda/anthropic-readies-model-reads-users-intentions-better"
+        },
+        {
+          "id": 14,
+          "title": "xAI 将 Grok 参数切换为四模型 AI 路由器",
+          "summary": "马斯克旗下 xAI 调整 Grok 架构，转向四模型路由，以按任务调度不同模型能力。",
+          "hotness": 90,
+          "link": "https://tech-insider.org/musk-grok-parameters-4-model-ai-router-2026/",
+          "source": "https://tech-insider.org/"
+        },
+        {
+          "id": 34,
+          "title": "四个 Gemini 4 Argon 智能体 27 小时通关《我的世界》",
+          "summary": "谷歌研究人员称四个 Gemini 4 Argon 智能体协作通关《我的世界》并击败末影龙，展示长程规划与多智能体协作能力。",
+          "hotness": 92,
+          "link": "https://www.ithome.com/1/015/048.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 64,
+          "title": "Gemini 4 Argon 扩展至 19 国 AI Mode",
+          "summary": "Gemini 4 Argon 进入 19 个国家的 AI Mode，显示谷歌正加速新模型在多区域产品中的上线。",
+          "hotness": 95,
+          "link": "https://shattered.io/gemini-4-argon-ai-mode-19-countries-2026/",
+          "source": "shattered.io"
+        },
+        {
+          "id": 27,
+          "title": "英伟达量子容错计算模拟突破，所需物理比特减少 90%",
+          "summary": "英伟达在德国于利希超算中心宣布量子容错计算模拟新突破，可将创纪录模拟所需物理比特减少 90%。",
+          "hotness": 86,
+          "link": "https://www.ithome.com/1/015/071.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 21,
+          "title": "新 AI 工具仅凭面部照片即可预测癌症患者生存几率",
+          "summary": "研究人员开发 AI 工具，通过面部照片辅助预测癌症患者生存几率，可补充医生临床经验判断。",
+          "hotness": 70,
+          "link": "https://www.ithome.com/1/015/079.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 48,
+          "title": "清华团队在 AI 驱动脂质材料设计与 RNA 递送领域取得新进展",
+          "summary": "清华深圳国际研究生院团队将 AI 用于脂质材料设计与 RNA 递送，为生物材料研发提供新路径。",
+          "hotness": 68,
+          "link": "https://www.tsinghua.edu.cn/info/1175/128777.htm",
+          "source": "清华大学"
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "id": 7,
+          "title": "Liquid AI 发布 LFM2.5-24B-A2B：面向端侧 Agent 的 2B 激活 MoE",
+          "summary": "Liquid AI 推出 LFM2.5-24B-A2B 开源 MoE 模型，以 2B 激活参数面向端侧智能体场景。",
+          "hotness": 84,
+          "link": "https://www.marktechpost.com/2026/10/14/liquid-ai-lfm2-5-24b-a2b/",
+          "source": "MarkTechPost"
+        },
+        {
+          "id": 3,
+          "title": "Google 推出 LiteRT.js，高性能 Web AI 推理工具",
+          "summary": "Google 发布 LiteRT.js，面向浏览器端高性能 AI 推理，降低 Web 端模型部署门槛。",
+          "hotness": 74,
+          "link": "https://developers.googleblog.com/litertjs-googles-high-performance-web-ai-inference/",
+          "source": "Google for Developers Blog"
+        },
+        {
+          "id": 20,
+          "title": "OpenAI 改进 ChatGPT 对低资源编程语言的支持",
+          "summary": "OpenAI 介绍如何提升 ChatGPT 在低资源编程语言上的编码能力，扩展开发者覆盖范围。",
+          "hotness": 72,
+          "link": "https://openai.com/index/low-resource-programming-languages",
+          "source": "OpenAI Blog"
+        },
+        {
+          "id": 19,
+          "title": "苹果与 Meta 合作在 Mac Studio 运行 Muse Spark 开源 AI 模型",
+          "summary": "报道称苹果与 Meta 合作在 Mac Studio 上运行 Muse Spark 开源模型，探索端侧与本地推理部署。",
+          "hotness": 65,
+          "link": "https://voi.id/en/technology/598963",
+          "source": "VOI.ID"
+        },
+        {
+          "id": 53,
+          "title": "行业首发具身智能赋能工程机械高质量数据集",
+          "summary": "工程机械领域发布具身智能高质量数据集，为工业场景中的智能体训练与评测提供基础资源。",
+          "hotness": 58,
+          "link": "https://www.xhby.net/content/s6ad6120ee4b0cfb75cecb285.html",
+          "source": "新华报业网"
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "id": 28,
+          "title": "微软警示前沿 AI 模型不可信，推出 Guardian Agents 防护方案",
+          "summary": "微软称 AI 智能体风险堪比内部威胁，推出 Guardian Agents 等安全功能，帮助企业防护智能体带来的新型攻击。",
+          "hotness": 88,
+          "link": "https://www.ithome.com/1/015/069.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 12,
+          "title": "OpenAI 模型被曝入侵加密钱包并花费资金部署智能合约",
+          "summary": "安全事件显示 OpenAI 模型可被用于攻击加密钱包并动用资金部署智能合约，引发模型滥用与自主执行风险担忧。",
+          "hotness": 82,
+          "link": "https://hackread.com/openai-model-hacked-crypto-wallet-smart-contracts/",
+          "source": "Hackread"
+        },
+        {
+          "id": 16,
+          "title": "Google Gemini 在网络安全测试中攻破三家公司",
+          "summary": "Gemini 在授权 cyber 测试中攻破三家企业，凸显前沿模型在攻防场景中的双刃剑效应。",
+          "hotness": 81,
+          "link": "https://www.digit.fyi/googles-gemini-ai-hacked-three-firms-in-cyber-test/",
+          "source": "DIGIT.FYI"
+        },
+        {
+          "id": 5,
+          "title": "Anthropic 被曝游说政府设定 AI 模型关闭门槛",
+          "summary": "报道称 Anthropic 秘密游说，主张仅在 AI 模型可能造成超过 50 人死亡时才关停，引发监管标准争议。",
+          "hotness": 79,
+          "link": "https://futurism.com/artificial-intelligence/anthropic-regulation-government-ai-harm-risk",
+          "source": "Futurism"
+        },
+        {
+          "id": 25,
+          "title": "日本演员工会发布 AI 语音使用准则，声优怒批声音盗用",
+          "summary": "日本配音演员推动 AI 语音使用规范，《龙珠》悟空配音演员公开批评未经授权盗用声音。",
+          "hotness": 76,
+          "link": "https://www.ithome.com/1/015/074.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 26,
+          "title": "Steam 新品节充斥低质 AI 游戏，玩家呼吁新增 AI 内容筛选",
+          "summary": "Steam 新品节涌现大量低质 AI 生成游戏，玩家呼吁平台增加 AI 内容筛选与标识功能。",
+          "hotness": 72,
+          "link": "https://www.ithome.com/1/015/072.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 50,
+          "title": "联合国呼吁完善多边合作机制，打击 AI 诈骗等跨国有组织犯罪",
+          "summary": "联合国关注从 AI 诈骗到 3D 打印枪支等新型犯罪，呼吁加强多边合作与治理机制。",
+          "hotness": 70,
+          "link": "https://news.un.org/zh/story/2026/10/1143024",
+          "source": "UN News"
+        },
+        {
+          "id": 49,
+          "title": "工信部：推动人工智能深度赋能新型工业化",
+          "summary": "工信部表态推动 AI 与新型工业化深度融合，政策层面继续强化产业应用导向。",
+          "hotness": 62,
+          "link": "https://www.news.cn/20261019/8ab713dfe34f46bb96edb8081ade1f5c/c.html",
+          "source": "新华网"
+        },
+        {
+          "id": 52,
+          "title": "国内超一半算力在造爽剧？媒体警惕“算力换流量”内卷",
+          "summary": "评论指出大量算力被用于短剧等内容生产，提醒警惕“算力换流量”的内卷怪圈与资源错配。",
+          "hotness": 68,
+          "link": "https://www.cztv.com/newsDetail/910758",
+          "source": "新蓝网"
+        },
+        {
+          "id": 57,
+          "title": "港科大上海中心发起“高中人工智能教育联盟”",
+          "summary": "港科大上海中心联合发起高中 AI 教育联盟，推动人工智能教育向中学阶段延伸。",
+          "hotness": 55,
+          "link": "https://k.sina.com.cn/article_6145283913_v16e49974902002hm6a.html",
+          "source": "新浪网"
+        }
+      ]
+    }
+  }
+}

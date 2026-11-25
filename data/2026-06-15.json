@@ -1,0 +1,101 @@
+{
+  "overview": [
+    "Anthropic最新AI模型因美国出口限制在全球断供，引发国际关注",
+    "物理AI技术加速落地，亚信科技发布三大产品助力产业升级",
+    "AI成本与伦理问题引发热议，Nvidia高管承认AI目前比人力更昂贵"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "title": "亚信科技发布物理AI三大产品 助力实体产业智能升级",
+          "summary": "亚信科技发布物理AI三大产品，推动实体产业智能化转型。",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8wYWQzTnJ0bGRET0xuOHRZTVNjRmhYd1E4Q09aOHd5WC1kVFFzelljLWp3WHFBN0tRZnRsOW1rNFJZTEJWU2hxZDAtdXBndkwxMHRHQTNKZW9wbndPTHR0SQ?oc=5",
+          "hotness": 65
+        },
+        {
+          "title": "AMD's Ryzen AI Halo AI mini PC launches in the US with 128GB memory and a $3,999 price tag",
+          "summary": "AMD在美国推出Ryzen AI Halo迷你PC，配备128GB内存，售价3999美元。",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNcXBOREhXdnptcWgza2VzNjFsZnNpOF9YUkNfOVFISHpLVFpDN3hKLXFfM254Q0p6THFTZC00bGFlSXNoM0tpSU02blBvdXFvbFcxTXZUQWZ6Y0hzYlRBcjgzNEVzcGJjRE5pbFpVSHYtOUR2M2dtTnBPQTVnWmdHbXpPbEtacWtLWGJVMlY5dUtDQzJzYjRZWV9iUWp2dnhvY21lSkVocy1YSHVOVGpndVFfUmRTWWNfSWRQSnFZdTE2VnFUMW5iTGN4RHFWOW9HWUVlazA3eFNlMEU?oc=5",
+          "hotness": 60
+        },
+        {
+          "title": "A year after Meta tapped Alexandr Wang to build a new AI model, Zuckerberg has to sell it",
+          "summary": "Meta聘请Alexandr Wang开发新AI模型一年后，扎克伯格被迫出售该模型。",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPM1N2TjhCLXhKUEVfUl9RUEYtWHRDUjk1VmY5U05GUXpKenczbThfSlUtNExrYkVTMkw2YlNhdlFpTFdKV01yUElsejZzc3RieWhOV0o3ZmRGdTRKYUhXSUgzTGxjeTBYSmM2WmV3MU9qVUVsb3dBVVgtajgtckpkSTdvQVlSQVg3YU1CbVhndW1tNFhjMHZnOEUzTXdqN1EzV2pXaUNGVdIBrAFBVV95cUxPUlZCb19ObnlKTTJubG9qMnhFR24ydk1ralZlNWt4VmNpYTlyLUozeUl0eUZaVi1SZzdOWVJ3WGw5TWg5WDFuV3NIM0RxV1VXdDhJbzYxSTl2cnhQS0hmdU1yYW9rbEw5ajE3NGJrb3hYYjFCUzFPa0t2c3pOY3NFWGlYYlJ5N3VZMHp5R0dBbWlEaUtNM205d2Y0elVxUzBSR1UwZ19Jc0s5a3Ux?oc=5",
+          "hotness": 70
+        },
+        {
+          "title": "惠州：260家规上企业合力打造人工智能和机器人产业“智造”高地",
+          "summary": "惠州260家规上企业联合打造人工智能和机器人产业智能制造高地。",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOGVpaGxHS2Zrc000Z0tIOEFJaWJIYTUyZEJGb0xLRXNFQmo0cDIxeWM1Tk5TZVF3d1JMeEdDWWZ5VEFyRGFKdVV3eWpZcWZvV3prWHdEODhuNk5BOXhHQk9aX2NwbUlEVW1zMTlWUmpCQTNCSld1bVlzSFFtN2wtRkhHVzIydw?oc=5",
+          "hotness": 55
+        },
+        {
+          "title": "Secure AI from edge to core with FlexPod AI",
+          "summary": "NetApp推出FlexPod AI解决方案，从边缘到核心确保AI安全。",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQa0ZWcUxyRjJmc3QtU3I4VVMtZW5NeGFOMHRZSnFIVmIyQXNVRlZCMkJYLW9hS1htZmlWMWNrZjZwaWFNYXJwVXBnZ0I4Ym9rekVQRklJakZtekgtSXVSNXVfV3EtMlRFdXhUUnlNamQzY0hIcXRLeG1UemZhUDBZd1llSzZBOTQ4WXRROVFKZFZiWlc4OVE?oc=5",
+          "hotness": 50
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "title": "最严苛数学能力测试结果出炉：AI不如人类",
+          "summary": "最新数学能力测试显示，AI在严苛数学测试中表现仍不及人类。",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ibjZtNUNRX0hnSkdLVGZPbUl5V1hOM19IRTBpMzdGWHd0clUweEZsSTdJeE13dEVfNFVkbEhHRDI0b1NVWm9ZdDA1bVNmaFN1N1B3alRLdUpIZmYzcG0yMG5PM3I?oc=5",
+          "hotness": 65
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "title": "Computer science students develop AI platform for use in nursing courses",
+          "summary": "计算机科学学生开发用于护理课程的AI平台。",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYXpiZkRic192dnBweG40VzM3U0RpSjB4aURGbFpLUUxybHNKdmJtSldxVXZjcHZKVlVoYnhDUW1nZEM4Q3loenJjTldkSmFCdVNGZWJLMnVzSVh0MUJhcFVKVE8wSkNkWHM5a2RsYXVyRTE1a3djTVFSNTdPTWk1RGgtQXE2dGZyc01oeWtWYmY4cFJvSUZMcGtlbll4UjdvMzBV?oc=5",
+          "hotness": 45
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "title": "和中国有关?Anthropic最新AI模型全球断供",
+          "summary": "Anthropic最新AI模型因美国出口限制在全球断供，据称与中国有关。",
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNYjRtRGxTMzJYNVFTVzBLREFGT3JuTV9xS2J4bmhTODVZbGtuNTBfQ0hvX3daWlFQaGg0V1k1LWpXZTVycVN2NFV6ZERPejJEZEQ4clZHajlEbGx0Tjl2TUEta3BvTVVYT1l0Nlo1eDM3U2E0bGxhNC1uWm5VZk9XRmRnWEZLUXcwc0xsWE1rREFhZFZRR3JDNjNMcmxKWkx0d2E2Sm1HYy1lTlpkSnkxWFFXdzZ6QTlXekhabE9FUTBTUDVLdmlfODN3WFN1Z2wtazdhcEJHLVJsOUNzQk43UUx0ellDMFljY3I3UEE5U1ZLbVnSAfMBQVVfeXFMTWI0bURsUzMyWDVRU1cwS0RBRk9ybk1fcUtieG5oUzg1WWxrbjUwX0NIb193WlpRUGhoNFdZNS1qV2U1cnFTdjRVemRET3oyRGREOHJWR2o5RGxsdE45dk1BLWtwb01VWE9ZdDZaNXgzN1NhNGxsYTQtblpuVWZPV0ZkZ1hGS1F3MHNMbFhNa0RBYWRWUUdyQzYzTHJsSlpMdHdhNkptR2MtZU5aZEp5MVhRV3c2ekE5V3pIWmxPRVEwU1A1S3ZpXzgzd1hTdWdsLWs3YXBCRy1SbDlDc0JON1FMdHpZQzBZY2NyN1BBOVNWS21Z?oc=5",
+          "hotness": 85
+        },
+        {
+          "title": "贝索斯驳斥“AI抢饭碗”论：未来十年将迎多个黄金时代",
+          "summary": "贝索斯反驳AI取代人类工作论调，认为未来十年将迎来多个黄金发展时期。",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5CQmVPR05xSHFMV2xLdk8xYkVvTDBfdUlMa3ZHQkRReG9COW9lVnNBWkdubEJZY1pYbm1CRmVDOGtRV184RjVYWA?oc=5",
+          "hotness": 75
+        },
+        {
+          "title": "‘The cost of compute is far beyond the costs of the employee’: Nvidia executive says right now AI is more expensive than paying human workers",
+          "summary": "Nvidia高管承认当前AI计算成本远超员工薪酬，AI比人力更昂贵。",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeV9wM2RIR2Vwai1TQTBPRERLWXBGY1A2aFRLT0F1ODducUUxbXhxTC1lWXBOMTVuTnhhSElaZmU0ZnFHUGE3cUl6VUV6MDkxaG9XQXZldnZBdjV5RTNPTnRoMWVoSTJ6U1ZoZ2wxbmx6VVdZVVNPcWtzcUxTREozcENLN1FPVl84V0U3SnRacXRlcmRzZTRGdA?oc=5",
+          "hotness": 70
+        },
+        {
+          "title": "AI绝不能沦为抹黑军队、消费军人的工具",
+          "summary": "中国网强调AI绝不能成为抹黑军队和消费军人的工具。",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5kUl9ETkJCN3hLTE9fVWs1eFdjNnd1WlpJYWpEMjQ0czV2bGgxb280SDZuYnRxb2RfSjhhRUVBQXZpLVNpTmY5V0JHSHpBYlpxcnRVNlJwWHBlZS1pdmlOajhVOVA4bmtfVDRzcWNuR3RRVnM1RGM4eGtn?oc=5",
+          "hotness": 60
+        },
+        {
+          "title": "Why Gen Z Is Right To Be Concerned About AI",
+          "summary": "福布斯文章探讨Z世代对AI的担忧是合理的。",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUnNRaFFqTmE2MWpFSVUtV1ltaEQ1REhTM3pLU1BaQW5PMWtPNGJFcVB5dVNTMWRDc3diNkVRcUI0QXVnNmFtc3JKb2Npc3NMamZBc2hIODdYY2lFSW8yZmMwNzBGYk9CVjdxb3RtV1daRXZULUJBamRoQlB0WlBaYkpleFBRWHZUUmlkX2EzS0NBcDZLeEVrOTF4TmFKdw?oc=5",
+          "hotness": 65
+        }
+      ]
+    }
+  }
+}

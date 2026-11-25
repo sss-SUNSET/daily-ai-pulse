@@ -1,0 +1,120 @@
+{
+  "overview": [
+    "AI Agent/助手加速落地：苹果计划最早明年推出代理式Siri，蚂蚁灵光2.0用户破2000万、一周管理超116万项事务。",
+    "AI算力基础设施竞赛升温：Anthropic签下34亿美元燃气发电机采购订单，字节跳动拟扩大巴西数据中心项目。",
+    "AI开发生态与前沿科研并行：腾讯元器平台停止服务引发生态关注，上海交大AutoDNA自主实验成果登上《自然》。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "id": [
+            1,
+            6,
+            7
+          ],
+          "title": "苹果加速AI布局：最早明年推出代理式Siri，Siri AI团队或迎调整",
+          "summary": "古尔曼爆料苹果计划最早明年推出可主动代用户完成任务的代理式Siri，同时Siri AI团队面临调整，新任CEO敦促软件主管加大AI投入。",
+          "hotness": 92,
+          "link": "https://www.ithome.com/1/024/030.htm"
+        },
+        {
+          "id": 9,
+          "title": "蚂蚁集团AI助手“灵光”用户破2000万，2.0上线一周管理超116万项事务",
+          "summary": "灵光2.0上线一周帮助用户管理超116万项事务，用户数突破2000万，显示AI助手/Agent向规模化事务执行落地。",
+          "hotness": 90,
+          "link": "https://www.ithome.com/1/024/010.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 18,
+          "title": "Anthropic签下34亿美元燃气发电机采购订单，为AI数据中心供电",
+          "summary": "为应对数据中心供电紧张，Anthropic签下迄今AI公司最大发电设备采购订单之一，凸显算力基础设施的能源瓶颈。",
+          "hotness": 85,
+          "link": "https://www.ithome.com/1/023/989.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 14,
+          "title": "字节跳动拟扩大巴西数据中心项目，巩固拉美算力基础设施布局",
+          "summary": "字节跳动考虑扩大巴西东北部数据中心，以强化拉美算力基础设施和AI服务能力。",
+          "hotness": 78,
+          "link": "https://www.ithome.com/1/023/993.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 8,
+          "title": "亚马逊组建新团队专攻家用机器人，瞄准“前所未有”的新产品",
+          "summary": "CNBC从招聘信息发现亚马逊已组建新团队开发家用机器人，或推动家庭场景AI机器人落地。",
+          "hotness": 68,
+          "link": "https://www.ithome.com/1/024/012.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 3,
+          "title": "腾讯Workbuddy致歉优惠活动调整，DeepSeek-V4.1 Flash积分消耗按5折结算返还",
+          "summary": "腾讯Workbuddy未及时公告优惠调整，宣布对DeepSeek-V4.1 Flash积分消耗按5折结算并返还差额。",
+          "hotness": 58,
+          "link": "https://www.ithome.com/1/024/025.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 16,
+          "title": "腾讯姚顺雨：AI模型公司护城河更多在产品层而非模型层",
+          "summary": "腾讯首席AI科学家姚顺雨认为，AI模型公司的竞争壁垒更多来自产品与场景，而非单纯模型层。",
+          "hotness": 55,
+          "link": "https://www.ithome.com/1/023/991.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 15,
+          "title": "日本富士电视台计划2027年起在所有真人剧集中使用生成式AI",
+          "summary": "富士电视台拟将生成式AI用于全部真人电视剧制作，可节省七至八成特效工序，显示媒体行业AI应用加速。",
+          "hotness": 50,
+          "link": "https://www.ithome.com/1/023/992.htm",
+          "source": "IT之家"
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "id": 12,
+          "title": "上海交大构建AI原生科学实验室AutoDNA，自主分子生物学实验成果登《自然》",
+          "summary": "团队打造AutoDNA装置实现自主分子生物学实验操作，成果登上《自然》，展示AI驱动科学发现与自动化实验融合。",
+          "hotness": 82,
+          "link": "https://www.ithome.com/1/024/001.htm",
+          "source": "IT之家"
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "id": 5,
+          "title": "腾讯元器平台停止服务：所有公众服务关闭，明年1月起不再受理数据导出",
+          "summary": "腾讯元器今日起停止应用访问、API调用、控制台使用等所有公众服务，并将于明年1月起不再受理数据导出申请。",
+          "hotness": 72,
+          "link": "https://www.ithome.com/1/024/022.htm",
+          "source": "IT之家"
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "id": 0,
+          "title": "曝ChatGPT突现封号风波",
+          "summary": "IT早报称ChatGPT出现突发封号风波，具体原因和影响尚待官方说明，引发用户对AI账号安全与平台治理关注。",
+          "hotness": 70,
+          "link": "https://www.ithome.com/1/024/030.htm",
+          "source": "IT之家"
+        }
+      ]
+    }
+  }
+}

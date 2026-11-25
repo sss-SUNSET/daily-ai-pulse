@@ -1,0 +1,140 @@
+{
+  "overview": [
+    "OpenAI DevDay 发布 GPT-6.1 Sol 与 Dots，ChatGPT 迎来史上最大幅度升级，并调整订阅方案。",
+    "Google 发布 Gemini 4 Argon 旗舰模型，但出于安全顾虑仅向受信方开放，市场对代理能力略感失望。",
+    "Meta Muse AI 智能体登陆智能眼镜，可语音代用户完成任务；Anthropic 则获博通 350 亿美元芯片大单并推进上市。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "id": 38,
+          "title": "Meta 将 AI 智能体 Muse 带上智能眼镜，可语音代用户完成任务",
+          "summary": "Meta 宣布 AI 智能体 Muse 近期登陆智能眼镜，用户无需掏出手机即可语音指令后台代完成任务；雷朋 Display 眼镜也将获导航、通知与虚拟化身更新。（合并自 id: 38,36,32,16）",
+          "hotness": 93,
+          "link": "https://www.ithome.com/1/009/363.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 55,
+          "title": "博通敲定 Anthropic 350 亿美元芯片大单，以担保换订单引发 AI 闭环关注",
+          "summary": "博通与 Anthropic 敲定 350 亿美元芯片大单，采用以担保换订单模式，市场关注 AI 算力与资本闭环风险。（合并自 id: 55）",
+          "hotness": 90,
+          "link": "https://www.moomoo.com/hans/news/post/71707918/securing-orders-with-guarantees-broadcom-clinches-35-billion-chip-deal",
+          "source": "Moomoo"
+        },
+        {
+          "id": 3,
+          "title": "Google 启动 Project Suncatcher，探索太空 AI 数据中心并发射 AI 芯片",
+          "summary": "Google 启动 Project Suncatcher，探索在太空建设 AI 数据中心，并借 SpaceX 任务将 AI 芯片送入轨道。（合并自 id: 3,9,20）",
+          "hotness": 85,
+          "link": "https://www.npr.org/2026/10/01/nx-s1-5983697/project-suncatcher-google-ai-data-center-space",
+          "source": "NPR"
+        },
+        {
+          "id": 31,
+          "title": "Anthropic 被曝最早 11 月中旬上市，并拟投 1 亿美元培训万名工程师",
+          "summary": "Anthropic 被曝最早 11 月中旬上市，同时计划投入 1 亿美元培训 1 万名工程师，缓解企业 AI 落地人才荒。（合并自 id: 27,31）",
+          "hotness": 85,
+          "link": "https://www.ithome.com/1/009/376.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 39,
+          "title": "英伟达发布 64GB 内存版 DGX Spark 桌面 AI 超算，售价 4999 美元",
+          "summary": "英伟达正式发布 64GB 内存版 DGX Spark 桌面 AI 计算机，起售价 4999 美元，面向本地大模型与 AI 开发。（合并自 id: 39）",
+          "hotness": 84,
+          "link": "https://www.ithome.com/1/009/359.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 50,
+          "title": "国产算力商业化提速：惠山 3 个月满载，‘赣鄱词元工厂’发布",
+          "summary": "国产算力商业化加速，惠山项目 3 个月即满载，‘赣鄱词元工厂’在九江发布，地方算力投资持续升温。（合并自 id: 50,63,54,58,64）",
+          "hotness": 72,
+          "link": "https://finance.sina.com.cn/wm/2026-10-02/doc-initwenv1158335.shtml",
+          "source": "新浪财经"
+        },
+        {
+          "id": 53,
+          "title": "具身智能产业升温：地方因地制宜布局，港股工业具身智能第一股将上市",
+          "summary": "具身智能产业获政策与资本关注，地方强调因地制宜发展，港股工业具身智能第一股即将上市。（合并自 id: 47,53）",
+          "hotness": 70,
+          "link": "https://finance.eastmoney.com/a/202610023888396898.html",
+          "source": "东方财富"
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "id": 6,
+          "title": "OpenAI DevDay：GPT-6.1 Sol 与 Dots 上线，ChatGPT 迎最大升级并调整订阅",
+          "summary": "OpenAI 在 DevDay 开放 GPT-6.1 Sol 与 Dots，ChatGPT 将迎来史上最大升级并调整订阅；官方同步发布 GPT-6 家族选型指南。（合并自 id: 6,23,61）",
+          "hotness": 99,
+          "link": "https://www.cnet.com/tech/services-and-software/everything-announced-at-openai-devday-subscription-changes-new-models-and-dots/",
+          "source": "CNET"
+        },
+        {
+          "id": 12,
+          "title": "Google 发布 Gemini 4 Argon 旗舰模型，因安全顾虑限制访问、市场反应分化",
+          "summary": "Google 正式发布 Gemini 4 Argon，称其为最强模型，但因安全顾虑仅限受信网络安全专家访问；市场担忧代理能力不足，Alphabet 股价承压。（合并自 id: 1,2,5,7,8,10,11,12,13,15,17,18,19,21,22）",
+          "hotness": 98,
+          "link": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+          "source": "techcrunch.com"
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": []
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "id": 0,
+          "title": "Cohere CEO 警告：AI 模型正成为史上最强网络武器",
+          "summary": "Cohere CEO 称 AI 模型正成为史上最强网络武器，呼吁关注模型滥用与网络安全风险。（合并自 id: 0）",
+          "hotness": 80,
+          "link": "https://www.cnbc.com/2026/09/14/ai-models-cyber-weapon-cohere-safety-debate.html",
+          "source": "CNBC"
+        },
+        {
+          "id": 48,
+          "title": "美中拟建超级智能事件沟通渠道，并推进 AI 对话机制",
+          "summary": "美中拟建立超级智能事件沟通渠道，并推进 AI 对话机制，被视为不亚于核战略协调。（合并自 id: 48,52）",
+          "hotness": 78,
+          "link": "https://www.voachinese.com/a/us-china-plan-superintelligence-incident-channel-as-fierce-competition-tests-room-for-cooperation-20261002/8206737.html",
+          "source": "美国之音"
+        },
+        {
+          "id": 30,
+          "title": "亚马逊云 CEO 回应数据中心反对声浪：后果或影响数代人",
+          "summary": "亚马逊云科技 CEO 警告，美国数据中心建设反对声浪若持续，后果可能影响数代人。（合并自 id: 30）",
+          "hotness": 75,
+          "link": "https://www.ithome.com/1/009/377.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 28,
+          "title": "苹果收紧 macOS 27 完全磁盘访问权限，降低 AI 智能体操控风险",
+          "summary": "苹果收紧 macOS 27 等系统完全磁盘访问权限，要求更明确授权，以降低 AI 智能体操控风险。（合并自 id: 28）",
+          "hotness": 70,
+          "link": "https://www.ithome.com/1/009/381.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 57,
+          "title": "普京瓦尔代演讲提及‘人工智能极权主义’等议题",
+          "summary": "普京在瓦尔代演讲中谈及‘人工智能极权主义’，引发对 AI 治理与权力集中的讨论。（合并自 id: 57）",
+          "hotness": 65,
+          "link": "https://k.sina.com.cn/article_7879923852_1d5ae188c02001niew.html",
+          "source": "手机新浪网"
+        }
+      ]
+    }
+  }
+}

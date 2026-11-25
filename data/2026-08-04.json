@@ -1,0 +1,178 @@
+{
+  "overview": [
+    "AI巨头重仓“递归自我改进”，千亿资本开支押注AGI；Palantir业绩超预期，AI商业化拐点信号显现",
+    "国内智能体政策与产业双轮驱动：规范创新文件出台，工业装备领域智能体应用加速落地",
+    "AI就业影响争论升温：贝索斯与奥尔特曼称AI不会抢饭碗，联合国专家组警告监管滞后风险"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "title": "谷歌DeepMind高管：AI千亿资本支出是人类史上最大科学赌注，核心押注\"递归自我改进\"",
+          "summary": "谷歌DeepMind高管称，AI领域数千亿美元资本开支是人类史上最大科学赌注，核心策略是押注“递归自我改进”以迈向AGI。",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnVGRiZXUtM3VDQUVsZlpfbEsyQlVUcG85RVQ0NURSZTFZLWpjSk9yRUdEck1rUmkyd0YzdGk3cmxOM29JYUJGWUVicjN1UHFGTUxZ?oc=5",
+          "hotness": 90
+        },
+        {
+          "title": "AI应用拐点将至？Palantir业绩炸裂 盘后飙涨近15%",
+          "summary": "Palantir财报远超预期，盘后股价大涨近15%，引发市场对AI应用商业化拐点到来的强烈讨论。",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1NS0t4bXl3X09rTHZZY2F5d0hIYXZETTh6N1FuaXF2YVJzc2tXSjdMTUpGUUcxQm5iQkhOQ2pkMlVFMjJvdU11T3F1aEpILTZkeFpzcXJZbHBwN3g5M1R1Zkl5dmN1dw?oc=5",
+          "hotness": 85
+        },
+        {
+          "title": "奥尔特曼自称修正认知：AI发展不会引发全球性“就业危机”",
+          "summary": "OpenAI CEO奥尔特曼修正此前观点，认为AI不会导致全球性就业危机，反而会增强人类能力、创造新机会。",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1TRElkRmxPQlFETWRmazZlWHhRUFVOYnUzc2hJZjcxdEFHS2tBLUhveEtqdlhzOFIyaFFuamNiMHR2MFhMTnJnNQ?oc=5",
+          "hotness": 70
+        },
+        {
+          "title": "第一到第六，全是中国大模型",
+          "summary": "全球大模型评测中，前六名全部由中国机构包揽，显示中国AI模型整体竞争力的显著提升。",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVTJ4QjdlOTFjU09XUjZWODRMcGxaR3pjWlNyN3A2c3JxdVZNelRpN3kwVUotU0F3ZXo2azJldXJXUHkzZEVQN0p3UGI0dlhwc0ZOaVl6dFo4UDV6MVlnUENQTzVaVzFNVDFGSmVaQmVNOURFcFBqZ0JnTElBbXBENkxB?oc=5",
+          "hotness": 75
+        },
+        {
+          "title": "智能体赋能先进动力装备高质量发展",
+          "summary": "中国科协年会专题论坛聚焦智能体在智能装备制造业的应用，推动先进动力装备产业智能化升级。",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5TRFYxa21FdWRXWDFZeE5YN0NKWUpTNGplb3R4VlVnMXpSNS14bUJFb1NKc0JCdTZ4c0lkZWlYX3NqT2NXOTZoWWc1cmFEaWhrc0MxLXZ2WVBTeEJLRnBGcW1wcVhrWXUwczBQMmV0MDVzaEphNE1v?oc=5",
+          "hotness": 65
+        },
+        {
+          "title": "AI投资的逻辑变了：云厂进入收租时代，基础设施产业链承压",
+          "summary": "分析指出AI投资重心从基础设施转向云厂商盈利，云厂进入“收租时代”，算力基础设施产业链面临压力。",
+          "link": "https://wallstreetcn.com/articles/3778632",
+          "hotness": 70
+        },
+        {
+          "title": "券商AI竞速：头部券商加码APP AI化，能带给投资者什么？",
+          "summary": "头部券商加速APP的AI化改造，通过智能投顾、AI分析等工具提升投资体验，券商AI竞争进入白热化。",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9aV1VBVXhyY1ROOVZ4VnZhb2Q2N29mNmIwNHlRay1kUTRhQWw1ek9Sb01DcGQ3MHB0ckxwcXU3bktKY3NHTGM1Sw?oc=5",
+          "hotness": 60
+        },
+        {
+          "title": "之江实验室王坚院士：人工智能应该像纸一样便宜",
+          "summary": "王坚院士认为AI应成为像纸一样便宜、普惠的基础资源，降低使用门槛才能释放最大的社会价值。",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBpbUZ6NGZSTkdjd3JUeUlnU2dvQkZnWVJPS016SGQxUkVYWW9CeUdMck5PLS1KZWVEdC1yQkc3a2dCZWdRQ0x2azdKSVpsNTh1c19pcWRSczk4NWh6NHhZQmE1am4?oc=5",
+          "hotness": 65
+        },
+        {
+          "title": "跳出同质化内卷，AI原生汽车的产业破局之路",
+          "summary": "行业探讨AI原生汽车如何摆脱同质化竞争，以AI定义全新驾驶和出行体验，寻求产业破局。",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5uUHBiSFF0V1BqYTFKcFZZMTNlNHQ5eW5fZUVvSU1qeHg0STRIT1NTNkZUUW5MNkhwTUQzUnUzZHdfemNJMTc0TEtNX1lPdDNsSjdSWWwzYVk3dEZDVjFZZzB3?oc=5",
+          "hotness": 60
+        },
+        {
+          "title": "检测人次超4000万 可评估55种健康风险 AI眼底慢病模型成为社区“大专家”",
+          "summary": "AI眼底慢病检测模型已服务超4000万人次，能评估55种健康风险，在社区医疗中发挥重要作用。",
+          "link": "https://www.beijing.gov.cn/fuwu/lqfw/gggs/202608/t20260804_4807449.html",
+          "hotness": 65
+        },
+        {
+          "title": "人工智能OPC政策红利持续释放 激活个体AI创新原生活力",
+          "summary": "人工智能OPC相关扶持政策持续落地，为个体开发者和小微企业提供创新资源，激发AI生态原生活力。",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAxZmFTby12V19UYVhvQ0tfaXNHN3VuTVhDX0daUm5uOTJtdGM2Si15Q3o3c0F4OTRnQmV5N0FBOFo0and4STZRZmVEU3JHYjdEam1Ndkl5U1hXQzVlT2FjWXZsVVhTUE1uYjBRVlZKQ2E4b2VSY1l6LS1DY0I?oc=5",
+          "hotness": 55
+        },
+        {
+          "title": "人工智能扎根千行百业",
+          "summary": "AI技术已在医疗、制造、教育等千行百业落地，成为推动产业升级和经济社会发展的重要引擎。",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE56NF9iODhsME1ydFhNWGY2VXY0VHFzU3Aya1NxcGNRVE5jd1IwdGpkUFd1TWhwYnVkOS1DbDdjXzJvYnpfLWFCWXo0TEl4SEo3eGRGa08zblRMSWZiUEY1X0psMmVaeE9P?oc=5",
+          "hotness": 50
+        },
+        {
+          "title": "延庆向新，全域场景为AI而开！延庆Y-Hub·OPC创新社区启幕",
+          "summary": "北京延庆启动Y-Hub·OPC创新社区，全面开放应用场景吸引AI企业，打造AI创新试验场。",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBDcTRBMy15VWNWcFpvWHJmOFg5VDJUOHVKdmg1dUNiRXhqNWptbG5ITFhvZHdscllDNTBWQXlLVDBCU1o2QllvbTZhQVpFNzdaaHlnb2FZejlESm41NE1wczVyRGZlTUE0S2M5b3J5a1FLT3VRdTFXSg?oc=5",
+          "hotness": 55
+        },
+        {
+          "title": "他想用AI终结影视“重工”时代",
+          "summary": "创业者试图用AI重构影视制作流程，降低特效和后期重工业成本，推动影视生产进入AI时代。",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVjR5UFJ6S0xxWmFOTm0tQm80Y3l4NW9wMGZranY5aWxZV1d0c2o0TTMxT0RqRDVhdG9yU2o4NUNwbkp2SjhKWnNlVjJvYU56ZU90NkVOTDhodkQ2RGU2Z19FbDlteEJTWmEtSzVac2xBYWU3WEFMbFdzYm1UUjJIZmhfWQ?oc=5",
+          "hotness": 60
+        },
+        {
+          "title": "跨越数字与物理边界 ——记者“探店”2026世界人工智能大会展区",
+          "summary": "记者探访2026世界人工智能大会，人形机器人、AI数字人等前沿展品正跨越数字与物理世界的边界。",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBLMHZRQWtMWDVsbE0xdTA3Ym5KS25hRy1IaDAzZjUwOVNtY3V2QmVMYURRNzhhSGZzM2FRRkNablN1QVdDaVhhY3FsOW4tRWJBSlhQUTN0aC1VN0FiWmo2Q0pOcWVmdldNeUhsSkstUDllbG9INFE?oc=5",
+          "hotness": 65
+        },
+        {
+          "title": "虚拟细胞走向产业化，数据将成为下一代AI制药的核心竞争力",
+          "summary": "专家指出虚拟细胞技术正走向产业化，高质量数据将成为下一代AI制药竞争的关键壁垒。",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTRG40SGpPWlZBM3dDamNGTkprMTluVU0wM0ZRbjhDMTc5V19WbnprOHZra1RRTUVPNW9WRW80Wl9kdkc4bEhmQ0FCd1dxM3RLcTF0VzdnWXcwVWEyZ1YyNnRIWlhoYzF6MXl2MzlHMDRPUWlKbnQ3OWlxa3U0U1U?oc=5",
+          "hotness": 65
+        },
+        {
+          "title": "千行百业+AI 正在重写竞争力",
+          "summary": "AI与各行业深度融合正在重新定义企业竞争力，AI从辅助工具升级为生产力核心。",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9rMnlRazQ3cG9RVjFTNjY4cDhKcExnaEpHanpQeENrWXFhdU9TZ0pLUHZvUVJDVnBfQ1lLaGw0MzBwY1FWcWl2b3BGOFBENW5UYVBSTTNLSlgtcVdoTEFselNxWmxrRFRpci1IdzdTLW5ldFJfWGtGSF9EU3I?oc=5",
+          "hotness": 50
+        },
+        {
+          "title": "陕西加快推进人工智能技术与先进制造业融合发展",
+          "summary": "陕西出台措施推动AI与先进制造业深度融合，加快构建现代化产业体系，为“陕西造”增智赋能。",
+          "link": "http://news.cyol.com/gb/keji/articles/2026-08/04/content_Mbv58qfNga.html",
+          "hotness": 55
+        },
+        {
+          "title": "AI时代就业新观察︱“灯塔工厂”里的职业新生",
+          "summary": "AI正在改变制造业就业结构，“灯塔工厂”催生设备运维、数据标注等新职业，工人转型为技术管理者。",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9YaThRdXY1STdSQ1ZHd3RrRVVoUkk2cDdMOC1SZU9yNlBweWNzVXVUOWZMcEJEenYwbGVFeWh5SUZrY3dLYjdXRVVTd0xkT3NZRW1YMFNkMkdEdFNZZjhsZERpZkdHVWRXdUlWQXFNUU4?oc=5",
+          "hotness": 55
+        },
+        {
+          "title": "美股高开高收！中国资产走强，美股存储半导体股反弹",
+          "summary": "美股整体收高，中国资产表现强势，存储半导体板块反弹，市场情绪回暖带动科技股上涨。",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBWbkoyajZMa1hncHYxdEdEbnZPSXhxRlZMUTk1ODJaU3A5QmFuc0lvQUdRU3FuWTNzQlNuY0tjdjNQcjdNUkZyd3phd3J2ZU1RME96VDBTY2s2V2RINDFIOVFR?oc=5",
+          "hotness": 45
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "title": "AI系统可在野外自动开展猴类认知研究",
+          "summary": "新开发的AI系统能够在野外自动对猴类进行认知实验，无需人工干预，为动物认知研究提供新工具。",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5HQlBVS1BtM2ZLRnBmZEdGS0xYMEtzUGx4V3ZIT2hPa1NtVXlDNkNHdG9KOHpFUjg4aWFyeTk3WHpQcGNORVo1MkJaZjdxN0JxOWQwX2tOZDdFcW11OVB6dTFFZTVVd3A1ZDJfVnk4ZzQ?oc=5",
+          "hotness": 60
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": []
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "title": "政策解码｜智能体发展规范创新",
+          "summary": "瞭望周刊解读智能体发展规范，强调在鼓励创新的同时需完善监管，防范智能体被滥用带来的风险。",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBzUTJIQ2YwamsyMUgzOVVNQ1pic1RIWWtVZ3ZIMnowX1MxSFFtMFBhbXh1cE90WkhSNGZXRjl1OFNsQ2tON3RLQnRQbEFDcGhKWXhpTjFRYk9sT1NYLW9iN1l6bHVwLUxRaXpTVHhHLU9XcklKY1J4Rk9hXy0?oc=5",
+          "hotness": 70
+        },
+        {
+          "title": "联合国专家组警告：AI发展速度已超越科学认知和监管能力 或带来灾难性风险",
+          "summary": "联合国专家组警告，AI发展速度已超过科学认知和监管能力，可能带来灾难性风险，呼吁全球协同治理。",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE42UE9JWHBPcXhKcTJjVHR5U3FlRUNtSFZkUC1kci1HaDg0eTJETXFKd2l2N3pIam9jU08yZzJyZU9LSTFvZzdpMQ?oc=5",
+          "hotness": 75
+        },
+        {
+          "title": "贝索斯驳斥“AI抢饭碗”论：未来十年将迎多个黄金时代",
+          "summary": "贝索斯公开反驳AI导致大规模失业的观点，认为AI将催生多个黄金时代，未来十年充满机遇。",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5CQmVPR05xSHFMV2xLdk8xYkVvTDBfdUlMa3ZHQkRReG9COW9lVnNBWkdubEJZY1pYbm1CRmVDOGtRV184RjVYWA?oc=5",
+          "hotness": 65
+        },
+        {
+          "title": "经济・社会 - 【AI法上篇】如何对“将人生交给AI”保持危机感",
+          "summary": "日本法学教授专访探讨AI法律问题，警示社会对AI过度依赖的危机感，呼吁建立相应法律责任与伦理框架。",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBUZGc3cW5yY2x1bmpyc2ZrdDRsY1JXcVBaNWZKYi0wSnRiQ2gwcE1rTW1rWXlqOFpQbG1ta1BwczFadk5SZWRrdE1KdWRRZGJUQzFiXy1zeVZKY2lFNUpjbkNmYnl3ZWU4a3c3SHliaVlzTXBu?oc=5",
+          "hotness": 55
+        }
+      ]
+    }
+  }
+}

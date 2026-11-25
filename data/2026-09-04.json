@@ -1,0 +1,141 @@
+{
+  "overview": [
+    "OpenAI正式发布GPT-6 Astra模型，宣称进入“AGI时代”，首次达到“关键”网络安全能力，已开始分阶段推出。",
+    "Google推出Gemini 3.8 Flash及安全定制版，编程与推理能力升级，向“RSI”目标迈出一大步。",
+    "Nvidia以130亿美元收购Hugging Face，并承诺保持开源平台，AI基础设施竞争加速整合。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "id": 1,
+          "title": "打破AI烧钱魔咒！Anthropic销售额暴增，有望迎来首个季度盈利",
+          "summary": "Anthropic销售表现强劲，预计将首次实现季度盈利，打破AI行业普遍亏损的现状。",
+          "hotness": 85,
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9FZ3J5WWVWb3ZmU1gtTnNjVVRWdWM1ZnpsUUhxZG9XU2k5UnBVekZsaURCaUViSTRuaHBZZWdURXI1MnczZ3QtLQ?oc=5",
+          "source": "财联社"
+        },
+        {
+          "id": 0,
+          "title": "ChatGPT、Claude、Grok一度集体宕机！持续近4小时，目前均已恢复",
+          "summary": "三大AI助手同时宕机近4小时，引发行业对AI服务稳定性的关注，现已全部恢复。",
+          "hotness": 70,
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1jTlFBWW9EQVY2OE5FMXlla0dRRGgzN0VvV3MtaFNuZmRDWjJzVlY1ckdFSmNhUDBUUFB6QXBwWFJINDlMOTBqQ1pERFlPeTJmcGpv?oc=5",
+          "source": "华尔街见闻"
+        },
+        {
+          "id": 32,
+          "title": "Meta被曝计划出售算力，AI算力过剩了吗？多家机构发声",
+          "summary": "据报Meta计划出售部分AI算力，引发市场对算力供给过剩的讨论，多家机构给出观点。",
+          "hotness": 65,
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9FOGE3M0FSb0dTSTM4RjNPdDJEVG9ZV0UwLWd6bTRhZlJKRWFNcFFWQ1RfQVJCYW5VWjUxQ2U5MXE4dUtlMDhraw?oc=5",
+          "source": "财联社"
+        },
+        {
+          "id": 61,
+          "title": "Nvidia豪掷130亿美元收购Hugging Face，承诺保持开源平台",
+          "summary": "Nvidia以130亿美元收购AI开源社区Hugging Face，承诺维持其开源性质，彰显AI生态整合野心。",
+          "hotness": 90,
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOc2dCeVdWTElXNFlNWHFFc0hJR2JjR21iVkRTcnAtQzBfRXZQQ0x6TXhDbkJhbDRBOTA3VDhZODgxejN3YVM2aWtmcXBXYm5aNEZmM2UycjBjZWJEMU5MOUtST05odEdId1N0RlY2OUUxa2V1VDRqR3FnRTRWNFlQaUtKVkFmblh4UmtSd3NqampoRVlHZmVrRnlLczY0Vkt6ckRZeWpKS2REdzZLeFNkRNIBtgFBVV95cUxPQ3pnSEZqMmJXMmxsQ3gxNlo4bDJtYVFrdi1sWnBTdDZXMG0yQzZLcG5GOXZ5ZmwxUU01YmV0c0oxVnVJT0hzYXFqZUV2UmlnenUyT2thaURFZXI5djhUdXlSSWRXWGtybVgzT1hHSTRLa19sVVExM1EtaldramR2MEx0Q3M2ZHhPRldYbUVWVDBiRG15dFV0ZU1raTNSNnhFdUZYNmhUQ0N6aUpYb0VkeF9nVW9LUQ?oc=5",
+          "source": "ABC News - Breaking News, Latest News and Videos"
+        },
+        {
+          "id": 27,
+          "title": "OpenAI承诺10亿美元强化网络安全防御，启动Daybreak计划",
+          "summary": "OpenAI推出Daybreak计划，斥资10亿美元支持关键基础设施网络安全，应对AI安全审查。",
+          "hotness": 80,
+          "link": "https://openai.com/index/daybreak-for-frontline-defenders",
+          "source": "OpenAI Blog"
+        },
+        {
+          "id": 19,
+          "title": "OpenAI收购科技脱口秀TBPN，布局内容与媒体生态",
+          "summary": "OpenAI收购科技媒体TBPN，官方否认愚人节玩笑，可能用于品牌和内容传播。",
+          "hotness": 60,
+          "link": "https://africa.businessinsider.com/news/openai-just-bought-tech-talk-show-tbpn-this-is-not-an-april-fools-joke/2ylezrr",
+          "source": "africa.businessinsider.com"
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "id": 3,
+          "title": "OpenAI发布GPT-6 Astra，宣称进入“AGI时代”",
+          "summary": "OpenAI正式推出GPT-6 Astra，称其为最智能和对齐的模型，首次达到“关键”网络安全能力，现已向部分客户分阶段开放。",
+          "hotness": 100,
+          "link": "https://openai.com/index/gpt-6-astra/",
+          "source": "OpenAI"
+        },
+        {
+          "id": 11,
+          "title": "谷歌发布Gemini 3.8 Flash和3.8 Flash Cyber，编程与推理能力再升级",
+          "summary": "谷歌推出Gemini 3.8 Flash及安全强化版Cyber，进一步拓展推理和编程能力，向自主智能体（RSI）方向迈进。",
+          "hotness": 95,
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPam1wVmhCUF9BYU11WDFMS1ZOSmlIQUpiTlF6a1RLQlpQZ0R0Y3M5M0hoTExZN0t5Q0FwbTZ5c3B3T2pzWFdZTnp1ZWVfdi1QZmdQeHlHcEFYUFhvbWw4TEdJamNqT3pYZnM3VGU1ckRYVXJWTzRyeXIzb21XT0NscnBqUXZzRW1HcS1lT05IODJOWGp2eC02bDd0ejRIRXRYTXMtbQ?oc=5",
+          "source": "blog.google"
+        },
+        {
+          "id": 23,
+          "title": "MiniMax与HUMAIN联合推出阿拉伯语大模型humain-m3",
+          "summary": "MiniMax参与研发的阿拉伯语前沿模型humain-m3在HUMAIN Node上进行研究预览，拓展多语言模型版图。",
+          "hotness": 70,
+          "link": "https://www.prnewswire.com/news-releases/humain-unveils-humain-m3-a-frontier-arabic-language-model-developed-by-minimax-in-research-preview-on-humain-node-302869158.html",
+          "source": "PR Newswire"
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "id": 35,
+          "title": "谷歌发布面向Kotlin 1.0的生成式AI软件开发工具包",
+          "summary": "谷歌正式推出Kotlin 1.0版生成式AI SDK，为Kotlin开发者提供原生AI集成能力。",
+          "hotness": 55,
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9NVkZsYTN1M3pWZVRPOXJSRS1CdVoxTXJvbTZacGxZaVdmRHFkdmFjNlJmdEloTTVCY3A5QzlhSjVvSEk1cmJ6T2RoQkt2SzYwcDlMY1VndU56UmI1bjNsbg?oc=5",
+          "source": "东方财富"
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "id": 8,
+          "title": "Meta将追踪员工屏幕和按键用于训练AI，引发隐私争议",
+          "summary": "Meta计划监控员工屏幕和键盘输入以训练AI工具，此举遭致员工和隐私倡导者强烈反对。",
+          "hotness": 75,
+          "link": "https://fortune.com/2026/04/21/meta-will-start-tracking-employees-screens-and-keystrokes-to-train-ai/",
+          "source": "Fortune"
+        },
+        {
+          "id": 20,
+          "title": "AI安全专家担忧OpenAI Astra模型使用“循环深度”技术",
+          "summary": "OpenAI Astra被曝采用“recurrent depth”架构，安全专家对其不可解释性和潜在风险表示担忧。",
+          "hotness": 78,
+          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPTUN5QndsbDg3WlBnMEV2RjVsX0Z6Z2JCZVJHYXM2OXB1SUhUSklaejgxeHBQcmZwM3lrSTN5TndvVlJkS2dmbXJmQmF3aGp2RE5qSlRwVW1WMS16N3VocWlRaTNhUDBCeU0xY3FxWERCRTkxX01JTDlnc19pSHVWLURVY0gxRGFrbXhRZzlsZzF0U0lIX1VMWDRndEVrdzdKN2FwbnRRYmo4QXAwTC1HcnBGU21jRVh6U1FsRExxakFPbTJhc2pVNDdGV2hLUFVGSHNGeEowUDVNdWl6UHZUYkxXRnJUb1VCYzlfUXA5QWN4UjRpMkpwc1hPMWphU1ZHS0tlbW9kam1OUQ?oc=5",
+          "source": "Fortune"
+        },
+        {
+          "id": 24,
+          "title": "桑德斯推动法案禁止高级AI开发，引发行业激辩",
+          "summary": "美国参议员桑德斯提出新法案，希望暂停先进AI模型开发，以防范潜在风险，科技界反应两极。",
+          "hotness": 72,
+          "link": "https://decrypt.co/377340/bernie-sanders-ban-advanced-ai?amp=1",
+          "source": "Decrypt"
+        },
+        {
+          "id": 51,
+          "title": "纽约市禁止八年级以下学生使用AI，全美最大学区带头设限",
+          "summary": "纽约市教育部门宣布禁止8年级及以下学生使用AI工具，系全美最大规模学区AI禁令，引发教育界讨论。",
+          "hotness": 68,
+          "link": "https://www.washingtonpost.com/business/2026/09/02/zohran-mamdani-ai-ban-nyc-schools/0d6416ee-a6ef-11f1-9e38-f705d048bd5a_story.html",
+          "source": "The Washington Post"
+        }
+      ]
+    }
+  }
+}

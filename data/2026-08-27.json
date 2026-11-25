@@ -1,0 +1,164 @@
+{
+  "overview": [
+    "OpenAI 被曝训练超 10 万亿参数模型 Bel，或成首个逼近 AGI 阈值的基座模型",
+    "阿里发布 Qwen 3.8-Flash-Next，主打低成本高效率，同时预告 Qwen 4 方向",
+    "Google 推出 Gemini 3.5 语音转文字模型，大幅提升结构化转录能力"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "id": 2,
+          "title": "Google Cloud 推出 Gemini Enterprise，覆盖金融与法律行业",
+          "summary": "Google Cloud 发布 Gemini Enterprise 系列，面向金融和法律机构提供定制化 AI 解决方案，多家顶级律所已加入试用。",
+          "hotness": 85,
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUnJENzNndENwYlI1OG1kcWRCNjIxSWhlT2FUMUdTMGVHbkg1cm9paFBNd3BpdmVFeW9wREc3U2Q0dlBHN29TR0thZ180djlITjlXMWYwMjI0MWZmYVNKNlZxcVlzcWdoV0VldW9Xazc2cmNXS2RUNVBNRHNKWUsyUGJidWF2SWl5Rkh5U3E3UElLUWRWeVhoSjVlR1NxaVdta1habThlNFE1eFpqVnc2NHF3?oc=5",
+          "source": "Google Cloud Press Corner"
+        },
+        {
+          "id": 3,
+          "title": "Meta 计划数周内推出 AI 代理平台 Hatch，对标 OpenAI 的 Agent 产品",
+          "summary": "Meta 正在筹备消费级 AI 代理平台 Hatch，预计将于近期上线，并计划在 10 月发布新 AI 模型，加速脱离广告依赖。",
+          "hotness": 85,
+          "link": "https://thenextweb.com/news/meta-hatch-ai-agent-watermelon-199-subscription",
+          "source": "The Next Web"
+        },
+        {
+          "id": 15,
+          "title": "Perplexity 与 Nvidia 合作发布本地 AI 代理 Portable Computer",
+          "summary": "Portable Computer 是一款完全本地的 AI 代理，可运行在用户 GPU 上，无需云端，实现零 Token 成本。",
+          "hotness": 90,
+          "link": "https://gizmodo.com/perplexity-launches-local-ai-model-that-will-run-on-your-gpu-instead-of-the-cloud-2000802883",
+          "source": "Gizmodo"
+        },
+        {
+          "id": 9,
+          "title": "Anthropic 最贵模型遭企业弃用：性价比不足成主因",
+          "summary": "由于成本远高于替代方案，不少企业已不再选用 Anthropic 旗舰模型，转向更便宜的 AI 服务。",
+          "hotness": 60,
+          "link": "https://futurism.com/artificial-intelligence/nobody-wants-anthropics-best-ai-cheaper-alternatives",
+          "source": "Futurism"
+        },
+        {
+          "id": 10,
+          "title": "月之暗面（Moonshot）考虑与微软、亚马逊、Google 就 Kimi K3 营收分成",
+          "summary": "据报道，月之暗面正与多家科技巨头探讨营收分成协议，计划通过 Kimi K3 模型展开深度合作。",
+          "hotness": 80,
+          "link": "https://seekingalpha.com/news/4636869-moonshot-mulls-revenue-sharing-deals-with-microsoft-amazon-google-over-kimi-k3-ai-model",
+          "source": "Seeking Alpha"
+        },
+        {
+          "id": 23,
+          "title": "OpenAI 将 ChatGPT for Teachers 扩展至 55 个美国学区",
+          "summary": "OpenAI 扩大教育领域布局，为更多美国中小学提供安全的 ChatGPT 教学工具，推动 AI 辅助教育普及。",
+          "hotness": 70,
+          "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+          "source": "OpenAI Blog"
+        },
+        {
+          "id": 24,
+          "title": "OpenAI 发布报告：AI 让学习持续不断",
+          "summary": "新报告展示了学生和教育工作者如何利用 ChatGPT 实现随时随地学习，强调 AI 对教育模式的变革。",
+          "hotness": 50,
+          "link": "https://openai.com/index/learning-never-stops",
+          "source": "OpenAI Blog"
+        },
+        {
+          "id": 26,
+          "title": "loveholidays 借助 OpenAI Codex 让全员成为开发者",
+          "summary": "旅行公司 loveholidays 利用 Codex 简化软件开发流程，使非技术员工也能参与构建工具，提升效率。",
+          "hotness": 60,
+          "link": "https://openai.com/index/loveholidays",
+          "source": "OpenAI Blog"
+        },
+        {
+          "id": 7,
+          "title": "Flanks 与 Perplexity 合作推出 AI 驱动的财富管理数据连接器",
+          "summary": "金融科技公司 Flanks 携手 Perplexity，为财富管理行业提供基于 AI 的数据连接服务，提高信息效率。",
+          "hotness": 55,
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU0lpM3VEQU9aemRoSGdnQWZqclRKb1h2QXUxX2RfMHVZWVJ3OHJiN0hONFJDd0lIaWZaTExRLW9EQThRdTF3dWZPclhwWTNTRlJFRmxXenNxb2VnUE54WVRpbmlCMlNuS3dmRVlQQmtUajM3ZGxkaGppdWlRQTBOTUlKcldIZ3BWR0l1cW9qTHVIOF9vX3o1a3FCZGludDVZRmltRmNsODBCU3hSVWZFQU5UTQ?oc=5",
+          "source": "FF News"
+        },
+        {
+          "id": 11,
+          "title": "Google Cloud 最新 AI 发布冲击 DOCU 和 TRI 股票，双双跌超 3%",
+          "summary": "Google Cloud 的 Gemini Enterprise 发布引发市场对竞争对手的担忧，导致 DocuSign 和 Thomson Reuters 股价大跌。",
+          "hotness": 65,
+          "link": "https://stocktwits.com/news-articles/markets/equity/why-docu-tri-stocks-slid-over-3-after-google-cloud-s-latest-ai-release/cZYN1DeRJov",
+          "source": "Stocktwits"
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "id": 0,
+          "title": "阿里发布 Qwen 3.8-Flash-Next，低成本高效率，预览 Qwen 4",
+          "summary": "阿里的新模型 Qwen 3.8-Flash-Next 主打更小的体积和成本效益，并被视为 Qwen 4 的提前预览。",
+          "hotness": 95,
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVFN2VVNaUWE0bXJiNjQ2VWJlbngtWlpzcnY3RG44VlB1eVVhMWNiT21wYmVKSDJnQ0JkNXMycVg5bWRqQ2RIZ3E0d0hzdkEzUlNPV05aUjRUTFhzaXlNdVhVSHFXNGRuZFlPWUhEeEtKemMwdWJValR0MFpZM19OMVRpS1piVVhZWEI3ZmdJZmlDR1B5d2JMRU5DcENuSUktd01Ra0J6Zw?oc=5",
+          "source": "Bloomberg.com"
+        },
+        {
+          "id": 6,
+          "title": "Google 发布 Gemini 3.5 语音转文字模型",
+          "summary": "新模型能将杂乱的口语自动转化为结构化文本，大幅提升会议记录和实时转录的效率。",
+          "hotness": 90,
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQS19yVFFnYmgwY0RYOUJteTJyNTJ5WW90NVFkVWdqb2R2bzlDaEtkSXZycUc2MEp5MXVIWlg5aXhIRGpWUkkwcWtINFlUbkVwNHhLY25Va2l2OHJickJoTDN5bXVXZDhmdGdHOGViNEtzNnFaOE5uLWtqU1hOZDc2ZXNPZDZMaTNOakZYM0ZvZ1pQdXYzb0xBR1dzNVR4LU40Z2M2dDVEWHJpUnY1b1V0LTVvX2c?oc=5",
+          "source": "Engadget"
+        },
+        {
+          "id": 19,
+          "title": "OpenAI 被曝训练超 10 万亿参数模型 Bel，或为 AGI 门槛",
+          "summary": "据报道，OpenAI 的新一代基座模型 Bel 参数超 10 万亿，可能成为全球首个接近 AGI 水平的模型。",
+          "hotness": 95,
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSGUyck4tR01kS2c1dUxiVVpHazQ0dFktWEloVTdBeGlHUnRhYnhjcVJOeDJVUnFiSWVwTlRrV2QxVkVPLTVneFVFZ21TZGlKOUlBQnRkVU8tWC1DYmRhMzhzMzhUelhQZjlmNmNRRFRRMTd1a2UyOGNyWmFGejVYYi1EdmR0RzhkcEVMYUhfUW5HTVhEYU14RkZZNWVMQ2FBMVRUZzVVaDROX1pUNXZkb2o2UnlHMGxPeW1pQUJYRl8wT1l4ODFB0gHMAUFVX3lxTE5SLUQzcUF3TldfcUFiYTlNaDV1ak9ORGRSaDczbE93X3pwQk55VHZfTElfNE05Rk9yc0tZd2pkQ1pmZUNpbFlWSFFnb19GWTd2SGhkclZ2V1pOejZiR0lDVi0wYlZzV1c2aDhPOGxHT2lZdXdEbVAtZlJwbWZIOVpfc2lpUWpwRHRpSTIwZUctNW1idUdGWGpXa2REOVFvS1BYYVNMSmVheVo0YWczRDZrdE01OUhXNnlPQ3hqeTg4ZUlfX0JHYkhneDVYcQ?oc=5",
+          "source": "Wccftech"
+        },
+        {
+          "id": 5,
+          "title": "路由技术（Routing）正成为前沿 AI 实验室的新趋势",
+          "summary": "多家前沿 AI 实验室开始采用路由机制，将任务智能分配给不同模型，以降低成本和提升性能。",
+          "hotness": 70,
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUEtCMUNQQkI1MTgwX2luZVFla3pySXEyQlgwcHhhT0NuMlF6eV9yZjFpUlhPaXBQdmdVNktvMGFhR3ZSZG55Z3pheUpZcUp1WlZ6ZW5ELWJpTl9mWlFaU2EybmdWTTUyaEd0Ym5jX3g5c0JZbDdUWnZXdDJlSUstRQ?oc=5",
+          "source": "Axios"
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": []
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "id": 1,
+          "title": "万亿级 AI 泡沫濒临破裂？",
+          "summary": "有分析认为当前 AI 投资过热，市场可能面临估值崩塌风险，引发对行业前景的反思。",
+          "hotness": 75,
+          "link": "https://cleantechnica.com/2026/06/24/trillion-dollar-ai-bubble-on-verge-of-popping/",
+          "source": "CleanTechnica"
+        },
+        {
+          "id": 21,
+          "title": "阿拉巴马州对 OpenAI 展开调查，涉及 AI 模型攻击",
+          "summary": "阿拉巴马州官方启动对 OpenAI 的调查，关注其模型是否存在被攻击或滥用的安全隐患。",
+          "hotness": 65,
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWGs5aGFOSWc4dWNFUmhEME9XWmJlVF9hUDdBMl9ZbUpyX2R5d1pXSWt6b2l0bnFSR3hSbk1EUlpLcEQzYmZzTDBPZlBtNzVxdlF4aGFpN0ZlTHBZODczWWhyWFhkMTRUcFUyMnlsRjJVWko3SmVITjctNWZpaW85YVNBenBmbmtPZkxHRFhiS1hWQQ?oc=5",
+          "source": "Briefs Finance"
+        },
+        {
+          "id": 25,
+          "title": "OpenAI 披露 Hugging Face 安全事件调查结果及后续措施",
+          "summary": "OpenAI 公布了对 Hugging Face 安全事件的调查发现，并承诺加强平台防护，避免类似问题。",
+          "hotness": 70,
+          "link": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
+          "source": "OpenAI Blog"
+        }
+      ]
+    }
+  }
+}

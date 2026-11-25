@@ -1,0 +1,167 @@
+{
+  "overview": [
+    "OpenAI发布GPT-5.6：融合前沿智能与效率，性能大幅提升，并推出面向学术研究者的免费AI访问计划。",
+    "贾扬清再创业，推出AI推理加速方案，使GLM-5.2模型提速534%，推动智能体应用落地。",
+    "中国开源模型崛起，深度融入实体经济，促使美国业界更加重视开源生态。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "title": "OpenAI发布GPT-5.6：效率与智能的融合",
+          "summary": "OpenAI正式发布GPT-5.6，通过优化推理和紧凑化设置，在ARC-AGI-3基准上实现三倍得分提升，同时在多个维度提升AI效率，降低每美元智能成本。",
+          "link": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+          "hotness": 96
+        },
+        {
+          "title": "贾扬清再创业，推出AI军团加速GLM-5.2达534%",
+          "summary": "知名AI科学家贾扬清再次创业，打造AI推理加速系统，使智谱GLM-5.2模型推理速度提升534%，极大推动大模型在智能体场景中的规模化部署。",
+          "link": "https://news.sina.cn/ai/2026-07-30/detail-inikpnuq9717409.d.html?vt=4&wm=4007,4007,4007,4007////?vt",
+          "hotness": 92
+        },
+        {
+          "title": "微软与Meta财报：AI支出飙升，资本投入持续加大",
+          "summary": "微软利润增长31%，并上调AI开支预期；Meta现金流因扎克伯格加速AI投资而承压，两家公司均表示将维持或增加AI基础设施投入。",
+          "link": "https://www.nytimes.com/2026/07/29/technology/microsoft-quarterly-earnings-report.html",
+          "hotness": 85
+        },
+        {
+          "title": "OpenAI CEO Altman本周会见白宫官员，共商AI框架",
+          "summary": "Sam Altman将于本周会见白宫幕僚长，在AI政策框架截止日期前就监管细则进行游说。同时，超过1200名AI从业者联名请求华盛顿制定AI减速计划。",
+          "link": "https://www.cnbc.com/2026/07/29/altman-white-house-wiles-ai-framework.html",
+          "hotness": 82
+        },
+        {
+          "title": "美国向格芯拨款3亿美元开发AI芯片互连技术",
+          "summary": "美国政府宣布向芯片制造商GlobalFoundries提供3亿美元资助，用于开发下一代AI芯片的高带宽互连技术，强化本土半导体供应链。",
+          "link": "https://americanbazaaronline.com/2026/07/29/us-to-award-globalfoundries-300-million-to-develop-ai-chip-links-485427/",
+          "hotness": 78
+        },
+        {
+          "title": "OpenAI推出面向学术研究者的免费AI访问计划",
+          "summary": "OpenAI宣布向10万名学术研究者免费提供ChatGPT最先进模型，以加速科学发现和协作。",
+          "link": "https://openai.com/index/chatgpt-for-academic-researchers",
+          "hotness": 88
+        },
+        {
+          "title": "特朗普政府将联邦土地转用于AI数据中心建设",
+          "summary": "白宫宣布重新规划部分联邦土地，用于建设大规模AI数据中心，以满足日益增长的算力需求。",
+          "link": "https://www.nytimes.com/2026/07/29/climate/trump-federal-data-centers.html",
+          "hotness": 74
+        },
+        {
+          "title": "重构终端底层计算架构，产业共探智能体规模化落地路径",
+          "summary": "产业界联合探讨智能体规模化落地所需的新型终端计算架构，推动AI代理从单设备走向全场景协同。",
+          "link": "http://www.news.cn/tech/20260729/a96f6153046d4466a3299c87f8bd67eb/c.html",
+          "hotness": 76
+        },
+        {
+          "title": "扎克伯格最新涉华表态：强调美国AI开源生态受中国模型影响",
+          "summary": "Meta CEO扎克伯格在公开场合表示，中国开源AI模型的快速发展促使美国业界更加重视开源生态。",
+          "link": "https://mil.sina.cn/2026-07-29/detail-iniknmii5805663.d.html?vt=4",
+          "hotness": 75
+        },
+        {
+          "title": "AI公司招聘热潮：微软和Meta大规模招募电工和木匠",
+          "summary": "为加速数据中心建设，AI公司正大规模招募基础设施建设人员，包括电工、木匠等传统蓝领岗位。",
+          "link": "https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html",
+          "hotness": 72
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "title": "GPT-5.6：如何通过两项设置使ARC-AGI-3得分提升三倍",
+          "summary": "OpenAI发布技术报告，展示通过保留推理链和启用紧凑化两项API设置，GPT-5.6在通用智能基准ARC-AGI-3上的得分提升了三倍，效率与智能并重。",
+          "link": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+          "hotness": 93
+        },
+        {
+          "title": "OpenAI：智能体时代的科学计算新范式",
+          "summary": "OpenAI发布实地报告，展示科学家如何利用AI编码代理（Agents）现代化科学计算工作流，加速基因组学等领域的软件开发与发现。",
+          "link": "https://openai.com/index/scientific-computing-agentic-ai",
+          "hotness": 88
+        },
+        {
+          "title": "AI工具实现大规模蛋白质改造：从海量数据中挖掘规律",
+          "summary": "研究人员利用AI模型从海量蛋白质数据中学习规律，实现对蛋白质的大规模定向改造，推动合成生物学发展。",
+          "link": "https://www.stdaily.com/web/gdxw/2026-07/29/content_555397.html",
+          "hotness": 73
+        },
+        {
+          "title": "OpenAI研究：AI如何拓展人们在工作中扮演的角色",
+          "summary": "OpenAI最新研究显示，AI正在拓宽员工的工作边界，ChatGPT用户已开始承担跨角色任务，重新定义岗位职责。",
+          "link": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+          "hotness": 76
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "title": "中国开源模型崛起，深度融入实体经济，促进美国业界重视开源",
+          "summary": "中国开源大模型从追赶到领跑，已在工业、金融等实体经济领域广泛应用，并促使美国科技巨头重新评估开源战略。",
+          "link": "https://news.sina.com.cn/zx/2026-07-29/doc-iniknrrc1612677.shtml",
+          "hotness": 86
+        },
+        {
+          "title": "AI赋能知识产权：2026星河智源全球生态大会聚焦开源与产权",
+          "summary": "全球知识产权生态大会在京举办，探讨AI如何赋能知识产权管理，同时开源生态成为大会焦点议题。",
+          "link": "http://www.news.cn/finance/20260729/f23424f8383943468ddd85e9247f20de/c.html",
+          "hotness": 68
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "title": "AI“隐形欺诈”挑战司法秩序",
+          "summary": "AI生成的虚假内容正在司法领域造成新型欺诈风险，专家呼吁完善法律认定和证据规则。",
+          "link": "https://www.stdaily.com/web/gdxw/2026-07/29/content_555400.html",
+          "hotness": 78
+        },
+        {
+          "title": "白宫备忘录指中国公司通过“蒸馏”大规模窃取美国AI技术",
+          "summary": "美国白宫发布备忘录，指控中国AI企业通过模型蒸馏等方式大规模窃取美国AI技术，引发行业伦理与地缘政治争议。",
+          "link": "https://www.bbc.com/zhongwen/articles/cvgk9yw5x7yo/simp",
+          "hotness": 90
+        },
+        {
+          "title": "超1200名AI从业者联名呼吁美国政府制定AI减速计划",
+          "summary": "来自OpenAI、Anthropic、DeepMind等公司的1200多名AI工作者联名致信华盛顿，要求制定安全的AI减速计划，警惕前沿模型风险。",
+          "link": "https://fortune.com/2026/07/29/anthropic-deepmind-openai-meta-washington-ai-slowdown-plan/",
+          "hotness": 87
+        },
+        {
+          "title": "白宫新政策：高风险生命科学领域需监控AI危险",
+          "summary": "白宫发布高风险生命科学政策，要求对AI在该领域可能造成的生物安全风险进行持续监控。",
+          "link": "https://www.nextgov.com/artificial-intelligence/2026/07/white-houses-new-high-risk-life-sciences-policy-calls-monitoring-ai-dangers/415108/?oref=ng-homepage-river",
+          "hotness": 80
+        },
+        {
+          "title": "Elon Musk的xAI起诉明尼苏达州“禁止裸化技术”法律",
+          "summary": "xAI就明尼苏达州全美首个禁止“裸化技术”（nudification）的法律提起诉讼，称其侵犯言论自由并阻碍AI发展。",
+          "link": "http://www.registercitizen.com/business/article/elon-musk-s-xai-sues-minnesota-over-its-22365653.php",
+          "hotness": 82
+        },
+        {
+          "title": "调查显示：认为AI弊大于利的公众比例上升",
+          "summary": "一项新调查显示，认为AI带来的危害大于好处的民众比例显著增加，反映出公众对AI安全与伦理的担忧持续加深。",
+          "link": "https://thehill.com/homenews/5998236-americans-distrust-ai-jobs/",
+          "hotness": 75
+        },
+        {
+          "title": "美媒：部分前沿AI模型极易被破解越狱",
+          "summary": "WIRED调查发现，当前前沿AI模型的安全防护仍存在严重漏洞，研究人员可以轻易通过提示注入等方式让模型输出有害内容。",
+          "link": "https://www.wired.com/story/jailbreaking-ai-models-google-anthropic-openai-spacexai/",
+          "hotness": 79
+        }
+      ]
+    }
+  }
+}

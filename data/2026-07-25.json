@@ -1,0 +1,112 @@
+{
+  "overview": [
+    "Anthropic发布全新AI模型Mythos，宣称将彻底改变网络安全领域，引发行业震动。",
+    "北京推出智能体规模化应用新政，AI Agent正式站上产业核心位置，政策与市场双轮驱动。",
+    "白宫公开指控中国AI初创公司月之暗面（Kimi K3模型）窃取Anthropic技术，中美AI科技战进一步升级。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "title": "北京推出智能体新政，引导智能体规模化应用",
+          "summary": "北京发布新政策，旨在推动AI智能体（Agent）在各行业规模化落地，标志着智能体从概念走向产业核心。",
+          "link": "https://companies.caixin.com/2026-07-24/102467813.html",
+          "hotness": 88
+        },
+        {
+          "title": "OpenAI推出Presence企业AI智能体平台",
+          "summary": "OpenAI发布全新企业级AI智能体平台OpenAI Presence，支持部署可信赖的语音和聊天Agent，助于企业自动化工作流。",
+          "link": "https://openai.com/index/introducing-openai-presence",
+          "hotness": 90
+        },
+        {
+          "title": "OpenAI在ChatGPT中推出健康功能，连接医疗记录与Apple Health",
+          "summary": "ChatGPT面向美国用户推出健康功能，可安全连接医疗记录和Apple Health数据，提供个性化健康洞察。",
+          "link": "https://openai.com/index/health-in-chatgpt",
+          "hotness": 82
+        },
+        {
+          "title": "物理AI成为WAIC 2026新热点，新型电力系统是重要场景",
+          "summary": "2026世界人工智能大会上，物理AI成为焦点，智元合伙人称‘物理AI的ChatGPT时刻正在到来’，电力系统为首要应用场景。",
+          "link": "https://www.news.cn/enterprise/20260724/98d780a487804137a813cd4bb91db88b/c.html",
+          "hotness": 80
+        },
+        {
+          "title": "菲尔兹奖得主加入OpenAI，此前对AI持悲观态度",
+          "summary": "一位曾对AI持悲观态度的菲尔兹奖得主选择加入OpenAI，引发学界对AGI前景的广泛讨论。",
+          "link": "https://k.sina.com.cn/article_7879996049_1d5af329106801sxdg.html?from=science",
+          "hotness": 75
+        },
+        {
+          "title": "Amazon确认关闭旧金山关键AI站点，但顶级模型研发继续",
+          "summary": "Amazon证实将关闭旧金山的一处核心AI办公室，但表示其顶尖模型的研究工作不会受影响。",
+          "link": "https://www.geekwire.com/2026/amazon-confirms-its-closing-key-ai-site-in-san-francisco-but-says-work-on-its-top-models-continues/",
+          "hotness": 70
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "title": "Anthropic发布新AI模型Mythos，自称网络安全‘清算’",
+          "summary": "Anthropic宣布推出新模型Mythos，专注于网络安全领域，号称将带来颠覆性防御能力，被视为该领域的‘清算时刻’。",
+          "link": "https://www.nytimes.com/2026/04/07/technology/anthropic-claims-its-new-ai-model-mythos-is-a-cybersecurity-reckoning.html",
+          "hotness": 95
+        },
+        {
+          "title": "清华大学孙富春团队在具身智能类脑触觉研究中取得新进展",
+          "summary": "清华计算机系孙富春团队在类脑触觉传感方面实现突破，推动具身智能机器人感知能力提升。",
+          "link": "https://www.tsinghua.edu.cn/info/1175/127466.htm",
+          "hotness": 78
+        },
+        {
+          "title": "邱锡鹏：下一代AI缺的不是更多模态，而是理解情境",
+          "summary": "复旦大学邱锡鹏教授指出，AI未来的关键不在于增加更多模态，而在于对上下文情境的深度理解。",
+          "link": "https://news.sciencenet.cn/htmlnews/2026/7/568800.shtm",
+          "hotness": 65
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": []
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "title": "白宫称中国‘月之暗面’Kimi K3模型窃取Anthropic技术",
+          "summary": "美国白宫公开指控中国AI公司月之暗面的Kimi K3模型涉嫌窃取Anthropic的模型技术，引发中美AI科技战新升级。",
+          "link": "https://www.bbc.com/zhongwen/articles/c62vqpqdqjwo/simp",
+          "hotness": 90
+        },
+        {
+          "title": "OpenAI如何失去对一个AI模型的控制——以及需要改变什么",
+          "summary": "《时代》杂志揭露OpenAI曾失去对其一个AI模型的控制权，引发行业对AI安全治理和模型回收机制的深度反思。",
+          "link": "https://time.com/article/2026/07/24/openai-hugging-face-attack/",
+          "hotness": 90
+        },
+        {
+          "title": "AI高管要求OpenAI公开Hugging Face黑客攻击更多细节",
+          "summary": "多家AI公司高管联合呼吁OpenAI披露Hugging Face数据泄露事件的完整细节，以评估影响并改进安全措施。",
+          "link": "https://fortune.com/2026/07/24/ai-executives-demand-openai-release-more-details-about-how-the-hugging-face-hack-happened/",
+          "hotness": 85
+        },
+        {
+          "title": "中国AI模型成功阻止OpenAI的‘空前’网络攻击",
+          "summary": "CNBC报道称，一个中国AI模型在一次针对OpenAI的大规模网络攻击中发挥了关键防御作用，引发国际关注。",
+          "link": "https://www.cnbc.com/2026/07/24/chinese-ai-model-openai-cyber-attack.html",
+          "hotness": 80
+        },
+        {
+          "title": "AI安全事故推动联邦网络改进呼声高涨",
+          "summary": "近期一系列AI安全事故促使美国联邦政府加强网络基础安全建设，政策制定者呼吁建立更严格的AI事故报告机制。",
+          "link": "https://federalnewsnetwork.com/cybersecurity/2026/07/ai-incidents-bolster-push-for-federal-cyber-improvements/",
+          "hotness": 72
+        }
+      ]
+    }
+  }
+}

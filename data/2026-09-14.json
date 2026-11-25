@@ -1,0 +1,132 @@
+{
+  "overview": [
+    "OpenAI 的 GPT-6 Astra 被 Perplexity 用于端到端系统，可撰写沟通、变更软件并监控生产，Agent 化落地信号强烈。",
+    "Anthropic 销售额暴增并有望迎来首个季度盈利，头部大模型商业化出现关键拐点。",
+    "AI 安全与地缘治理升温：美方发布中国 AI 企业对美蒸馏公告、国安部长撰文谈 AI 治理，Anthropic 前雇员警告 AI 灭绝风险。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "id": 1,
+          "title": "Anthropic 销售额暴增，有望迎来首个季度盈利",
+          "summary": "Anthropic 销售额大幅增长，或实现首个季度盈利，显示头部大模型公司的商业化能力正在改善。",
+          "hotness": 92,
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9FZ3J5WWVWb3ZmU1gtTnNjVVRWdWM1ZnpsUUhxZG9XU2k5UnBVekZsaURCaUViSTRuaHBZZWdURXI1MnczZ3QtLQ?oc=5",
+          "source": "财联社"
+        },
+        {
+          "id": 5,
+          "title": "词元消耗量将达10亿亿，算力租赁景气多点共振",
+          "summary": "机构预计词元消耗量将达 10 亿亿，算力租赁景气度多点共振，相关算力标的获重点关注。",
+          "hotness": 78,
+          "link": "https://wap.eastmoney.com/a/202609143872945433.html",
+          "source": "东方财富"
+        },
+        {
+          "id": 15,
+          "title": "江苏战新基金集群逾366亿元重仓人工智能",
+          "summary": "江苏省战新基金集群以逾 366 亿元重仓 AI，国资创投加速迈入“AI 辅助决策”时代。",
+          "hotness": 75,
+          "link": "https://jsnews.jschina.com.cn/jsyw/202609/t20260913_s6aa6b1fde4b03e594b54a536.shtml",
+          "source": "中国江苏网"
+        },
+        {
+          "id": 13,
+          "title": "中国算力“一张网”与统筹监测加速成型",
+          "summary": "中国算力“一张网”格局基本形成，一体化统筹监测实现算力底数可摸清、态势可感知；中国铁塔、河北怀来集群、算力贷/算力保等推动算力从“建得多”走向“用得好”。",
+          "hotness": 72,
+          "link": "https://t.cj.sina.cn/articles/view/7517400647/1c0126e470590988c0",
+          "source": "t.cj.sina.cn"
+        },
+        {
+          "id": 10,
+          "title": "AI 算力与数据布局进入太空，为智能体提供“地球真值”",
+          "summary": "AI 算力和数据布局向太空延伸，为 AI 智能体提供“地球真值”数据，探索天基算力基础设施。",
+          "hotness": 70,
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5SYVpxQnptbzNmNm1rdl90R0xVZmxYWm9IYTdvaVQtOEZfclVjOWlxODI1V1dJb0c0eUJVdktROHhlMEp6a2FMQU9nVGwySk9HSUlPeEVZQ2VpVWxmSGlSb2FQM3hrV3dJQjZkejNscUc?oc=5",
+          "source": "新浪网"
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "id": 2,
+          "title": "OpenAI GPT-6 Astra 被 Perplexity 用于端到端系统",
+          "summary": "OpenAI Blog 消息称，Perplexity 使用 GPT-6 Astra 撰写沟通内容、变更软件并监控生产环境，显示端到端 Agent 能力落地。",
+          "hotness": 99,
+          "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+          "source": "OpenAI Blog"
+        },
+        {
+          "id": 20,
+          "title": "书生·端砚全面开放全栈服务，打造科学智能平台",
+          "summary": "书生·端砚开放全栈服务，以“算、证、验”合一打造科学智能第一平台，推动 AI for Science 基础设施升级。",
+          "hotness": 88,
+          "link": "https://www.stdaily.com/web/gdxw/2026-09/13/content_580275.html",
+          "source": "中国科技网"
+        },
+        {
+          "id": 19,
+          "title": "方升-Code 2.0 发布，大模型基准测试迎新标准",
+          "summary": "方升-Code 2.0 发布，提出大模型基准测试体系新标准，有望推动代码与模型评测规范化。",
+          "hotness": 80,
+          "link": "https://finance.sina.cn/stock/jdts/2026-09-11/detail-inirnnxw5652566.d.html?vt=4&cid=76993&node_id=76993",
+          "source": "新浪财经"
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": []
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "id": 9,
+          "title": "Anthropic 前雇员警告 AI 灭绝风险，呼吁西方与中国协调",
+          "summary": "Anthropic 前雇员称业内对“人类遭 AI 灭绝”存在真诚恐惧，认为西方必须与中国在 AI 安全上协调。",
+          "hotness": 88,
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5qdHU1MkJEYzBibnV3Nm5YWTJBR21XY2ozM0Zybmktc0xPT2s1U1M3Y3lCbXVrdGNHZ0hxdllSMWl6NTFmNUp2Yk9IaFhadE5rRDNhaHZuSkVTeWFDSEMyWlRIRko3Z9IBa0FVX3lxTE0yWHd0NVRYOS1jSkdybWsxTGZvbDFiMnVla1pyYjRCa0JDRS1XSEFoYWw4V19fYXl2RXRUN2NZVG5xblZBNUVlRUpqY3V2V3NCcXJyNkhLckY5Y19xbXNkblpZWnJiVk1RN2tZ?oc=5",
+          "source": "BBC"
+        },
+        {
+          "id": 7,
+          "title": "美发布中国 AI 企业对美蒸馏活动网络安全公告，商务部回应",
+          "summary": "美方就中国 AI 企业对美“蒸馏”活动发布网络安全公告，商务部回应，AI 技术管制与地缘博弈升温。",
+          "hotness": 85,
+          "link": "https://www.cls.cn/detail/2478630",
+          "source": "财联社"
+        },
+        {
+          "id": 18,
+          "title": "国安部长陈一新撰文谈人工智能治理",
+          "summary": "国安部长陈一新撰文阐述人工智能治理，强调安全与发展并重，AI 进一步纳入国家安全框架。",
+          "hotness": 82,
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5hWm9acnV4TlRrY2ZWQk9McjhWcHlBNFJrT3BYQkRKY01LWGpTcnpqNGZBZlNTbHRCLW5MOHpta0FCQVQ2QUZtWlV3Z2dpR2xHb01EQTVGUW1qVlVTaEd3?oc=5",
+          "source": "china.caixin.com"
+        },
+        {
+          "id": 6,
+          "title": "AI 领军人物呼吁放缓发展，特朗普斥为“消极力量”",
+          "summary": "部分 AI 行业领军人物呼吁放缓 AI 发展，特朗普斥为“消极力量”，发展速度与监管争议再起。",
+          "hotness": 78,
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZGVuNGp3d0ZISXBUUFNuMkVINWUxVEpsUzBtN3paX0RZWTFZdmN0MUJaaGU3N3pDaGZZMGozRU5nRWI1VWxOTWxYVUZfQm5VeVFQWWhVaU1LZ2dTbXpMUmY1cnFuRloxZjRYTDBIQTItQ0JJM0VjcXByVHoyR0dkVjF5Sl9OVnQyVDRmaFlFaF9EYTRneWNFMTFQN2hzcnJH?oc=5",
+          "source": "oushinet.com"
+        },
+        {
+          "id": 0,
+          "title": "中国军方敏感信息疑外泄，美 AI 巨头被指揭内情",
+          "summary": "DW 报道称中国军方敏感信息疑通过美国 AI 巨头外泄，引发 AI 数据安全与军用风险关注。",
+          "hotness": 75,
+          "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQRDZWbHV6a0FheWxzMGlwd0hoVTNtRHZBWUNaLWcwR2l0VzEyY05kX1lyOXNIUXpUaDFuUmdZTHg5cS1pNTl2eGxzSkNVWGdkNzJiYV9WcU9VSXpKT1RXdzVTN3UyM3dvcjczTHV6ZF85RzVUd1lvWkhhNTUxS0tYZWlPN0pmeHNUTDFEZmpOOVcyWUV1ZWFGeHZUcW5jSHNaaTNmVy12SXJ2RW9MY0NXckhycS0tbXhYTnJnZ1ZrQjVUZ3lDa3F1S3A0ZzR2dTZrb0l1YTNkQVV5NzJ5bUhuZUdSaTJ4RkFwcmVZaGllV1ZMdWEwSzZUSkpVbjJEYnRtTlZyRUwzMnlPcDZMQnZ2Z2RnRlFoMHYtZU9aX2tBeVk4bFdr0gGkAkFVX3lxTFAwellvM0hjVXV6cFcxYmlzU1lpNG0wRVRFSnEzVmNLbGZRclZMUmVWdVRaY1Z0WURXVllLTF9FTDBzNFdkTmNOTktnd05saXMwY3N4bkVVcTQ4WlZUUU5jQXhNcDV6c2cyZHRzZEd3ZmFlOWI4ZVJicS1mQi1xU3g5ODgtNWRxVmJKMzNoOGNSbm9xY3NLTUV2R3EyRENTNWNocUpuVDdTYTYtNHdvc2F1emlQTUFSbGdHU2FvRWFDMzlqeXBvNEppS0o3d1JYdGsxTkFPQTlKMkZXaXc5S29KSlU2SlZPLWsyWWtZNkh3cTJ4Vk1UR0FLSlMtR3Z2Q2FFMXRRM1YwQ2hOWHJYNWlHSTlxN3VTVm5udzJZVjhGSF9FTFk?oc=5",
+          "source": "DW.com"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "overview": [
+    "Google Gemini 4 Flash 与 Carbon 模型泄露，指向 Google 即将发布新模型，核心模型竞赛继续升温。",
+    "月之暗面 Kimi K3.1 Pro 因限流等问题致歉并重置所有订阅会员权益，国内大模型服务稳定性受到关注。",
+    "SpaceX 完成 400 亿美元债务融资用于购买 GPU，算力基础设施军备竞赛进一步升级。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "id": 7,
+          "title": "Kimi K3.1 Pro 出现限流问题，月之暗面致歉并重置订阅会员",
+          "summary": "月之暗面就 Kimi K3.1 Pro 限流与使用体验问题致歉，并为所有订阅会员重置权益，反映国内大模型服务稳定性挑战。",
+          "hotness": 90,
+          "link": "https://www.ithome.com/1/017/723.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 8,
+          "title": "SpaceX 完成 400 亿美元债务融资，用于购买 GPU",
+          "summary": "SpaceX 完成 400 亿美元债务融资，资金将用于购买 GPU，显示算力基础设施投入进一步加码。",
+          "hotness": 92,
+          "link": "https://www.ithome.com/1/017/720.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 1,
+          "title": "Mistral 转型全栈 AI 公司，直接对标 OpenAI 与 Google",
+          "summary": "Mistral 正从模型提供商扩展为覆盖模型、平台与部署的全栈 AI 公司，加剧与 OpenAI、Google 的竞争。",
+          "hotness": 88,
+          "link": "https://startupfortune.com/mistral-turns-itself-into-a-full-ai-stack-to-take-on-openai-and-google/",
+          "source": "Startup Fortune"
+        },
+        {
+          "id": 30,
+          "title": "马斯克警示算力滞留风险，摩根大通称超六成美数据中心未开工",
+          "summary": "马斯克警示算力建设可能滞留，摩根大通称超六成美国数据中心尚未开工，算力投资与落地进度出现分化。",
+          "hotness": 78,
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Qakdzc2RFbm54WVFzejNTcHFSVjJnQVVobUdDZUMwSGNsdS1qMEJvOFByZC1oaXVBSENrMkxIR1BkLTQ4RHlNX3FLeW9ZVWFadmljMFRxVGRNVjVlYUs2Q3V3?oc=5",
+          "source": "观点网"
+        },
+        {
+          "id": 33,
+          "title": "辉羲智能年内累计融资 25 亿元，从智驾转向具身智能",
+          "summary": "辉羲智能年内累计融资 25 亿元，业务从智能驾驶转向具身智能，首程控股旗下基金参与投资。（合并 id 33、36）",
+          "hotness": 75,
+          "link": "http://www.eeo.com.cn/2026/1025/1075682.shtml",
+          "source": "经济观察网"
+        },
+        {
+          "id": 37,
+          "title": "国家数据集团成立，数据要素产业有望加速",
+          "summary": "国家数据集团成立，分析师预计 2026 年数据要素产业加速，为 AI 数据供给与流通提供制度基础设施。",
+          "hotness": 72,
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4wR3Y4LXFySmFTa2cxdkoyN0NRVHg3NkVtZ004TEMzeWZLUjhDdU5vdFg5T0MtcnRHdU1rd2RSU1RqMzZJdUVDTg?oc=5",
+          "source": "财联社"
+        },
+        {
+          "id": 41,
+          "title": "金溢科技子公司签署算力服务器配件采购合同",
+          "summary": "金溢科技子公司签署两笔算力服务器相关配件采购合同，反映算力基础设施供应链需求持续。",
+          "hotness": 60,
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qTVdnQ2RFcFdHNGtydnNsd0k5el93SFYzN1N1TVlLcXh3eGpIVE85Si1iUl9ZSk1NdHF2dS05WUozWC05X3VzdlFNVXdMQklzdUNWZHgzYzNiQjZydGlWRw?oc=5",
+          "source": "东方财富"
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "id": 2,
+          "title": "Google Gemini 4 Flash 与 Carbon 模型泄露，或即将发布",
+          "summary": "泄露信息指向 Google 正准备推出 Gemini 4 Flash 与 Carbon 新模型，核心模型迭代与发布节奏受到高度关注。",
+          "hotness": 96,
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBlY3BEekwtQnZfVzl4VnpqbGxGdjlsLV9VM2RjaDZmbTU0VkpNd1Y1dVRHdTR2d016RFZtVEV0NGUtZTVvTzZCTnRBNE5EYzYwOERvR2ZSWHdiR1Rsbk52YXFBbWthVWJyN1lKbW1Sa2NmdE9uMzZzdzRB?oc=5",
+          "source": "Nokiapoweruser"
+        },
+        {
+          "id": 4,
+          "title": "Grok 发布 AI 版《奥德赛》前 7 分钟内容，艺术表现遭质疑",
+          "summary": "xAI 的 Grok 生成《奥德赛》前 7 分钟 AI 影片，展示视频生成能力，但被指缺乏艺术感染力。",
+          "hotness": 78,
+          "link": "https://www.ithome.com/1/017/727.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 19,
+          "title": "KRAFTON AI 预览 Raon-1 mini 模型：30B-A4B",
+          "summary": "韩国 KRAFTON AI 公布 30B-A4B 的 Raon-1 mini 模型，主打与 Meta Muse Glimmer 竞争，加入高效模型竞赛。",
+          "hotness": 80,
+          "link": "https://www.ithome.com/1/017/695.htm",
+          "source": "IT之家"
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "id": 11,
+          "title": "Claude 桌面应用推出新版界面，设计到上线不足 3 周",
+          "summary": "Anthropic 为 Claude 桌面端推出全新界面，从草图到上线用时不到三周，提升 AI 助手桌面使用体验。",
+          "hotness": 82,
+          "link": "https://www.ithome.com/1/017/710.htm",
+          "source": "IT之家"
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "id": 28,
+          "title": "OpenAI、Anthropic 等将参与全球首个 AI 生物安全实验室",
+          "summary": "OpenAI 与 Anthropic 等将参与全球首个 AI 生物安全实验室，推动高风险生物技术场景的安全评估与治理。",
+          "hotness": 86,
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4xMkRfT0dMOEl4NG5jbGItZG9ZenFXbVpiQU5RUlRUeS1wU0o0eWp5Sy1fMkV2SjJUZ2JZaHcyOXJwZjNQdWdDZg?oc=5",
+          "source": "财联社"
+        },
+        {
+          "id": 0,
+          "title": "测试显示 Grok 倾向共和党、OpenAI 模型倾向民主党",
+          "summary": "在被迫选择场景下，Grok 与 OpenAI 模型分别倾向共和党和民主党，引发 AI 政治偏见与对齐讨论。",
+          "hotness": 75,
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaEZiX0YxaWdzSkFoZjVyMDFnZk9XVDlPZzNRSXpFZFM1LThYekZ3YW5EOHExSGdGZm1YbUdfdHNFRFJjbXJaVmo2MFJtclp0WVdQTkNfYTR3X3hrQzdZcEZkU3hBUUJXZXVrZkJkbEFjeFo2eTlsa2dPckR5cWNaLUdGUklMOTcyTk5UY2ZFSVBYY2k1N2hUODNkZlkwaHppOEF3UVprOHZ0aGtY?oc=5",
+          "source": "TechCrunch"
+        },
+        {
+          "id": 5,
+          "title": "全国首个人工智能应用风险综合保障方案发布",
+          "summary": "全国首个 AI 应用风险综合保障方案发布，通过保险覆盖 AI“说错话”“算错账”等应用风险。（合并 id 5、40）",
+          "hotness": 70,
+          "link": "https://www.ithome.com/1/017/726.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 39,
+          "title": "一财社论：以“先立后破”为 AI 应用营造可控边界",
+          "summary": "社论主张以“先立后破”为 AI 应用建立可控监管边界，在创新与风险治理之间取得平衡。",
+          "hotness": 68,
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTlg3U0hkS054SDI0eDNIbGJLT3VvNlRoUGZ0Zk0zWW5KTUp6Sk9wUzJFcmZfYmFrX2dRMFFVQk1TSDhlNjV5VTVwUHl3bWowaWExWmdYLWxtMV9rLUptSTVtTTJtM01iVVlfNkxfbXEtU1FfcENuQWxNTEhTdGE3TzVB?oc=5",
+          "source": "手机新浪网"
+        },
+        {
+          "id": 9,
+          "title": "国内首部 AI 院线长片《三星堆：未来往事》票房过百万",
+          "summary": "国内首部获国家备案的 AI 院线长片票房破百万，AI 电影商业化与艺术质量引发关注。",
+          "hotness": 65,
+          "link": "https://www.ithome.com/1/017/719.htm",
+          "source": "IT之家"
+        }
+      ]
+    }
+  }
+}

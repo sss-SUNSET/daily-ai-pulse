@@ -1,0 +1,131 @@
+{
+  "overview": [
+    "AI支付与金融科技产品密集落地，巨头加速布局智能体应用",
+    "AI技术深入6G网络、新药研发等前沿领域，推动产业变革",
+    "全球AI监管与伦理讨论升温，涉及国家安全、数据隐私与行业规范"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "title": "AI支付产品密集落地与金融科技成长",
+          "summary": "多家巨头推出AI支付产品，AI驱动金融科技企业加速发展，AI版支付宝上线引发技术、法律与反垄断讨论。",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5CbXdTT29WaVZZNjI4ZWFhLWlPTVJIRnFlbno4M0htMGxsU3ZEVEg3MzVYYnA1VlZyR1JTSHhsOV9Wc3JpR3dOUQ?oc=5",
+          "hotness": 85
+        },
+        {
+          "title": "AI眼镜出货暴增与上市公司布局",
+          "summary": "AI眼镜出货量增长超130%，上市公司积极布局相关产业链。",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1TUlM3S3U5OXJiak9vVEpWZ0tCRHcyV21hWVByNnVpRi1sOTR5NEk5c2hTV2pOTS1NbHlqTm8wcDE3NlhfeDJCQ3FaanQ2NVhuRmRFMk14Tm5IUHhlQjRVdw?oc=5",
+          "hotness": 75
+        },
+        {
+          "title": "SpaceX收购AI初创公司",
+          "summary": "SpaceX在IPO后以600亿美元收购一家AI初创企业，扩大AI领域布局。",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxON25FOUs0djE2eWU5Q0hta1lFSk9aT1NpbHk1ZnBROHN3RjhjMWVCTjdJblE4RHd3eHhjblFNdjQzZkk1TmVmZkhhSzdzc0pGM1VhQ2VCRndJZ2JZRFdjNVF0Tm42ZnRocmRscG1Pc0V5Ti1Xb2tRUEZVUEhXZ1E4ZXpMSQ?oc=5",
+          "hotness": 90
+        },
+        {
+          "title": "Databricks发布通用AI智能体",
+          "summary": "Databricks推出面向企业的通用AI智能体，助力业务自动化。",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPY21LZG10Wjdsd2g0RDdRbm1ZaU81M1E0MUszaXJmOE02QkFEeVluNklUQ3BjVU91c2lYTWZTU0dsZkZEY3ZHaVFibFlOaXBMSFFhMUl1N3RHbk9WWUk4bWwyenpsYVk3cFRPVUk3bWJJajhGVFoxM09TZHRqUVlTc3poR2ZwTjN2RVcyNV8tU081bkRxTGt0Ng?oc=5",
+          "hotness": 70
+        },
+        {
+          "title": "AI驱动6G核心网络技术",
+          "summary": "科学家开发AI驱动的6G核心网络技术，提升通信网络智能化水平。",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9zaGR4WnNoUzZXUDBSX0JaZDd5bTdxVE9VY2RDaS0ycnNUM0M4MF9rcXd2VTNEbUJnVnA2Ni1vSjYyQnZzNWpfdDJUS1BxNHZLbDA0c2VHUmZhZ1lLcmhSaUtka1ZMbVgybHZoWGlHRDY?oc=5",
+          "hotness": 80
+        },
+        {
+          "title": "AI重构新药研发与医疗应用",
+          "summary": "AI重构新药研发底层逻辑，推动复杂大分子药物进入新范式，并变革医疗保健服务。",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iX2k5VklaQzlmYjVGZGdmSlNrUjVEQjh6ZkRaUEJUbmQwdDNvSGd3eV90UEt1QlBtUC1BbUpoQjl4VU94T2QzN1pTalRyakJrQlJHSHJwVnBGZw?oc=5",
+          "hotness": 78
+        },
+        {
+          "title": "AI推理分布式与边缘算力发展",
+          "summary": "AI推理分布式拐点已至，边缘算力重塑中国企业全球化竞争格局。",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Hb3JSTXFqTVhHdDZpamhkQ0YyQWhCY05hempNelZBYlhBdm9VNGpPUGJ1STVaYWk2SGVxOVRqb3NsdmRpc1dMLXRTQVNXME0zLXM5OUZKYnAzcDVQekFfMHFxRmtBam5nOTVoa2JKanA4b1YtcFZkcEJaRG5FMlE?oc=5",
+          "hotness": 72
+        },
+        {
+          "title": "AI咨询与房地产行业应用",
+          "summary": "AI改变咨询行业付费模式，并在房地产与公共政策中扮演日益重要角色。",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeHg0S1llelBGR2ZIWkZxN0tyOWg5aTNlT3pJMVVkUVVoVm9qd0hpUUJzMWl4U1pnTF8xT2dJWHZZT0kxV1BDTE53WEZXcDlxT0FteEt5WWtQZThzZGhUZm9SRi1icE96SnRCMUROdXVRREM0TmcwN2lKc2txYnVlbk1xUFd1Z2hxcF9NQlhIeFZUY0NodmE2NjdRMmhLcHdlMEc0WGl3TS0zTy1qWm4zQnlsUWdMTXRKT0F6dGdqalZUYnUtN004?oc=5",
+          "hotness": 65
+        },
+        {
+          "title": "AI+电商与教育赋能",
+          "summary": "AI+电商点亮618促销，同时技术赋能教育，探讨治理智慧与课堂生成式AI应用。",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNlVFb2VncjFrVlZTQkdGTk5FNnNabWI0enVkVXp3T1FLTjFPcVlEV0d5aEJjeERJSkVpMFZZTnF5Y0lRWkViQXIzWFV2Ul9HNzlLT2V6WGJEN2N2R2p4eHd1RFc5a0E4R19BaHlaaWRIUk0tQmMyRWZvVG9UYkstcVpsTWQ2dTJfNVo4RW1vcw?oc=5",
+          "hotness": 68
+        },
+        {
+          "title": "南京软件大会与AI生产重塑",
+          "summary": "南京软件大会探索用AI重塑软件生产，推进数据资源建设以满足AI需求。",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9DUzFueTNpRXRIWHloWE03NVlkUTd6SDRlbWNsOG5HMUVBTVBrM3ZJUUJXb21YZEh0SmZqbzdPcWs4WHhSN2xRMHEyVFZpVENfRzNienB1TEVDQ0otdmRJN0ZReG83MDhfOGRPWFpsamk?oc=5",
+          "hotness": 60
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "title": "乌克兰冲突无人机数据用于AI训练",
+          "summary": "超过50万小时的乌克兰冲突无人机录像数据公开，可用于训练AI模型。",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdjZDaThYakZQMFp1c1YxNUhvbUxCVEdMUWZsUEpyRmRUSDdrc2lhak1OcjFLcWZUYVFEMnh3VjJ3MUVVQk9BNFBFU0dvSTdUNjNmOEVHamZzYVJfRVI2bHo0aE1XUGFJN1l5ajJSRkNFbHpKMzh0V1VvSmpHcTNua3NMOVBOZkRFOW5OclhnMTQyMDc3ZzZSaWZaSVMwaHhtNlhJSUM3alJDSjd5NnBTRy1lWHV1QWxOQ01pMFBfQS02X0JiNnc?oc=5",
+          "hotness": 75
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "title": "Anthropic关闭Fable模型对开源AI的影响",
+          "summary": "Anthropic关闭Fable模型被视为开源AI生态的重要时刻，引发行业关注。",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTXB6V2tUTXpsbE8zckU0VHdRSU9jeGhkYldYZUthU2xyNFhEZmYwOWJyZnpxMmNidzRpMVM0OEdZOFRNZjhnTEZmTTVVXzRna0gzU1hleVJlOVVudUJ6QnV0T0JpTi1jX3RTQWpGQmhBenZsS1BGY3I2OThRQVlaM3owTzRKWFZHWlRqMUFoWVhzUTd4OW8tMmFNTU56Z9IBowFBVV95cUxNXzV2TUk3cFZWQ09halFhMFIwdG5PeWNULVo3cWN6SmdjRHZieXFxdldXMC1peGVlaW10OTBDNV9laElPNWE5SFJRWTFSdHpOM2FOQzVxbkpQYnRtSTNyVURlbGtyb1JGVk14SThTZGlfOU10elZkRGJzSXozMHVjSWJ2eWxVRHFSTHRVS0FVeU1nTFM2TXF4NnVUNmpXdzZjQWUw?oc=5",
+          "hotness": 70
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "title": "AI监管与国家安全指令",
+          "summary": "Anthropic因白宫安全指令禁用新AI模型，G7讨论可信伙伴获取尖端AI模型，引发特朗普政府AI监管混淆。",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNODdkaHVoOGNwVWZJTTlqZnFaR0lOWWI4eEFZajZvTEFieHFteUZ3ank3Szl6Wm1jSXl6YVFtd2xKcGhlOTRfZWhvWFgxLTNnX0JOOWFRSUFvTlBfeXdhdnNVZjRILW5HdDhOTG5weGVDLXEzekFGYTJLZmZsdmdza1NQMmUyX3JjZVdYX1o4UTluUXVJaVZvNDlQc2Y2eHhyUVJSTg?oc=5",
+          "hotness": 88
+        },
+        {
+          "title": "AI焦虑与社会规范讨论",
+          "summary": "社会对AI焦虑展开探讨，英伟达黄仁勋称AI时代需要新的社会规范。",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTHJEWURVbXBpUTM4S28zR3NTNEVpRndlM3hSdUMzRURzb004bEVrcHlUTC1aMWVhUmxPT3hUVEFhR1B4NUY3VEJqT29wMzdOSUZRQUQyRXgtZUxTSEoteXAyR0Y3S2sxa2FFOWphMjRFbzBqUHZnbEZvNXFOMEkya2RzZGo3dmtWaVc1eDFrSkN2MGpNWXJZUFlOa3I?oc=5",
+          "hotness": 75
+        },
+        {
+          "title": "AI诈骗防范与网络机器人问题",
+          "summary": "各地开展AI诈骗防范宣传，尤其针对老年人；同时网络机器人数量已超过人类用户，引发安全担忧。",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWjF1cURsNFZWNE1xa3FOV1pMY0V6Sm9BWEdUanNMbkJBTTlCaEhZNnRHTW1UMUNJM2ZnWVF4d3c3TTNSWEtzN0ZPYl9ZR3dESmRhZ3E3QnVPZm5IbjhBd1EtS1R1cjVxTktuVF92MmJVZ0c5VHNWY3J1QkN5SThuamJUNnRYY0hXV0cw?oc=5",
+          "hotness": 72
+        },
+        {
+          "title": "国家主权AI系统与AI治理监督",
+          "summary": "国家主导的主权AI系统建设艰难但必要；人大代表开展AI产业发展监督活动，强调治理重要性。",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZURvWi1zMWlDRk5SRWVRM3ZDbzVHeTQxVGF3dUtJTjdrR25jbkhHNmlMM0FDTFk3OWY3X2FsZHVFRTBQRWVlb1pPRk5zbUFTazJ2YjFGeTNXYk85MTJjVktWcTJPSmk4OHlKcDdDRHFoMmN2U3dLdHBpeEtlQzlsWXJmVXFHVlFkdl9VWEk5OGpKYUdGY2phZFVyaU80SjNqdVUyajhvRGFfRkJkTzEtTEZVLTg3OUlsZ1pHdjB4cmNuZVVXUGJSUzRpT2s4TWZISVZ1RkRyYkI3NVZ2bUtVQU93?oc=5",
+          "hotness": 70
+        },
+        {
+          "title": "AI在创意与内容领域的伦理探讨",
+          "summary": "讨论AI能否创造如《哪吒》等文艺作品，以及其在世界杯预测等场景中的角色与影响。",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9vYlB4NUJGUWRCaXZEcVVNeDhpeHhaMXdOVk1NVHprN1JNd281WUFKYnNGelBPQkRzMmhBc1gwVUMyTmkxYzZSenIwZlVpdzQ?oc=5",
+          "hotness": 65
+        }
+      ]
+    }
+  }
+}

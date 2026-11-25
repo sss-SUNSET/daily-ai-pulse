@@ -1,0 +1,112 @@
+{
+  "overview": [
+    "AI芯片与硬件领域迎来重大并购，安森美70亿美元收购Synaptics推动物理AI发展",
+    "中国AI模型在国际竞争中取得突破，纽约时报报道中国AI模型正追赶Anthropic和OpenAI",
+    "全球AI监管与伦理框架加速构建，从加州劳动力监测到德国版权司法实践等多地推进"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "title": "安森美70亿美元收购Synaptics推动物理AI发展",
+          "summary": "安森美半导体以70亿美元收购Synaptics，旨在加强物理AI硬件能力，这是AI芯片领域的重要并购。",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBIbElaaWZlRDNuZ2hrSnU5cTVrcjduamt1SWRDb1VhUmt5c3lFa0dDWWJwVXBMeHFHTndiZ2s0UmZLblRERG04b3M2V3o3ZXVtZXE5SFlFUjZXcFU1Q3EteURPMXNadHhFSm01YlNHOVN4cnRfZFE3M1d1Y9IBgAFBVV95cUxNc3VMcElMaUdCdXFrV1ZURnJ4WVZHckdlVFd0TkdTNzZsUnFiV1Y4bEI1VW45OGVCMEI2b1g1XzY1NFA2RGN1aWg5Ry1QSUVvM090ZlcwRW5MZzdvM0JvMXJyWkZVUld5SU1GWlFlWjNNSXVockVVVmRMZVduUjBKVw?oc=5",
+          "hotness": 85
+        },
+        {
+          "title": "Meta收购Virtue AI创始人团队",
+          "summary": "Meta聘请Virtue AI创始人加入，加强AI人才布局，显示科技巨头对AI初创公司人才的争夺。",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5GWVdvWFhrZGI2OWQ4NVV3OFZiZWpVZGdaMG5iWldfdXBoSWg4cmMxTTZWMkhoZDkzTDBIaHlnWm1xZGEzZWtzYjhRYWkyaHJJTEhYMHZyTzIwLXo1RVBRWUsxdTBqZllOOG8zM1hHZE9NdDVoSXFrQ0QtYw?oc=5",
+          "hotness": 75
+        },
+        {
+          "title": "华为构建AI中心智能光网迎接增长",
+          "summary": "华为宣布构建以AI为中心的智能光网络架构，旨在AI时代获得新的增长机遇。",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBmQTlaSm13cldCUDRKcWlVczJVT1hQWENsNDNJenhQVVJSbVF2cFJDbmpPcUszeVZ4VmI4bG5CQi1GUEd6WVdJQzhsRlFBX3lNbnhpVnhSY1Z6TkIydkM2akY5ZjFIdWVUaGVZcW1B?oc=5",
+          "hotness": 70
+        },
+        {
+          "title": "科技巨头全面投入AI但缺乏客户",
+          "summary": "CBS报道指出大型科技公司已全面投入AI领域，但目前面临缺乏实际客户应用的挑战。",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbHV1amRGRlNueW1IOWdlZktXdkVBWmRuN1RsQ19odXlMTHVmTExzYVRQU01PQUFRZWRrb2dUSkVOQlJNcGRqcXFwUFVtZTZiZW1GUVRvUUhVa29KV3JQU2x2S1BRUExtQkFWQWZJY1Rmbkx2UlVoY2d1bmtDRmZfejdwSDJTZkNjbzhfOE9jdGZQUQ?oc=5",
+          "hotness": 68
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "title": "中国AI模型在国际竞争中取得突破",
+          "summary": "纽约时报报道中国AI模型正快速进步，在技术能力上逐渐追赶Anthropic和OpenAI等国际领先者。",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZk9RRzFlT3oyWGV2NXBQcEQyWmtFSllXV3dXd1VKVEF5T0R5OHYxaDgtcTgxdWpaWlB3TVlZbG1vUWxxLV93WC1iVnIyWmtYeE9ET25MbDJtQ0JWV1k3MHVYSTA0OURFYy1EbWVaelBUQlV6OTlCNDNIRzFIdWp0a0RlZG5aUTJQYWR3amhHNmZzbklEMVE?oc=5",
+          "hotness": 82
+        },
+        {
+          "title": "Google发布Gemini模型交互API",
+          "summary": "Google推出Interactions API作为Gemini模型和智能体的主要接口，为开发者提供新的集成方式。",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObk5aTGR6dzNhLXZBWEpOY3Q2bHBDNk92amdBSXVmS1B6aVB3akFfd1VadWxUQk50bHl6Y2ZwNkdTaFNjclc1cmhDcjk2UG14VUZhM1MtaG42TUJEakZqZWkxelpGdS1YUEJGMkhBWUpPWjlLRnhHMHpXRUZRQnZDU19SdU51QnZmYURMejFtZ2lKWERCUks3OHNnLW93b1kyaEF3UHg4OA?oc=5",
+          "hotness": 75
+        },
+        {
+          "title": "上海启动计算生物学大赛用AI设计新药",
+          "summary": "上海发起计算生物学竞赛，邀请全球人才使用AI技术设计抗病毒和肿瘤免疫治疗的新型药物。",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9obmE4UGkxTnpQVGt3cm5DelRhVGZ0bW1Ic0JLRWJUMGRoYVJtaVY1SE05a3lGOE9xN0JENHRwclk2RUg1NldzbktjOEFyTzR4c3pWclYxeG40NWtxN1E?oc=5",
+          "hotness": 72
+        },
+        {
+          "title": "北师大发布全球高校AI创新实践报告",
+          "summary": "北京师范大学发布《全球百所顶尖高校AI创新实践报告》，系统分析国际高校在AI领域的发展现状。",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4tV1ZaNkYzM0xYeG5vRnJtUUs0TloyQmVSeG5CWVpjNEFkUXd3UjBMaWFZMlo4THd3QXNEbmJveXJfMDV1eFhuT29QemJ1UVZ6NGptUFFrOE5LZjJ3aWlxVXBHaUc5dFlaek5GUUpnRlY?oc=5",
+          "hotness": 65
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": []
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "title": "加州推出首个AI劳动力影响监测工具",
+          "summary": "加州成为美国首个推出工具来监测和追踪人工智能对劳动力影响的州，关注AI就业效应。",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxObG9LTE4weVhnNzlSck5JZ0VHc1RUMnd3TUNXdmloMkF5bndLUHpaMUNKd1JseG5oOVVJWjRuZ3NiQXFrQlo5Tjd6aVFSckczOEd5R3R4NTJmSnVvcmxfUFN0LWlBeV9NczFVaUt0X1RfMjVrT29pMUpxNFh5c3NFVWNScVFuQndERFo5bnBOOW51RW5zTWd0bmVudE1NUXJaSzNURk40bWl3aWpJYVlxT3JwX3J3LVpFWWpOT25Qei1JVjFnS2c2amNTVUVOY2VmN3o5UDVEcGJycEJCNDkwZHE0eFJSZ1BJVXRqQUt3?oc=5",
+          "hotness": 78
+        },
+        {
+          "title": "36%大学生直接用AI译文提交作业",
+          "summary": "调查显示36%的大学生直接使用AI翻译文本提交作业，引发学术诚信和教育适应性的讨论。",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9XN0l2RXEwYWhNSzNBUXo3dThWWHg3SGJIaVJTV2NYaHh3ZEd4eW9rXzZJS0p6aE9tTk92SzBtbE5RSGVXZFVCOGpIcGZ0SmtuSjdvRk5JZnZZV0pubTBnRWs1bzlTWUdfZjYyQg?oc=5",
+          "hotness": 76
+        },
+        {
+          "title": "德国AI与版权司法实践",
+          "summary": "分析德国在人工智能与版权领域的司法现状，为全球AI版权治理提供参考案例。",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNGZvX0k4V3RmV1g5bTdSUUp6V2xZNE8xa0ZTQW9jczRWdzBmeVJMcWVsWVR0d3p6c2FkLVlKRy1BT20wVWJFdGpEcmNZWTNrZHpHMUVrb2tjbTlOZVI1U2I1UXBFUm1xbGV3ZV90Yk5ESVRJdjV2dWpDTHpMdHBSclRTLVFiUjR1QjJ1aWZwTms?oc=5",
+          "hotness": 72
+        },
+        {
+          "title": "CREATE AI法案通过众议院委员会",
+          "summary": "美国CREATE AI法案在众议院委员会获得通过，推动负责任的AI创新和监管框架建设。",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9QRWtPNWt6N3Fsd0ZtcXdLeVZkZHlFZXdhNEtlNkJNSVY2UWxUeE9CR0hrTE5xRUdLN2hrTzMtTlZvXzJVOXY2V0RQVjFTd3BvX1k0YjM1S0pFVTFnN2JKTUtB?oc=5",
+          "hotness": 70
+        },
+        {
+          "title": "如何规范AI人格化服务",
+          "summary": "探讨人工智能\"人格化\"服务的规范问题，关注AI与人类交互中的伦理边界和监管需求。",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9LSzB1bXJ1R2sxNVZqaWtqcVZmM1dTQ0lCWGxKQl9KdGV5a0xXbEpzUWNNRnpVY2Ria0lOcC0ydmFBTTAyT0NPbg?oc=5",
+          "hotness": 68
+        },
+        {
+          "title": "好莱坞工作者训练AI模型但就业前景黯淡",
+          "summary": "好莱坞工作者正在训练AI模型，但与此同时他们的工作机会却在减少，凸显AI对创意产业的冲击。",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYzd2VmxPalRpRG9ZNTZRaTVnRzd6X05RTm9GNmRla0VtaUthNVBjWTIyei1oaTFuQUNpRG5vNFpPU3JtR3JEMzNUd1JscHF4WmEyb0hsbThZX29LMmVRSy1qeTVDMFdQODVGeXRKM3RyX052RVdFMExfOUd5eWpVTjIwT3NFSmJRNmZlLXgzaDJaMF9aWGpkS29JV2UzRFJ0c1hTWlgzcUlFQQ?oc=5",
+          "hotness": 65
+        }
+      ]
+    }
+  }
+}

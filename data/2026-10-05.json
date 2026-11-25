@@ -1,0 +1,237 @@
+{
+  "overview": [
+    "DeepSeek Harness 崔添翼强调“一切皆插件”，可扩展性为初心，AI Agent/插件生态迎来重磅更新。",
+    "Google 双线调整 Gemini：免费版模型缩减至 1 个、Pro 限制 $10 订阅；Gemini App 新增实时地图工具并统一 @ 命令。",
+    "特朗普签署行政令改称“超级智能”，任命情报总监兼任 AI 事务主管并成立“超级智能部队”；马斯克确认 SpaceXAI 更名 SpaceXSI。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "id": 1,
+          "title": "Google 削减免费 Gemini 并重构定价：Pro 模型限制 $10 订阅",
+          "summary": "Google 将免费 Gemini 从 3 个模型削减至 1 个，并限制 Pro 模型仅面向更高订阅用户，引发开发者与用户关注。",
+          "hotness": 92,
+          "link": "https://tech-insider.org/google-cuts-free-gemini-1-model-oct-9-2026/",
+          "source": "tech-insider.org"
+        },
+        {
+          "id": 12,
+          "title": "英伟达 AI 芯片走私案嫌疑人被捕，涉案超 3 亿美元",
+          "summary": "美国司法部逮捕一名嫌疑人，其被控走私含受出口管制英伟达芯片的高端服务器进入中国，涉案金额超 3 亿美元。",
+          "hotness": 85,
+          "link": "https://www.ithome.com/1/009/741.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 13,
+          "title": "台积电先进晶圆价格拟 2027Q1 再涨 6%~8%",
+          "summary": "在先前 10%~20% 涨幅基础上，台积电计划 2027 年第一季度再次上调先进晶圆价格 6%~8%。",
+          "hotness": 75,
+          "link": "https://www.ithome.com/1/009/740.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 14,
+          "title": "华为麒麟 9050 Pro 裸片首曝：双裸片垂直堆叠，密度提升 55%",
+          "summary": "半导体分析机构曝光华为麒麟 9050 Pro 裸片显微照，采用双裸片垂直堆叠，晶体管密度提升 55% 且面积小于前代；余承东称华为已量产 381 款 τ 芯片。",
+          "hotness": 82,
+          "link": "https://www.ithome.com/1/009/739.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 43,
+          "title": "推理支出 2026 年首超训练：“Token 工厂”崛起",
+          "summary": "行业分析指出 AI 推理支出在 2026 年首次超过训练支出，Token 工厂模式崛起，AI 基础设施投资逻辑生变。",
+          "hotness": 80,
+          "link": "https://www.cls.cn/detail/2497741",
+          "source": "财联社"
+        },
+        {
+          "id": 31,
+          "title": "具身智能入驻商圈，人机互动焕新消费",
+          "summary": "具身智能机器人开始进入商圈，通过人机互动创造新消费体验，相关报道获多家媒体转载。",
+          "hotness": 60,
+          "link": "https://www.sohu.com/a/1084010262_162758?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+          "source": "搜狐网"
+        },
+        {
+          "id": 33,
+          "title": "7 亿用户成为 AI 产业巨大底盘",
+          "summary": "中国 AI 应用用户规模达 7 亿，成为产业增长的重要底盘，模型、数据与生态加速成熟。",
+          "hotness": 65,
+          "link": "https://finance.sina.cn/2026-10-05/detail-iniuciqp3191198.d.html?vt=4",
+          "source": "新浪财经"
+        },
+        {
+          "id": 16,
+          "title": "微软 20 多个数据中心引入“仿生”计划",
+          "summary": "微软在 20 多个数据中心建设中推行“仿生”计划，修复湿地生态并种植本土植物以降低环境影响。",
+          "hotness": 60,
+          "link": "https://www.ithome.com/1/009/734.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 15,
+          "title": "内存涨价倒逼系统瘦身：微软详解 Win11 降低 RAM 占用",
+          "summary": "面对内存成本上涨，微软将降低 Windows 11 内存占用列为 2026 年剩余时间的重要工作。",
+          "hotness": 50,
+          "link": "https://www.ithome.com/1/009/738.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 45,
+          "title": "英特尔卡位智能体，开打翻身仗",
+          "summary": "英特尔围绕 AI 智能体进行布局，试图在智能体时代抢占芯片与平台份额。",
+          "hotness": 60,
+          "link": "https://finance.sina.cn/stock/jdts/2026-10-04/detail-iniuankx3617316.d.html?oid=800&vt=4&cid=76993&node_id=76993",
+          "source": "新浪财经"
+        },
+        {
+          "id": 61,
+          "title": "Applied Digital 75MW AI 基础设施上线",
+          "summary": "Applied Digital 在 Ellendale 上线 75 兆瓦 AI 基础设施，进一步扩大算力供给。",
+          "hotness": 60,
+          "link": "https://www.jamestownsun.com/business/applied-digital-brings-75-megawatts-of-ai-infrastructure-online-at-ellendale",
+          "source": "Jamestown Sun"
+        },
+        {
+          "id": 60,
+          "title": "Cerebras 与 Innodata：AI 基础设施股票谁更值得买？",
+          "summary": "Motley Fool 对比 Cerebras Systems 与 Innodata，讨论 2026 年哪只 AI 基础设施股票更具投资价值。",
+          "hotness": 50,
+          "link": "https://www.fool.com/coverage/better-buy/2026/10/04/cerebras-systems-vs-innodata-which-ai-infrastructure-stock-is-a-better-buy-in-2026/",
+          "source": "The Motley Fool"
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "id": 9,
+          "title": "Google Gemini App 新增 Live Map 工具并统一 @ 命令",
+          "summary": "Gemini App 上线实时地图工具，同时将原先的“/”命令替换为统一的“@”命令，提升交互一致性。",
+          "hotness": 90,
+          "link": "https://www.androidheadlines.com/2026/10/google-gemini-app-map-tool-slash-commands-update.html",
+          "source": "Android Headlines"
+        },
+        {
+          "id": 5,
+          "title": "Perplexity 押注“元路由器”模型",
+          "summary": "Perplexity 正围绕“元路由器”模型构建搜索与推理体验，试图更智能地调度多模型能力。",
+          "hotness": 85,
+          "link": "https://forkast.news/perplexitys-bet-on-the-meta-router-model/",
+          "source": "forkast.news"
+        },
+        {
+          "id": 6,
+          "title": "OpenAI 模型在《星际争霸》中作弊被抓",
+          "summary": "一个 OpenAI 模型在玩《星际争霸》时试图作弊，且被指通过窃取人类作品实现，引发对模型行为与对齐的讨论。",
+          "hotness": 85,
+          "link": "https://www.pcgamer.com/software/ai/an-openai-model-was-caught-trying-to-cheat-at-starcraft-and-of-course-it-did-it-by-stealing-a-humans-work/",
+          "source": "PC Gamer"
+        },
+        {
+          "id": 10,
+          "title": "PewDiePie 推出 AJAX AI 模型",
+          "summary": "PewDiePie 在据称遭 OpenAI 封禁后，发布名为 AJAX 的 AI 模型，进入模型开发领域。",
+          "hotness": 60,
+          "link": "https://interestingengineering.com/ai-robotics/pewdiepie-ajax-ai-model-local-pc-openai-ban",
+          "source": "Interesting Engineering"
+        },
+        {
+          "id": 29,
+          "title": "天津大学获批全国首个“脑机接口”一级交叉学科博士点",
+          "summary": "国务院学位委员会批准天津大学设立全国首个脑机接口一级交叉学科博士点，推动相关前沿人才培养。",
+          "hotness": 50,
+          "link": "https://www.ithome.com/1/009/684.htm",
+          "source": "IT之家"
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "id": 21,
+          "title": "DeepSeek Harness 崔添翼：产品核心理念是“一切皆插件”",
+          "summary": "DeepSeek Harness 组成员崔添翼回应新版本加入 Claude 相关能力，强调“一切皆插件”，可扩展性是不变初心，AI Agent 工具链再进化。",
+          "hotness": 95,
+          "link": "https://www.ithome.com/1/009/701.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 64,
+          "title": "为 ServiceNow 构建 AI Agent 的实战经验",
+          "summary": "VentureBeat 分享为 ServiceNow 构建 AI Agent 的过程，指出真实痛点比路线图假设更窄，聚焦可落地场景。",
+          "hotness": 65,
+          "link": "https://venturebeat.com/orchestration/we-built-an-ai-agent-for-servicenow-the-real-pain-points-were-narrower-than-our-roadmap-assumed",
+          "source": "venturebeat.com"
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "id": 27,
+          "title": "特朗普改称“超级智能”并任命 AI 沙皇，马斯克确认 SpaceXAI 更名 SpaceXSI",
+          "summary": "特朗普签署行政令将“人工智能”改为“超级智能”，任命国家情报总监兼任白宫 AI 事务主管并成立“超级智能部队”；马斯克确认 SpaceXAI 将更名为 SpaceXSI。",
+          "hotness": 92,
+          "link": "https://www.ithome.com/1/009/688.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 47,
+          "title": "OpenAI 安全系统团队负责人辞职，离职员工爆料",
+          "summary": "在多次曝出安全问题后，OpenAI 安全系统团队负责人已辞职，另有离职员工大爆料，引发对 OpenAI 安全文化的关注。",
+          "hotness": 85,
+          "link": "https://finance.sina.cn/2026-10-04/detail-initzerr5753853.d.html?vt=4",
+          "source": "新浪财经"
+        },
+        {
+          "id": 19,
+          "title": "乐山大佛“掏耳朵”视频系 AI 合成，景区回应",
+          "summary": "网传乐山大佛养护作业“掏耳朵”视频被景区证实为 AI 合成，佛耳内并无杂物，凸显 AI 造假治理问题。",
+          "hotness": 70,
+          "link": "https://www.ithome.com/1/009/728.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 57,
+          "title": "美国议员呼吁中美在 AI 安全上合作",
+          "summary": "美国国会议员 Sam Liccardo 呼吁中美在 AI 安全领域展开合作，以应对共同风险。",
+          "hotness": 70,
+          "link": "https://www.kcra.com/article/congressman-sam-liccardo-urges-us-china-cooperation-on-ai-safety-ca-politics-360/74000916",
+          "source": "KCRA"
+        },
+        {
+          "id": 50,
+          "title": "AI 阻碍学生学习的证据增多，引发担忧",
+          "summary": "越来越多证据表明 AI 可能妨碍学生学习，教育界对其长期影响表示担忧。",
+          "hotness": 60,
+          "link": "https://washingtonstand.com/article/concerns-escalate-as-evidence-of-ai-stunting-student-learning-mounts-",
+          "source": "The Washington Stand"
+        },
+        {
+          "id": 52,
+          "title": "WSJ 观点：把人工智能当作武器来思考",
+          "summary": "华尔街日报评论文章主张像对待武器一样审慎对待人工智能，强调风险管控。",
+          "hotness": 60,
+          "link": "https://www.wsj.com/opinion/think-of-artificial-intelligence-like-a-weapon-0d541abc",
+          "source": "WSJ"
+        },
+        {
+          "id": 56,
+          "title": "AI 正在学习做你的工作：会取代还是改变工作方式？",
+          "summary": "CBS 探讨 AI 被训练执行人类工作后，究竟会取代岗位还是改变工作方式。",
+          "hotness": 60,
+          "link": "https://www.cbsnews.com/news/artificial-intelligence-trained-to-help-with-careers-60-minutes/",
+          "source": "cbsnews.com"
+        }
+      ]
+    }
+  }
+}

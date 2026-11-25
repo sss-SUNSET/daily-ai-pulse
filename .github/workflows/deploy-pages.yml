@@ -1,0 +1,123 @@
+name: DailyAI Pulse — Auto Aggregate & Deploy Pages
+
+on:
+  push:
+    branches:
+      - master
+      - main
+    paths-ignore:
+      - 'README.md'
+      - 'PRODUCT_OVERVIEW.md'
+      - 'PM_RESUME_AND_REVIEW.md'
+  schedule:
+    # Runs daily at 00:10 UTC (08:10 Asia/Shanghai)
+    - cron: '10 0 * * *'
+  workflow_dispatch:
+    inputs:
+      run_aggregate:
+        description: 'Run daily AI news aggregation before deploying Pages'
+        required: false
+        default: 'true'
+        type: choice
+        options:
+          - 'true'
+          - 'false'
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages-and-aggregate
+  cancel-in-progress: false
+
+jobs:
+  aggregate:
+    if: github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && github.event.inputs.run_aggregate != 'false')
+    runs-on: ubuntu-latest
+    outputs:
+      updated: ${{ steps.check.outputs.updated }}
+      sha: ${{ steps.check.outputs.sha }}
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run AI news aggregation
+        env:
+          LLM_PROVIDER: ${{ secrets.LLM_PROVIDER || 'openai' }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_BASE_URL: ${{ secrets.OPENAI_BASE_URL || 'https://api.deepseek.com' }}
+          OPENAI_MODEL_NAME: ${{ secrets.OPENAI_MODEL_NAME || 'deepseek-flash' }}
+          ENABLE_THINKING: ${{ secrets.ENABLE_THINKING || 'true' }}
+          THINKING_EFFORT: ${{ secrets.THINKING_EFFORT || 'low' }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          SUMMARY_LANGUAGE: 'zh-CN'
+        run: |
+          if [ -z "$OPENAI_API_KEY" ] && [ -z "$GEMINI_API_KEY" ]; then
+            echo "⚠️ No LLM API key configured in GitHub Secrets. Skipping aggregation and deploying existing archived data."
+            exit 0
+          fi
+          node scripts/aggregate.js --no-email --once --require-llm
+
+      - name: Check and commit new summary data
+        id: check
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --staged --quiet; then
+            echo "No new summary data to commit."
+            echo "updated=false" >> "$GITHUB_OUTPUT"
+          else
+            git commit -m "chore(data): update daily AI summary [skip ci]"
+            git push
+            echo "updated=true" >> "$GITHUB_OUTPUT"
+          fi
+          echo "sha=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
+
+  deploy:
+    needs: aggregate
+    if: always() && (needs.aggregate.result == 'success' || needs.aggregate.result == 'skipped')
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout latest repository
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ needs.aggregate.outputs.sha || github.sha }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build static site with archived summaries
+        run: npm run build
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

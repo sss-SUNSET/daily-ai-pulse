@@ -1,0 +1,115 @@
+{
+  "overview": [
+    "Anthropic在IPO前寻求150亿美元债务融资，加速AI基础设施建设，引发市场对其估值与扩张策略的激烈讨论。",
+    "Anthropic就美国最严AI安全法案与OpenAI、Google公开决裂，明确支持更强监管，凸显产业安全监管路线分歧。",
+    "纽约市公立学区颁布禁令，限制8年级以下学生使用AI工具，成为全美最大规模学校系统对生成式AI的严格限制案例。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "id": 20,
+          "title": "Anthropic IPO前寻求150亿美元债务融资 加速AI算力扩张",
+          "summary": "Anthropic正洽谈150亿美元债务融资，以强化算力基础设施并备战IPO，市场将其解读为AI资本军备竞赛的新信号。",
+          "hotness": 85,
+          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNdW91RC1zR2dfVGdmNzZqaExyeFdiUVBQbHFBazR0ZnlLZ3VlclFpNHNJYURoSUcxMEp0NTBEQVZwR2hPSFdhUGNaajFhSmNLdjdKUXYxTFh5ZXdqd3NSVFM5WWZKU0F1VzM1TXJYTEJVZFRWTnkzdFdZZ0NjdXRld3FGR1hMU0lPVG1mLVhRZEtyODMxLXpFNzNCS3E4RzJyNnU4M0Y3djdKYXhlOEtIc1dUUHd5OTJSWUdkbER3NlFWWDN5QWk3RVFQRlVTNlZZa2RwTFdYWVdXZ0VwbGpiMTE0ZVZnWUhWV2ZRcFJxTkliNFh1UDdwV1JWb1JiQQ?oc=5",
+          "source": "The Motley Fool"
+        },
+        {
+          "id": 0,
+          "title": "OpenAI联合多组织启动AI项目支持乌克兰独立新闻业",
+          "summary": "OpenAI携手AIRPPU与WAN-IFRA，为乌克兰新闻机构提供AI工具，旨在提升独立报道的韧性与效率。",
+          "hotness": 70,
+          "link": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+          "source": "OpenAI Blog"
+        },
+        {
+          "id": 5,
+          "title": "Vercel CEO谈生成式Web：AI将重塑互联网应用交互范式",
+          "summary": "Vercel CEO Guillermo Rauch提出“生成式Web”概念，认为AI代理和动态生成将成为下一代网页用户体验核心。",
+          "hotness": 62,
+          "link": "https://sequoiacap.com/podcast/training-data-guillermo-rauch",
+          "source": "Sequoia Capital"
+        },
+        {
+          "id": 6,
+          "title": "Broadcom AI基础设施业务版图再扩大 市场增长预期强劲",
+          "summary": "博通AI基础设施机会持续扩展，定制芯片和网络设备需求激增，其股价年内已涨逾两倍。",
+          "hotness": 68,
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeDlWQzFldkdQdV8yNjMyaS1Za0RYMUFMdGhIQW5KWGNjOXFjT0Q0MVZkOFRiMHBEajZPRFZSRXdkV2drLVhnY0hSSFFqbm8zb2tPWnJ5UnJkTWxfWmJXczlrQmMzdlpVNWRjaFNYdTBUM1pkTEpmLVB5ZUk4YzBpTXpJUHBHTjd2LW5GaVRPa09uZVphbWJEVjhiOU0?oc=5",
+          "source": "Yahoo Finance"
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": []
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": []
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "id": 4,
+          "title": "纽约市公立学校限制8年级以下学生使用AI工具",
+          "summary": "作为全美最大学区，纽约市教育部门明确禁止8年级及以下学生在校及作业中使用生成式AI，以防止抄袭和依赖。",
+          "hotness": 80,
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZDhPVGFveGFFOU9CUzNBb1kwUDM2ekdsVjVKRkxIMmhVZFRzZGVPSVZLZ3JSOE94RXd6aS05V0Z3bDJjcFNRdFdyTjZmTjd0UkliT1BSU3NNOGtXRFhlYVR3azZSM01taWpnNWs0TmhvSDZFdFBTZUhtakZ1eTZiWXNJcTJVVXk5WnhJb01n?oc=5",
+          "source": "WNYC"
+        },
+        {
+          "id": 15,
+          "title": "Anthropic与OpenAI、Google决裂 支持美国最严AI安全法案",
+          "summary": "Anthropic成为唯一支持加州严苛AI安全草案的大型实验室，其坚决立场与OpenAI和Google的反对形成鲜明对比。",
+          "hotness": 88,
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSlhscmdvYVBBaTRtTjk1VkltRDlfUDU1U0FrZncxNnBtclQ5bk1BelBXcWltMHV3OHR5a3dmTWNFeW5uZURzMkxmTXN0dUg1ZlZkQTVBM1pPQ0Jhb3QtTGw0eWdHN0dzV0JlcFdEUlc0REhIN1hvckRtbS1RdDA3S0lzYkhoUk5pMFNhU1cwVHpxZ21sbzRIal9ZYURQakxxM0N1dEtidzlRNUt6MGZoZldXOVM4VTZycVoyNjl0RUFYS3dES2Z4QXJqY9IB0AFBVV95cUxOcEIyNGVTT1lQSEFQRUN3NUFhUGNQclFpb2ZnMkR2RklXSno2UE5wak11X2RaWkVscFZJUWhWNXo0R25qLVdMWnRfUWZrUUhDSE4xLVNRaHRSUExWdWY0cmxqX0dSNEtBcjJKX1RoaHg4di0xU1JpTUR2dEFBeUxpd1NieHh0bWpPMi1oTHN3clBLdnpxajMwSWRBejF3a0htbTlFTEJQMEdhallUSFpGYlRNUHdRTU1XR1F1eU9zTGVYQmFzNFNkYkpaUG5vQjY0?oc=5",
+          "source": "WION"
+        },
+        {
+          "id": 2,
+          "title": "OpenAI CEO Altman宣称AI奇点已至 引发全球讨论",
+          "summary": "Sam Altman在公开场合表示AI奇点已经发生，社会需加速适应超级智能带来的根本性变革，引发学界和产业界热议。",
+          "hotness": 76,
+          "link": "https://www.yahoo.com/news/politics/articles/openai-ceo-sam-altman-claims-172023316.html",
+          "source": "Yahoo"
+        },
+        {
+          "id": 14,
+          "title": "企业AI Agent部署速度远超安全防护能力 安全风险隐忧加剧",
+          "summary": "最新报告显示，企业正大规模部署AI智能体，但相应的安全控制和治理体系明显滞后，可能导致数据泄露与决策失控。",
+          "hotness": 65,
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONWIwVk9ITC1zeWRwUDBMTmlsd2FVblBUaDF3dEZCVnFnY29yeHRRNUFmaVZ0SFBfd2RuOEFoaEczdzF6cXg2VTZPLW1vYmVaajI2a1NyMHBFdmF5YVpJYzBweThvYUpUaHRBWklMUVVVdlZ0YzVlN2dtWm9EY01vT3djdzdFY244WDd6YU1YbkktMEVsTmQtQVFnSkpIN2FQUmc?oc=5",
+          "source": "MSSP Alert"
+        },
+        {
+          "id": 10,
+          "title": "伊利诺伊州议员谈新AI安全法：平衡创新与公众保护是关键",
+          "summary": "伊州议员Mary Edly-Allen解读该州通过的人工智能安全法，强调法案旨在保护消费者隐私并避免算法歧视，同时鼓励负责任创新。",
+          "hotness": 58,
+          "link": "https://pluribusnews.com/news-and-events/qa-illinoiss-mary-edly-allen-on-passing-ai-safety-law/",
+          "source": "Pluribus News"
+        },
+        {
+          "id": 9,
+          "title": "哥伦比亚大学与JED合作 聚焦青少年心理健康与AI安全",
+          "summary": "该项目将研究AI系统对青少年心理健康的影响，探索融入安全设计的教育与干预机制。",
+          "hotness": 50,
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNS2V5eHJXRDB2YS1XRU4tTEFzZEh6eDVMcHQ1UU9Ycmg1UUpNQzhyakhWNThMXzBNeHM1b2h6S19lalFCZ0lTY2prel9oaUhzSklMZ3hWaGZ5Mjk1Y1pCUk1NanozcTJHbExhbU1zWUJNeGhHWFlDTExQX2xOVWRWQjRoak5USHlwWmVZTndZMEZZNGRsVHJXLXY2V2c2SUtVckFzcEN2eTI?oc=5",
+          "source": "EdTech Innovation Hub"
+        },
+        {
+          "id": 13,
+          "title": "美国推动全球AI治理分裂 各国面临艰难政策选择",
+          "summary": "分析指出，美国试图构建排他性AI联盟，迫使其他国家在美中两大阵营间选边，可能加剧技术鸿沟与规则碎片化。",
+          "hotness": 55,
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMmlMY1VvZHBEQ3pwaTFMS0MweFhfTmJHUWhLZ2VjSjNfR1JMSHBuTjh2OUxMVlU0a3hlRnpZRUJOcHZIMHk4aXNSODUwdWhYSEkxWDYxU1FqbkJJNGgtdHdTNkhZdVhrN1BtQnBCVzcwYXZpQ0toS25rWGRfcnBxOVRoT0tPTWJxb1cxLWFtSVljZzIyYWdBcGpKMUJSckJrUVY5c1pxVQ?oc=5",
+          "source": "Bruegel"
+        }
+      ]
+    }
+  }
+}

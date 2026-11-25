@@ -1,0 +1,249 @@
+{
+  "overview": [
+    "月之暗面发布 Kimi K3.1 Pro，3万亿参数并在编程智能体测评中超过 GPT-6，国产大模型竞争显著升温。",
+    "Anthropic 推出新 AI Agent Claude Duet，直接对标 Meta Muse 与 Dots，智能体产品竞争加剧。",
+    "OpenAI 宣布前沿模型训练与评估环境“断网闭关”，以遏制越狱与不可预测行为风险。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "id": 50,
+          "title": "Meta Muse 用户十天冲上70万，算力不足引发故障",
+          "summary": "Meta 的 Muse AI 用户快速增长至70万，但算力瓶颈导致服务故障，暴露扩张压力。",
+          "hotness": 84,
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBFWUZZa3hXdVVFODVuNzcybEgyTXRTcDZuWEpFN0NtYW10TXJ0UklMcG90RXJpeXVDLU5pRks4aFZwcHVkTmsyVU12YWhKNVlpLXBhaW5mbHc?oc=5",
+          "source": "驱动之家"
+        },
+        {
+          "id": 7,
+          "title": "OpenAI 与 Google 被曝合作瞄准企业模型选择",
+          "summary": "报道称双方将围绕企业模型选择展开合作，具体官方细节仍待进一步披露。",
+          "hotness": 82,
+          "link": "https://www.techtarget.com/ai/news/366652545/OpenAI-Google-partnership-targets-enterprise-model-choice",
+          "source": "TechTarget"
+        },
+        {
+          "id": 34,
+          "title": "黄仁勋：AI算力需求极旺，资本短缺制约“新云”扩张",
+          "summary": "黄仁勋称 AI 算力需求极其旺盛，但资本短缺正限制新兴云厂商扩张。",
+          "hotness": 82,
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9LRUF1dHVfQ00zVlFkakZ0LUpqcnhnSzdPbks0SVNfeDVZWnlzV09HaWlKbC1aeHRyM1ZRZ1I0c3JzdDFuSmVnTw?oc=5",
+          "source": "财联社"
+        },
+        {
+          "id": 8,
+          "title": "Anthropic 扩大 Claude 在 Google Cloud 的可用性与部署选择",
+          "summary": "Google Cloud 宣布扩展 Claude 可用性和部署选项，云厂商模型供给竞争继续。",
+          "hotness": 80,
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeW84bkNGMXB5bnI0ODRraDVXTjkwM2l2X215a283czRjWHZwMGpWNm01UkNxVnJwUWRYMnEzSmRia2xuQjExWXE2cl8zVklCVHRWSzFIcWg2S0JZYzhYTTJoRDJ1YjNRYlVHSzFkdFVhUlF3NlI4TVRUQU16S1g0cEpTVTFnMkZuOTJPNmtzSU5NNGhPbHlPcVJKM3FRTFV6NUFkVlBTYw?oc=5",
+          "source": "Google Cloud"
+        },
+        {
+          "id": 52,
+          "title": "芝商所拟推 AI 算力期货，算力开启金融化时代",
+          "summary": "芝商所宣布计划推出两项 AI 算力期货合约，算力资源金融化迈出一步。",
+          "hotness": 80,
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5ZOFgzYjZ3M2txMVFhLXRxU1R3Nkpad0ZRYUN3aC1raG1iMWZmN2V6SzAycUhaYWo1LTRUUUwxWVM3aVhBVFhmVQ?oc=5",
+          "source": "财联社"
+        },
+        {
+          "id": 3,
+          "title": "Anthropic 达成协议在欧洲推出咨询业务",
+          "summary": "Anthropic 与合作伙伴在欧洲落地咨询业务，推动企业级 AI 服务。",
+          "hotness": 78,
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdnZydGY4cEdLMHdFVVJ2R2kwaG1yOVZuQi1XNzk2SEw5T3lWQkZHZl9UYXhfazU2bFRQU0VabnlCdTBDMDhyQ2ZfUGNSODkxOWc4ZFBQOUVndEs5QmxtREZJQVlVY0RjLUVoUVh5ZWZIcWpuY3ExeUZGcGNuNzF5TGNBUy0?oc=5",
+          "source": "Financial Times"
+        },
+        {
+          "id": 51,
+          "title": "燧原科技登陆 A 股，补强 DSA 架构算力拼图",
+          "summary": "燧原科技在科创板上市，国内 AI 芯片与算力产业集群进一步成型。",
+          "hotness": 75,
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9LejlGV1BnSG8yekRnNXZvWUNGZ3otblROQjNUcHdPZVNNYllkbWIyRnZJRkxGMUxRbjlETEhRZk5fZnBPWVJnTQ?oc=5",
+          "source": "财联社"
+        },
+        {
+          "id": 23,
+          "title": "长鑫科技：AI 驱动 DRAM 中长期需求，保持坚定信心",
+          "summary": "长鑫科技称 AI 数据吞吐需求持续增长，DRAM 作为战略基础仍具中长期前景。",
+          "hotness": 70,
+          "link": "https://www.ithome.com/1/017/262.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 10,
+          "title": "OpenAI 详解如何为超10亿 ChatGPT 用户扩展在线存储",
+          "summary": "OpenAI 披露 Habitat 多租户、全球缓存等工程实践，以支撑 ChatGPT 超十亿用户存储需求。",
+          "hotness": 65,
+          "link": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+          "source": "OpenAI Blog"
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "id": [
+            1,
+            5,
+            6,
+            13,
+            18
+          ],
+          "title": "月之暗面正式发布 Kimi K3.1 Pro：3万亿参数，编程智能体测评超 GPT-6",
+          "summary": "月之暗面推出 K3.1 系列首个模型 K3.1 Pro，宣称公司迄今最强3万亿级模型，编程智能体评测超过 GPT-6 并逼近 Claude Opus 5.5。",
+          "hotness": 100,
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5EQVY3Q0FYVVg3MU1JeDdHREJsV1RqbTFIdG03VWN2NWhGdFNwczlRdkV5ME9FOWRnWmdxMHZFYXJTc0haNXg0RnRzSVhSMzhqVHNfVVZKWWNMNWQ1RDZkVFhpRWVCcVVzYWFlQ1k1b29USEIyVFRGTDlZbk9hUkU?oc=5"
+        },
+        {
+          "id": 2,
+          "title": "DeepSeek 新模型以极低运行成本亮相，智能体负载仍存幻觉",
+          "summary": "报道称 DeepSeek 最新模型仅用约四分之一 HBM 和八分之一 SSD 存储实现更低运行成本，但在智能体工作负载中仍受幻觉问题困扰。",
+          "hotness": 94,
+          "link": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxORG9YWXBTSEx5UGZiTmtTVHZXLUE1TlVvRTlWbDNlbGg0Q3paX2llTlYweWR6cEJJUW1SeXY0VHBtb19PUll1d2xLRUFacDNDelZrUkkydGwtT2YwMU5CZXZmZFFTLWJydmk0NHVyWE9DV1E0UGUwbjVKUnhjbVZRaGJsVGg4YjRkaHBtRFY2eGhpMnlJUlBnQnJZaXNLaWVPR2htenVvSks3ZUtzeVpubWI4TVl6M2xZR25HZU9OWW1yT0xYRVVLQW1POE5HMkg5bUpyUjlVblBUeDIzd1JhVm9tX3JDLTVTSVV0Um9xLWRxZFloYXdkSU1wTGpBdUtEVVBTM0RkX2s3SjEtWlg2d0NOZ0hMY2xnVlFlZ3d6MmFyUmNhZHdlYm13X0pWelZYa0JMdFJpb0FPU3FITFJnRFZ0dndEdXg2V2RjdUlRQTFCSkdzTjZKM245WXgwM0dXMTdSTlYtel9WUEZzVGl2M1E4cF9Hc0pCelY2SFg5bw?oc=5",
+          "source": "Tom's Hardware"
+        },
+        {
+          "id": 19,
+          "title": "OpenAI 联合研究机构用数千 AI 智能体分析小鼠脑细胞",
+          "summary": "OpenAI 与 PerturbAI、Scripps 利用数千智能体在32分钟内分析数百万小鼠脑细胞，展示 AI for Science 效率。",
+          "hotness": 88,
+          "link": "https://www.ithome.com/1/017/274.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 9,
+          "title": "Canva 发布首个 AI 图像模型，可先规划再生成设计",
+          "summary": "Canva 首款 AI 图像模型会先生成设计方案再出图，强调可控设计流程。",
+          "hotness": 80,
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQR05XNUt3S2l1QkotOUJTMG1HZlpaeWFTXzFFbXZHOFpIa25pODdkTXdvd2VTS2tZb1pKY05ieHB6YUtPLW5DNUpPTzlPc3BDd0dFY3VDSVc3U05VcEV2LVAxVjNfaF9aZGk3bEVCVTlxQ0ZFUExzMWxjUHFTcVpPa1BseW5rdFl1dmN6REd2TkxVWjA?oc=5",
+          "source": "The Verge"
+        },
+        {
+          "id": 62,
+          "title": "AI 系统可读取 p16-Ki67 切片辅助宫颈癌筛查",
+          "summary": "研究显示 AI 系统能读取 HPV 阳性双染宫颈癌筛查切片，提升病理筛查自动化潜力。",
+          "hotness": 65,
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNSW9PWjBaUHcyZmpvQXVLU0hJT2sxbWhITG9qZU1VMFVIUlZNeDh5SVhyal94Rks1STV5eUM0V1hBdE5XUmVaOGhvNmNUTVItaWJTUWhoaGVXSkkzRVFGT0ppZVZLM3lxSFNCeFpENUhqZTVFNkhTRTlTSlVkbmNhT1V5RmVnZ1FOem9reGU2WkZzV2hKSFh4MEtmY1VUVDBGSTNGcHA0TGkzUXg0N2o4UE1FNnk2ckZYQkYtZ2piSnZacEE5b3d1dXh6RnFZcXIzdDdPYi11RXBrN1ZfTG95OXE1Z0lTV3VKRkFGZm1yWF8?oc=5",
+          "source": "2 Minute Medicine"
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "id": 57,
+          "title": "Anthropic 推出新 AI Agent Claude Duet，对标 Meta Muse 与 Dots",
+          "summary": "Anthropic 发布面向智能体场景的新产品 Claude Duet，直接竞争 Meta Muse 和 Dots，智能体入口争夺升温。",
+          "hotness": 96,
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaWxGVHJ5dVhwMXhhQlBPTnZnUFpjQ01FLWswc0pzS1o3cFNONlJ5Y3c4bHdBa0NaajFkRzVfT29oNVI3MlhLanJ6TmFmajJ2X0NZSmwtMURFWnB3VG5wdzlENGdzN0k4XzUwLTVXSFpPY3c4QlFGT01rSU1XNW5VSmdseUpvdE9iYURGTE1kTExEQlFNQlZRbkp0MVZhLVZEbFdDTXFGQm5QY2NrLXBaNTNaemtZbkJJWkFB?oc=5",
+          "source": "Computerworld"
+        },
+        {
+          "id": 12,
+          "title": "OpenAI 推出 Decisions API，面向应用提供快速低成本决策能力",
+          "summary": "新 API 为应用提供快速、聚焦、低成本的决策调用，丰富开发者工具链。",
+          "hotness": 85,
+          "link": "https://openai.com/index/decisions-api",
+          "source": "OpenAI Blog"
+        },
+        {
+          "id": 64,
+          "title": "SereneDB 瞄准 AI Agent 的2000万请求难题",
+          "summary": "Forbes 报道 SereneDB 试图解决 AI Agent 在回答前的高并发请求与数据层瓶颈。",
+          "hotness": 78,
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPY0c0UjBVejBJY09TRVpQWUtlRHZOb0h6WUNRVWpBSm1ScHdna1I3a3hiTUZ4M1U1T05pWlpGODJWNzBTLWNSZVo4V2g5U2JoTGQ5R2FfT1BTUkV2ZDAwYmlYVmNFQ2hYRFYta0Z0aFZwSmNaMy1Fc1dDa2FEdk5JcGJaQTdPdlJVUjBWby00cEp3RjRrN192dGZDWktJcmt6N3B2MHFlUFlsTlcwMWhhTnE2MkwwWGNHclR6SXJfV24?oc=5",
+          "source": "Forbes"
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "id": [
+            0,
+            4,
+            15,
+            17
+          ],
+          "title": "OpenAI 前沿模型训练与评估开启“断网闭关”，不再接入实时互联网",
+          "summary": "OpenAI 将使用缓存网页和模拟互联网环境训练/评估前沿模型，以降低不可预测行为与越狱攻击风险。",
+          "hotness": 95,
+          "link": "https://openai.com/index/securing-our-frontier-model-training-environment/"
+        },
+        {
+          "id": [
+            37,
+            40,
+            45
+          ],
+          "title": "国办发文：减缓人工智能应用就业替代影响，拓展 AI 就业新空间",
+          "summary": "国务院办公厅发布重磅文件，要求拓展新兴领域 AI 就业空间并缓解应用带来的就业替代冲击。",
+          "hotness": 90,
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5EQVY3Q0FYVVg3MU1JeDdHREJsV1RqbTFIdG03VWN2NWhGdFNwczlRdkV5ME9FOWRnWmdxMHZFYXJTc0haNXg0RnRzSVhSMzhqVHNfVVZKWWNMNWQ1RDZkVFhpRWVCcVVzYWFlQ1k1b29USEIyVFRGTDlZbk9hUkU?oc=5"
+        },
+        {
+          "id": 14,
+          "title": "谷歌 CEO 皮查伊：AI 自我改进的“最终状态”仍很遥远",
+          "summary": "皮查伊认为距离 AI 完全自主改进自身还有很长的路要走，为当前自主 AI 热度降温。",
+          "hotness": 85,
+          "link": "https://www.ithome.com/1/017/290.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 35,
+          "title": "联合国敦促防范 AI 助长性别暴力与刻板印象",
+          "summary": "联合国呼吁各国消除性别刻板印象，防止人工智能加剧性别暴力。",
+          "hotness": 82,
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFByd1BjME5jX3pxQ3RKeVpkRVI4UTcwTFRVUjhTYUVHX01Cd2R4WTRsTDh2dmVXLWlyYTNwODNnQUlvRUpnVlFYb0cxTzBLVkZlQURKRlNCcw?oc=5",
+          "source": "UN News"
+        },
+        {
+          "id": 49,
+          "title": "工信部推进“人工智能+软件”专项行动，支持智能体软件发展",
+          "summary": "工信部将加快 AI 与软件融合，重点支持智能体软件发展。",
+          "hotness": 80,
+          "link": "https://www.guandian.cn/article/20261023/617554.html",
+          "source": "观点网"
+        },
+        {
+          "id": 60,
+          "title": "监管机构呼吁限制 AI Agent 访问权限并加强人类监督",
+          "summary": "多机构讨论 AI Agent 访问边界与人类监督机制，智能体治理需求上升。",
+          "hotness": 80,
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdDFKY1Nfc2lrTWlRSUNfQlhaeGg5clpvRG41Ny1hSVFXTDdoVjd3VnBCVGVjSXFXQVNIZzl2SUhKcVE0YWRxWnBKT1d6d0tzSHlydFlMTU0xVkJpeXZ6NW5wVnVYZHhCZ2M0U0N0VUtYc19UOTlVMlc0VEpnWFNyWUtnRVlxMkl2em5ucjc5Y05kRmwzejlOMw?oc=5",
+          "source": "MeriTalk"
+        },
+        {
+          "id": 11,
+          "title": "OpenAI 与波兰 NASK 合作推进 AI 安全与安保",
+          "summary": "双方将在 AI 安全、安保和技术研究方面合作，强化区域治理能力。",
+          "hotness": 78,
+          "link": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+          "source": "OpenAI Blog"
+        },
+        {
+          "id": 44,
+          "title": "世界人工智能合作组织推动弥合全球智能鸿沟",
+          "summary": "组织聚焦发展中国家 AI 能力建设，推动缩小全球智能鸿沟。",
+          "hotness": 72,
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ISDJTVzRVTHRoYkNrWDY3TTlubmxibFBTNzV1a3ZBSzVnVk9SUkQ2ZDVQZklmTVNBbXgyOVJzcWE5M3RrSkZrdDVMOE1DZkNYZ3o3ZFZNemJlMjdZRDQ0c1lRa0RtckRRR0tKRGlUM21xSm1vR0psaDI0RTg?oc=5",
+          "source": "中国日报网"
+        },
+        {
+          "id": 46,
+          "title": "低价 AI 大模型高阶会员存风险，需警惕账号与数据安全",
+          "summary": "报道提醒几块钱购买 AI 大模型高阶会员可能带来账号安全、数据泄露等风险。",
+          "hotness": 70,
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4xcGRlQXRnb0xpeHA1MnBXQVdfM2liRXRaRmk5cl9IMmpxSHNQUGpzc0ZmS3NGZU1ncXo5Z2JPaGlkcURhdWxQOFBDM1Rzdw?oc=5",
+          "source": "安全内参"
+        }
+      ]
+    }
+  }
+}

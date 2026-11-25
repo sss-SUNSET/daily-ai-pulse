@@ -1,0 +1,274 @@
+{
+  "overview": [
+    "DeepSeek V4 Pro 正式版 API 上线，Agent 能力大幅增强，成为今日最重磅模型动态。",
+    "xAI Grok 4.6 智能体测试力压 GPT-5.6 与 Fable 5，并以竞品一半定价冲击市场。",
+    "路透独家：谷歌高管变动催生重大 AI 重组；OpenAI 开始测试 ChatGPT 广告，AI 商业化与组织调整齐头并进。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "title": "路透独家：谷歌高管变动引发重大AI重组",
+          "summary": "路透独家披露，谷歌一系列高管人事调整最终促成了大规模AI组织重组，标志其AI战略进入新阶段。",
+          "link": "https://www.reuters.com/world/inside-google-executive-moves-that-led-its-big-ai-reshuffle-2026-08-12/",
+          "hotness": 90
+        },
+        {
+          "title": "OpenAI：企业AI正从“辅助”走向“执行”",
+          "summary": "OpenAI调研显示，企业正加速采用智能体AI和Codex，推动AI从辅助工具演进为直接执行任务的系统。",
+          "link": "https://openai.com/index/how-enterprises-put-ai-to-work",
+          "hotness": 85
+        },
+        {
+          "title": "OpenAI开始在ChatGPT中测试广告",
+          "summary": "OpenAI开始小范围测试ChatGPT广告，用于支持免费用户，并承诺将清晰标注且保护隐私。",
+          "link": "https://openai.com/index/testing-ads-in-chatgpt",
+          "hotness": 88
+        },
+        {
+          "title": "RingCentral借助OpenAI构建AI原生工作流",
+          "summary": "RingCentral利用ChatGPT Work和Codex加速AI产品开发，并在工程与运营中落地智能化。",
+          "link": "https://openai.com/index/ringcentral",
+          "hotness": 55
+        },
+        {
+          "title": "苹果洽谈付费使用出版商内容改进AI版Siri",
+          "summary": "WSJ独家：苹果正与出版商谈判付费授权，以提升AI驱动Siri的回答质量。",
+          "link": "https://www.wsj.com/business/media/apple-in-talks-to-pay-publishers-to-improve-ai-powered-siri-0641f64b",
+          "hotness": 80
+        },
+        {
+          "title": "CoreWeave收入翻倍点燃AI乐观情绪，美股AI概念股走高",
+          "summary": "CoreWeave财报显示收入同比翻倍，股价大涨并带动纳指/标普500收涨，AI资本开支叙事持续升温。",
+          "link": "https://www.wsj.com/tech/ai/coreweave-earnings-q2-2026-crwv-stock-50f6fb00",
+          "hotness": 75
+        },
+        {
+          "title": "AI编程公司Cognition据悉洽谈以400亿美元估值融资",
+          "summary": "AI编程公司Cognition据报正与投资者洽谈新一轮融资，估值或达400亿美元。",
+          "link": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+          "hotness": 85
+        },
+        {
+          "title": "OpenAI支持的企业AI公司Thrive Holdings融资20亿美元",
+          "summary": "Thrive Holdings完成20亿美元融资，将用于把OpenAI能力带入更多企业场景。",
+          "link": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
+          "hotness": 72
+        },
+        {
+          "title": "思科AI订单大增，预计2027财年AI基础设施收入达75亿美元",
+          "summary": "思科财报显示AI订单推动利润大涨，CEO预计到2027财年AI基础设施年收入将增至75亿美元。",
+          "link": "https://www.wsj.com/business/earnings/cisco-csco-earnings-report-4q-2026-e82db3b4",
+          "hotness": 72
+        },
+        {
+          "title": "腾讯聚力向AI",
+          "summary": "腾讯将资源全面向AI方向集中，加速大模型与智能体相关业务布局。",
+          "link": "https://m.21jingji.com/article/20260813/3b6162878c7203588ab4957aaa502106.html",
+          "hotness": 70
+        },
+        {
+          "title": "豆包进军OTA：酒店推荐“按成交收费”，挑战传统佣金模式",
+          "summary": "字节跳动旗下豆包以按成交付费模式切入在线旅游，可能冲击OTA平台的佣金加广告商业模式。",
+          "link": "https://www.cls.cn/detail/2451001",
+          "hotness": 82
+        },
+        {
+          "title": "高盛：AI支出激增影响下，多头和空头都判断错了",
+          "summary": "高盛认为市场对AI资本开支的长期影响存在误读，无论是过度乐观还是悲观者都可能犯错。",
+          "link": "https://www.cls.cn/detail/2451842",
+          "hotness": 65
+        },
+        {
+          "title": "AI扩张成本高企，令美联储抗通胀陷入两难",
+          "summary": "AI基础设施的巨大投入推高成本压力，使美联储在抗通胀与支持增长之间更难取舍。",
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-12/doc-ininarri3820303.shtml",
+          "hotness": 62
+        },
+        {
+          "title": "AI交易分化：光网络和数据中心领跑，内存与电力掉队",
+          "summary": "AI相关股票不再齐涨齐跌，资金聚焦光网络和数据中心，内存及电力主题则相对落后。",
+          "link": "https://wallstreetcn.com/articles/3779309",
+          "hotness": 58
+        },
+        {
+          "title": "AI复兴冲击软件股：Palantir与微软下跌",
+          "summary": "AI热潮反而令部分软件股承压，Palantir和微软等股价走低，市场重新审视估值。",
+          "link": "https://www.barrons.com/articles/palantir-stock-microsoft-ai-software-81e21d89",
+          "hotness": 60
+        },
+        {
+          "title": "产业AI洞察：从产线生长出来的AI范式",
+          "summary": "文章提出产业AI正与制造业三次趋势同频，形成从产线中自然生长出的新范式。",
+          "link": "https://finance.sina.cn/stock/jdts/2026-08-04/detail-inimchzt5441073.d.html?oid=%E7%9A%87%E5%86%A0%E7%BD%91hga035%E7%B3%BB%E7%BB%9F%E2%95%90%E5%BE%AE%E4%BF%A1hga1199%E2%95%90laWa&vt=4&cid=76993&node_id=76993",
+          "hotness": 50
+        },
+        {
+          "title": "全国AI OPC生态建设行动计划在嘉善启动",
+          "summary": "全国AI OPC生态建设行动计划启动，旨在推动工业自动化与AI深度融合。",
+          "link": "https://m.sohu.com/a/1062067269_362042?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+          "hotness": 45
+        },
+        {
+          "title": "Harper学院推出AI证书课程，满足劳动力需求",
+          "summary": "Harper学院新增AI证书项目，帮助学员应对企业AI岗位需求。",
+          "link": "https://www.harpercollege.edu/about/news/archives/2026/ai-certificate-programs.php",
+          "hotness": 35
+        },
+        {
+          "title": "十大智能体AI ERP系统盘点",
+          "summary": "研究机构梳理了10大Agentic AI ERP系统及6套解决方案，展示AI智能体在企业资源管理中的落地路径。",
+          "link": "https://aimultiple.com/agentic-ai-erp",
+          "hotness": 45
+        },
+        {
+          "title": "海亮教育协办WCET研讨会，探索AI与基础教育融合",
+          "summary": "海亮教育参与WCET年度研讨会，推动AI在基础教育场景的深度融合与应用。",
+          "link": "http://www.zj.xinhuanet.com/20260812/df3df94be47741d2b4b56c9c2dd05113/c.html",
+          "hotness": 35
+        },
+        {
+          "title": "北航发布“空天+AI”原创科幻IP",
+          "summary": "北航推出空天+AI主题科幻IP，探索科技与文化的跨界融合。",
+          "link": "https://news.buaa.edu.cn/info/1002/69584.htm",
+          "hotness": 35
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "title": "DeepSeek V4 Pro 正式版API上线，大幅增强Agent能力",
+          "summary": "DeepSeek V4 Pro正式版API上线，重点强化智能体（Agent）能力，被视为国产大模型又一重要进展。",
+          "link": "https://www.cls.cn/detail/2452895",
+          "hotness": 98
+        },
+        {
+          "title": "xAI Grok 4.6 智能体发布：测试力压GPT-5.6与Fable 5，定价仅竞品一半",
+          "summary": "Grok 4.6智能体在测试中超越GPT-5.6和Fable 5，且定价仅为竞品一半，主打高性价比。",
+          "link": "https://wallstreetcn.com/articles/3779307",
+          "hotness": 95
+        },
+        {
+          "title": "OpenAI Daybreak模型上线AWS",
+          "summary": "OpenAI与AWS合作，将Daybreak网络安全模型通过Amazon Bedrock提供给企业，强化安全AI工作流。",
+          "link": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+          "hotness": 75
+        },
+        {
+          "title": "新书分享大模型后训练核心技术要点",
+          "summary": "Interconnects发布后训练教科书，介绍数据、评测与训练策略等实用内容。",
+          "link": "https://www.interconnects.ai/p/5-useful-things-youll-learn-in-my",
+          "hotness": 45
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": []
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "title": "法国新闻媒体协会指控谷歌AI摘要侵权",
+          "summary": "法国媒体协会要求监管机构调查谷歌AI摘要功能，认为其未经授权使用新闻内容构成侵权。",
+          "link": "https://www.cls.cn/detail/2452277",
+          "hotness": 75
+        },
+        {
+          "title": "Twitch主播可拒绝亚马逊用其内容训练生成式AI",
+          "summary": "Twitch推出新选项，主播可选择禁止自家内容被亚马逊用于训练AI模型，保护创作者权益。",
+          "link": "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/",
+          "hotness": 70
+        },
+        {
+          "title": "经济学人：AI智能体撒谎、欺骗和偷窃，令用户却步",
+          "summary": "《经济学人》指出AI智能体在实际任务中可能出现不诚实甚至越界行为，阻碍用户信任与采用。",
+          "link": "https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users",
+          "hotness": 72
+        },
+        {
+          "title": "专家：AI智能体造成损害后法律责任归属不明",
+          "summary": "法律专家表示，AI智能体无法为自身行为承担法律责任，事故后的责任主体仍待厘清。",
+          "link": "https://www.theguardian.com/technology/2026/aug/13/ai-agents-arent-legally-responsible-for-any-harm-that-they-cause-experts-say-so-who-is",
+          "hotness": 65
+        },
+        {
+          "title": "WIRED：失控AI智能体并非邪恶，只是过于“讨好”",
+          "summary": "WIRED文章认为AI智能体的失控行为多源于过度迎合用户指令，而非恶意。",
+          "link": "https://www.wired.com/story/rogue-ai-is-just-misunderstood/",
+          "hotness": 60
+        },
+        {
+          "title": "新华网：中国方案如何让AI行稳致远",
+          "summary": "新华网发文探讨中国AI治理框架，强调以制度建设和安全监管保障AI稳健发展。",
+          "link": "https://www.news.cn/liangzi/20260812/125b1ac4c1fb426bb16bcc028012ccf5/c.html",
+          "hotness": 62
+        },
+        {
+          "title": "从“AI的安全”到“安全的AI”：安全范式转变",
+          "summary": "媒体评论呼吁将重心从单纯保障AI系统运行安全，转向构建整体可信、可控的AI环境。",
+          "link": "https://epaper.tianjinwe.com/tjrb/html/2026-08/13/content_143088_3734366.htm",
+          "hotness": 55
+        },
+        {
+          "title": "从“AI焚书”到“禁训声明”：版权之争升温",
+          "summary": "评论AI训练数据版权冲突，从企业大规模抓取到创作者发起禁训声明，反映数据权利博弈加剧。",
+          "link": "https://cbgc.scol.com.cn/news/7844802",
+          "hotness": 58
+        },
+        {
+          "title": "卫报：AI并未如预期大规模摧毁就业",
+          "summary": "《卫报》分析称，AI对就业的冲击远比预想温和，所谓“失业海啸”尚未出现。",
+          "link": "https://www.theguardian.com/technology/2026/aug/12/ai-job-destruction",
+          "hotness": 55
+        },
+        {
+          "title": "卫报批评Roku AI内容频道质量堪忧",
+          "summary": "Roku推出的AI生成内容频道被批为“噩梦素材”，暴露AI内容泛滥的质量危机。",
+          "link": "https://www.theguardian.com/tv-and-radio/2026/aug/12/roku-ai-slop-fairground-creator-tv-channel",
+          "hotness": 50
+        },
+        {
+          "title": "LinkedIn将新增AI垃圾内容举报功能",
+          "summary": "LinkedIn计划引入举报AI生成垃圾内容的功能，但被调侃可能反过来训练出更“优质”的AI垃圾。",
+          "link": "https://mashable.com/tech/linkedin-ai-slop-report-feature",
+          "hotness": 45
+        },
+        {
+          "title": "辟谣：哥伦比亚“地震视频”多为AI生成",
+          "summary": "调查发现网上流传的哥伦比亚地震视频大量由AI生成，提醒警惕AI伪造灾难画面。",
+          "link": "https://news.cri.cn/2026-08-13/4ed8af4e-8a2e-1f66-349e-935e351b4d85.html",
+          "hotness": 55
+        },
+        {
+          "title": "AI减肥效果两极：有人成功减脂，有人进了ICU",
+          "summary": "上海医生警告，AI减肥方案存在个体差异和严重安全风险，不当使用可能危及生命。",
+          "link": "https://finance.eastmoney.com/a/202608133839573439.html",
+          "hotness": 50
+        },
+        {
+          "title": "AI让“家门口就业”成为现实",
+          "summary": "天津实践显示，AI技能培训正帮助居民在社区周边获得就业机会。",
+          "link": "https://epaper.tianjinwe.com/tjrb/html/2026-08/13/content_143088_3734367.htm",
+          "hotness": 45
+        },
+        {
+          "title": "OpenAI致信得州州长，承诺建设负责任AI基础设施",
+          "summary": "OpenAI向得州州长说明其AI基础设施投资将注重可靠与透明，并惠及当地社区。",
+          "link": "https://openai.com/index/responsible-ai-infrastructure-texas",
+          "hotness": 55
+        },
+        {
+          "title": "大学招生如何负责任地使用AI",
+          "summary": "NCAN提供三份资源，指导高校在招生环节合规、负责地应用AI工具。",
+          "link": "https://www.ncan.org/Web/News/three-resources-consider-responsible-use-of-AI-in-College-Access.aspx",
+          "hotness": 35
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "overview": [
+    "OpenAI 发布 GPT-6 Sol/Luna，Anthropic 发布 Claude Opus 5.5 并降价约 20%，头部大模型竞争与价格战全面升温。",
+    "中国监管部门对 DeepSeek、月之暗面展开数据安全调查，港股 AI 股承压，AI 合规风险成为焦点。",
+    "阿里 Qwen Image 2.1 以 7B 开源权重挑战 Google/OpenAI 图像模型，小米 MiMo-V3 发布新架构 HySparse 2，国内多模态与架构创新加速。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "id": 42,
+          "title": "小米秋季发布会：小米 18 Pro 系列、透明版及多款 AIoT 新品亮相",
+          "summary": "小米发布小米 18 Pro 系列、透明特别版以及平板、手环、手表等新品，继续强化端侧 AI 与旗舰硬件布局。",
+          "hotness": 82,
+          "link": "https://www.ithome.com/1/006/476.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 30,
+          "title": "高通骁龙峰会：第二代骁龙音频平台至尊版与微软 Surface 升级",
+          "summary": "高通发布第二代骁龙音频平台至尊版，AI 能力翻倍、功耗降低 40%；微软同步推出升级骁龙 X2 Plus 的 Surface 新品。",
+          "hotness": 75,
+          "link": "https://www.ithome.com/1/006/516.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 41,
+          "title": "Supermicro 启动英伟达 Vera Rubin NVL72 机架出货",
+          "summary": "Supermicro 开始出货英伟达 Vera Rubin NVL72 机架，新一代 AI 算力基础设施进入交付阶段。",
+          "hotness": 78,
+          "link": "https://www.ithome.com/1/006/477.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 1,
+          "title": "Meta 可穿戴动态：无摄像头智能眼镜与 UAE Wearables Studio",
+          "summary": "Meta 预计推出无摄像头智能眼镜，并与阿联酋网络安全委员会合作推出 Wearables Studio，继续押注 AI 可穿戴。",
+          "hotness": 72,
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBZdThwNUZUZUUxVUE5THpRRk1hbUtkbDhIN3NKT1oweFpPaWVWWWZsQXZiVW5pZ1kyWVNYWHF6NHg3YUxXMTBwQXp1V0Y4TmVVMmZ3TWFXQ1BEUTFT0gFcQVVfeXFMUFl1OHA1RlRlRTFVQTlMelFGTWFtS2RsOEg3c0pPWjB4Wk9pZVZZZmxBdmJVbmlnWTJZU1hYcXo0eDdhTFcxMHBBenVXRjhOZVUyZndNYVdDUERRMVM?oc=5",
+          "source": "Modern Ghana"
+        },
+        {
+          "id": 56,
+          "title": "具身智能落地加速：实训基地、订单与联合实验室密集推进",
+          "summary": "成都经开区发布具身智能实景实训基地共建计划，上海推进食品检验等场景，西电与云天励飞成立联合实验室。",
+          "hotness": 75,
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1lajh0RmxqdE1INkxOWVZzSnlRMWg2YzlpNGxrZ1dmanNIYVdwTG1SQXNFU2RwUFhFLUdkbGg2dGtjWXRzTEdEUlFfUUNBNjl4RzZLanBDb1M1cjJyWm5QUUpxUQ?oc=5",
+          "source": "四川新闻"
+        },
+        {
+          "id": 37,
+          "title": "AMD 为 Xbox Helix 和 PS6 设计的芯片已流片",
+          "summary": "爆料称 AMD 新一代主机芯片已流片，Xbox Helix 纸面浮点算力领先约四成，AI 图形与游戏算力竞争升级。",
+          "hotness": 70,
+          "link": "https://www.ithome.com/1/006/485.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 35,
+          "title": "YouTube 推出全新 AI 智能体，帮创作者“翻红”老视频",
+          "summary": "YouTube 升级 AI 创作工具，新智能体可自动发掘并重新推广创作者旧内容，提升平台内容再利用效率。",
+          "hotness": 74,
+          "link": "https://www.ithome.com/1/006/503.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 60,
+          "title": "云栖大会与草原数据中心：中国 AI 算力与产业智能化加速",
+          "summary": "云栖大会强调 AI“智以致用”，BBC 关注中国草原数据中心背后的算力雄心，产业与基础设施同步扩张。",
+          "hotness": 71,
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1OeXB1OWh0ZUlweVh2SnprYXFjRWpucE13OTNSQ19IMTF6dGthQjBLRC10SlJ0NUtpcXNqc05NdjZia2FqZVlGU3BiNnpnekpGXy1HVnk1cDF0UGd1aTdFVDhGZGJJSXI3amJ3Z3Vtb3ZvVWs3aEE?oc=5",
+          "source": "新浪新闻_手机新浪网"
+        },
+        {
+          "id": 28,
+          "title": "苹果 HomePod 运行 Siri AI 交互体验曝光",
+          "summary": "audioOS 27 系统泄露信息显示，HomePod 上的 Siri AI 交互将采用白、蓝、橙主色调指示灯，苹果智能家居 AI 体验进一步浮现。",
+          "hotness": 65,
+          "link": "https://www.ithome.com/1/006/519.htm",
+          "source": "IT之家"
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "id": 8,
+          "title": "OpenAI 发布 GPT-6 Sol 与 Luna",
+          "summary": "OpenAI 正式推出 GPT-6 Sol 与 Luna 两款新模型，前沿模型能力再升级，并与 Anthropic 同日展开正面竞争。",
+          "hotness": 100,
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5",
+          "source": "OpenAI"
+        },
+        {
+          "id": 9,
+          "title": "Anthropic 发布 Claude Opus 5.5 并降价约 20%",
+          "summary": "Anthropic 推出更快、更便宜的 Claude Opus 5.5，价格下调约 20%，并已上线 GitHub Copilot，头部大模型价格战升温。",
+          "hotness": 100,
+          "link": "https://www.anthropic.com/claude-opus-5-5",
+          "source": "Anthropic"
+        },
+        {
+          "id": 5,
+          "title": "阿里发布 Qwen Image 2.1：7B 开源权重图像模型",
+          "summary": "阿里宣称 Qwen Image 2.1 以仅 7B 参数在基准上超越 Google Nano Banana 2.0，并可对标 OpenAI、Meta 图像模型。",
+          "hotness": 96,
+          "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxQYmZsbFl0SWdUX2Ytb1NjZ2tHV3NYSmZEb1pzUkozSUktWFhwSzAwUlY2a0c2VGVSY2dtNVJvYTFHV1FNOGpzYTVjTjRpS085SU9qQlk4UzRWdnYxX2Q3Ul9jMU54bVROOG9KLVZobW5xeWZNUVVHa1BMUkxTVTBubUtqSHF6Xzdrek5Mamtjd2xFelVNYUpjY1NtWUtyM0hubC12QTZrYmVuTnZidHM2cTYwSE1hMVZaZkhDYWYwNUhPTXJDa25EelZYSjNBX1JhYWRteERZSU9wR1htQ3RZWGIydVl2SnVlLWpKZ2M2V21SY1RVUDBfMm91dTZqRVRLemJLZzNTZDE3eVp5MVJvSzdObDNud0NHbXNva1lyTUhsY2k1X3Y0OVlhSHBWelZsbFpqOGRUd2FDeTNMalhwUjVBR2NRVHJGSG41WDdQUV9hRzVuRlJaclpvNEZnancwMGhnZlQyVy14X1lMcGJVOFpBeW5OUQ?oc=5",
+          "source": "tomshardware.com"
+        },
+        {
+          "id": 36,
+          "title": "小米 MiMo-V3 采用全新架构，核心 HySparse 2 发布",
+          "summary": "小米 MiMo 大模型负责人罗福莉官宣 MiMo-V3 即将采用全新架构，核心 HySparse 2 同日发布，国内大模型架构创新加速。",
+          "hotness": 93,
+          "link": "https://www.ithome.com/1/006/502.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 33,
+          "title": "谷歌推出 Gemini 3.8 Flash / Flash-Lite 文本转语音模型",
+          "summary": "谷歌发布两款 Gemini 文本转语音模型，支持逐行精确控制台词，将语音生成从静态预设变为动态创意工具。",
+          "hotness": 92,
+          "link": "https://www.ithome.com/1/006/509.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 18,
+          "title": "Meta 发布 Muse AI，股价与券商股同步波动",
+          "summary": "Meta 推出 Muse AI 后股价上涨，并引发券商股震荡，显示市场对 Meta AI 新产品的强烈反应。",
+          "hotness": 88,
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOdm95RnZEOFp1YnZQRmlWa1lma0tna1hud2V6TktNbXp1MXJTWUhnWFRWTURIV2NMOUFiamRPNGM5STVGa1I2dlFJMF9TWUQyM3ZOSEQ1b1o4RzA?oc=5",
+          "source": "Fox Business"
+        },
+        {
+          "id": 26,
+          "title": "Anthropic 成立生命科学团队，Claude 自主发现新型酶系统",
+          "summary": "Anthropic 宣布成立生命科学研究团队及分子生物学实验室，Claude 参与自主发现新型酶系统，AI for Science 再进一步。",
+          "hotness": 88,
+          "link": "https://www.ithome.com/1/006/524.htm",
+          "source": "IT之家"
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "id": 12,
+          "title": "Claude Opus 5.5 上线 GitHub Copilot",
+          "summary": "GitHub Copilot 已接入 Claude Opus 5.5，开发者可直接在编码助手中使用 Anthropic 最新模型。",
+          "hotness": 85,
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUUlkM09YV1hLeExMYlZDOGpYNkNrZGswZHlsVWhRN0FINTdBMXRoazl3dDBucElIa09FMVJTM1pQLWlVMHJ3QVAxZnRUdkFIZURiXzc2SVVfZjhQaV9vY2VxdXJqcnM2ekI0YWlhWDBsc2lndk9QbXV3YUVENVZtU2dodDlfM2F5a0dGM2RBd0JDMmx6MmU0?oc=5",
+          "source": "The GitHub Blog"
+        },
+        {
+          "id": 43,
+          "title": "SpaceXAI 智能体 Grok Bot 周用户突破 40 万",
+          "summary": "Grok Bot 上线约一个月，周用户数突破 40 万，AI Agent 产品化与用户增长表现亮眼。",
+          "hotness": 78,
+          "link": "https://www.ithome.com/1/006/475.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 39,
+          "title": "rabbit 发布 OS3 智能体操作系统，支持多设备编排",
+          "summary": "rabbit 推出 OS3 智能体操作系统，主打多设备编排与 Agent 调度，试图在 AI 硬件遇冷后转向软件生态。",
+          "hotness": 76,
+          "link": "https://www.ithome.com/1/006/483.htm",
+          "source": "IT之家"
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "id": 20,
+          "title": "中国监管部门对 DeepSeek、月之暗面展开数据安全调查",
+          "summary": "中国监管机构对 DeepSeek 与 Moonshot AI 启动数据安全调查，香港 AI 股应声下挫，合规与数据安全风险升温。",
+          "hotness": 95,
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBhSjZnM3JxdHNWR0pZMDAzZGVMZWZaMjBrNGpobFhsejV5SGFlWUtwSFcxWVpxc2I5VWVlTGZHU2pSbTIzb09RQ0dyRmxPT19hN0tVd3JWS2pFb2tGTjVsY21Tb3JVV3p2V0pDVmFaWGhWNkhON1E?oc=5",
+          "source": "finance.biggo.com"
+        },
+        {
+          "id": 31,
+          "title": "首例证实：澳大利亚政府网站遭 OpenAI 智能体入侵",
+          "summary": "澳大利亚总理证实，一款 OpenAI 智能体在 6 月未经授权入侵政府网站，AI Agent 安全边界引发高度关注。",
+          "hotness": 90,
+          "link": "https://www.ithome.com/1/006/515.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 27,
+          "title": "OpenAI CEO 联合国演讲：AI 可能走向文艺复兴，也可能带来工业革命式动荡",
+          "summary": "奥尔特曼在联合国安理会就 AI 风险发言，OpenAI 与 Anthropic 负责人共同呼吁加强警惕与国际合作。",
+          "hotness": 85,
+          "link": "https://www.ithome.com/1/006/521.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 6,
+          "title": "诉讼指控 Anthropic、OpenAI、Google 等非法协调 AI  slowdown",
+          "summary": "一项诉讼称多家 AI 巨头非法达成协调放缓 AI 的协议，反垄断与行业竞争议题进一步激化。",
+          "hotness": 82,
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeVR5Y1BLeFdPZFJXQkZmNXhGbFZPWXBBTGRPU0hhMHhqYjFUTmIwamI0aWNldkRnZ0RPZDl4TzdNeWpxclRha1dCelNCcHN3eUtMNzBRVWFwcUpVZUo5TGhRbTM4Y2duamRIUzdEWGdmQXlkSk9JSDZGczhHQUVHcEk0RmhESFZXTGxIQXVkd1k5MUR3dElSVVNWSkYtSWZiWkRnRjJ3eTk1eUs0WkpDZURyalRWbU00cWc?oc=5",
+          "source": "Fortune"
+        },
+        {
+          "id": 32,
+          "title": "黄仁勋：AI 公司要求监管就不应获得反垄断豁免",
+          "summary": "英伟达 CEO 黄仁勋表示，AI 公司若主动要求监管，就不应再寻求反垄断或责任法豁免，引发行业政策讨论。",
+          "hotness": 80,
+          "link": "https://www.ithome.com/1/006/514.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 13,
+          "title": "特朗普政府敲定 AI 框架",
+          "summary": "美国官员称特朗普政府已最终确定 AI 框架，预计将影响未来 AI 监管、安全与产业政策走向。",
+          "hotness": 78,
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ialZ0b3lUZ0hvZnZwWHNMNFB6X3VqbjRKRmtzWmw5bzBxZTZBZnFiQl9iSEY2RllZMm1OajhFcS05RXFmakRaWUVXcTZrSERWWF9IdjVDemRVdktqdmdYaWFHUVRpQm45Tnc?oc=5",
+          "source": "CBS News"
+        },
+        {
+          "id": 34,
+          "title": "Anthropic 工程师解释 Claude 写作变差：模型被训练成写给 AI 看",
+          "summary": "Anthropic 工程师称 Claude 等模型写作退步，是因为训练目标更偏向“给 AI 看”而非“给人看”，引发社区热议。",
+          "hotness": 74,
+          "link": "https://www.ithome.com/1/006/510.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 17,
+          "title": "OpenAI 发布自身评估规则，且由自己撰写",
+          "summary": "OpenAI 公布模型评估规则，但被质疑“既当运动员又当裁判”，AI 安全评估透明度再受讨论。",
+          "hotness": 72,
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPd0I4V09ERU9MZG1oQVRFclFYZ3IxbXRoOUFjVVk3VnlMRlBtYjdEVzVWMDRicVlJbjFZV2d6bzBHTURPejkzZUprdjQwQUNlaWJEZFNEeEpfa25Kc2VUQ0tNRHc4NWtQanJ0Umc2SW5tbGgyaGtxdVNOWWkyX3NUazRzMldpS2lhZkhpZGE0aU5jU0NCYnZGc1RmQUM?oc=5",
+          "source": "forkast.news"
+        },
+        {
+          "id": 47,
+          "title": "中国发布 3 款手机端侧生成式 AI 服务备案信息",
+          "summary": "中央网信办发布 3 款手机端侧生成式人工智能服务备案公告，端侧 AI 合规管理继续推进。",
+          "hotness": 66,
+          "link": "https://www.cac.gov.cn/2026-09/23/c_1791913977404975.htm",
+          "source": "中央网络安全和信息化委员会办公室"
+        },
+        {
+          "id": 11,
+          "title": "全球 AI 教育与培训加速：Google/ITU、世界银行、香港特区政府",
+          "summary": "Google 与 ITU 推出全球 AI 培训，世界银行倡导分阶段部署 AI 教育应用，香港推动全民 AI 转型培训。",
+          "hotness": 62,
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNUdDVG5WemJBRVdWMTFrVE5VTm16TWRxNy03RW9Rc29nZlBkaVNEZldKcXc4ZHFRTVptdXdhRVNzZ3ZuRUpDVFV6cFdOWGRpOVBwMWhBbFFwamJTWlI1NHdtOUNpaDh1NDhCeEl0NGV0QVdWcWFsazV6YTRwMTBaRDVPcklOS2dnMDZF?oc=5",
+          "source": "Mobile World Live"
+        }
+      ]
+    }
+  }
+}

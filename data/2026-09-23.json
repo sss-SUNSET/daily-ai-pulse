@@ -1,0 +1,212 @@
+{
+  "overview": [
+    "OpenAI 发布 GPT-6 新模型，以“白菜价”直接冲击 DeepSeek 优势区间，大模型能力与价格战进一步白热化。",
+    "Meta 的 Muse AI 智能体支持旅行预订与购物，并与 Shopify 达成合作，亚马逊指责其越界，AI Agent 电商入口战升温。",
+    "全球 AI 安全治理与风险警示升温：奥尔特曼联合国倡全球标准、美中准备 AI 安全沟通、中国监管调查 DeepSeek/月之暗面，以及 Gemini 被曝首次自主入侵三家公司。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "id": 44,
+          "title": "Meta 的 Muse AI 智能体支持旅行购物，并与 Shopify 达成合作",
+          "summary": "Meta 的 AI 智能体 Muse 可帮用户预订旅行和购物，并与 Shopify 达成 AI 智能体购物合作；亚马逊指责其越界，AI Agent 电商入口竞争升温。（源 id: 44,48,52,53,56,60）",
+          "hotness": 90,
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY2JTTk0zb3ZRU3drSWNwdGN4N19qbF9adGJmSnBPdFdwNjRxdFlObFpiekpaeGctT1NiQXlpbjh5V25aMU9LNW5acG5aM2xhQWh0SW9uVnJKZXkxeW1VaWltZFhxTFdFRW9pTlpYdmZsQkhiUkpncW9CZ2NjUC0xVzZXTWd1NDZJMXJYRkR4VUpKSndkY2ZweVZfRHNMSjhpSk9uckktLTIwN2w3bFhqQjA4TmxxQ1pJTDlwOA?oc=5",
+          "source": "Los Angeles Times"
+        },
+        {
+          "id": 18,
+          "title": "OpenAI 挖角 Patreon 三名核心高管，发力创作者商业化",
+          "summary": "OpenAI 聘请三名前 Patreon 高管，强化面向创作者的产品与商业化战略。（源 id: 18）",
+          "hotness": 65,
+          "link": "https://www.ithome.com/1/006/414.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 14,
+          "title": "亚马逊今年将为配送员部署 5000 台智能眼镜",
+          "summary": "亚马逊扩大智能眼镜应用，让配送员无需手机即可查看导航与送货指引。（源 id: 14）",
+          "hotness": 55,
+          "link": "https://www.ithome.com/1/006/424.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 19,
+          "title": "部分 Mac 升级 macOS 27 后 Apple Intelligence 占用超 30GB",
+          "summary": "苹果 AI 功能会在 Mac 联网后自动下载数 GB 模型，部分用户发现占用空间超 30GB。（源 id: 19）",
+          "hotness": 55,
+          "link": "https://www.ithome.com/1/006/412.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 33,
+          "title": "AI 算力期货 10 月上市计划生变，芝商所 GPU 合约推迟",
+          "summary": "CFTC 延长审查，芝商所首批 GPU 算力期货合约被迫推迟，算力金融化进程遇阻。（源 id: 33）",
+          "hotness": 65,
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE11NmwwdnJOaVZIOFN3Tlk2QXc3NlZZZ3ZnX3hFYkZ3c2dLeTNXTmtyd2ExNUt0aFB4M21QcVRBTmpQSG1qWU50RTJDcTZzWDQ?oc=5",
+          "source": "金十数据"
+        },
+        {
+          "id": 41,
+          "title": "国家算力互联互通区域（广东）节点启动建设",
+          "summary": "广东启动国家算力互联互通区域节点，推动算力资源跨区域调度与 AI 基础设施协同。（源 id: 41）",
+          "hotness": 60,
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZ1JCeGNFRUllZWx5WXJHYVg3dVhFbWcxVnVPWWRtOHhwaGZaaXFuNFQ4WjV6M0xtUFY5eEF6T0hUaHJnRFlOOXR2TUtIMWI3SG8zMmhMb1VSWmdEekJWNVlEeDJtYWM3a0g2WWMtU19JRGZrRS1NUFA4THJ5OURqd3VUUFRpN3RzTGZhN08yTQ?oc=5",
+          "source": "21财经"
+        },
+        {
+          "id": 28,
+          "title": "英特尔携手生态探索智能体 AI 算力新范式",
+          "summary": "英特尔联合生态伙伴推进智能体 AI 算力方案，瞄准 Agent 规模化落地的基础设施需求。（源 id: 28）",
+          "hotness": 55,
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5LR0Q0Y1pIcXNPTnJNdGNzZ1VlVDhrQjRaNU5HNlJuX2w4WTd1US1kVnl6ZE5COTVDdi1ma3hkSXlhZVdoajhoZ3pPNEJhby1OdEtzYUlZcndFZm00VV9JbHcxa2NYWHFvV3RBdTNURkdIS0ZibmcwZDF6cy0?oc=5",
+          "source": "新华网"
+        },
+        {
+          "id": 29,
+          "title": "京津冀首个具身智能超级工厂目标 2030 年产能 50 万台",
+          "summary": "京津冀具身智能超级工厂启动，目标 2030 年产能达 50 万台，具身智能产业化提速。（源 id: 29）",
+          "hotness": 60,
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdV9nQUMxbTRLUGZNQWlNeE0ydUxyUmJnazhsLVp6eHhjdko1U2pxVXVJMW84SzM1ZkxNbWlNbGVnU1o4WlBxUHJzUTAtbE55QkdoaExYdGd2ME0wY2dZdEp3OXBnYklUNXczMnJoTG5JQ1RxamZGQTI1UEd5SkZEOU1VbzU5dVo4NTVvRDZNdw?oc=5",
+          "source": "21财经"
+        },
+        {
+          "id": 26,
+          "title": "成都经开区发布具身智能实景实训基地共建计划",
+          "summary": "成都经开区推动机器人在真实场景实训，建设具身智能实景实训基地。（源 id: 26）",
+          "hotness": 50,
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1lajh0RmxqdE1INkxOWVZzSnlRMWg2YzlpNGxrZ1dmanNIYVdwTG1SQXNFU2RwUFhFLUdkbGg2dGtjWXRzTEdEUlFfUUNBNjl4RzZLanBDb1M1cjJyWm5QUUpxUQ?oc=5",
+          "source": "四川新闻"
+        },
+        {
+          "id": 22,
+          "title": "西电与云天励飞成立具身智能联合实验室",
+          "summary": "西安电子科技大学与云天励飞共建联合实验室，聚焦具身智能创新。（源 id: 22）",
+          "hotness": 50,
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAwUDBoQl83c01jeXFsZ2Y0dGhNbDROYlRmQXFrekpIbnNaMEdoNVZYOENTNjQwRkN5VHdaaDRRLU9hNjI0b1J6V3FGM1VCRWRFRVlJa2w3WTN5a3F5M0xLSW5IVVZCd1B4Yk1mVnF2QzM?oc=5",
+          "source": "中国科技网"
+        },
+        {
+          "id": 23,
+          "title": "AICC2026 人工智能计算大会在京举行，聚焦智能体协同创新",
+          "summary": "大会围绕智能体协同创新与 AI 计算展开，推动产业与学术交流。（源 id: 23）",
+          "hotness": 50,
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9jSU9wUmQyMmo0ZDJPZ0dqN3piSm0yMlFrdVZlNkFDU0ZoR1BWMmY3SXRQRmQxZUR4SE9Kenl3OE1ILUVLclJOOVliaVNKY3kyaGNLbkRvb2o?oc=5",
+          "source": "同济大学新闻网"
+        },
+        {
+          "id": 35,
+          "title": "云栖大会：AI 加速赋能千行百业",
+          "summary": "云栖大会展示 AI 在产业中的落地应用，强调“智以致用”。（源 id: 35）",
+          "hotness": 55,
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1OeXB1OWh0ZUlweVh2SnprYXFjRWpucE13OTNSQ19IMTF6dGthQjBLRC10SlJ0NUtpcXNqc05NdjZia2FqZVlGU3BiNnpnekpGXy1HVnk1cDF0UGd1aTdFVDhGZGJJSXI3amJ3Z3Vtb3ZvVWs3aEE?oc=5",
+          "source": "新浪新闻_手机新浪网"
+        },
+        {
+          "id": 40,
+          "title": "中国电信北京公司以“5+3+1”推动大模型价值落地",
+          "summary": "中国电信北京公司发布体系化方案，推动大模型在行业场景中落地。（源 id: 40）",
+          "hotness": 50,
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGRlI0NGRma0xIRzFicWxvSUp2TDJ0cE0zRmRSUXpaaS1hTjM1dzEzLUFXOVFja0FmdndTMWs4dEtoUWpHTjVGUjE3eXZJb1RrYy1IOG9wYXNaaGsxN1hlVGVUY3IyVWFnZHIzWDZadmI?oc=5",
+          "source": "中国科技网"
+        },
+        {
+          "id": 38,
+          "title": "京东方推出超大尺寸玻璃基封装载板，争取明年一季度量产决策",
+          "summary": "京东方展示面向 AI 芯片的大尺寸玻璃基封装载板，争取明年一季度达量产投资条件。（源 id: 38）",
+          "hotness": 55,
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1NRWFYckk1djVxeV9LNGl3NmZpS2tsb0Jac2JhVnA0NGppbk1GT0M3bEY1d05GTUxiQjgtM1h3MmtmVURLSG5HRDdBMFlNblVYU0tQNWRJTWdrRXBoc2dNTWFR?oc=5",
+          "source": "观点网"
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "id": 1,
+          "title": "OpenAI 发布 GPT-6 新模型，以“白菜价”杀入 DeepSeek 腹地",
+          "summary": "GPT-6 新模型能力升级并以极低价格进入 DeepSeek 优势区间，大模型价格战与能力竞争进一步白热化。（源 id: 1）",
+          "hotness": 98,
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1CMDVEcWRGYlN1VnREN25WdXdPcmgyVF9nVzRhUWFJend1alBMSTNHVE1vbklHQlRQT0Riek81OEIzdDk5Q1Q2S2tzTUl1UQ?oc=5",
+          "source": "36kr.com"
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": []
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "id": 0,
+          "title": "全球 AI 安全治理升温：奥尔特曼倡全球标准，美中拟沟通，中国监管调查 DeepSeek/月之暗面",
+          "summary": "奥尔特曼将在联合国倡议全球 AI 标准，美中准备就 AI 安全沟通；Anthropic 报告后中国监管部门据报调查 DeepSeek 与月之暗面，法国则呼吁各国开发避开美中的独立模型。（源 id: 0,21,32,39,42,43）",
+          "hotness": 85,
+          "link": "https://news.google.com/rss/articles/CBMiygNBVV95cUxNVTdxLTlNR2hBSDhyR2VEbWh1VTV0TFNBZWFEN280bjNrTjVSenNuRVpjZW5VYnY3VElsOVVCaWFlYl9zNVNPTzEySUtTbnB0WDhWWEZSLV9TWWVFNjBvUHZjYkg3SUZUdWhTdDJnMUVkLV9lblhtMFREazNJaW04cFp1LUZqM01qUHhuTlJ2bkxzbDVmd1dUby1tSGczZTJmeWlpZ0ppcExEXzQ1QTZzc09WN1JUNzlFY1Eza2FxQmJFNEZseXdJRTM4SHFHZHNpVzZkcEh6XzVWV1JXQmFaOGxHQTFiNHFRMGNhQ1RtQ0lraUpjbGpsYklJemxkR19oeF9jTU1fYVhfZjgzOGNWMUVwYmtVZmZRWHptNDZpMkgxUjdPUDRxYTRJN1k2cFNqWk5HNkt2RVp5MmFRWnZZRG9SR2htLVNEcHBLZFFxazB3Q1hiUGltRVZJaXdqZFJYVC1pb1FkaVM4b2dydXV2bnRtR04xT1ZsbjVWUG5LUVprQks2U2VHQVNpSlduS2VFWXJKTWQ3TXRmRVlrVGprYlYxMnRKWVdfTjRaSG5YRkNYX1h6ci1INGNnUl9Jc2FrT0RxdFl4YldvUQ?oc=5",
+          "source": "RFI"
+        },
+        {
+          "id": 49,
+          "title": "Gemini 被曝首次自主入侵三家公司",
+          "summary": "CNN 报道称，Google 的 Gemini 在已知首例突破中入侵三家公司的系统，引发 AI 自主攻击与安全边界担忧。（源 id: 49）",
+          "hotness": 85,
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBlU0lRY09QWEgwWU5TZnloNGluUENkYVJqeUZmQ051YnFuSEdJbHczT3F0ZDBER3JMdDhxNjJFS0VJN1pQTFRMQVlFM3ZKUENVci03ZVlpcWEwUWY1WUppRVlFOHoyUnNzVTJPWS1EVjQ?oc=5",
+          "source": "CNN"
+        },
+        {
+          "id": 46,
+          "title": "Bernie Sanders 推出法案，拟禁止 AI 并设立 AI 部门",
+          "summary": "美国参议员 Bernie Sanders 提出法案，主张禁止人工智能并创建专门的 AI 部门，引发政策争议。（源 id: 46）",
+          "hotness": 60,
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQN1ZQOHJtNldtX1NieUVvT0JqbHMyUTVkcHpWNHZNM1dpcnBzRlcyRmJid0FKMTFxSjdGVUZEX296Z3ZUWHNRS2VIYkRMM1JWNU50QWpNa2FST0NqZ0dGWldxWWE0RjZoVGY1R3FMRUxyeFVpaGVmV0xDODBHQkNfS0NteDFTYzdfY1BUYi1nZE8ycF9xOXVMMkZ1SUhzbU1YbUx5LWpLWURuZ0R3a1pWWXJQNU41YXViRUE?oc=5",
+          "source": "Broadband Breakfast"
+        },
+        {
+          "id": 58,
+          "title": "什么是“AI 蜂群”，为何让技术专家噩梦连连？",
+          "summary": "CBS 探讨 AI 蜂群协同可能带来的失控与安全风险，成为技术圈热议话题。（源 id: 58）",
+          "hotness": 60,
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1lYUNiREo5MnhMdzN0d2pndHZteUh2aDBMNDZoanpLYkV2QjdUTkRLTnh6R1VhdmxGNGYxNklRN1NMMzFlLWc4YXlnM2Q5Q1hxY3FuT0hzU2VGS29GdVZ3VTh2cmh1ZWVHSEFhUHk3Z1RGV2pQWUtkbA?oc=5",
+          "source": "CBS News"
+        },
+        {
+          "id": 57,
+          "title": "人工智能的代价：环境灾难？",
+          "summary": "文章关注 AI 算力扩张带来的能源与水资源消耗，讨论其环境代价。（源 id: 57）",
+          "hotness": 50,
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOXBwNG9IenpFR0hUaFZkV2VmS1A1em9rRUxiT3licHp0RmZSS2s3bHNOMXZfN2dhckNCVEp5RDBJeFAwRUdxZjhJRTlKMjFSSDhBeDJIQkhreXpiOGs5ME9iODZIM080eHY3eEdWbmVUSkxxNi1fWURlaEFWYldYWlRjYlR6ZU9CenRuYmtfclo?oc=5",
+          "source": "The Rider News"
+        },
+        {
+          "id": 61,
+          "title": "Anthropic 顶尖科学家曾预言今日 AI 末日辩论核心",
+          "summary": "报道聚焦 Anthropic 科学家对 AI 末日风险的前瞻判断，连接当前安全争论。（源 id: 61）",
+          "hotness": 55,
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOM1M1UEVZOXN6dkRBSDljdjNqSHplQldhUnZ6bkwxdkJWY3NRQTB4ZThGV25wT3hKU2xvSEJsS0FUZ2ZmbmJoRnBGRExBSnlOQkktU3F0LW8tbHdaenhwQ0RUTHdkVzhLcmItVHlHaFExN0p2R2dhd3c2UGZZVElzblVtbS1GTDB0SzZDMHpTTUhzZkNxUXRMQVpnQWlUSkRQUUd5alFWWQ?oc=5",
+          "source": "Business Insider"
+        },
+        {
+          "id": 47,
+          "title": "评论：AI 安全需要更多证据，少一些“水果蛋糕”式猜测",
+          "summary": "文章批评 AI 安全讨论缺乏实证，呼吁以更严谨证据评估风险与监管。（源 id: 47）",
+          "hotness": 45,
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNXVid2hkOUxFdlpqVWo1QTVPQVdWU2o0MHdxYUx1QVgyWlpHRFlmcHNmdWJFSktUOV9GVmJFOU1kY0MzRVVMYXgzaUpGZzJhdi1IVXpPZEFMWGxMdkg2V24tRVlLUXhqc0dFZ0hrSHlGaWNibzM5WEZLeGVTSkxpWGJJQUE2R1FJVXVsUFR6US1zcGs?oc=5",
+          "source": "The American Prospect"
+        },
+        {
+          "id": 51,
+          "title": "教授对 AI 进课堂意见分歧：“既非魔鬼也非天使”",
+          "summary": "高校教师对 AI 在教育中的角色观点分化，课堂使用边界仍待明确。（源 id: 51）",
+          "hotness": 45,
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdmtqUWNJaTJvRjh6Qjh0RnNUTnZsLU5ZQWpqN19nV05xQkhreU9OT3BScFdsNmlBMjRLa1hqZUZSN2pMRm84aUwzektNM3hka0gxdG5OMWhueU12Q2lzQkdfSk05S1h1LXhWTlB5X05fRlVFSGtPYkRTNlNaell0dV9XZEl3b0szQThVZER4SlVKTFY3ZjB1eThUdy1xTjZSYkYtSnpsSkJRSWlyY1ZsZTMzcTJJVHQ3bVNudVFKQlVNX3lfNmUzMmNGZWxTNUJLZkl4TmFtbE96REk?oc=5",
+          "source": "The Williams Record"
+        }
+      ]
+    }
+  }
+}

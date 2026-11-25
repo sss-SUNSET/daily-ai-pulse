@@ -1,0 +1,156 @@
+{
+  "overview": [
+    "智谱新模型“牛来”跑在10万国产卡上，挑战英伟达护城河。",
+    "OpenAI正在开发“持久化”AI Agent，推动智能体自主能力。",
+    "Anthropic销售额暴增，有望迎来首个季度盈利，打破AI“烧钱”魔咒。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "id": 0,
+          "title": "Anthropic销售额暴增，有望迎来首个季度盈利",
+          "summary": "Anthropic销售额大幅增长，预计将首次实现季度盈利，缓解AI行业高投入压力。",
+          "hotness": 90,
+          "link": "https://www.cls.cn/detail/2377511",
+          "source": "财联社"
+        },
+        {
+          "id": 3,
+          "title": "OpenAI扩展巴西业务，深化开发者生态",
+          "summary": "OpenAI宣布扩大在巴西的业务布局，加强与当地开发者和社区的互动。",
+          "hotness": 70,
+          "link": "https://openai.com/index/expanding-our-presence-in-brazil",
+          "source": "OpenAI Blog"
+        },
+        {
+          "id": 4,
+          "title": "Cisco为全体9万名员工部署专属AI Agent",
+          "summary": "Cisco向其全部9万名员工推出定制化AI Agent，提升工作效率（合并自报道4和13）。",
+          "hotness": 85,
+          "link": "https://www.wsj.com/cio-journal/cisco-gave-all-90-000-employees-their-own-ai-agent-1a4ad8bc",
+          "source": "WSJ"
+        },
+        {
+          "id": 10,
+          "title": "S&P Global预计AI基础设施投资2027年超1.3万亿美元",
+          "summary": "据S&P Global评级，AI基础设施投资将高速增长，到2027年超过1.3万亿美元。",
+          "hotness": 80,
+          "link": "https://press.spglobal.com/2026-08-27-AI-Infrastructure-Investment-To-Exceed-1-3-Trillion-By-2027,-S-P-Global-Ratings-Says",
+          "source": "S&P Global"
+        },
+        {
+          "id": 21,
+          "title": "Smartbird CEO：从Allbirds转型，专注AI基础设施",
+          "summary": "Smartbird公司CEO宣布全面转型，推出专注于AI基础设施的新业务。",
+          "hotness": 60,
+          "link": "https://www.cnbc.com/video/2026/08/27/smartbird-ceo-on-transition-from-allbirds-brand-new-company-focused-on-ai-infrastructure.html",
+          "source": "CNBC"
+        },
+        {
+          "id": 15,
+          "title": "生成式AI宏观数据显示美国经济影响",
+          "summary": "最新生成式AI宏观数据揭示了其对美国经济的影响，行业关注度上升。",
+          "hotness": 65,
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU1ctVDkybC1Xc0pYU1k2OVFkUDdrVTRjTUowdTR0c1h5cTlLUnRoLWtHdzVWZUVKMHZBQ2g2dE1ZQnd3Q1U0Yk9kT2VENlVObktEUENIRHZQZ1BUaHB3NDc1Um9JR0pCVndOR1Awbi1ySlpPNVRabnZPVy1vWjBXTmpMZHhRTGl5RkJtTmF6dHFJY1NXTXg1NDRn?oc=5",
+          "source": "Yahoo Finance"
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "id": 1,
+          "title": "智谱新模型“牛来”跑在10万国产卡上",
+          "summary": "智谱AI发布新模型“牛来”，在10万张国产芯片上运行，专家认为英伟达护城河受挑战。",
+          "hotness": 95,
+          "link": "https://wallstreetcn.com/articles/3780391",
+          "source": "华尔街见闻"
+        },
+        {
+          "id": 7,
+          "title": "OpenAI正在开发“持久化”AI Agent",
+          "summary": "据WIRED报道，OpenAI正在打造可长期运行的“持久化”AI Agent，智能体自主性将大幅提升。",
+          "hotness": 95,
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ERTFVb0NSYWxlWGxYdEwzV1Bfb3BnR1dDNjlySVMzcHA1M01ia3lYbS1Jak1vYTZXekl5RlA4ZHA4ME15SjlmOE1Ga2F3X0ZDazd5Y1hsT0lDOUtWN0N6YjN6bk5NS1ZydWk4dWFsdUI0eUk0Tl9CYU5UNA?oc=5",
+          "source": "WIRED"
+        },
+        {
+          "id": 6,
+          "title": "费城联储：可审计AI Agent用于实证经济学",
+          "summary": "费城联邦储备银行发布研究，探索可审计的AI Agent在预测组合等经济学应用中的案例。",
+          "hotness": 60,
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRXBFWnl4cmtSSkh0MEJrUkpyTi1xQy1DaEtndDRWRDNzNWs5clpLNE40Q2NLM1VaQ2FQay1sVDdJV25NMHBuMjA2U0J3bXFWT08xNTgyRTNWb1kySkp3ZFVTcC1qS3h3aEZRMkJPNUh2YTQycU9RVUcwM2xWWllyVFdKNFNwcGlKVHRBOElvTkdCdFB1UEJ1RmhiTXlWamlTVEJ2MlNoVW5GcDhSSktrUm16dnUtWVBITWhZamM4Tlo0QmluZkxZRzV4cw?oc=5",
+          "source": "Philadelphia Federal Reserve Bank"
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": []
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "id": 2,
+          "title": "OpenAI研究：ChatGPT与批判性思维训练对学生的影响",
+          "summary": "一项超过1000名学生的随机研究探讨了ChatGPT与批判性思维训练对学习效果的提升。",
+          "hotness": 70,
+          "link": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+          "source": "OpenAI Blog"
+        },
+        {
+          "id": 8,
+          "title": "佛罗里达州Palm Beach县暂停大型AI数据中心建设",
+          "summary": "Palm Beach县委员会决定暂停大规模AI数据中心项目，引发对环境和能源的讨论。",
+          "hotness": 75,
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOHZjUld0N085QzRMZUlTam1zcTlyWnBOdkY0Y0RXdFdVYzRHbjVRbnJkcWlzbWRmNzFHbGUwMTkwZlJhWkpGQ0dVb09Sei1uMThMU284X0J0elo3cmdXbjFXS2k5RGswMUMxanF2MWFlTkxlcWhrUk90TzVFenUxYzlYNDhvdnp6c0ZCMmZUbTRwR00tUmlhd2dacmhhOGtFZjZUeWZhTmN1UQ?oc=5",
+          "source": "WLRN"
+        },
+        {
+          "id": 14,
+          "title": "AI基础设施遭遇攻击：90天蜜罐遥测分析",
+          "summary": "Wiz.io发布90天蜜罐数据，揭示AI基础设施面临的攻击模式和安全威胁。",
+          "hotness": 70,
+          "link": "https://www.wiz.io/blog/ai-infrastructure-honeypot",
+          "source": "wiz.io"
+        },
+        {
+          "id": 16,
+          "title": "AI Agent访问网站时的法律边界：第九巡回法院初步裁定",
+          "summary": "根据CFAA，第九巡回法院对AI Agent访问网站的责任归属划定早期界限。",
+          "hotness": 65,
+          "link": "https://www.jdsupra.com/legalnews/client-alert-when-an-ai-agent-visits-a-3725649/",
+          "source": "JD Supra"
+        },
+        {
+          "id": 17,
+          "title": "美国Douglas县采用AI政策规范官员和员工",
+          "summary": "威斯康星州Douglas县正式采纳AI使用政策，为地方政府AI应用提供参考。",
+          "hotness": 60,
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTGp2QkozRW96MUNmRU82V0pXek9HUE1pVTJtamxybDNUTktlcGZhamJKdUFtOTl6dFBIMThyQ2c3QUVzWmtMbUpaTUNuSk5zZUxwbEJETnpWR1dDeG1jYTlaZzYyUENYa05QSEtyRWZGc3Q0U253R2pib2tEVzRKX1dSeURJamY0bmRIdU9TMGhaMW9hVGFYQXQtcU9jTzc1WjNScEJB?oc=5",
+          "source": "GovTech"
+        },
+        {
+          "id": 20,
+          "title": "以色列正在构建AI安全层",
+          "summary": "以色列专家呼吁建立AI安全层，强化对AI系统的防护和治理。",
+          "hotness": 65,
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBwaWI5bV9wUVJGTE5BLXFOOEdkcDFQcm1uYWM1M2tOckhpSWhLdTB5cW1Velh6cnA3SVBsdVcwVlY2bTZTbFZpNmNyYmpiM3E3ejNhbk9qVUhWNFlPeUhCd2loQm9DNlNmaUNaRm0yQVlTWjBhMHJJ?oc=5",
+          "source": "The Times of Israel"
+        },
+        {
+          "id": 22,
+          "title": "AI Agent威胁响应：运行时检测为何不够",
+          "summary": "GitGuardian博客分析AI Agent威胁响应的局限性，强调需要更全面的安全策略。",
+          "hotness": 70,
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE90MXE3ekJyZVpYUEEtMWdHV01zSDBxM1NJaVZ2TTFrNVBSTXI0RUVHVFRXbUs2T0JXMDhQb3Judld1RVBtSDkzYjdlSFN3ODZESURmOEYzTTFtX3NKNl9yempuNzc?oc=5",
+          "source": "GitGuardian Blog"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "overview": [
+    "1. 微软正式发布新版 Copilot“超级应用”，聊天、编程、智能体三合一，AI Agent 产品化竞争升级。",
+    "2. Anthropic 与 Akamai 签署 7 年 116 亿美元 CPU 算力协议，并上线 Claude 周额度免费重置，扩产与留存并行。",
+    "3. OpenAI 承认其 AI 智能体在企业不知情下将 53 张客户图片传到公网，AI 安全与隐私治理再敲警钟。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "id": 1,
+          "title": "微软正式发布新版 Copilot“超级应用”：聊天、编程、智能体三合一",
+          "summary": "微软推出新版 Copilot“超级应用”，整合聊天、编程与智能体能力，进一步抢占 AI 助手入口并强化 Agent 生态。",
+          "hotness": 98,
+          "link": "https://www.ithome.com/1/007/279.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 9,
+          "title": "Anthropic 与 Akamai 签署 7 年 116 亿美元协议，扩充 CPU 算力",
+          "summary": "Anthropic 与 Akamai 达成 7 年 116 亿美元合作，扩展云计算与 CPU 算力，支撑 Claude 等模型规模化服务。",
+          "hotness": 92,
+          "link": "https://www.ithome.com/1/007/263.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 13,
+          "title": "Anthropic 为 Claude 上线“限时免费额度重置”功能",
+          "summary": "Anthropic 推出 Claude 周额度免费重置功能，每位用户仅可使用一次，意在缓解额度限制并提升用户留存。",
+          "hotness": 85,
+          "link": "https://www.ithome.com/1/007/256.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": [
+            2,
+            17
+          ],
+          "title": "特斯拉 Optimus V3 量产遇阻：机械手组装困难，产量扩至约 10 倍仍难规模化",
+          "summary": "特斯拉 Optimus V3 被曝量产受阻，机械手组装困难且 AI 能力待突破；此前产量虽扩至约 10 倍，规模化难题仍未解决。",
+          "hotness": 82,
+          "link": "https://openai.com/index/proaction"
+        },
+        {
+          "id": 20,
+          "title": "高盛：美国五大云巨头每年需 3000 亿美元 AI 收入才能盈亏平衡",
+          "summary": "高盛测算亚马逊、Alphabet、微软、甲骨文和 Meta 需每年合计 3000 亿美元 AI 收入，才能覆盖 AI 投入并实现盈亏平衡。",
+          "hotness": 80,
+          "link": "https://www.ithome.com/1/007/232.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 0,
+          "title": "OpenAI 客户案例：Proaction 用 Codex 销售提升 60%，节省 75+ 小时",
+          "summary": "OpenAI 博客披露 Proaction 借助 Codex、GPT-Live-1、GPT-6 Astra 构建并运营销售流程，销售提升 60%、节省 75 小时以上。",
+          "hotness": 90,
+          "link": "https://openai.com/index/proaction",
+          "source": "OpenAI Blog"
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": []
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": []
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "id": 4,
+          "title": "OpenAI 承认 AI 智能体误将 53 张客户图片传到公网",
+          "summary": "OpenAI 称企业不知情下，其 AI 智能体将 53 张客户图片发布至公网，暴露智能体权限与数据隔离风险。",
+          "hotness": 90,
+          "link": "https://www.ithome.com/1/007/274.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 14,
+          "title": "比尔·盖茨呼吁美国立法监管 AI 开发",
+          "summary": "比尔·盖茨呼吁美国国会立法监管人工智能，强调仅靠行业自律不足，应建立更明确的安全与责任框架。",
+          "hotness": 78,
+          "link": "https://www.ithome.com/1/007/253.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 15,
+          "title": "龚古尔奖将涉嫌 AI 创作的畅销小说移出初选名单",
+          "summary": "法国龚古尔奖主办方将一本被指用 AI 创作的畅销小说移出初选名单，引发文学创作与 AI 版权伦理争议。",
+          "hotness": 72,
+          "link": "https://www.ithome.com/1/007/252.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 18,
+          "title": "德国柏林警方启用 AI 监控摄像头自动识别暴力与破坏行为",
+          "summary": "柏林警方在犯罪高发区域部署 AI 监控摄像头，可自动识别暴力与破坏行为，隐私与公共安全争议随之升温。",
+          "hotness": 70,
+          "link": "https://www.ithome.com/1/007/245.htm",
+          "source": "IT之家"
+        }
+      ]
+    }
+  }
+}

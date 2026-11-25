@@ -1,0 +1,285 @@
+{
+  "overview": [
+    "Meta发布Muse Wonder系列旗舰AI模型，宣称达到AI前沿，直接对标OpenAI和Anthropic，引发市场关注。",
+    "微软发布Maia 300 AI芯片，采用台积电N2P工艺，配备288GB HBM4内存，强化AI算力基础设施。",
+    "Anthropic AI模型生成虚假谋杀线索，暴露AI安全与伦理风险，监管讨论升温。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "id": 34,
+          "title": "微软发布Maia 300 AI芯片：台积电N2P工艺，288GB HBM4，带宽18TB/s",
+          "summary": "微软正式发布Maia 300 AI芯片，配备288GB HBM4内存，带宽达18TB/s，FP4算力大幅提升，旨在强化AI基础设施。",
+          "hotness": 95,
+          "link": "https://www.ithome.com/1/012/115.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 36,
+          "title": "AMD发布锐龙AI Halo开发者平台与Helion智能体AI机架",
+          "summary": "AMD推出基于锐龙AI Max+ PRO 495的开发者平台及Helion机架方案，纯CPU版本可扩展至32768核心，面向代理式AI负载。",
+          "hotness": 88,
+          "link": "https://www.ithome.com/1/012/104.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 25,
+          "title": "英伟达RTX Spark全球巡展官宣：北京等6城开启体验",
+          "summary": "英伟达宣布围绕新款Windows PC在全球6城启动RTX Spark巡展，可赢取黄仁勋签名版笔记本。",
+          "hotness": 80,
+          "link": "https://www.ithome.com/1/012/139.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 46,
+          "title": "寒武纪回应AI算力话题：智能芯片针对AI优化，上半年营收增108%",
+          "summary": "寒武纪表示其智能芯片不属于CPU、GPU，针对人工智能优化，产品已规模化商用，上半年营收增长108%。",
+          "hotness": 78,
+          "link": "https://stock.stockstar.com/RB2026101300005524.shtml",
+          "source": "证券之星"
+        },
+        {
+          "id": 42,
+          "title": "小鹏今年底实现人形机器人量产，2027年上半年开启交付",
+          "summary": "小鹏汽车在巴黎车展宣布，今年底将实现人形机器人量产，2027年上半年开始交付，加速具身智能落地。",
+          "hotness": 75,
+          "link": "https://www.ithome.com/1/012/094.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 28,
+          "title": "应用材料CEO：依托AI提效，未来数年营收有望翻倍但员工数不翻倍",
+          "summary": "应用材料公司计划借助AI工具实现营收翻倍，同时不增加员工数量，体现AI对制造业效率的深刻影响。",
+          "hotness": 70,
+          "link": "https://www.ithome.com/1/012/134.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 32,
+          "title": "比亚迪与荣耀战略合作：AI语音融合，手机远程控车",
+          "summary": "比亚迪与荣耀达成合作，共创AI语音融合，打通车机与手机语音智能体，将手机AI能力带入座舱。",
+          "hotness": 72,
+          "link": "https://www.ithome.com/1/012/121.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 29,
+          "title": "Anthropic斥资1亿美元培养前沿部署工程师",
+          "summary": "Anthropic宣布投入1亿美元培养前沿驻场工程师，聚焦五大人才特质，以推动AI在企业中的部署。",
+          "hotness": 76,
+          "link": "https://www.ithome.com/1/012/132.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 27,
+          "title": "Epic为迪士尼打造的游戏推迟上线，全面改用AI开发",
+          "summary": "Epic Games为迪士尼开发的一款游戏推迟发布，据称将全面改用AI技术进行开发，以提升效率。",
+          "hotness": 74,
+          "link": "https://www.ithome.com/1/012/136.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 18,
+          "title": "AI模型价格分歧：开源权重成本上升，闭源模型价格下降",
+          "summary": "市场数据显示AI模型价格走势分化，开源权重模型成本上涨，闭源模型价格下降，引发华尔街关注。",
+          "hotness": 73,
+          "link": "https://finance.biggo.com/news/e115ef48-18cd-4905-8fa1-0be56cd51330",
+          "source": "BigGo Finance"
+        },
+        {
+          "id": 44,
+          "title": "人工智能应用“出海”东盟市场",
+          "summary": "中国人工智能应用加速出海东盟市场，在多个领域落地，推动区域数字经济发展。",
+          "hotness": 68,
+          "link": "https://www.news.cn/fortune/20261012/63fc98ec1a6e4b2faf864758e38ae759/c.html",
+          "source": "新华网"
+        },
+        {
+          "id": 49,
+          "title": "极智嘉CTO李洪波：具身智能下一程，拼极限工况的稳定性",
+          "summary": "极智嘉CTO指出，具身智能下一阶段竞争焦点在于极限工况下的稳定性，仓储机器人是典型场景。",
+          "hotness": 67,
+          "link": "https://finance.sina.cn/stock/jdts/2026-10-12/detail-iniuypff8449923.d.html?oid=800&vt=4&cid=76993&node_id=76993",
+          "source": "新浪财经"
+        },
+        {
+          "id": 52,
+          "title": "智能体发展重塑算力需求格局",
+          "summary": "AI智能体的兴起正改变算力需求结构，推动芯片、云服务等基础设施向更高效率与异构计算演进。",
+          "hotness": 69,
+          "link": "https://www.21jingji.com/article/20261012/herald/b873469960f179c3f531aab4293a01ff.html",
+          "source": "21财经"
+        },
+        {
+          "id": 53,
+          "title": "具身智能从“会动”走向“会干活”",
+          "summary": "行业展会显示，具身智能正从简单运动控制转向实际作业能力，工业场景成为落地重点。",
+          "hotness": 66,
+          "link": "https://wap.eastmoney.com/a/202610123892985168.html",
+          "source": "东方财富"
+        },
+        {
+          "id": 60,
+          "title": "游族网络余华松：AI Agent有三大落地方向",
+          "summary": "游族网络高管指出AI Agent在游戏、内容生成、自动化运营三大方向具有落地潜力。",
+          "hotness": 65,
+          "link": "https://www.mrjjxw.com/articles/2026-10-12/4602093.html",
+          "source": "www.mrjjxw.com"
+        },
+        {
+          "id": 61,
+          "title": "上海再添一家人工智能全球运营总部",
+          "summary": "上海新增一家人工智能全球运营总部，实现拿地即开工，显示AI产业集聚效应。",
+          "hotness": 64,
+          "link": "https://k.sina.com.cn/article_5953190046_162d6789e06703u74e.html?from=tech",
+          "source": "新浪网"
+        },
+        {
+          "id": 50,
+          "title": "丘成桐数学与人工智能实验室联盟成立",
+          "summary": "丘成桐领衔成立数学与人工智能实验室联盟，推动数学与AI基础理论交叉研究。",
+          "hotness": 71,
+          "link": "https://news.sciencenet.cn/htmlnews/2026/10/572784.shtm",
+          "source": "科学网—新闻"
+        },
+        {
+          "id": 54,
+          "title": "安徽省具身智能创新中心揭牌",
+          "summary": "安徽省具身智能创新中心正式揭牌，将聚焦机器人感知与决策技术研发与产业孵化。",
+          "hotness": 63,
+          "link": "https://news.ustc.edu.cn/info/1056/96552.htm",
+          "source": "中国科大新闻网"
+        },
+        {
+          "id": 59,
+          "title": "中共中央、国务院发布新质生产力重磅文件",
+          "summary": "文件强调加快发展新质生产力，人工智能作为核心驱动力被重点提及，政策支持力度加大。",
+          "hotness": 70,
+          "link": "https://finance.cctv.com/2026/10/10/ARTIbSixmGJhn6SEdMOAZaCn261010.shtml",
+          "source": "央视网"
+        },
+        {
+          "id": 58,
+          "title": "工业大模型：天智与星际大模型赋能工厂与视觉",
+          "summary": "天智大模型以“智能兵团”模式支撑工厂运营，星际大模型为AI提供视觉能力，推动工业智能化。",
+          "hotness": 62,
+          "link": "https://news.sina.com.cn/zx/gj/2026-10-12/doc-iniuyarm8506996.shtml",
+          "source": "新浪新闻"
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "id": 0,
+          "title": "Meta发布Muse Wonder系列旗舰AI模型，宣称达到AI前沿",
+          "summary": "Meta推出Muse Wonder和Muse Wonder Full两款前沿模型，号称达到AI前沿水平，将让Muse Agent更智能，直接挑战OpenAI和Anthropic。（综合id 0,1,2,4,7,8,10,12,13,14,19,21,23,26）",
+          "hotness": 100,
+          "link": "https://www.wsj.com/tech/ai/meta-says-new-ai-model-is-state-of-the-art-will-make-muse-agent-smarter-1304cdf4",
+          "source": "WSJ"
+        },
+        {
+          "id": 47,
+          "title": "让AI Agent学会做长任务，提示要“先指路后点评”",
+          "summary": "研究指出，针对长任务AI Agent，提示策略应采用“先指路后点评”的方式，提升任务规划与执行效果。",
+          "hotness": 75,
+          "link": "https://www.techwalker.com/2026/1013/3201825.shtml",
+          "source": "科技行者"
+        },
+        {
+          "id": 56,
+          "title": "AI给大模型“注射”人类价值观，发现惊人秘密",
+          "summary": "研究者通过向大模型注入人类价值观，发现模型内部表征会发生变化，可能揭示对齐机制的新规律。",
+          "hotness": 72,
+          "link": "https://www.techwalker.com/2026/1013/3201827.shtml",
+          "source": "科技行者"
+        },
+        {
+          "id": 64,
+          "title": "UC Santa Barbara采取“基地营”方式推进人工智能",
+          "summary": "加州大学圣塔芭芭拉分校采用“基地营”模式，整合跨学科资源，推动AI研究与教育协同发展。",
+          "hotness": 60,
+          "link": "https://news.ucsb.edu/2026/022865/uc-santa-barbara-taking-base-camp-approach-artificial-intelligence",
+          "source": "UC Santa Barbara"
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "id": 63,
+          "title": "AI Agent选择Render而非Railway和Vercel，成新获客渠道",
+          "summary": "AI Agent在自动选择部署平台时偏爱Render，超越Railway和Vercel，显示Agent工具链正成为开发者获客新入口。",
+          "hotness": 68,
+          "link": "https://www.saastr.com/our-ai-agent-picked-render-over-railway-and-vercel-id-never-heard-of-it-thats-how-you-get-leads-in-the-agent-age/",
+          "source": "saastr.com"
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "id": 3,
+          "title": "Anthropic AI模型生成虚假谋杀线索，引发安全争议",
+          "summary": "Anthropic的AI模型在费城未解谋杀案中提供虚假线索，官员证实其为误报，引发对AI安全与滥用的担忧。（综合id 3,9,22）",
+          "hotness": 92,
+          "link": "https://www.wbur.org/hereandnow/2026/10/12/ai-government-fraud",
+          "source": "WBUR"
+        },
+        {
+          "id": 5,
+          "title": "微软总裁：英国最适合领导AI监管",
+          "summary": "微软总裁表示英国在AI监管方面处于最佳位置，呼吁建立全球协调的监管框架。",
+          "hotness": 78,
+          "link": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+          "source": "TechCrunch"
+        },
+        {
+          "id": 45,
+          "title": "美中都表示要监管“超级智能”，但道路不同",
+          "summary": "美国与中国均表态需要监管超级智能，但双方在监管路径、方法和优先级上存在显著差异。",
+          "hotness": 80,
+          "link": "https://www.voachinese.com/amp/how-china-and-the-united-states-are-taking-different-paths-on-ai-regulation-20261012/8210390.html",
+          "source": "美国之音"
+        },
+        {
+          "id": 51,
+          "title": "让人工智能在法治轨道上向善而行",
+          "summary": "评论文章呼吁AI发展必须在法治框架下向善，加强伦理规范和法律约束，保障技术可控。",
+          "hotness": 75,
+          "link": "http://m.cyol.com/gb/keji/articles/2026-10/12/content_Gqn3R7ilZy.html",
+          "source": "中青在线"
+        },
+        {
+          "id": 16,
+          "title": "OpenAI数学数据倾倒摧毁早期研究者项目",
+          "summary": "教授称OpenAI公开的大量数学数据导致早期职业研究者的程序被淹没，引发数据共享伦理争议。",
+          "hotness": 77,
+          "link": "https://qz.com/openai-math-dump-early-career-researchers-wiped-out-101226",
+          "source": "Quartz"
+        },
+        {
+          "id": 11,
+          "title": "AI护栏应如何设计？一份提案指南",
+          "summary": "彭博法律新闻梳理了当前AI护栏的主要提案，涵盖内容过滤、模型审计、责任归属等关键议题。",
+          "hotness": 70,
+          "link": "https://news.bloomberglaw.com/artificial-intelligence/what-should-ai-guardrails-look-like-a-guide-to-the-proposals",
+          "source": "Bloomberg Law News"
+        },
+        {
+          "id": 57,
+          "title": "IMF：AI给全球经济带来增长，也冲击就业市场",
+          "summary": "国际货币基金组织指出AI将促进全球经济增长，但同时给就业市场带来巨大冲击，需政策应对。",
+          "hotness": 73,
+          "link": "https://www.voachinese.com/amp/8205671.html",
+          "source": "美国之音"
+        }
+      ]
+    }
+  }
+}

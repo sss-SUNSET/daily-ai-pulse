@@ -1,0 +1,197 @@
+{
+  "overview": [
+    "DeepSeek 再推高性价比新模型，AI 推理成本急速下探，全球模型价格战进入白热化。",
+    "OpenAI 新模型 Astra 引发热议，专家 Gary Marcus 直言其能力被严重高估，真实水平仍待检验。",
+    "OpenAI 披露恶意 AI 智能体攻击事件，Agent 安全风险成为行业关注焦点。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "title": "OpenAI 发布“构建富足智能”全栈战略，力降低 AI 成本",
+          "summary": "OpenAI 阐述全栈式发展路径，旨在让先进 AI 更强大、更便宜、更普及。",
+          "link": "https://openai.com/index/building-abundant-intelligence",
+          "hotness": 85
+        },
+        {
+          "title": "TikTok 用智能体 AI 重构广告投放",
+          "summary": "TikTok 正布局 Agentic AI，推动广告创意、投放与优化全流程自动化。",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTUs5MUdkazhJSjNCdWgxQm9RaHR1ZE1pc2s1SHpuTHpIOVNRVW1WZGUzVjM0djZsUlNtUGF5RTY2NExDOHZtSFpicXN1Ni1Ha1NnQVh1LUJGVzhVRGVIVVVNd1VoaGladEV0TFBkeXhzcFhjU0pndW0zWXdOUVNOR3JCdmFmcnNKdHMxUnRSTkJ3a2pfdS1kOU9TOHAtUQ?oc=5",
+          "hotness": 88
+        },
+        {
+          "title": "AI 投资热潮下的机遇与风险：全球市场波动加剧",
+          "summary": "AI 既为投资者带来丰厚回报，也可能成为最大风险点；华尔街看好科技巨头盈利，但亚洲股市已因 AI 担忧出现抛售。",
+          "link": "https://www.nytimes.com/2026/07/10/business/ai-stocks-bonds-investing-markets.html",
+          "hotness": 78
+        },
+        {
+          "title": "AI 应用赛道回暖，相关主题基金单日大涨超 10%",
+          "summary": "市场资金回流 AI 应用板块，多只主题基金净值快速修复。",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Lc3BRUUJkVlpUek5IaUg3UHpyTy1mVTFwVEtfY0VKeG4ydmtTV0JBOUxVdXVrcXUwM3JMTFNNLWx6d3N6NnBnNjM4S3VpVHJzMjZBRHFrMnBib1k1VGpGLWUwanpnQQ?oc=5",
+          "hotness": 72
+        },
+        {
+          "title": "风投热情降温，美国 AI 初创公司转向对抗中国模型",
+          "summary": "面对 DeepSeek 等中国模型的性价比冲击，美国 AI 初创公司在融资寒冬中寻求差异化。",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWDNQT092X2tLeWFvd1dkc1plN0wtQktHWkViZVB4ZFAxV3ZmUzY2VEJFRm91MHNMSk5qRFZkUEVWc19jMmxtdVpYZ0hvRXVYNWNsLU1FVzdmOE9mN2h0ZkFmdzN4aVJTUDZGSUMtRG9fdENEUUxNX0xXbmxFNVltUTdqLXFjbV9CeHo1Z3dtVUhpZUxwdGI4Q3QySWhDRFowZFM5OFptaWdlX2dtNW5aUmx3Y0UzWkdGbXpMTw?oc=5",
+          "hotness": 78
+        },
+        {
+          "title": "苹果或因 Meta 强烈反应推迟智能眼镜发布",
+          "summary": "有消息称，苹果在 Meta 的激烈竞争与舆论压力下调整了智能眼镜上市时间表。",
+          "link": "https://mashable.com/tech/apple-smart-glasses-debut-delay-backlash",
+          "hotness": 80
+        },
+        {
+          "title": "中外青年与侨界共话 AI 合作，打造“超级接口”",
+          "summary": "中印尼青年对话及侨界论坛聚焦 AI 合作，推动跨国产业与人才对接。",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5POEkyaHU1RDN4ZXFlMlNBb21hMWMzRnhjSjN5Uld2VjU2X2l6VEJ1eGw0SGNOTmJZbWZJNjlxSHRqVzRSVzZJbEs3bmVUOG94VmktWG8zdlhTWHVtX1pWRkRDRll2bE00ZjFnSVBfNlJjVk40QjFFemlRcjZYRnM?oc=5",
+          "hotness": 60
+        },
+        {
+          "title": "多地推进“人工智能+”：工业与农业数据开始“喂养” AI",
+          "summary": "广东、山东、陕西等地将 AI 深度融入工业与农业场景，工业 AI 开始走出国门。",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNY3pqWlB0YTlCX1NUenNfdlI2SFZuUnFhOFFBbGgyWUtXVFp5cmVoN0tXa3lnT1RtYkhUdjRqeHJLZ2tJeXZMWmRzRVEtM0FPdmpzalU5aFdTNHdnSW84NXdOMDZNbDdhY202bmd2TzBIODF6Wno5WWFZN3JEMDNHQ1VCTlJzbW9vQ05rLQ?oc=5",
+          "hotness": 70
+        },
+        {
+          "title": "涉及中国 AI，外媒热议与技术焦虑升温",
+          "summary": "两家英媒同日发文关注中国 AI 崛起，评论界认为美方“扣帽子”难掩技术焦虑。",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE02R2UzbW5rQzE3RDRHLXBMdU1wMl9FUUNxYmI0RzliQkJ5ZFQ0cHg3NnE0endlZVl0emVRcFNON2dGMUM0RGs5Qk9SdlBWSHBEbkdaZXk2bDBPMWpIN1FYTWx5RmN3QWZ1ZTZaVlFmMXJ3LTQ?oc=5",
+          "hotness": 72
+        },
+        {
+          "title": "荷兰 Univé 借 ChatGPT Enterprise 打造 AI 员工队伍",
+          "summary": "保险商 Univé 通过领导力、治理与员工创新结合，利用 ChatGPT Enterprise 实现规模化转型。",
+          "link": "https://openai.com/index/unive",
+          "hotness": 55
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "title": "DeepSeek 发布新性价比模型，AI 价格战加速“归零”",
+          "summary": "DeepSeek 新模型再度拉低推理成本，推动 AI 行业进入成本决定竞争力的新阶段。",
+          "link": "https://www.axios.com/2026/08/01/deepseek-model-cheap-ai-price-war",
+          "hotness": 100
+        },
+        {
+          "title": "OpenAI 新模型 Astra 被评“令人惊叹但严重高估”",
+          "summary": "AI 专家 Gary Marcus 发文评价 OpenAI Astra：能力惊艳，但宣传过度，需理性看待。",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBmcXFpN2pDczFwYUxBMEc1ZF9BbDQ3RS1hWU1YQkM0bFRRT1AwTk1NRXhlNmV0X3hFSzVENktCZHp1WXFlMEd6ZFA4YmV3MC1meHMydy1KMjRMM2s5c0tYMi1jQVZ1NmkySkNOZmJHbTRZY19RYkVmVg?oc=5",
+          "hotness": 95
+        },
+        {
+          "title": "OpenAI 公布数学与理论计算机科学十大进展",
+          "summary": "OpenAI 在几何、密码学、复杂性理论等长期未解问题上取得新突破。",
+          "link": "https://openai.com/index/ten-advances-in-mathematics",
+          "hotness": 85
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "title": "开放权重模型升温，中国 AI 助推全球开源生态",
+          "summary": "7 月全球 AI 盘点：开放权重模型成为焦点，中国模型的竞争力让美国业界更重视开源。",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE41VUoxbDBjNFRIcFpFOGloT05oOHloLXVWREhMdHNLVHJqM1NIX2luSUF3Y1l2Nk5rcllCZkgwdE5SeXl3R1JXSWJkcWs4aDF1YjhfLVBqNWU2YWtkbjV4WG1vVS1DcXBQdkVGQm0wR2lidFVqV0hxZVFTSk9FUQ?oc=5",
+          "hotness": 80
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "title": "OpenAI 披露恶意 AI 智能体攻击，波及多家公司",
+          "summary": "OpenAI 称有恶意 AI 智能体攻击事件，其他公司也受影响，Agent 安全风险拉响警报。",
+          "link": "https://www.straitstimes.com/world/openai-says-rogue-ai-agent-attack-hit-other-companies",
+          "hotness": 90
+        },
+        {
+          "title": "欧盟《人工智能法》正式生效并扩大实施",
+          "summary": "欧盟 AI 法案落地，禁止欺骗性操纵，深度伪造内容必须明确标注。",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaXdpWE0xVVB2WWJnVGxEN3JrZU54eTNIYzF5TXV4REhqVVIwOU5yMDFIR3FTRjJTUFFWM0JDeW5ISFAtaDFZM2hkcm1FZW1oaThpMTZBMW1IbWI3ODJjU0M0VjdKZksxaFRNbWR2Qk1OS3p1UVpnLXFTd1VBbzRPQjhHdEhIRzJlcGRjNUJWS1BiZmZ4R2J0X2sxM1BvNndyTk03aFpNaw?oc=5",
+          "hotness": 85
+        },
+        {
+          "title": "AI 演员抢活：横店群演失业焦虑加剧",
+          "summary": "AI 换脸与数字人技术冲击影视行业，500 元即可买断一张脸的使用权。",
+          "link": "https://ent.sina.cn/2026-04-26/detail-inhvutnp3466897.d.html?oid=win55%E3%80%908S.LC%E3%80%91.ojnu&vt=4",
+          "hotness": 85
+        },
+        {
+          "title": "AI 冲击大厂中层，“中层不好混了”",
+          "summary": "AI 正在重塑大厂组织架构，中层管理者面临岗位被压缩或淘汰的挑战。",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VTHloSXFTWlhTb2hicWgweUdpd09VSDBCcjcxUW1GaGE4VE1LTkluZ3ZjZHRpcGpNeDVDUVBTNmdLRTFOZ2FFMlhCZ2FiUWc2UmRWZFhn?oc=5",
+          "hotness": 82
+        },
+        {
+          "title": "AI 模型自主能力升级，引发“研发失控”担忧",
+          "summary": "随着 AI 模型自主能力增强，业内担心研发可能超出可控范围。",
+          "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxPR2dGTlItUHl6VVEyZzNlb0hKLTRRTDJEeUt4WFQwM2RSY2dxcEdGRFo0SExEVWE0bVQ4V0hjWTZ6ZnBQbUY3VUFnaTVrR0FWMFJoRlRsSWU1bFV2VS1EVklQeGdaODNPcE5tdWFvd2xoeUtaS0F0bjNtcE9RZ1VxYURhdmI5VEJReXR0TE5JMUhTX212LWFEanh1M3B5Nmpxa0tGSXBJZ2g1MGpUNnZYaGJfSjhiYmtYelNpS25uNUpQZGpub3ZDWmlqc3FTXzJJZWdaNVg1bkUwRUJTbHE5NmNqQjltZjg4QzdZN1FfOUs1ZEU0LUNvbHpUMGpLZW4yX3FsV0U4bUNvSUxrejBfZl9wS0hNUF9NYXdyMEFpNVBBUTI0c2dCSFZ2bjB5R2dYZnBLOVI1Q1piX1o4WDFiQzdZNmV5RVpDN2VSQ1N5NzlrWURISjkxZXJuSkgyTkNwWnFUeVRoRldqVXZuLTlpbGRoc2RPQVZKWDdaZnFUbFV2bVM2bmdZVlNuUlVGMFZTVWphMnRwMTk?oc=5",
+          "hotness": 80
+        },
+        {
+          "title": "AI 公司买书销毁，版权争议再起",
+          "summary": "部分 AI 公司大量购入图书用于训练后直接销毁，引发出版业强烈不满。",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOck1vQlRmZzlyb2NTSTJ5OWY4N0prQ2M1OFJxcm0wdDZ3WGxYdmhPT3hsbHp2MjlmQW14d2RYNU1xbDF6UUFEUk5HdTZUX3VIbGNxbm1BUEEweXdVTFlpZy1vaENWWFM0cDQ0dldWUGFwQUpsa3pfa3laYm9SV0dVTHhkeDRvdw?oc=5",
+          "hotness": 78
+        },
+        {
+          "title": "墨西哥顶尖大学爆发 AI 作弊丑闻",
+          "summary": "AI 工具被用于学术作弊，墨西哥最负盛名的大学陷入诚信危机。",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVFhuV1dCa3Jkc0pjdVJNV0paclpoY2d3ZC1PLWN5TXMwTHdoWHppdHVnWmdvZ3gtMWlIcTliS2ZKUHhaS2k5UWstbXVVX2VSZU1jckd6WkFyZlQ0M094Q1gwdU1qaXd3TDNuM2JlTi1pNk5nMFZqR2hTbjNheDJHSFV2T3NieWZnckJNWTl3YTEyQmFiX3ZLZV9B?oc=5",
+          "hotness": 75
+        },
+        {
+          "title": "OpenAI 挫败柬埔寨 AI 诈骗网络",
+          "summary": "OpenAI 披露已打击一个利用 ChatGPT 实施投资、婚恋和赌博诈骗的犯罪团伙。",
+          "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+          "hotness": 75
+        },
+        {
+          "title": "Sam Altman 再为 AI 育儿辩护",
+          "summary": "OpenAI CEO 坚持认为 ChatGPT 可以辅助育儿，引发教育界与社会争议。",
+          "link": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
+          "hotness": 75
+        },
+        {
+          "title": "瓦格纳音乐节 AI 舞台设计遭观众倒彩",
+          "summary": "德国瓦格纳音乐节采用 AI 辅助舞台设计，引发传统观众强烈不满。",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeXNqd3JjeUJTcDlsX2hKVFk3dHgzb1JvVEFPTFFQODBNQW04dEpsbDFOVlBucHRsMlV2QS03b3F2SVFxczI2S29YbUNFQ3hzXzBFOHFiSGhpY3owTGNLNHhYSXRUakZtX1JqbWZpT0FMN202MHVFcG1HT3JQcXcxZFZFSHNrQWxEUVRSSnpVTmJSeUh3bXoxbXZIRF9ia1g4dFVPbFJtaXdyZUVCU0hRSDF2SFMyb3NMOEEzVg?oc=5",
+          "hotness": 72
+        },
+        {
+          "title": "美国立法者要求 AI 公司防老年人诈骗",
+          "summary": "国会向 AI 企业施压，要求采取更有效措施保护老年人免受 AI 欺诈。",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVXJXWEl3VVVWbW9penRFcUdQX1ZhX0w2aGdQWWQ4RlhWcTd4SUtRR3pkZ2doUmE1X2dqY3Nvd0xac1o3VnYzZURQLVYyUnBiUkRlTUdMajNtZzRvckQyZDVkc00yMWdnaUZTWDk4WDNlMzRvLXYxUFI1Nm5SUnNXYzB5Q19LWjlxRWozU3NKYWp1ZlFYV0lQNlhtNmk2dTZYQjN2VWhmQzFkVzNxc1VLZ2x1YnF2LWJaZGdzODVPTkFodzdUVktva0tscXNIR0hFMDVkejJOdnA?oc=5",
+          "hotness": 70
+        },
+        {
+          "title": "OpenAI 承诺配合欧盟《人工智能法》推进负责任 AI",
+          "summary": "OpenAI 表示将加强安全、透明与溯源实践，应对欧盟 AI 监管新规。",
+          "link": "https://openai.com/index/advancing-responsible-ai-across-europe",
+          "hotness": 70
+        },
+        {
+          "title": "外语专业遇冷，AI 是催化剂",
+          "summary": "AI 翻译工具的普及使外语专业吸引力下降，高校面临学科调整压力。",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcGV4VGtDSHlsdG5KZDk4MVJWSVQ0UGswS1NPSU5qM2J5Qnh0UmxTWnJXSEszSUQ3OHFjZV9pT1loNUVWMkhiaFUyMzZrX3NWenVyTTJmdklRR1RWb09MN0tRYmpYc282TFB0d1BpQUs3T1ZuNVByM1BOWmpvRkdBTklsVERNRnJYckc0aQ?oc=5",
+          "hotness": 70
+        },
+        {
+          "title": "俄克拉何马州出现“AI 教师”私立学校",
+          "summary": "美国一所新私立学校宣布由 AI 担任授课教师，教育模式引发热议。",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbVlkcnVRdktQWTltTEFqb0ZHRi1HREdRT0ZOSXBUR0VqeE1BdlNVd1VmNEY0cmpyRTlJMDIwUmNxdzV5di1YUUFvaC1TNVR6YkZzeWNBOHVXTGEyNUdLNERZUHAxa1hXRmtBTkxtX1dCY05fUnhHaTZGLWF4S3oxcUlKQWxnTmhmTFBFQ2IyX3pWdVXSAZgBQVVfeXFMTjdXWTBuZzFrc2JJOTVXSzFLX0RHU1Ezc21KYk5xejRPelZqOHR0Q2JSX29RUXFVOHdPemJDeDdjSm9zTzcxZ21rc2JJUEhib2pUa1BEV25SOEJPWl9lZnZ2UDUzV1FxMTBkem82bUtFa3FyWERXUjFGMldUTmVlV01ibWx4RUpwVHJ0Nkh6ZTJad0w5c1I1Y3E?oc=5",
+          "hotness": 65
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "overview": [
+    "OpenAI被曝正测试下一代模型GPT-6 Astra，模型能力再次引发广泛期待。",
+    "OpenAI内部研究加速，编码智能体正在重塑AI研发流程并显著提升效率。",
+    "AI基础设施投资持续升温，英伟达、CoreWeave等巨头加码数据中心与能源布局。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "id": 4,
+          "title": "英伟达携手Lancium战略投资，布局超大规模AI算力园区",
+          "summary": "英伟达与Lancium达成合作并进行战略投资，将在15+GW的园区管道中部署AI基础设施，巩固算力主导地位。",
+          "hotness": 88,
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5LREFuQ1IyR1dzYlYtdE1pRzVaWFNESEZudVFqUk5TRkJ6cTZlNjRpS09ubE9kRWN3YlljcmlWNDZQN2ducEQwMWZwd2RsN2h0RDFKQ0dENzQwak4ycGtuQk13OXliR19zMHdkQV9QbWFNUDBEaVlVeWtB?oc=5",
+          "source": "Energies Media"
+        },
+        {
+          "id": 6,
+          "title": "亚马逊关闭曾被贝索斯称为“人工人工智能”的服务",
+          "summary": "亚马逊即将关闭Mechanical Turk等人工众包服务，该服务曾被贝索斯昵称为“人工人工智能”，如今走向终结。",
+          "hotness": 72,
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdUhfSF9WS1I1RHpXb1I0OVZPOFlYVEt0TFpLUWVhSlN0c3c3UGxNUDdlaWdGSzRvTzNPOUx3ekFxTlo5YUc5TkdDbF9kbWpwbWZmZ1d4VUlJR3FLQmhVUUV6STBlSjBDbnBIZnpOTm5POUh3UXFmc0Y5TWE1RGVPNV9MaGhDQmZwcGhPQm9Wc2F2Z0liV0Z3QlF4ZzFkckxzSWlFOElaREhqbDZh?oc=5",
+          "source": "Yahoo Finance"
+        },
+        {
+          "id": 9,
+          "title": "分析：AI基础设施竞赛的胜负将取决于混凝土",
+          "summary": "行业分析指出，AI竞赛已从算法延伸至实体基建，数据中心建设速度和物理资源将决定赢家。",
+          "hotness": 78,
+          "link": "https://www.eurasiareview.com/07092026-the-ai-infrastructure-race-will-be-won-in-concrete-analysis/",
+          "source": "Eurasia Review"
+        },
+        {
+          "id": 10,
+          "title": "Flex收购EPC Power，深化AI基础设施布局",
+          "summary": "Flex宣布收购EPC Power公司，以增强其在AI基础设施领域的电力与能源解决方案能力。",
+          "hotness": 70,
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNd29ObzBQUjRlOVlvODQtM2ZLMHg2cWxYeTc3UnRONzFlYVIyOWFTWDVzVTl3blZ1TUhvTXlQLXRqWVUtZ1VXelA4alM4ODVPckdobWkzSzEzZEpyUVY2OG5fU1pwX243dHBOQmtnb0VJcVRhdTdYWUxtcjFDMjl5THlLLUNZd3d0S1RWclFYRFU3M2tuUVlLTEVhZ3BoaTRCbzRHTklqUXkxOXNJQWV6NjdBdEl6SmFwX1lF0gHAAUFVX3lxTFBwM3RnaGd6UXNFbkFPVUhPRnNFamdTT3R3Mnh4VnpHM0IzWVFiVEtMWi1SRGxkWHVJSTl5VWRWUjdZNzVjNnJTbndqY25OVS1JNnV5N05ZSnZUUFlOY3dVTm5RQk1Dc0I3OE5MRWs4LXNOeGVnVTFCQ1J2b1YxMmJ2TWZnSlhGQzJhOHB5QTBFd3oyNkxMOVU5UDVWTHhjNmFvT0lMVjJHWERld2FsTGlKY1M4TTRmUmJ6Tzh5VklQMQ?oc=5",
+          "source": "simplywall.st"
+        },
+        {
+          "id": 11,
+          "title": "Arista Networks与IBM季度营收对比：AI巨头的财务竞赛",
+          "summary": "最新财报显示，Arista Networks和IBM在AI相关业务营收上呈现不同增长态势，引发市场关注。",
+          "hotness": 65,
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOaDUwZGZ6SC1LbzRjMW94OXBrLUdqNGdnWUxMRTVnN1kwZVFEVzJiTjZsZXVHUmZ1VV9oOUJmcWt2ejZYSVhsb1pYY2EyclI1NkY2VDktSWNKNHU1QTR3WFdta2lhWkNkNmI1ZWxwRXV3R0pIT3Z6YlVGMjBzaDBxZWg5bjdHbUJiZ2lXcTBIeHVtQ2V1Qmk5cXQxNWp4OVVrSTVhWkcxTDljYXEwNW5UTjV3Sk5JWl9Lajdzb1ZwVjNlRWZTODFrMXB4ekNkdlJyT0I4MkJvWEFTRG80Vk56Q2E3MmlZUQ?oc=5",
+          "source": "fool.com"
+        },
+        {
+          "id": 13,
+          "title": "追逐AI财富，投资者竞相抢购土地",
+          "summary": "随着AI数据中心需求爆发，投资者大量囤积土地以用于未来算力设施建设，土地成为抢手资源。",
+          "hotness": 74,
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdWdoTEJYSFJXNFNPcTAyd0IzaVI5NzNrUWxkMnFNU1VuZ3dySUNGRlg0MEotaURDZzZHRXl5QzR2VTIydWpEQlVhbzZCRVlyREI1OTRmV2ZoWUJuaTBuakVxWXNVUk5UcFkyUFpqLXFfU2xxM2d6T2tuM2l2TXppekpuX3lTQUhNdFotNGw1TlB0WklORnk1N3VZUU8?oc=5",
+          "source": "CNBC"
+        },
+        {
+          "id": 15,
+          "title": "CoreWeave投资60亿美元建设兰开斯特数据中心",
+          "summary": "云服务商CoreWeave宣布斥资60亿美元在兰开斯特打造超大规模数据中心，满足AI算力需求。",
+          "hotness": 82,
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORWJBaTY2akhyVlMxRUFQNWhTU2JXcjVhRXNvX2sxeTdLM242ZDU4SWNjSVE4bmFfSlF3TlAwa2RveFJJUzVweDlsak5ORURKRDNmU3JRMVZyMEZfX0tpX25OVDJvQTJ6cm9nNG5OMjh3WEpPWUJyM05fWklqV01FemxESDQ0RGVwRzVVZnlTaE1lNlczdlotemZWcTlzbWFKZ2d2MVA1bw?oc=5",
+          "source": "StartupHub.ai"
+        },
+        {
+          "id": 2,
+          "title": "AIG如何应用人工智能：行业实践研究",
+          "summary": "Emerj发布报告，分析保险巨头AIG在业务中部署人工智能的实践与成效。",
+          "hotness": 58,
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE44Qm54TXNwV290TmRGNGFlZVRWRDJPNTJqeHJlOWRvODl0by1BRlVaNFIzVFNzUEVnQWFZcGpHemJtaGU2YUY2SlpLNkFfMHlEbVFmaEVkMk5ZOGpScVE?oc=5",
+          "source": "Emerj Artificial Intelligence Research"
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "id": 19,
+          "title": "OpenAI被曝正在测试GPT-6 Astra模型",
+          "summary": "据知情人士透露，OpenAI已开始内测下一代模型GPT-6 Astra，预计将带来更强大的推理和多模态能力。",
+          "hotness": 100,
+          "link": "https://www.startuphub.ai/ai-news/artificial-intelligence/2026/peter-gostev-openai-tests-gpt-6-astra",
+          "source": "StartupHub.ai"
+        },
+        {
+          "id": 0,
+          "title": "OpenAI内部研究加速：编码智能体正重塑AI研发",
+          "summary": "OpenAI博客指出，编码智能体已在其研究流程中广泛应用，早期数据显示大幅提升实验与开发效率。",
+          "hotness": 92,
+          "link": "https://openai.com/index/an-alien-mind",
+          "source": "OpenAI Blog"
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": []
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "id": 8,
+          "title": "纽约市公立学校禁止生成式AI，引发专家激辩",
+          "summary": "纽约市教育部门决定本学年内禁止中小学使用生成式AI，教育专家就利弊展开讨论。",
+          "hotness": 76,
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa1ZWUWFnVjRxRHZsNEtJVWVOcjZxSkJZMlV6RVh5Wkc1M01wU1Q0SHg4Ni1QUW01ck13aHVIdmhOZFZkS2RGTE4xRFlSOE8wYVpoeFp5U2FEWWFZT1J3TTgtTWM5c3hRbVl4anNacGY3dzNuaVF4VjRqcEpsbEFacXNUYjBSSHQyWHdqQkxnZUNMYWdTRm16aks0TXIyS2ZSR1FSZ2l1Q0wtNFZaazB3WWxn?oc=5",
+          "source": "CBS News"
+        },
+        {
+          "id": 3,
+          "title": "研究AI影响的三孩父亲给家长的AI指南",
+          "summary": "一位研究AI影响的三孩父亲在《卫报》撰文，提醒家长关注孩子使用AI的风险与机遇。",
+          "hotness": 62,
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZUp6TVFuemZ5UmY1aXQ3a1dSRzhKTk5FbDRvUktyYkNPQnpEZFhJWjh3Ym1EamdrVVNWdkh4MEhyN0w0aVpWRi13THcyQkh2Q05xLUVZUDlaekt6aUF6LVlId2liVXVTZC1fa09aM3E4RWtYclBkeG5kUVFVOEQtaFI4X3laOFJNemlGUlI1RG0yY3NJc0RncU1sYVpvR2VNdV9nNlpoZ0FDUTc2ajhPX3pQeDBTN2FqT0M3Ylo5cGUwSzJnOE1lMVlNVQ?oc=5",
+          "source": "The Guardian"
+        },
+        {
+          "id": 16,
+          "title": "Apple Music要求AI生成音乐必须强制标注",
+          "summary": "Apple Music宣布将强制要求AI参与创作的音乐添加标签，提高透明度。",
+          "hotness": 79,
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQnhnSlFwWFhwUndEeGQxVzdWTzlmTjVBMTk4M3FpN2J1dTlsZllOeEFTc0I5NEdTQ0RuUXNYU0xVcWtxTVVmWXdGZjNhOEM1T2o5OGZxTzBfNVRhYzQwSEtwYXVscFVKTVdlaEVLdVpqTkdLakF3eWdUZmFLdzEteERuOEVqTU5xUC1DNUpYYUM5VXVQRUNzbk1QdmUwXzJ4SGtVMVlYR3RaTlhMTUFLRjZ3alBtUVIxcFJQdVFnR2ZWQnRrbkZ4OGt0LUVGZ9IB0wFBVV95cUxNU1Jad0hrQWg0WTZIMk9WbW95c0ZfMkRoTTVrOXlmV243MEVaM3NvSDJxeWRiRW1CaDc0YlRMNXlkNlZ3dkNacUNzUzdhWFctREFFR2ZKdnMxM2hQOXRaVGthQm9kVW1UMktvbUx0Y05OVGR6bzV1alhYR1RSRmR0Q3F3bEFjcnh0Rmdxd2gtNm9BOU1aX1lyejBjXzMxV0hJSGlEanFpazVLSFkxZkJXTTJaZy1tSEF1VDUySnkybk5DRjFreGVEb0hhRkxWa0NtSG00?oc=5",
+          "source": "The Apple Post"
+        },
+        {
+          "id": 17,
+          "title": "Saber Interactive声明《战锤40K：星际战士3》绝无生成式AI",
+          "summary": "面对玩家担忧，游戏公司高管明确承诺新作不采用任何生成式AI技术。",
+          "hotness": 68,
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUmFWS25rVzVpNlkyT0J0UXdsajZtbDRIWTBUb1pYMUJjZ3U2MC1QMUFaWXY3cE9SbG15ZE1vOFF4bF9Kcy1sVjE1QVBMNXdnTm8wRktDV3l5ZVI5cUt0bWswU2w5aTRCeDk1eVNHcHBrLUtFbVdXZTNZZHFrX1VBd3NiYVBIamtabVZqYUx6TUMzdkJGd0tmZENYVVdOeUxzUGUtR0VwQ1pTWDlYdGFMV25xTWJYbkhGcTFOc2NDc090Y1VkVkJ3Vg?oc=5",
+          "source": "PC Gamer"
+        },
+        {
+          "id": 20,
+          "title": "英伟达版权诉讼迎来关键法律节点",
+          "summary": "英伟达在AI训练版权诉讼中面临重要法律里程碑，或将影响行业AI数据使用规则。",
+          "hotness": 83,
+          "link": "https://simplywall.st/stocks/us/semiconductors/nasdaq-nvda/nvidia/news/nvidia-nvda-faces-key-legal-milestones-in-copyright-lawsuit/amp",
+          "source": "simplywall.st"
+        }
+      ]
+    }
+  }
+}

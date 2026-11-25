@@ -1,0 +1,149 @@
+{
+  "overview": [
+    "OpenAI发布GPT-5.6 Sol预览版，具备更强的编程、科学和网络安全能力",
+    "美国政府放宽对Anthropic Mythos模型的限制，允许部分公司和机构使用",
+    "新华社推出权威AI时政资讯智能体“新华语典”，AI智能体应用加速落地"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "title": "OpenAI预览GPT-5.6 Sol下一代模型",
+          "summary": "OpenAI发布GPT-5.6 Sol预览版，在编程、科学和网络安全方面能力更强，配备最先进的安全框架。",
+          "link": "https://openai.com/index/previewing-gpt-5-6-sol",
+          "hotness": 98
+        },
+        {
+          "title": "美国政府放宽对Anthropic Mythos模型的限制",
+          "summary": "美国政府允许Anthropic向部分美国公司和政府机构发布Mythos AI模型，此前因网络安全担忧而被限制。",
+          "link": "https://www.nytimes.com/2026/06/26/technology/anthropic-mythos-government-restrictions.html",
+          "hotness": 95
+        },
+        {
+          "title": "OpenAI限制GPT-5.6向可信合作伙伴推出",
+          "summary": "OpenAI推迟GPT-5.6的公开推出，仅向可信合作伙伴提供，美国政府寻求优先获取前沿AI模型。",
+          "link": "https://www.reuters.com/legal/litigation/openai-defers-public-rollout-gpt56-us-seeks-early-access-frontier-ai-models-2026-06-26/",
+          "hotness": 90
+        },
+        {
+          "title": "华为推出AI-OTN和AI-FAN解决方案",
+          "summary": "华为全新打造AI-OTN和AI-FAN解决方案，支撑运营商全面升级业务范式。",
+          "link": "https://www.huawei.com/cn/news/2026/6/mwcs-wbba-bdc",
+          "hotness": 75
+        },
+        {
+          "title": "瑞银：60%企业通过设立护栏机制控制AI支出",
+          "summary": "瑞银调查显示，60%的企业正通过设立护栏机制来控制AI相关支出。",
+          "link": "https://finance.caixin.com/2026-06-27/102458178.html",
+          "hotness": 70
+        },
+        {
+          "title": "美股AI应用软件股逆势走高",
+          "summary": "美股AI应用软件股在市场整体下跌的情况下逆势上涨。",
+          "link": "https://wap.eastmoney.com/a/202606263785081028.html",
+          "hotness": 65
+        },
+        {
+          "title": "A24为与Google的AI合作辩护",
+          "summary": "A24公司为其与Google的AI合作协议辩护，称宁愿在谈判桌上而非旁观。",
+          "link": "https://deadline.com/2026/06/a24-defends-google-ai-partnership-1236968675/",
+          "hotness": 60
+        },
+        {
+          "title": "高通挑战英伟达在AI芯片领域的主导地位",
+          "summary": "高通进行重大AI赌博，试图打破英伟达在数据中心AI芯片市场的垄断。",
+          "link": "https://fortune.com/2026/06/27/qualcomm-nvidia-ai-data-center-chips/",
+          "hotness": 75
+        },
+        {
+          "title": "OpenAI与博通推出LLM优化推理芯片",
+          "summary": "OpenAI和博通联合推出Jalapeño定制AI芯片，专为LLM推理优化性能、效率和扩展性。",
+          "link": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+          "hotness": 80
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "title": "OpenAI研究论文：智能体如何改变工作",
+          "summary": "OpenAI新研究论文展示AI智能体如何改变工作，支持更长、更复杂的任务，提升各岗位生产力。",
+          "link": "https://openai.com/index/how-agents-are-transforming-work",
+          "hotness": 85
+        },
+        {
+          "title": "GPT-5帮助免疫学家解决3年未解之谜",
+          "summary": "GPT-5 Pro帮助免疫学家Derya Unutmaz解决持续3年的免疫学谜题，为癌症和自身免疫研究提供新见解。",
+          "link": "https://openai.com/index/gpt-5-immunology-mystery",
+          "hotness": 80
+        },
+        {
+          "title": "科学家开发生成式AI新框架攻克虚拟染色配准误差",
+          "summary": "科学家开发生成式AI新框架，成功攻克虚拟染色技术中的配准误差难题。",
+          "link": "https://news.sciencenet.cn/htmlnews/2026/6/567252.shtm",
+          "hotness": 70
+        },
+        {
+          "title": "智谱AI接近美国顶级AI模型水平",
+          "summary": "CNBC报道称，中国智谱AI正在接近美国顶级AI模型水平，而Anthropic和OpenAI受到限制。",
+          "link": "https://www.cnbc.com/2026/06/26/china-zhipu-z-ai-open-source-anthropic-openai.html",
+          "hotness": 75
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "title": "Google发布Interactions API通用可用版",
+          "summary": "Google宣布Interactions API正式通用可用，这是Gemini模型和智能体的主要接口。",
+          "link": "https://blog.google/innovation-and-ai/technology/developers-tools/interactions-api-general-availability/",
+          "hotness": 75
+        },
+        {
+          "title": "智能体互联系列7项国家标准发布",
+          "summary": "中国发布智能体互联系列7项国家标准，旨在破解信息孤岛难题。",
+          "link": "https://www.stdaily.com/web/gdxw/2026-06/26/content_538215.html",
+          "hotness": 70
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "title": "新华社权威AI时政资讯智能体新华语典上线",
+          "summary": "新华社推出权威AI时政资讯智能体新华语典，正式上线提供服务。",
+          "link": "https://www.news.cn/politics/20260627/61377246f9cd4257914caa80649dc1f3/c.html",
+          "hotness": 85
+        },
+        {
+          "title": "AI生成5秒视频耗电相当于充电10部手机",
+          "summary": "国家能源局局长表示，AI生成5秒视频耗电量相当于为10部手机充电，需多维推进算电协同。",
+          "link": "https://m.21jingji.com/article/20260626/herald/4dc27b310b890868491963d53f9a9392_zaker.html",
+          "hotness": 75
+        },
+        {
+          "title": "AI写作将导致新闻语言和风格同质化",
+          "summary": "专家警告AI写作将导致新闻语言和风格出现同质化现象。",
+          "link": "https://www.stdaily.com/web/gjxw/2026-06/26/content_538157.html",
+          "hotness": 70
+        },
+        {
+          "title": "韩国政府组建跨部门机构应对涉AI犯罪",
+          "summary": "韩国政府组建跨部门机构专门应对涉及AI技术的犯罪行为。",
+          "link": "https://www.bjnews.com.cn/detail/1782528486129019.html",
+          "hotness": 65
+        },
+        {
+          "title": "OpenAI帮助建立先进AI共享标准",
+          "summary": "OpenAI通过Appia基金会帮助建立先进AI的共享标准，支持评估框架、安全实践和全球合作。",
+          "link": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+          "hotness": 70
+        }
+      ]
+    }
+  }
+}

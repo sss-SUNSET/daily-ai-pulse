@@ -1,0 +1,286 @@
+{
+  "overview": [
+    "OpenAI 发布 GPT-5.6 构建者指南并预览 14 倍速 Ultrafast 模式，新模型能力加速向开发者开放。",
+    "蚂蚁集团 CEO 预判智能体商业 6-12 个月爆发，支付宝发布国内首个智能体商业底座，Agent 应用落地明显提速。",
+    "OpenAI 与 NVIDIA 携手推进俄亥俄州 PORTS-Pike 大型 AI 算力园区，AI 基础设施军备竞赛升级。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "title": "蚂蚁集团CEO预判智能体商业6-12个月爆发，支付宝发布国内首个智能体商业底座",
+          "summary": "蚂蚁集团CEO韩歆毅称智能体商业将在6至12个月内爆发；支付宝同步发布国内首个智能体商业底座，加速Agent应用落地。",
+          "link": "https://www.bjnews.com.cn/detail/1786963295129991.html",
+          "hotness": 94
+        },
+        {
+          "title": "OpenAI与NVIDIA共同入局俄亥俄州PORTS-Pike AI算力园区",
+          "summary": "OpenAI宣布加入俄亥俄州PORTS-Pike项目并支持当地就业，NVIDIA则保证该园区独家托管其AI计算资源，巨头联合加码AI基础设施。",
+          "link": "https://openai.com/index/openai-joins-ports-pike-project",
+          "hotness": 90
+        },
+        {
+          "title": "Nvidia计划将AI芯片打入个人电脑",
+          "summary": "据纽约时报报道，Nvidia正计划将AI芯片带进PC市场，可能重塑个人计算体验。",
+          "link": "https://www.nytimes.com/2026/06/01/technology/nvidia-chips-personal-computers.html",
+          "hotness": 88
+        },
+        {
+          "title": "CNBC：中国出货人形机器人超美国，投资者AI押注分化",
+          "summary": "CNBC报道称中国人形机器人出货量已超越美国，同时投资者在AI赛道的押注方向出现分歧。",
+          "link": "https://www.cnbc.com/2026/04/21/china-humanoid-robots-us-investors.html",
+          "hotness": 85
+        },
+        {
+          "title": "AI资本开支疑虑缓解，美光、闪迪等存储股重估，芯片指数重返牛市",
+          "summary": "华尔街见闻指出，市场对AI资本开支的担忧缓解，存储芯片股获重新定价，带动芯片指数回升。",
+          "link": "https://wallstreetcn.com/articles/3779645",
+          "hotness": 82
+        },
+        {
+          "title": "营收增长13倍！AI大模型迈入“赚钱”阶段",
+          "summary": "川观新闻报道称AI大模型相关业务营收同比增长13倍，行业正从投入期走向商业化盈利。",
+          "link": "https://cbgc.scol.com.cn/news/7857851",
+          "hotness": 80
+        },
+        {
+          "title": "成都举办AI智能体供需对接会，推动智能体落地",
+          "summary": "成都通过对接会为AI智能体应用方与技术方搭建桥梁，加速智能体在真实场景中的落地。",
+          "link": "https://sichuan.scol.com.cn/ggxw/202608/83306671.html",
+          "hotness": 78
+        },
+        {
+          "title": "南理工“智能体矩阵”让知识产权服务“找上门”",
+          "summary": "南京理工大学推出智能体矩阵，将AI Agent用于知识产权服务，实现服务主动对接需求。",
+          "link": "https://jsnews.jschina.com.cn/jsyw/202608/t20260817_s6a82da98e4b0f3986ee86d85.shtml",
+          "hotness": 75
+        },
+        {
+          "title": "Gartner：2026年全球AI优化型IaaS支出增幅预计达96%",
+          "summary": "Gartner预测今年AI优化型基础设施即服务（IaaS）支出将接近翻倍，反映AI算力需求爆发。",
+          "link": "https://www.gartner.com/cn/newsroom/press-releases/2026-0817-gartner-forecasts-worldwide-ai-optimized-iaas-spending-to-grow-96-percentage-through-2026",
+          "hotness": 75
+        },
+        {
+          "title": "混合能源系统有望在AI数据中心大显身手",
+          "summary": "中国科技网报道，融合多种能源的混合系统或将成为AI数据中心降低能耗与保障供电的关键方案。",
+          "link": "https://www.stdaily.com/web/gdxw/2026-08/18/content_565108.html",
+          "hotness": 70
+        },
+        {
+          "title": "复旦微电上半年净利增三倍，发力AI创新领域",
+          "summary": "复旦微电发布中报，受益于AI相关业务，上半年净利润同比增长超过三倍。",
+          "link": "https://wap.eastmoney.com/a/202608183843623749.html",
+          "hotness": 65
+        },
+        {
+          "title": "成渝携手冲刺全国AI“第四极”",
+          "summary": "重庆市政府消息，成渝两地将深化AI产业合作，共同打造全国AI发展“第四极”。",
+          "link": "https://www.cq.gov.cn/ywdt/jrcq/202608/t20260818_15945197.html",
+          "hotness": 65
+        },
+        {
+          "title": "东阳光AI算力业务“增收不增利”，利润尚待兑现",
+          "summary": "中报显示东阳光AI算力业务收入增长但利润未同步，市场关注其盈利兑现进度。",
+          "link": "https://www.guandian.cn/m/show/586177",
+          "hotness": 60
+        },
+        {
+          "title": "陆挺：人工智能必然是中国经济最重要的增长动力",
+          "summary": "经济学家陆挺在2026博鳌全体大会上表示，AI将是中国经济未来最重要的增长引擎。",
+          "link": "https://www.guandian.cn/m/show/586188",
+          "hotness": 60
+        },
+        {
+          "title": "天津大学AI团队圆满完成南海部署应用任务",
+          "summary": "天津大学人工智能学院师生团队在南海完成AI相关设备部署与应用任务，验证了海洋场景下的AI能力。",
+          "link": "https://news.tju.edu.cn/info/1003/608219.htm",
+          "hotness": 55
+        },
+        {
+          "title": "AI重塑消费者购物方式",
+          "summary": "行业观察指出，AI正在改变消费者从发现商品到下单支付的整个购物链条。",
+          "link": "https://talkbusiness.net/2026/08/the-supply-side-ai-reshapes-how-consumers-are-shopping/",
+          "hotness": 55
+        },
+        {
+          "title": "中兴通讯AI沙龙：AI赋能千行百业",
+          "summary": "中兴通讯在AI沙龙上展示了AI赋能各行各业的技术路径与落地案例。",
+          "link": "https://news.qq.com/rain/a/20241018A066N900",
+          "hotness": 50
+        },
+        {
+          "title": "新华健康：2026西普会以AI范式革命穿越产业周期",
+          "summary": "西普会聚焦AI带来的范式革命，探讨健康产业如何借助AI穿越周期。",
+          "link": "http://jjckb.xinhuanet.com/20260817/8d53d952ed384a4da8f51aee1face089/c.html",
+          "hotness": 50
+        },
+        {
+          "title": "AI英才出南粤：一场不服输的“青春接力”",
+          "summary": "记者手记记录了广东AI人才辈出的现象，展现年轻AI从业者的奋斗生态。",
+          "link": "https://m.21jingji.com/article/20260818/9f6afe12f49bd58535de3a1626929122.html",
+          "hotness": 45
+        },
+        {
+          "title": "我为自己搭建了AI高管团队（Business Insider）",
+          "summary": "一位创意工作者分享用AI高管团队辅助经营小企业的经验，认为AI在特定任务上确实有用。",
+          "link": "https://www.businessinsider.com/how-artist-built-ai-c-suite-help-run-business-2026-8",
+          "hotness": 45
+        },
+        {
+          "title": "AI×非遗文旅：暑期亮点纷呈",
+          "summary": "AI技术为非遗文旅带来沉浸式新体验，成为暑期文旅市场一大亮点。",
+          "link": "https://www.yzwb.net/news/yw/202608/t20260817_383617.html",
+          "hotness": 40
+        },
+        {
+          "title": "宁夏：少年AI赛场展露锋芒",
+          "summary": "宁夏常态化开展科学教育，青少年在AI竞赛中展现了较强的创新与实践能力。",
+          "link": "https://www.stdaily.com/web/gdxw/2026-08/17/content_565289.html",
+          "hotness": 35
+        },
+        {
+          "title": "全民阅读与AI融合的新型公益学习基地落地",
+          "summary": "一个融合全民阅读与AI技术的公益学习基地在福建落地，探索AI+教育公益新模式。",
+          "link": "http://fjnews.fjsen.com/2026-08/17/content_32236964.htm",
+          "hotness": 30
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "title": "OpenAI 发布 GPT-5.6 构建者指南，并预览 14 倍速 Ultrafast 模式",
+          "summary": "OpenAI 面向开发者推出 GPT-5.6 构建指南，强调用更聪明的模型选择与 Responses API 提升智能体效率；同时预览基于 Cerebras 的 Ultrafast 模式，输出速度最高可达每秒 750 tokens、较标准版快 14 倍。",
+          "link": "https://openai.com/index/builders-guide-to-gpt-5-6",
+          "hotness": 98
+        },
+        {
+          "title": "“世界第一”成标配？具身大模型榜单林立背后的含金量",
+          "summary": "证券时报调查指出，具身大模型领域涌现大量“世界第一”榜单，但评测标准和含金量存疑，反映赛道火热与行业乱象并存。",
+          "link": "https://www.stcn.com/article/detail/4082136.html",
+          "hotness": 85
+        },
+        {
+          "title": "清华CISS：AI×Bio交叉融合加速科学发现，也需防范风险",
+          "summary": "清华大学战略与安全研究中心发文，探讨AI与生命科技结合如何加速科研突破，同时警示生物安全等潜在风险。",
+          "link": "https://ciss.tsinghua.edu.cn/info/new_sinoai/3296000027593",
+          "hotness": 75
+        },
+        {
+          "title": "Oracle 发布 Agentic AI 关键能力解读",
+          "summary": "Oracle 博客梳理企业级智能体的核心能力，涵盖规划、工具调用、记忆与自主决策等关键要素。",
+          "link": "https://blogs.oracle.com/ai-and-datascience/agentic-ai-strategy-oracle",
+          "hotness": 70
+        },
+        {
+          "title": "UCLA 研究者获 25 万美元资助推动 AI 可及性",
+          "summary": "UCLA 一名研究员获得 25 万美元拨款，用于推进 AI 无障碍与可及性研究。",
+          "link": "https://dailybruin.com/2026/08/17/ucla-researcher-awarded-250000-grant-to-increase-ai-accessibility",
+          "hotness": 60
+        },
+        {
+          "title": "AI 组织表彰 NMSU 研究者 20 年成就与青年科学家",
+          "summary": "新墨西哥州立大学多位研究人员因 AI 领域长期贡献和早期职业成就获得 AI 组织表彰。",
+          "link": "https://newsroom.nmsu.edu/news/ai-organizations-recognize-nmsu-researchers-for-20-year-milestones--early-career-success/s/866801ea-f8cc-47b9-8c1a-d18fbbaff7ce",
+          "hotness": 55
+        },
+        {
+          "title": "Baruch 学院表彰六名 AI 与社会研究学生",
+          "summary": "Baruch 学院为六名从事 AI 与社会交叉研究的学生颁奖，鼓励年轻学者关注 AI 的社会影响。",
+          "link": "https://newscenter.baruch.cuny.edu/news/baruch-honors-six-students-research-on-ai-and-society/",
+          "hotness": 50
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": []
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "title": "亚马逊等被曝销毁稀有书籍用于AI训练，多机构调查揭露",
+          "summary": "调查发现亚马逊正通过销毁稀有古籍获取AI训练数据，Ars Technica 用隐藏Airtag追踪到证据，TechCrunch、Forbes 等跟进，引发数据伦理和文化遗产保护争议。",
+          "link": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+          "hotness": 90
+        },
+        {
+          "title": "美国据报拟要求盟友在中美AI阵营“选边站”",
+          "summary": "美国之音援引报道称，美国政府准备要求盟友在中美两大AI体系间做出选择，全球AI地缘博弈升温。",
+          "link": "https://www.voachinese.com/amp/us-reportedly-preparing-to-press-allies-to-choose-between-washington-beijing-led-ai-coalitions-20260817/8187346.html",
+          "hotness": 85
+        },
+        {
+          "title": "加州调查马斯克AI公司，收到大量涉性内容投诉",
+          "summary": "加州监管机构接到大量关于马斯克旗下AI公司生成性内容的投诉后，已启动正式调查。",
+          "link": "https://www.kqed.org/news/12069808/california-investigates-elon-musks-ai-company-after-avalanche-of-complaints-about-sexual-content",
+          "hotness": 84
+        },
+        {
+          "title": "检方称AI影响了被控弑母杀弟的青少年",
+          "summary": "美国检方认为AI聊天机器人对青少年的影响是案件诱因之一，引发对AI与未成年人保护的讨论。",
+          "link": "https://mashable.com/tech/ai-play-role-double-murder",
+          "hotness": 82
+        },
+        {
+          "title": "WSJ：生成式AI让图书出版业陷入全面混乱",
+          "summary": "华尔街日报评论指出，AI生成内容正在冲击图书出版业，版权、质量与作者利益问题凸显。",
+          "link": "https://www.wsj.com/arts-culture/books/generative-ai-book-publishing-be79a287",
+          "hotness": 80
+        },
+        {
+          "title": "英国Sainsbury's门店因AI扫描误判顾客偷窃而暂停使用",
+          "summary": "Sainsbury's一家门店的AI扫描系统错误指控顾客“入店行窃”，引发争议后暂停使用该技术。",
+          "link": "https://www.theguardian.com/technology/2026/aug/17/humiliated-sainsburys-store-pauses-ai-scanning-after-false-shoplifting-accusation",
+          "hotness": 78
+        },
+        {
+          "title": "Trump关联加密公司投资提供受限中国公司AI的创企",
+          "summary": "一家与特朗普相关的加密公司投资了某创企，而该创企业务涉及来自受限中国公司的AI技术，引发政策关注。",
+          "link": "https://muscatinejournal.com/news/nation-world/business/article_d87eb3c8-1db0-5b93-8a99-629dcbbd272f.html",
+          "hotness": 77
+        },
+        {
+          "title": "OpenAI 发布网络安全报告《防御者的窗口》",
+          "summary": "OpenAI 撰文分析AI如何同时改变攻防格局，并为企业安全团队提供新形势下的防御建议。",
+          "link": "https://openai.com/index/the-defenders-window",
+          "hotness": 76
+        },
+        {
+          "title": "新奥尔良等多个城市试点AI 911接警员",
+          "summary": "新奥尔良加入多个城市行列，测试AI担任911紧急呼叫接线员，关于准确率与伦理的讨论随之而来。",
+          "link": "https://mashable.com/tech/911-dispatchers-ai-new-orleans",
+          "hotness": 75
+        },
+        {
+          "title": "OpenAI 资助14个AI政策研究项目",
+          "summary": "OpenAI 宣布资助14个独立研究项目，探索扩大AI经济机会、增强社会韧性的新政策思路。",
+          "link": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+          "hotness": 74
+        },
+        {
+          "title": "Mashable解读 Claude AI 文本水印的原理",
+          "summary": "文章解释了 Anthropic Claude 文本水印技术的运作方式，以及它在AI内容溯源中的意义。",
+          "link": "https://mashable.com/tech/what-claude-ai-text-watermark-actually-does",
+          "hotness": 72
+        },
+        {
+          "title": "WSJ评论：美国需要在AI领域转守为攻",
+          "summary": "华尔街日报刊文呼吁美国制定更主动的AI战略，以应对日益激烈的全球AI竞争。",
+          "link": "https://www.wsj.com/opinion/america-needs-to-go-on-offense-with-ai-54744c02",
+          "hotness": 70
+        },
+        {
+          "title": "堪萨斯城大学校长与教皇会面，探讨AI伦理",
+          "summary": "堪萨斯城一所大学校长在拜会教皇时，双方就AI伦理与科技向善展开交流。",
+          "link": "https://www.kctv5.com/2026/08/17/kansas-city-college-president-meets-pope-talks-ethical-ai-future/",
+          "hotness": 58
+        }
+      ]
+    }
+  }
+}

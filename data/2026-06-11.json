@@ -1,0 +1,101 @@
+{
+  "overview": [
+    "AI巨头商业合作加速：Visa与OpenAI合作推动AI电商支付",
+    "AI伦理与治理成为焦点：从就业冲击到虚假广告监管的广泛讨论",
+    "AI产业投资热度不减：多家公司获得融资并计划上市"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "title": "Visa与OpenAI合作推动下一代AI电商",
+          "summary": "Visa宣布与OpenAI合作，将其支付网络接入ChatGPT，让AI代理能够为用户购物和支付。",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNnhSb05qd01OSEljTlBIejRYSFZ2bDVGRDdJeFpmZnRlMEU3dGYtLTNMUkc5SXpfTmRYQk9FNDRrQUxiNHZIUmlRc0p0LTROLVl0UGVyU0V0ZGFBQ3dQSEtDRUJadUk4bjNMbnYtT1gyQU5neVh1TUt6YnZGS0h4WTVVMFlZUG9MeWw3X2ZRTG90TzVhMGJXZlp3Q3BTUTQ5NnlPdEVCTDk2X0Q4YVNacmV6RktPcW01TnBjd3hJTDJJSnhRUTI5Vi1ORQ?oc=5",
+          "hotness": 85
+        },
+        {
+          "title": "腾讯AI加速'建群'与美团Tabbit浏览器上线",
+          "summary": "腾讯加速AI群组建设，同时美团Tabbit AI浏览器上线百日，在竞争激烈的浏览器市场中寻求突破。",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8xNlItM1p1MlY5RlpJQ3piVXlzWmFzLTFudDk2NXd1cElTU0xCV1B2d0EzZ3VnYXczUlFOX3JwdC11ajZRVlViaDdUT0pnb1p6QTNuYmZNY3pyNnYzSVE?oc=5",
+          "hotness": 75
+        },
+        {
+          "title": "AniShort获近亿元融资刷新AI短剧工具纪录",
+          "summary": "AI短剧工具AniShort获得近亿元人民币融资，创下该赛道融资新纪录。",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB4QkV2dF9BN3NBVDFpeFhucmswY2JwVVV6OU5aNFhFbnpiRVVWU1ZWTWRSOXhMNmZsS0M2VjdXVmttRnVxa1lCT1VGRlJLRmdJRjJISWVsN0tNb2ZLYkx4RnptR2M3SFRuMnctZVlIRFhKY3FQ?oc=5",
+          "hotness": 70
+        },
+        {
+          "title": "SK海力士拟8月赴美上市",
+          "summary": "SK海力士计划8月赴美上市，搭乘AI热潮，SEC最快本月底批准其申请。",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE84SjVtNkhtYUVzNkZYdFR6MHc0ZS1yUWVHZXJCUmg3VTg1Y2h4dkc4clZqTU5DTzV6MUJSeHBVcnN4X3JrREQ1aw?oc=5",
+          "hotness": 65
+        },
+        {
+          "title": "中国科学院AI大模型第一股聆讯通过",
+          "summary": "京籍'中国科学院AI大模型第一股'聆讯通过，即将登陆资本市场。",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0yMXhETjV2OXA5TUVSTkZ0ckJxY1FCVGdnako5dGY3QUpWRHpzcEhtWl9faVNpLThnWmhTTHpSM3ZBT3ZzNHVIeE56a1ZGcjhHaFNuSjhkTThuQmNaTUV3V0hzbm1ycWJJVHJOYWx1NVA?oc=5",
+          "hotness": 70
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "title": "透视AI算力底座的'光速心脏'",
+          "summary": "探讨AI算力基础设施的核心技术，重点关注高速计算架构的发展。",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9TdHRZME80M2xmdDZ4OHlkMG9lWS1EU2d5ZDFYSnBiVzlTUUwyTTE4UDlTb3NlOEVQek8xalhUZmVSQkxGUkdSYnRvdzM0QXZrb3VjWkx5M2FsTk96YTZVUFJGRDl5WDR4czJtcg?oc=5",
+          "hotness": 60
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "title": "Databricks推出自适应AI服务平台",
+          "summary": "Databricks发布能够自适应不同模型的AI服务平台，为开发者提供更灵活的部署方案。",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBSNDZJRGNvZ3Q2NHVreF9Sd3Nkb0h3Ym10eTZ1NXhIbUU3ODBGaVU3MTk4YjVjNzVUUlhaY2RvQkhXTVJFdmlRazYtWUhIOV9xR1U5bDU1NGo3M3JabDdzVDFEZXRDRkdHVERUQ09lTUlPUFhnMGp4QQ?oc=5",
+          "hotness": 65
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "title": "AI冲击就业前景引发广泛讨论",
+          "summary": "专家热议AI对就业市场的影响，探讨谁将真正受益于人机混合劳动力时代。",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4tN1Y0WWRNdFJ3X0lnMWp2R0pCcGxsNUxRM3lfMExXYTZlN2dQTU94YmZHSENlQnV5WkxPRnVUcEx4ODgwT0NGZXVwMDcwTFVxSGRFMnRYdXBmSzAzSkE?oc=5",
+          "hotness": 80
+        },
+        {
+          "title": "律师因在诉讼中使用AI受到法官惩罚",
+          "summary": "法官发现诉讼双方律师均使用AI后对4名律师进行处罚，引发法律界对AI使用的关注。",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMTNuQVo3aGo1WDN3ZGptTEFNSWdlX3QxYTlWVlpzZXZJZHVwYWhrVGFlZThUUjRueVZpZTB1YUg1cHZRN1hFaVpGcFFxTzdnTEFsajhCOXI2Nl9MS1B6TWI1QUhwOUVNN19XaDV5SlY0cmp6RGFxVGRLeXNoT1FkTi1B?oc=5",
+          "hotness": 75
+        },
+        {
+          "title": "Anthropic CEO呼吁政府阻止危险AI",
+          "summary": "Anthropic首席执行官表示政府应该阻止危险的AI发展，强调AI治理的重要性。",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUGFPeVR2VldXM21VWDNBRFdaVEVtVDNwZDBCcnhzWmp1a3p2YTN3eGhUTE13TTRZMzhpckkza0QzRUxaZkJLQ3Q4UnY1U1JweTluZ19zNGdhZndyZW9SQ2JSWGd5dWRJQnJkb1ZhY0pCWmkwaTFkZnVZdTRLYnowMWNR?oc=5",
+          "hotness": 70
+        },
+        {
+          "title": "学术评判中'AI考官'能否被委以重任",
+          "summary": "探讨在学术评价体系中，AI评分系统是否能够承担重要评判职责的争议。",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9MUkVpcmx4cHFaa2V6STU5cDgtNHZkWjUxMldCZmdxMnBQMWNsZVduck9JXzQ0aTlqeE5MS3k1bWVfNzIyRmUxVnduVDN2ZnJKMnlSUXJBWm1pcmtZZ1dCRU1xVDBQSUMwLVFKTjFjblQ?oc=5",
+          "hotness": 65
+        },
+        {
+          "title": "别让AI虚假广告泛滥成灾",
+          "summary": "呼吁加强对AI生成虚假广告的监管，防止其对社会造成负面影响。",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9uSy1wQU1IVTkyT1h6SXdjRkcwM1BYcmx4MjUwcVRjdmNWcEdEaTZhRm83d25YRXFnTXhfVVdTSFAwWjN3UWdDRmpLdEQyazRTeTdiTWFUWElKOFlTcVFlSWtCR25FRjQyOGFGc0MtTjRyUlhQejY4?oc=5",
+          "hotness": 70
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "overview": [
+    "Google发布Gemini 4 Neon，一个月内第四款新模型并部分基准登顶，同时开放Genie 4世界模型与升级Gemini Agentic Task，模型与Agent能力密集迭代。",
+    "Anthropic完成史上最大规模IPO，首日大涨17%、市值约1.27万亿美元，AI资本热潮再度升温。",
+    "OpenAI预发布GPT-6.2 Astra被英国测试者发现更易越狱，新模型发布评价遇冷，安全与竞争争议同步升温。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "id": 42,
+          "title": "Anthropic完成史上最大规模IPO，首日大涨17%",
+          "summary": "Anthropic登陆纳斯达克完成史上最大规模IPO，首日收涨17%，市值约1.27万亿美元，七位创办人跻身亿万富翁。",
+          "hotness": 96,
+          "link": "https://www.ithome.com/1/029/708.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 39,
+          "title": "苹果正自研AI智能体，可操控设备、浏览网页和编写代码",
+          "summary": "彭博社称苹果正在开发自主AI智能体，计划让AI代替用户执行设备操控、网页浏览和代码编写，目标与OpenAI、Anthropic竞争。",
+          "hotness": 85,
+          "link": "https://www.ithome.com/1/029/750.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 50,
+          "title": "谷歌与蓝色起源合作，2029年发射AI服务器卫星",
+          "summary": "Google选定蓝色起源New Glenn火箭，计划2029年发射Project Suncatcher AI服务器卫星，探索太空算力基础设施。",
+          "hotness": 76,
+          "link": "https://www.ithome.com/1/029/695.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 35,
+          "title": "苹果iOS与macOS 27.3 Beta扩展Siri AI能力",
+          "summary": "苹果新Beta版扩展Siri AI，可读取Safari完整网页内容，并强化完全磁盘访问权限管理。",
+          "hotness": 75,
+          "link": "https://www.ithome.com/1/029/754.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 46,
+          "title": "吴泳铭称阿里2032年全球数据中心超20GW目标或下调",
+          "summary": "阿里巴巴CEO吴泳铭表示，全球各因素影响下，阿里2032年全球数据中心规模超20GW目标可能下调。",
+          "hotness": 72,
+          "link": "https://www.ithome.com/1/029/702.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 37,
+          "title": "微软携手英伟达升级云PC体验",
+          "summary": "微软与英伟达合作升级云PC，支持两路4K 60帧画面，并推动本地AI体验，预计2027年预览上线。",
+          "hotness": 70,
+          "link": "https://www.ithome.com/1/029/747.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 10,
+          "title": "OpenAI扩大科研人员对AI的访问",
+          "summary": "OpenAI宣布扩大科学家对AI的访问，推动AI在科学研究场景中的使用。",
+          "hotness": 68,
+          "link": "https://openai.com/index/expanding-chatgpt-for-academic-researchers/",
+          "source": "OpenAI"
+        },
+        {
+          "id": 54,
+          "title": "算力紧张升温：算力租赁涨停，半导体设备订单充足",
+          "summary": "算力紧张登上热搜并带动算力租赁板块涨停，多家算力与半导体设备公司称在手订单储备充足。",
+          "hotness": 68,
+          "link": "https://wap.eastmoney.com/a/202611183933859944.html",
+          "source": "东方财富"
+        },
+        {
+          "id": 52,
+          "title": "北京多所高校提供免费算力福利",
+          "summary": "北京多所高校推出免费算力福利，降低AI创新应用门槛，加速科研与教学场景落地。",
+          "hotness": 60,
+          "link": "https://education.news.cn/20261119/9d89a04128024b50bbf29f8469954757/c.html",
+          "source": "新华网"
+        },
+        {
+          "id": 63,
+          "title": "香港探索会“动手”的具身智能",
+          "summary": "香港推动具身智能应用落地，探索AI与机器人结合的执行能力。",
+          "hotness": 58,
+          "link": "https://www.news.cn/liangzi/20261119/41a2b5e8b96c4476a351a869c0ee5b4d/c.html",
+          "source": "新华网"
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "id": 13,
+          "title": "Google发布Gemini 4 Neon：一个月内第四款新模型",
+          "summary": "Google推出Gemini 4 Neon，号称速度达前代Carbon三倍并在部分基准登顶，延续Gemini模型密集发布节奏。",
+          "hotness": 98,
+          "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+          "source": "blog.google"
+        },
+        {
+          "id": 20,
+          "title": "Google向AI Ultra订阅者开放Genie 4世界模型",
+          "summary": "Genie 4世界模型面向AI Ultra订阅者开放，可生成可交互世界，强化Google在多模态与世界模型上的布局。",
+          "hotness": 95,
+          "link": "https://thenextweb.com/news/google-genie-4-project-genie-ai-ultra-world-model",
+          "source": "The Next Web"
+        },
+        {
+          "id": 40,
+          "title": "Gemini可直接操作Mac电脑，跨应用执行任务",
+          "summary": "macOS版Gemini上线Computer Use功能，可跨应用操作、制作PPT和填写表单，Agent能力从对话走向桌面执行。",
+          "hotness": 94,
+          "link": "https://www.ithome.com/1/029/749.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 17,
+          "title": "Google升级Gemini智能体Task模式",
+          "summary": "Gemini的Agentic Task模式接入新模型并增强电商功能，可更自主地完成多步骤任务。",
+          "hotness": 92,
+          "link": "https://siliconangle.com/2026/11/18/google-upgrades-geminis-agentic-task-mode-with-new-model-e-commerce-features/",
+          "source": "SiliconANGLE"
+        },
+        {
+          "id": 19,
+          "title": "OpenAI GPT-6.2 Astra预发布安全性受质疑，新模型评价遇冷",
+          "summary": "英国政府测试发现预发布版GPT-6.2 Astra比前代更易越狱；同期新模型发布评价不佳，Anthropic被指成为受益者。",
+          "hotness": 90,
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQa3B6NGY3Z0J6Vy1ESlJkeml4OTF6elE2SllsRlZQUkE0dFh6X3MzWWF1U1NsLWtrcHZoMy1FM0hRX2haUWxqT0lCZU9GRzZBZ0RfUm9RYzgtMENvamtla1N1RmZ4RGNjR3gzSkJCYXNpWWN2QWxYMWZzc1BZeWtEMDdjeVBlLWtXTkE0Ymp3NjhnaE5mOURZc2k1d0d6ankwNUI1TmU5U3ZpaVlaWjBQMk5wVFFjaWpkMHB5OGNibHh0dzJRMkNHNFNRZVRkWUVoT3ZwNXNn?oc=5",
+          "source": "VentureBeat"
+        },
+        {
+          "id": 43,
+          "title": "ChatGPT新增实时听写功能",
+          "summary": "ChatGPT上线实时听写，用户对着麦克风说话时语音可同步转文字，提升语音输入与交互效率。",
+          "hotness": 86,
+          "link": "https://www.ithome.com/1/029/707.htm",
+          "source": "IT之家"
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "id": 47,
+          "title": "微软Agent Framework PyPI包遭供应链攻击",
+          "summary": "微软官方PyPI包Agent Framework被劫持并植入窃取登录凭据的恶意软件，开发者需紧急排查。",
+          "hotness": 82,
+          "link": "https://www.ithome.com/1/029/700.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 25,
+          "title": "Perplexity推出Orchestrator API，支持模型路由与故障转移",
+          "summary": "Perplexity发布Orchestrator API，支持模型路由和故障转移，方便开发者构建稳定的多模型应用。",
+          "hotness": 78,
+          "link": "https://www.marktechpost.com/2026/11/19/perplexity-orchestrator-api-failover-model-routing/",
+          "source": "MarkTechPost"
+        },
+        {
+          "id": 28,
+          "title": "OpenAI演示Codex安全插件与PR扫描工作流",
+          "summary": "OpenAI展示Codex安全插件和PR扫描流程，帮助开发者在代码审查中自动发现安全问题。",
+          "hotness": 75,
+          "link": "https://openai.com/business/learn/codex-security-plugin-demo",
+          "source": "OpenAI Blog"
+        },
+        {
+          "id": 23,
+          "title": "Kaggle与Google推出免费Agentic AI课程",
+          "summary": "Kaggle联合Google上线免费Agentic AI课程，覆盖智能体开发实践与工作流。",
+          "hotness": 55,
+          "link": "https://www.kdnuggets.com/what-i-learned-from-kaggle-googles-free-agentic-ai-course",
+          "source": "KDnuggets"
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "id": 51,
+          "title": "联合国警告AI正被用于诱骗和剥削儿童",
+          "summary": "联合国警告人工智能正被用于诱骗和剥削儿童，呼吁加强平台治理、监管与保护措施。",
+          "hotness": 72,
+          "link": "https://news.un.org/zh/story/2026/11/1143231",
+          "source": "UN News"
+        },
+        {
+          "id": 2,
+          "title": "马斯克旗下公司就Grok图像诉讼否认责任",
+          "summary": "马斯克旗下公司就英国议员针对Grok生成图像的诉讼否认责任，AI生成内容法律责任争议升温。",
+          "hotness": 60,
+          "link": "https://www.bellinghamherald.com/news/business/article318159102.html",
+          "source": "Bellingham Herald"
+        },
+        {
+          "id": 61,
+          "title": "IMF总裁称AI将成全球竞争力和增长重要因素",
+          "summary": "IMF总裁表示AI将深刻影响全球竞争力与经济增长，政策制定需兼顾包容性与风险治理。",
+          "hotness": 60,
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBLUkFuSWNidlF1dnFsc2wzbjBWNzkwU3Fscld0bEJ2VHhWSjRQVUVNMnlKdGxSdEpJekwtN3gwOG92ak5rOThnUHlmdWt1RWJiN1lVU3lPMA?oc=5",
+          "source": "UN News"
+        }
+      ]
+    }
+  }
+}

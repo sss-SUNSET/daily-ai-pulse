@@ -1,0 +1,113 @@
+{
+  "overview": [
+    "AI技术在各行业加速落地，从医疗诊断到文旅体验再到硬件创新",
+    "AI伦理监管成为全球焦点，涉及军事应用、教育限制和内容治理",
+    "AI基础设施需求激增，推动芯片散热技术和电力供应创新"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "title": "AI玩具成为成都春熙路年货顶流",
+          "summary": "AI玩具在成都春熙路年货市场成为最受欢迎商品，显示AI产品在消费领域的普及。",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4yVy0zTGp2Q054aUQxSVFkWS1OY09KVWpGZm95YnowWkJkdkJldVo1UDZjUHZvZXpMSlB6REZDSUFwWlJaTjN1Sg?oc=5",
+          "hotness": 65
+        },
+        {
+          "title": "埃森哲因AI前景不明朗而受挫",
+          "summary": "埃森哲因业务展望恶化和AI未来不确定性而遭受打击。",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQmVDUUFrRlNQN2lic3pEYXlOZWdxZUdiWHNRXzU4RjdaRmVuUHIzWVlLNE9JUlVGZzRWcGFTeUcyVUVrTTdPWFRkRm5nUjVWT29Oc3gxdS0yemdId29TakFZa1JKMzFaZi1RLWlGNVF4ZGplM1d1Z21BZ3ZJYzh5eDlsMGVEOEJjN3Naa1Q2eW1KQVl1UVAxUnUwallNNHhtSnp3?oc=5",
+          "hotness": 70
+        },
+        {
+          "title": "这家公司可能成为AI推理领域的英伟达",
+          "summary": "有分析认为某家公司有望在AI推理领域复制英伟达的成功。",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTlZVNWdrNkRRSFhhSVVOS1huUEUzUnV2VDlXZ3FZSHhjZS1ad2JTTDRkQTVtUmktblpVNzJHZ3RBRGp6em1MZkhNMkNxY29zN2VTNTFLS2hqNW5vUHhtZ2MyLWgwTE00VlJ2dnMyTlFuRXpnVWpIVjZEdTJkb0R5cC1pOGFsZFZzblprNF9EcE1US281ejJrMA?oc=5",
+          "hotness": 75
+        },
+        {
+          "title": "AI公司免费清洁纽约公寓的背后原因",
+          "summary": "一家AI公司通过免费清洁服务来收集训练数据，展示新型数据获取方式。",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KYS1XT3E5aGp2NGZ2UFdsX3lsbmtZd2x4S19EbldDTU5VZV9LVlVkZTdjZnJYR3ZoMmNSZ04zV040Vk5fWUpaQjg5Y1p2NVRfMG5pS1JtbGotUQ?oc=5",
+          "hotness": 60
+        },
+        {
+          "title": "特朗普在Axios节目中谈论AI等话题",
+          "summary": "特朗普总统在独家采访中讨论了伊朗、古巴、以色列和人工智能等议题。",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE91S3piM2I1b3ZyUFg2N1Q3V1lRa3BMbkhnM2w4WWhqT3NWUmpfcDVfWHpOenFHUHFIcE5oMGRSTXRTZ1p5MnJhajJqNWhyNHlLdXdtVkhpMDJPNUtrdkFFU0U1ejBQTmhJR2pGSnV6dEFlVmk1?oc=5",
+          "hotness": 80
+        },
+        {
+          "title": "顶级AI加密货币5月上涨115%",
+          "summary": "某AI相关加密货币在5月份大幅上涨115%，引发市场关注。",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQU0JPcDR4Y3k5UW9lbGdxSFNiel9nbURoSndEazdDUjE1WXNVZFdoMkN2QndxOUszeFM3Si0xRW1xRExRZFBXbWZuYlMzYXNQMHV2VDRoSF9WZkZwYWlQTkxyWnVCcEtscFl0R3U3YjBYZ09XZEQ2QXExWXcxZno3NVFKakhhU0VHcFB0NG4xMGk?oc=5",
+          "hotness": 65
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "title": "AI模型帮助患者获得多年不确定后的诊断",
+          "summary": "研究表明AI模型能够帮助长期无法确诊的患者获得准确诊断。",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRk5nUS0zRm1lM0l6cEp5M1ZLRFREVXNoWVdkOUtsS0NZQkhacWJ3VlB1R3R1bkczWm10Z3Itd0VJd3EteWZEWVZwMUQ2ME1rM2RseFM1Tkwya0RWNEVBcWtDMXNtWGoteFBVekZIWTVXdEFoNlFheVRubGVubThoZ2h3eEY4c0V0cFM3Wm9zVkdoMnVmc0NiYnBZVXh5bE15QTczeEVn0gGrAUFVX3lxTE8xUE1KN3hMOGZFSXdrcmpfQkdvMXRGSkthd3ZCdjNNekxzclBWZG5FQ3A4NnpXUGhKd3NNNHZ1WVF1MGtuUlhoVXZ0dDZKZVRjSXZXZTloRDBJb1dreUFBcFhzTFVya1BweXhscVprT1hmTUtiSHBqRjM5S2swa2c5Zm5RVG5xNVNHRE81a0Etd2hrZUdsVTN3ZWRzaE82ekhmVmdrNzNBbHNYdw?oc=5",
+          "hotness": 75
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "title": "大西洋创建可搜索的AI训练音乐数据库",
+          "summary": "大西洋杂志建立了可搜索的数据库，公开用于训练AI的音乐数据。",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcUhwa20wWmhieWFrMi1xNDUxRTk0dEhmMHdqSkpHbVFiUTNUcHBoYXFoVHZKNTNfYWVKMzJyRGoycEMtZUZNV2lJTHVzVjFHeTZfUHFjUnhaMFpRdng0b09NN3EweXExM0h4dnFid0RpN2YtT2x2MVBrOV81NngyQTlWT1puRnBTZHhNaXpqY18yUTIwLTNpVmxLdjEwazJIdkNlelRDa1JtU3RDeGQtQ2Z1ZVY?oc=5",
+          "hotness": 70
+        },
+        {
+          "title": "In the Weights成为新的AI中心化虚荣搜索工具",
+          "summary": "TechCrunch报道新的AI中心化搜索工具In the Weights上线。",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZFg4aUtOMVBqdjk3blBxTEM3U2JqOVVQbzlwc0llcE1HMFItLXp5NVJjS18yd293cThOZDFXa0ludkZxanJoY2JlYWVfRmdCU1lqR2d3ZEw2M2ZyaHJQVnhuNk0xOWR4U1VNLS1OR0kwbC1FY0F6Z0tZWTZockpIcVpaMlRtZi1sQVY0RkdEYw?oc=5",
+          "hotness": 55
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "title": "日内瓦签署反对在战争中使用AI的联合宣言",
+          "summary": "多国在日内瓦签署联合宣言，反对在战争冲突中使用人工智能技术。",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRW9VQ2FyWWlGbDhGOWlJeVdaNnNOYVhHdnJCdnJzUG5FS0J3cUwyZEpYazByX2RraWlZeFFtZENDVXo3U2MzUV9pZG1TZ1p2MnFqRHZGTFNkUThxeEdiRmZfWm9EeTdWRnduWjZLei1Pbml6c1ZzMDBBWHo2YTNEbnhOeEluam5nemk1dzhYWXhwSjB2ZjlOVkpRbDhZUFNQNkJHdk9uakQwaGZuMjJJZUlTeERVdw?oc=5",
+          "hotness": 85
+        },
+        {
+          "title": "挪威在小学实施近乎禁止AI的政策",
+          "summary": "挪威对小学阶段使用人工智能实施近乎全面禁止的严格规定。",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUzcya0JiZ0dwTlpWbWpkVW9iejZMOXp5SmcxMnBoXzJuUkxrS2hQSEVaVFRZWVc5a2pTSVE1SWZFcEVHcEIzRVROWFlaRmlUUFBKYkJvWU9Tam9IQXFrRDl5cEtkSGFvOGx5VUo3U2ZuYnZlVHc5U3IyUzlmUmlCdlhjOXdhWEFZVUNCV2pTRlI?oc=5",
+          "hotness": 75
+        },
+        {
+          "title": "Better Business Bureau警告骗子使用AI制造虚假搬家公司",
+          "summary": "商业改进局警告称诈骗者利用AI技术让虚假搬家公司看起来更可信。",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMFVpSzA5SDlOSWRMUUhvNmlfWDYyYkZidUM0WWVBRXVyWGFqT01GbUpNaWlOZ0doUUt0TTQ4Z1VHdzNLQzVoYmFhZzR4MmpNaHRKVGNyZms2MDBESmpJXzBnVHNTMF93ck05NnRXenowLUx4LXhhUFRxYkhiU2dNXzQ1RWl4RHFaWEk2Rmp0enlkMlhNd3BVRkZUcnB5RmdMelJ6WThzcXNuWDdDRElZc0kxcU1CQkVMbXhMNm1RMlVxcC1qeXhTSjRPWHVnamdIT1ZkQUlOVTBXZ9IB3wFBVV95cUxORW9ieWg0V3I4Q3A3UlNHalQ2eHVCRmsyNzBnODljSnhNTGdIZmMwcmxFQjNNNF9hTTJWQkxKempueUN0a3oxVW0zS2VuaG9GY2JKczNIZmphRnA4VEpYNndNcjFKY2lPTmxJQWgxYjJ2MDU2MHFGUWNRZVY2SEgyWS1BX2F4YXA1WWlPMEVtcnJ1ZktiTlE3T0ZsWXdWRXFkRjFPMTVhckNEU3JiRzBYUy1paXRfLTRGN21TaE5zLWU4Ti1ucC1Zc3JxNlBmbjJGSXgxNDA5T1VSTzBjVm5Z?oc=5",
+          "hotness": 70
+        },
+        {
+          "title": "江西向虚假问诊和AI代开方亮剑",
+          "summary": "江西开出治理处方药零售乱象第一方，重点打击虚假问诊和AI代开方行为。",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB2Z1prNW9OTk9icVNQckpyOU9acWhSazA3WFpqbThKQ2VnWGR2cEhFS01sSWhsemR3V3lnUDQ4Y3kwT1VONWRVbXBn?oc=5",
+          "hotness": 65
+        },
+        {
+          "title": "涉AI应用乱象举报专线上线",
+          "summary": "短视频平台设立涉AI应用乱象举报专区，告别流量粗放时代。",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNm9DTTRJSDFZY3FsRm5OUHhnWXN1WmF5RWpWVktmbW84a25sd1JFSWRNcHJKbHZOYnZ4OUdneDV2NFd5cnN3OVk2RWtoZXIzb2dic09ZZDZyQ1ZZVW5HY09zMERjNlJLTHVyYmk0TmNQMzdkTVNfMXBITU5ZamxOakZaU0lHaktuMVBCc1k4ajE5TjZfQkhoSg?oc=5",
+          "hotness": 60
+        }
+      ]
+    }
+  }
+}

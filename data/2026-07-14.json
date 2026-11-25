@@ -1,0 +1,173 @@
+{
+  "overview": [
+    "OpenAI发布GPT-5.6，成为微软365 Copilot首选模型，性能与性价比大幅提升。",
+    "2026世界人工智能大会即将开幕，国家主席习近平将出席，多个智能体产品和行业应用集中亮相。",
+    "AI智能体在教育和产业领域加速落地：多所高校发布教学智能体，智能体原生手机面世。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "title": "GPT-5.6成为微软365 Copilot首选模型",
+          "summary": "OpenAI宣布GPT-5.6已作为微软365 Copilot的默认模型，在Word、Excel、PowerPoint等应用中提供更强AI能力。",
+          "link": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+          "hotness": 100
+        },
+        {
+          "title": "2026世界人工智能大会前瞻：习近平将出席并发表主旨讲话",
+          "summary": "2026世界人工智能大会将于近期举行，国家主席习近平将出席开幕式，大会将展示AI最新成果与治理讨论。",
+          "link": "https://www.edu.cn/xxh/zt/WAIC/202607/t20260714_2755757.shtml",
+          "hotness": 95
+        },
+        {
+          "title": "智能体原生操作系统+模型+个人智能体=真·大模型原生智能体手机",
+          "summary": "一款集成智能体原生操作系统和模型的手机发布，实现了个人智能体与大模型的深度融合。",
+          "link": "https://www.shobserver.com/news/detail?id=1144037",
+          "hotness": 95
+        },
+        {
+          "title": "同济大学与腾讯云共探AI赋能教育新范式：从“工具使用”到“智能体共创”",
+          "summary": "同济大学与腾讯云合作，推动教育场景从AI工具向智能体共创迈进。",
+          "link": "https://news.tongji.edu.cn/info/1006/95170.htm",
+          "hotness": 90
+        },
+        {
+          "title": "北京交通大学发布“BJTU 知行合一”教学智能体",
+          "summary": "北京交通大学推出教学智能体，直面AI时代教学困境，推动教育智能化。",
+          "link": "https://www.stdaily.com/web/gdxw/2026-07/14/content_546988.html",
+          "hotness": 90
+        },
+        {
+          "title": "“人工智能+医疗健康”智能体开发大赛启动报名",
+          "summary": "一场聚焦AI智能体在医疗健康领域应用的开发大赛正式开放报名。",
+          "link": "https://www.yzwb.net/news/ty/202607/t20260714_372027.html",
+          "hotness": 85
+        },
+        {
+          "title": "淡马锡计划2031年前将AI投资占比提升至15%",
+          "summary": "新加坡淡马锡宣布未来将大幅增加AI领域投资，目标占比达15%。",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE80WjduUk1nSlZYUmZfWVotb25hbkVLUVo0Q3VYTGRmSlpTb3RkOEc1YlNrZTJHTTJjak9pck90YVNfV0Z5SVhlWGswV1gtSG1wU1hfTmNZazlwRWplQWJEZkpB?oc=5",
+          "hotness": 85
+        },
+        {
+          "title": "中国AI初创公司DFSX发布芯片挑战西方",
+          "summary": "中国AI芯片新创DFSX推出自主研发芯片，意图与西方竞争对手抗衡。",
+          "link": "https://www.wsj.com/tech/ai/chinese-ai-startup-dfsx-releases-chip-to-take-on-the-west-ffc71526",
+          "hotness": 85
+        },
+        {
+          "title": "中企着力提升AI存储器产能",
+          "summary": "中国企业正加速扩大AI存储芯片产能，以满足国内AI需求。",
+          "link": "http://www.ah.xinhuanet.com/20260714/6d71cad73e644f3ab6915871902488b7/c.html",
+          "hotness": 80
+        },
+        {
+          "title": "AWS CMO谈如何利用AI智能体‘变得更人性化’",
+          "summary": "AWS营销官Julia White分享企业如何通过AI智能体提升客户体验和人性化服务。",
+          "link": "https://www.thecurrent.com/opinion/amazon-web-services-cmo-julia-white-ai-agents-more-human",
+          "hotness": 75
+        },
+        {
+          "title": "“碰一下原生新物种”AI智能伞发布",
+          "summary": "一款集成AI功能的智能伞面世，支持碰触交互等新颖特性。",
+          "link": "https://www.stdaily.com/web/gdxw/2026-07/14/content_547003.html",
+          "hotness": 70
+        },
+        {
+          "title": "Forbes 2026 AI 50榜单发布",
+          "summary": "福布斯公布2026年全球最具潜力人工智能公司榜单。",
+          "link": "https://www.forbes.com/lists/ai50/",
+          "hotness": 70
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "title": "OpenAI发布GPT-5.6：前沿智能，按需扩展",
+          "summary": "GPT-5.6正式发布，每个token提供更强智能，性能与成本效率大幅优化，支持更复杂任务。",
+          "link": "https://openai.com/index/gpt-5-6",
+          "hotness": 100
+        },
+        {
+          "title": "GPT-5.5生物漏洞赏金计划",
+          "summary": "OpenAI启动针对GPT-5.5的生物安全漏洞赏金计划，加强模型安全研究。",
+          "link": "https://openai.com/index/bio-bug-bounty",
+          "hotness": 85
+        },
+        {
+          "title": "中国农大发布神农大模型4.0与神农·农业世界模型1.0",
+          "summary": "中国农业大学同期发布两项农业AI重大成果，包括更新版大模型和首个农业世界模型。",
+          "link": "https://news.cau.edu.cn/zhxwnew/3d905b8538b24124941055ea4d5fb514.htm",
+          "hotness": 90
+        },
+        {
+          "title": "Mistral发布Robostral Navigate：单摄像头AI导航",
+          "summary": "Mistral AI推出基于单摄像头的AI导航系统，实现低成本视觉导航。",
+          "link": "https://mistral.ai/news/robostral-navigate/",
+          "hotness": 80
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "title": "AI & Tech Brief: 独家开源框架报道",
+          "summary": "《华盛顿邮报》独家报道一个新兴的开源AI框架，但具体细节未公开。",
+          "link": "https://www.washingtonpost.com/wp-intelligence/ai-tech-brief/2026/07/13/ai-tech-brief-exclusive-an-open-source-framework/",
+          "hotness": 60
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "title": "微软CEO萨提亚·纳德拉对使用AI的企业发出惊人警告",
+          "summary": "纳德拉警告企业应谨慎对待AI，强调其潜在风险和负责任的部署。",
+          "link": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
+          "hotness": 80
+        },
+        {
+          "title": "数百名经济学家警告：必须立即行动应对AI对经济和就业的冲击",
+          "summary": "数百名经济学家联名呼吁，要求政府和企业尽快采取措施应对AI带来的失业风险。",
+          "link": "https://apnews.com/article/ai-must-act-now-job-displacement-783469467e0df1463df44518f33295ee",
+          "hotness": 80
+        },
+        {
+          "title": "Cory Doctorow与AI和解：一位科技作家的转变",
+          "summary": "知名科技评论家Cory Doctorow撰文阐述自己如何从批判转向接受AI，引发热议。",
+          "link": "https://washingtonmonthly.com/2026/07/14/cory-doctorow-is-making-peace-with-ai/",
+          "hotness": 75
+        },
+        {
+          "title": "“亲密功能性”——定义AI监管下一年的关键词",
+          "summary": "Tech Policy Press分析‘亲密功能性’概念如何塑造未来一年的AI监管方向。",
+          "link": "https://www.techpolicy.press/intimate-functionality-a-phrase-defining-the-next-year-of-ai-regulation/",
+          "hotness": 70
+        },
+        {
+          "title": "律所最大的数据泄露风险：未经监管的AI智能体",
+          "summary": "Bloomberg Law指出，律师事务所在使用AI智能体时面临重大安全隐患，需加强管控。",
+          "link": "https://news.bloomberglaw.com/legal-exchange-insights-and-commentary/your-law-firms-biggest-breach-risk-is-an-unsupervised-ai-agent",
+          "hotness": 70
+        },
+        {
+          "title": "AI进课堂：孩子到底该怎么学？",
+          "summary": "关于AI教育应用的伦理讨论，探讨儿童如何正确使用AI学习工具。",
+          "link": "https://www.peopleapp.com/rmharticle/30052644494",
+          "hotness": 65
+        },
+        {
+          "title": "当机器人成为挚友，我们如何创造未来？",
+          "summary": "探讨人机情感交互与机器人伴侣的社会伦理挑战。",
+          "link": "https://www.shobserver.cn/news/detail?id=1143964",
+          "hotness": 60
+        }
+      ]
+    }
+  }
+}

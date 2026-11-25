@@ -1,0 +1,155 @@
+{
+  "overview": [
+    "2026世界人工智能大会闭幕：智能体手机、AI治理组织成立、开源大模型受关注。",
+    "Google发布“Frozen”AI芯片，意在提升Gemini效率，重塑AI硬件格局。",
+    "苹果Siri AI beta版推出，智能体在手机端落地加速。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "title": "2026世界人工智能大会闭幕：300余款新品首发，全球首个AI政府间组织成立",
+          "summary": "大会在沪闭幕，展示了300多项AI新品（包括多款AI智能体手机），宣布成立全球首个AI政府间组织，并强调开源共享和AI治理。",
+          "link": "https://www.chinanews.com.cn/cj/2026/07-21/10663271.shtml",
+          "hotness": 95
+        },
+        {
+          "title": "多款AI智能体手机在WAIC 2026上发布，是“炒概念”还是真需求？",
+          "summary": "多家厂商推出集成AI智能体的手机，引发市场对智能体应用前景和实用性的讨论。",
+          "link": "https://companies.caixin.com/2026-07-21/102466385.html",
+          "hotness": 90
+        },
+        {
+          "title": "Google计划推出新AI芯片“Frozen”，极大提升Gemini效率",
+          "summary": "内部代号“Frozen”的芯片旨在更高效地运行AI模型，降低能耗，为Gemini系列提供硬件支撑。",
+          "link": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+          "hotness": 90
+        },
+        {
+          "title": "苹果Siri AI beta版上线：7个值得尝试的新功能",
+          "summary": "苹果推出集成更强智能体能力的Siri测试版，在手机端实现更自然的交互与任务执行。",
+          "link": "https://mashable.com/tech/siri-ai-new-features",
+          "hotness": 85
+        },
+        {
+          "title": "月之暗面引爆AI交易变局，市场格局重塑",
+          "summary": "月之暗面公司的行动引发AI交易格局变化，分析指出新的赢家与输家出现。",
+          "link": "https://wallstreetcn.com/articles/3777493",
+          "hotness": 85
+        },
+        {
+          "title": "腾讯发布2026人工智能十大趋势报告",
+          "summary": "报告聚焦AI系统性进化，预测了AI在行业应用、治理模式等方面的发展方向。",
+          "link": "https://www.icloudnews.net/a/120139.html",
+          "hotness": 65
+        },
+        {
+          "title": "Ultrahuman前硬件VP融资550万美元，开发可控制AI代理的设备",
+          "summary": "新公司旨在制造不仅能记录、还能直接控制AI代理的硬件产品。",
+          "link": "https://techcrunch.com/2026/07/16/ultrahumans-former-hardware-vp-raises-5-5m-for-devices-that-control-ai-agents-not-just-record-you/",
+          "hotness": 60
+        },
+        {
+          "title": "国产AI大模型市场规模有望超700亿元，机构看好8只概念股",
+          "summary": "市场预测显示国产大模型产业高速增长，相关概念股受追捧。",
+          "link": "https://www.stcn.com/article/detail/4030874.html",
+          "hotness": 60
+        },
+        {
+          "title": "浦东新区印发《人工智能+生物医药产业集聚区建设方案（2026-2028年）》",
+          "summary": "政策文件推动AI与生物医药深度融合，打造产业集聚区。",
+          "link": "https://www.pudong.gov.cn/zwgk/qtzcxwj-kjwzcwj/2026/201/357965.html",
+          "hotness": 50
+        },
+        {
+          "title": "金蝶发布AI操作系统“灵基”，亮相华为云创想者大会",
+          "summary": "金蝶“灵基”旨在通过AI操作系统释放企业智能复利，赋能数字化转型。",
+          "link": "https://www.51cto.com/article/845898.html",
+          "hotness": 55
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "title": "直击WAIC 2026：“全球AI for ADANES核能智能体系”发布",
+          "summary": "新体系结合AI与核能技术，试图破解核安全与AI可解释性难题。",
+          "link": "https://www.cls.cn/detail/2430367",
+          "hotness": 70
+        },
+        {
+          "title": "Anthropic发布AI for Science罕见病研究资助申请",
+          "summary": "Anthropic开放资助计划，鼓励利用AI技术攻克罕见病。",
+          "link": "https://www.anthropic.com/news/rare-disease-research-grants",
+          "hotness": 55
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "title": "NVIDIA Agent Toolkit扩展：新增Omniverse库，让AI智能体构建仿真就绪世界",
+          "summary": "NVIDIA推出新的开源库，使AI智能体能够自动构建和操作仿真3D环境。",
+          "link": "https://nvidianews.nvidia.com/news/nvidia-agent-toolkit-expands-with-new-omniverse-libraries-putting-ai-agents-to-work-building-simulation-ready-worlds",
+          "hotness": 80
+        },
+        {
+          "title": "世界人工智能大会：开源共享国产大模型成为关注热点",
+          "summary": "大会展示了多个开源国产大模型，强调通过开放合作推动AI普惠。",
+          "link": "https://www.cqnews.net/web/content_1529024509310652416.html",
+          "hotness": 70
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "title": "习近平在2026世界人工智能大会发表讲话，强调培育健康AI生态",
+          "summary": "习近平提出全球AI治理的中国方案，引发热烈反响。",
+          "link": "https://www.jfdaily.com/news/detail?id=1147900",
+          "hotness": 80
+        },
+        {
+          "title": "美国AI安全局局长Chris Fall上任三个月后辞职",
+          "summary": "美国AI安全监管机构领导层动荡，引发对监管连续性的担忧。",
+          "link": "https://www.pymnts.com/personnel/2026/us-ai-safety-chief-chris-fall-resigns-after-3-months/",
+          "hotness": 75
+        },
+        {
+          "title": "DeepMind CEO呼吁成立独立AI标准机构监管前沿AI",
+          "summary": "Demis Hassabis提出建立第三方AI标准机构，以加强安全监管。",
+          "link": "https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/",
+          "hotness": 70
+        },
+        {
+          "title": "272位AI专家列出最紧迫AI风险：隐私、偏见与滥用",
+          "summary": "MIT Sloan联合专家调查揭示当前最受关注的AI安全隐患。",
+          "link": "https://mitsloan.mit.edu/ideas-made-to-matter/these-are-most-urgent-ai-risks-according-to-272-experts",
+          "hotness": 65
+        },
+        {
+          "title": "中国宣布向发展中国家免费开放AI技术资源",
+          "summary": "具体举措包括提供算力、数据集和模型等，体现AI治理的开放合作态度。",
+          "link": "https://k.sina.com.cn/article_7879996029_1d5af327d06801aqfu.html?from=tech",
+          "hotness": 65
+        },
+        {
+          "title": "国际社会积极评价：中国成为全球AI治理可信引领者",
+          "summary": "2026世界人工智能大会上，各方认可中国在AI治理方面的领导作用。",
+          "link": "https://www.stdaily.com/web/gdxw/2026-07/20/content_550299.html",
+          "hotness": 65
+        },
+        {
+          "title": "AI修改图像在观鸟论坛泛滥，危及鸟类学研究",
+          "summary": "《卫报》报道AI生成的假鸟类照片误导研究人员，呼吁加强验证机制。",
+          "link": "https://www.theguardian.com/environment/2026/jul/20/ai-slop-manipulated-fake-images-birds-citizen-science-aoe",
+          "hotness": 50
+        }
+      ]
+    }
+  }
+}

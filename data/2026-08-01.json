@@ -1,0 +1,57 @@
+{
+  "overview": [
+    "GPT-5.6 价格下调：OpenAI 正以更高效模型推动企业级 AI 规模化落地。",
+    "OpenAI 发布“丰裕智能”全栈方法论，强调让先进 AI 更经济、更普及。",
+    "OpenAI 打击利用 ChatGPT 实施的诈骗团伙，展示 AI 滥用治理能力。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "title": "GPT-5.6 价格调整：OpenAI 推进性价比前沿",
+          "summary": "OpenAI 下调 GPT-5.6（Luna 和 Terra）价格，以更高效的模型帮助企业大规模部署 AI 工作流。",
+          "link": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+          "hotness": 85
+        },
+        {
+          "title": "OpenAI 提出“丰裕智能”全栈方法论",
+          "summary": "OpenAI 强调通过全栈方式让先进 AI 更强大、更经济、更普及，推动能力与可负担性同步提升。",
+          "link": "https://openai.com/index/building-abundant-intelligence",
+          "hotness": 75
+        },
+        {
+          "title": "Univé 借助 ChatGPT Enterprise 构建 AI 就绪劳动力",
+          "summary": "荷兰合作保险机构 Univé 结合领导力、治理和员工创新，利用 ChatGPT Enterprise 实现规模化业务转型。",
+          "link": "https://openai.com/index/unive",
+          "hotness": 55
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": []
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": []
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "title": "OpenAI 公布欧洲负责任 AI 治理进展",
+          "summary": "OpenAI 介绍其在安全、安保、透明度和出处方面的实践，以配合欧盟《AI法案》推进负责任 AI。",
+          "link": "https://openai.com/index/advancing-responsible-ai-across-europe",
+          "hotness": 65
+        },
+        {
+          "title": "OpenAI 捣毁柬埔寨 AI 诈骗团伙",
+          "summary": "OpenAI 披露已成功破坏一个利用 ChatGPT 辅助投资、婚恋、赌博及冒充诈骗的柬埔寨犯罪网络。",
+          "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+          "hotness": 70
+        }
+      ]
+    }
+  }
+}

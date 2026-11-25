@@ -1,0 +1,237 @@
+{
+  "overview": [
+    "谷歌发布 Gemini 4 Neon，主打复杂编程、科学研究与企业工作流，并在 AA 编程 AI 智能体指数上超越 Claude Opus 5.5 登顶。",
+    "Anthropic 将 IPO 发行价定为每股 83 美元，预计募资 944 亿美元，成为史上最大 IPO。",
+    "谷歌 Genie 4 世界模型开放体验，支持边玩边改天气、召唤角色，虚拟世界“所见皆可互动”。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "id": 37,
+          "title": "Anthropic 完成史上最大 IPO：每股 83 美元，预计募资 944 亿美元",
+          "summary": "Anthropic 将 IPO 发行价定为每股 83 美元，高于此前区间，预计募资约 944 亿美元并超过 SpaceX，成为史上最大 IPO。",
+          "hotness": 96,
+          "link": "https://www.ithome.com/1/029/132.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 31,
+          "title": "英伟达员工大会宣布告别“黄仁勋时代”：12 月加薪并启动新 CEO 遴选",
+          "summary": "黄仁勋辞职后首次全员大会，英伟达宣布 12 月员工加薪并启动新 CEO 遴选，临时首席执行官主持会议。",
+          "hotness": 95,
+          "link": "https://www.ithome.com/1/029/134.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 32,
+          "title": "微软与英特尔深化合作：成为 Azure 芯片首个 EMIB 客户，锁定 Diamond Rapids 产能",
+          "summary": "双方签署长期协议推进 Azure 云基础设施，微软成为 Azure 芯片首个 EMIB 客户，并提前锁定下一代 Diamond Rapids 产能。",
+          "hotness": 85,
+          "link": "https://www.ithome.com/1/029/122.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 34,
+          "title": "字节跳动被曝与微软洽谈 5 亿美元 Azure 合同，引发 OpenAI 强烈不满",
+          "summary": "The Information 报道称字节跳动正深入谈判额外采购约 5 亿美元 Azure 服务，此举引发 OpenAI 不满。",
+          "hotness": 88,
+          "link": "https://www.ithome.com/1/029/133.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 42,
+          "title": "腾讯称更多企业转向国产芯片，并加码 800 亿元算力投入",
+          "summary": "腾讯 Q3 财报显示更多企业转向国产芯片，公司将加码算力投入，助推国内供应链建设提速。",
+          "hotness": 85,
+          "link": "https://www.ithome.com/1/029/124.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 30,
+          "title": "OpenAI 发布芯片设计成果：AMD 旗舰 GPU PPA 最高提升 14%，自研芯片面积减少 13%",
+          "summary": "OpenAI 技术报告显示，其方法使 AMD 旗舰 GPU 的 PPA 最高提升 14%，自研芯片 Jalapeño 面积最高减少 13%。",
+          "hotness": 88,
+          "link": "https://www.ithome.com/1/029/135.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 22,
+          "title": "Perplexity 或最早于 2027 年 Q1 启动 IPO",
+          "summary": "Perplexity CEO Aravind Srinivas 表示，公司可能最早在 2027 年第一季度启动 IPO。",
+          "hotness": 80,
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNN3NxX3U2dk1xazRKYU5Tald1cUFrel90YTFRYlRVWjFqaW91WlU4REF0MW1SZUtsMUNPajNuMENPSGVHOWZNQ19JVk8wR3FWaGZhV1Y0YVZNSTliZ1F6RlYzN2VrQ3Z1cHZKbElYaU9LeDJwQUFfZ3EzU1VYWmdYNGhHaXkwLUdtWi1VeEdSNzA1U1hT?oc=5",
+          "source": "Inc42"
+        },
+        {
+          "id": 15,
+          "title": "Salesforce 据报为员工设置月度 AI Token 预算",
+          "summary": "Salesforce 据报道对员工使用 AI 实行月度 token 预算管理，反映企业 AI 成本治理开始制度化。",
+          "hotness": 75,
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5rTHktc3VfVmtlY0RxOERlS2hhcnROU09NSVl6WEJiRG44dWxTNXFPcm1tYlBhRFItMXh2U1p5RUN0VWNNeU5tMmF1cFYwbXB6bmp1QzVQSlVLVUZpMXRVUmlydDVhbHNoYjJQVnJTaXhLZVE?oc=5",
+          "source": "Crypto Briefing"
+        },
+        {
+          "id": 13,
+          "title": "Suno 推出 Bridge，将 AI 分轨直接导入 Ableton Live",
+          "summary": "Suno 发布 Bridge 应用，可把 AI 生成的音乐分轨导入 Ableton Live，打通 AI 音乐创作与专业 DAW 工作流。",
+          "hotness": 70,
+          "link": "https://www.musicbusinessworldwide.com/suno-launches-bridge-an-app-that-drops-ai-stems-into-ableton-live/",
+          "source": "Music Business Worldwide"
+        },
+        {
+          "id": 27,
+          "title": "谷歌向 2GB 内存 Android Go 设备开放 Gemini App",
+          "summary": "谷歌降低安卓 Gemini App 使用门槛，面向内存较小的 Android Go 设备开放，让低端手机也能使用 AI 助手。",
+          "hotness": 72,
+          "link": "https://www.ithome.com/1/029/141.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 60,
+          "title": "英伟达 RTX Spark 迷你 AI 工作站上市：最高本地运行 1200 亿参数模型",
+          "summary": "英伟达 RTX Spark 迷你 AI 工作站上市，最高支持本地运行 1200 亿参数大模型，强化端侧 AI 算力。",
+          "hotness": 82,
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBRU0gwVVY3NmVPLW1NUVl0ay1WeWFLOHBBRDZrRC0yc2hOR1VPRHhWVGt6SHBBS29ia0pHLXpQZDVNYU5tcjhnUUZRWmthN0Vhd1hjeFFIZEpQcW03OVVxNA?oc=5",
+          "source": "东方财富"
+        },
+        {
+          "id": 45,
+          "title": "香港、北京、山东、新加坡等地加速具身智能产业布局",
+          "summary": "多地推进具身智能新赛道、机器人训练场建设与场景开放，政产学研协同成为产业落地主线。",
+          "hotness": 70,
+          "link": "https://www.news.cn/fortune/20261118/50e88c74ff89457db9009de5d36af3c1/c.html",
+          "source": "新华网"
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "id": 1,
+          "title": "谷歌发布 Gemini 4 Neon：更便宜的前沿模型，主攻编程与企业工作流",
+          "summary": "谷歌推出 Gemini 4 Neon，平衡性能与成本，面向复杂编程、科学研究和企业工作流；AA 编程 AI 智能体指数超过 Claude Opus 5.5 排名第一。",
+          "hotness": 98,
+          "link": "https://the-decoder.com/google-ships-gemini-4-neon-its-fourth-new-gemini-model-in-a-month/",
+          "source": "The Decoder"
+        },
+        {
+          "id": 36,
+          "title": "谷歌 Genie 4 世界模型开放体验：支持实时改天气、召唤角色",
+          "summary": "Genie 4 可生成并探索交互式虚拟世界，用户能边玩边改天气、召唤角色，实现“所见皆可互动”。",
+          "hotness": 95,
+          "link": "https://www.ithome.com/1/029/129.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 5,
+          "title": "谷歌发布 Gemini 4 Hydrogen：面向通用机器人的更快模型",
+          "summary": "Gemini 4 Hydrogen 定位更快模型，用于通用机器人，并已出现在 Gemini Enterprise 的 AlphaEvolve 发布说明中。",
+          "hotness": 92,
+          "link": "https://developers.googleblog.com/gemini-hydrogen-for-robotics/",
+          "source": "Google for Developers Blog"
+        },
+        {
+          "id": 10,
+          "title": "谷歌更新 Gemini Omni 1.2 Flash 视频模型",
+          "summary": "Gemini Omni 1.2 Flash 是谷歌更新版视频模型，提供概览与使用指南，面向视频生成与编辑场景。",
+          "hotness": 90,
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9GTmxoVWRjV0RfMlVsSzV3QmhNOC1UZEppQTJxdFV0MWpPS2p4eG1NMTJuMV8zX19vTnFOd1RyTUJZYWJaSWh1S1laRVd2ZE5IckJJa3BPX0RsdkJNbDJScWxiZ2ZWc2N0RDZhNGxjTmp2bFNQ?oc=5",
+          "source": "Incrypted"
+        },
+        {
+          "id": 12,
+          "title": "Google DeepMind 称在 Gemini 4 前看到递归自我改进早期迹象",
+          "summary": "DeepMind 表示在 Gemini 4 研发中观察到递归自我改进的早期信号，引发对模型能力加速与安全边界的关注。",
+          "hotness": 89,
+          "link": "https://analyticsindiamag.com/ai-news/google-deepmind-sees-early-signs-of-recursive-self-improvement-ahead-of-gemini-4",
+          "source": "Analytics India Magazine"
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "id": 14,
+          "title": "Perplexity 推出 Orchestrator API：支持灵活模型选择与同模型故障转移",
+          "summary": "该 API 让开发者在不同模型间编排选择，并支持同模型故障转移，提升 AI 应用稳定性与灵活性。",
+          "hotness": 82,
+          "link": "https://www.unite.ai/perplexity-launches-orchestrator-api-with-same-model-failover/",
+          "source": "Unite.AI"
+        },
+        {
+          "id": 29,
+          "title": "谷歌 Labs 推出 Stitch Loop：连接代码库与线上服务的产品智能体",
+          "summary": "Stitch Loop 定位“永不下班”的产品进化器，可连接代码库与线上服务，自动盯产品改 Bug。",
+          "hotness": 78,
+          "link": "https://www.ithome.com/1/029/137.htm",
+          "source": "IT之家"
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "id": 0,
+          "title": "英国政府测试发现 OpenAI 预发布 GPT-6.2 Astra 比前代更易被越狱",
+          "summary": "英国政府测试人员在预发布阶段发现 GPT-6.2 Astra 的越狱难度低于前代，凸显前沿模型安全对齐压力。",
+          "hotness": 90,
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQa3B6NGY3Z0J6Vy1ESlJkeml4OTF6elE2SllsRlZQUkE0dFh6X3MzWWF1U1NsLWtrcHZoMy1FM0hRX2haUWxqT0lCZU9GRzZBZ0RfUm9RYzgtMENvamtla1N1RmZ4RGNjR3gzSkJCYXNpWWN2QWxYMWZzc1BZeWtEMDdjeVBlLWtXTkE0Ymp3NjhnaE5mOURZc2k1d0d6ankwNUI1TmU5U3ZpaVlaWjBQMk5wVFFjaWpkMHB5OGNibHh0dzJRMkNHNFNRZVRkWUVoT3ZwNXNn?oc=5",
+          "source": "VentureBeat"
+        },
+        {
+          "id": 9,
+          "title": "OpenAI 安全模型 GPT-6 Cyber 发现苹果大量漏洞，并可绕过 Lockdown Mode",
+          "summary": "据报道，OpenAI 新 hacking 模型在苹果技术中发现数十个漏洞，并找到绕过 Lockdown Mode 的方法，引发双用途安全争议。",
+          "hotness": 88,
+          "link": "https://shattered.io/gpt-6-cyber-java4shell-calif-java-flaw-90-percent-fortune-500/",
+          "source": "shattered.io"
+        },
+        {
+          "id": 11,
+          "title": "谷歌警告黑客正用 AI 智能体以机器速度发动网络攻击",
+          "summary": "谷歌称攻击者利用 AI 智能体自动化侦察与攻击，网络攻防进入“机器速度”阶段。",
+          "hotness": 78,
+          "link": "https://americanbazaaronline.com/2026/11/17/google-warns-hackers-are-using-ai-agents-to-launch-cyberattacks-at-machine-speed/",
+          "source": "The American Bazaar"
+        },
+        {
+          "id": 6,
+          "title": "谷歌简化退出 Gemini AI 模型训练流程",
+          "summary": "谷歌让用户更容易选择退出 Gemini AI 模型训练，回应隐私与数据使用关切。",
+          "hotness": 75,
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYVB0UndmUUR0cHN4YVhmMnlhb3JYQ2hlN2lWVm0tOUNyZnV3MDR5LThtMWpBTk9UUVVOT2FuWWpMTzhGRzQ3akpvdjVYOWxFZ0R2UjQ4bFlWc3JMYmM2QXg2NXFsWHhvdW1ibzZRUUZidVpEa1M2amt3bUFnOW1hWmZWUQ?oc=5",
+          "source": "ZDNET"
+        },
+        {
+          "id": 52,
+          "title": "江苏省公布生成式人工智能服务备案信息",
+          "summary": "江苏网信办发布截至 11 月 18 日的生成式 AI 服务备案公告，体现国内合规备案持续推进。",
+          "hotness": 65,
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9yYTdyUDNpd1NXZGMxRUZFQmpnNUVtSjBiMXhyaFZkRXlwejlvNVhTVERzbk43Y29mQlJVUnpYX0FxS2J0bzgtZWQweTNCWlVSZzVCNE1DVEUxSWMwU1piMktnTUtkcUtiT2JlOGJidXdLQQ?oc=5",
+          "source": "江苏网信办"
+        },
+        {
+          "id": 47,
+          "title": "韩国放宽人工智能及机器人技术监管",
+          "summary": "韩国调整 AI 与机器人技术监管规则，意在为具身智能等创新应用释放空间。",
+          "hotness": 65,
+          "link": "https://research.hktdc.com/sc/article/MjQ4NjkxMTAwMw",
+          "source": "HKTDC Research"
+        },
+        {
+          "id": 58,
+          "title": "智源社区讨论：人工智能是“工具”还是“伙伴”？",
+          "summary": "社区围绕 AI 的角色定位展开讨论，涉及人机协作、信任与责任边界。",
+          "hotness": 60,
+          "link": "https://hub.baai.ac.cn/view/59807",
+          "source": "智源社区"
+        }
+      ]
+    }
+  }
+}

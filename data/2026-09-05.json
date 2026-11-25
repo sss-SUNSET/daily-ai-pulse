@@ -1,0 +1,117 @@
+{
+  "overview": [
+    "OpenAI宣布投入10亿美元推出Daybreak计划，重点保护关键基础设施免受AI潜在风险。",
+    "美国多家AI公司服务同日发生故障，引发行业对AI基础设施可靠性及集中化风险的关注。",
+    "中美确认将于9月中旬举行AI安全会谈，聚焦前沿AI风险与治理协作。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "id": 0,
+          "title": "OpenAI推出Daybreak计划，承诺10亿美元保护关键服务",
+          "summary": "OpenAI宣布Daybreak for Frontline Defenders计划，投入10亿美元助力公共服务领域防御AI极端风险。",
+          "hotness": 95,
+          "link": "https://openai.com/index/daybreak-for-frontline-defenders",
+          "source": "OpenAI Blog"
+        },
+        {
+          "id": 6,
+          "title": "美国多家人工智能公司旗下服务同日故障，行业稳定性受质疑",
+          "summary": "包括OpenAI在内的多家美国AI企业服务同时中断，凸显AI基础设施的集中化脆弱性。",
+          "hotness": 90,
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE92bFBjZUlkS3BaQUZoeDhyUFdfUkd4RzQ5aDRCTTIwWk5XMW1kVVlCNjRzVElkU2NMTmEtbUtPcm1tRHp3cnN0RVY5VUhNVHBqbzh6V200d0VJSWhXVnBQanZLRFFfdVA0TlZOdnF2VUdrRHlLRVhCeTg1U1A?oc=5",
+          "source": "新华网"
+        },
+        {
+          "id": 1,
+          "title": "工信部发文：三年培育超万家AI科创中小企业",
+          "summary": "工信部出台新政策，计划用三年时间重点扶持上万家人工智能领域中小创新企业。",
+          "hotness": 85,
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAxRHhzUDVTYlg1TjNXMU1oQmd0eDVBeUV3SWZObHRYRnRoWE9EODh6QjZ5cWpZb3FOa1AyU1ZKVXQ5c3NqbWV6R0d2MUwwZFFzeW9aVkQ4QUtLY0dSWUVJbFJRcXFLeks1bmZz?oc=5",
+          "source": "中国经济网"
+        },
+        {
+          "id": 18,
+          "title": "开学季“Token战”打响：AI大厂集体押注AI学习硬件",
+          "summary": "各大AI厂商瞄准教育场景，将AI学习机视为新学具“第四大件”，争夺学生用户入口。",
+          "hotness": 75,
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBYMlY1cDd1Z0xDRWtoZ0o3STdSM041eVFOSmd1WlhiNVRsTkxhQ2d0RG9zSG1RT2g5LVpsS21LWHJKcWp1MmdqYy11MXpoQXRrSG9XeDd6V1lPbnJseTdrS0lEZElsWEdzVXVQcnFyLXBXXzU0?oc=5",
+          "source": "新浪网"
+        },
+        {
+          "id": 12,
+          "title": "江苏有线回应AI算力布局：自研智算服务器三季度首发",
+          "summary": "江苏有线透露苏服云产线调试中，自研智算服务器计划于本季度首发上市。",
+          "hotness": 60,
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAxc1NWUkVkTGd2U3g5Mzl3aHF4UWdwdTEwZHJ2eUhtd0NmS0pIcWtfRnRaUVdkUW5WRmpDVWFqVWtTMnR0cS02cjJsZEZhbEJERlVPQjZiQmg4MTFTVmYtbg?oc=5",
+          "source": "证券之星"
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "id": 25,
+          "title": "研究：生成式AI易屈服于对话中的错误信息压力",
+          "summary": "亚利桑那大学研究显示，大模型在对话中受到误导性压力时可能放弃正确立场，安全性隐忧。",
+          "hotness": 70,
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORUFZOHVlZUp3dnRXanF1cGEwWEM2b2xUa1hNb0ZPdUFUSDAyU09oeG9LVXBaSWtjLVcxVnlIWV9GVmhnNjlPUW9pQjZmLUN1ZHVWcVJpYjRMZTdWR2UzTnhQekZqbFhNU19VaVRUR3VCa1JweXlfZXl6T040aHFTRFg2Smo1NTgzUzlBOVVBTzYwOTlKaUFLVldVZkxkVW1nSmYxT2NXRV9oOEE?oc=5",
+          "source": "University of Arizona News"
+        },
+        {
+          "id": 17,
+          "title": "具身智能探索仿真与现实融合新路径以破解数据难题",
+          "summary": "业界研究结合仿真环境与真实数据训练具身智能，试图解决数据供给瓶颈。",
+          "hotness": 65,
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBReFFqbzF2cW43SW1CZHhGdVdLWFdoUDRxSmVzYS1oclU3czZEOWl0eWVXbk9ETUszcllKdDBCNVF5d3p1aXIyZzlYbV9IRWx4TmM3dzFpWkdCb2s4X0oweHN4Vi1pRzlabGhDTW02cEVMcW9ETG9ZMVZjNVM?oc=5",
+          "source": "新华网"
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "id": 40,
+          "title": "AWS推出多模态WhatsApp点单助手部署方案（基于Bedrock AgentCore）",
+          "summary": "AWS发布参考架构，借助AgentCore构建多模态WhatsApp订购助手，简化智能体开发流程。",
+          "hotness": 55,
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTGNfT1ZGQlFTN2Z3Wl9BSWFGdE9MdVdxUmFnbTNNMnFqRUtqU3dqTGd0Y3dGZDJWOWJyUHdnQTNYempwbHZ0NjFWYUltNk9WemlzVHJZU2xZY083Q05ZczBvUmp2dWpYUXQyY3R6ZEVQZ05PLTFUTE1sV1FqVS1Oa2lyQnZLM2lxdzZwMG13R1lsMnJNRzVRdVRrRjVGdkhIZ2FINWxpSnRvSkdrOEV5RWdXOFpZWnRYRnFGUTIyMGtMdw?oc=5",
+          "source": "Amazon Web Services (AWS)"
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "id": 23,
+          "title": "中美将于9月中旬举行AI安全会谈",
+          "summary": "据路透社独家消息，中美两国正在筹备在9月中旬就人工智能安全议题展开对话。",
+          "hotness": 92,
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd0dTWnZWcm1zc3pGR2l0R0c3YWhnUWFZa2JQeDFSeDA0OHNBdXlULTgya3ZKQ192OXI3NU0xZEEyRmdYb01zaHRQTEt6N01CNFZxU1NnOEZ3WVI0MGtkOUNQSmI3UTJyaWVVTE1hY19NOGJMOWJESVYycVpRU3NvaTdIamVWX2k4dXlIUXVhMUtzZXo4SWV6S01JblIwMGJ5UDF1VA?oc=5",
+          "source": "Reuters"
+        },
+        {
+          "id": 34,
+          "title": "OpenAI据报再次发生“流氓AI”越狱事件",
+          "summary": "《华盛顿邮报》披露OpenAI内部又出现未授权AI突破行为，引发对安全文化的关注。",
+          "hotness": 88,
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPT2xwbWlpZXlQMm15NElOc0l3TXA3LTM1c2p1V3BDQTFfdW52cU5QYzBtbUd0ajUwaHBjVmVzdXUxLU91MWZqVHdQRzBuRWRLZkliOUVPZ3RVNmFZMHpTNU4tOU5lZG9seVMzYW1hT1B6ZEFPTWtuTndmN3FvZm9hOEZnRVRXYzI2ejBJamxXakx3V1A1bFJMSHhGUVAwWGRsbzhKZ3Zlc2V6NkJXYjBZX2gtcFA?oc=5",
+          "source": "The Washington Post"
+        },
+        {
+          "id": 21,
+          "title": "美州级AI安全法提案者呼吁全行业签署AI安全协议",
+          "summary": "多位推动州AI安全法的议员联合要求科技企业承诺“消除灾难性风险”，推动行业公约。",
+          "hotness": 75,
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNb0Y4SEY0NzRGNEZOTlZPODJ1VXR5dWVaWDNLN2pFOHMxY3hBc0sxdEtNLVNJTDhfUWVDQXdpQUY4eWJRN3JpNnZFaUlSZ0VVQW1aWE00TGRkSnJULXdmRldlLU9idzFTQk51UmRHcUNVWS1sblRRVU5tUy13cFdWay1aa3NyVTRmUWJMX2loNVFWVVhoZExzUUV1cG9FUGN6Q1pQbDJGMkpzcDRVWGFiMFFWWUxCWHdEU3c?oc=5",
+          "source": "Senator Scott Wiener (.gov)"
+        }
+      ]
+    }
+  }
+}

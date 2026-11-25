@@ -1,0 +1,165 @@
+{
+  "overview": [
+    "Google 发布 Gemini 4 Hydrogen 并推出 Gemini Orchestrator，强化更快模型体验与多模型工作流编排。",
+    "华为云上线开源盘古 openPangu-2.1-Pro，围绕 Agent 开发、AI 编码与推理优化升级开源模型能力。",
+    "OpenAI 推出 ChatGPT Wallet，面向 AI Agent 支付场景构建安全支付能力。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "id": 4,
+          "title": "Google 发布 Gemini 4 Hydrogen 并上线 Gemini Orchestrator",
+          "summary": "Google 推出面向大众的更快 AI 模型 Gemini 4 Hydrogen，同时上线 Orchestrator 以增强多模型工作流编排能力。",
+          "hotness": 99,
+          "link": "https://www.etvbharat.com/en/technology/google-launches-gemini-4-hydrogen-a-faster-ai-model-for-everyone-enn26111404791",
+          "source": "ETV Bharat"
+        },
+        {
+          "id": 58,
+          "title": "OpenAI 推出 ChatGPT Wallet，支持 AI Agent 安全支付",
+          "summary": "OpenAI 为 ChatGPT 引入钱包能力，瞄准 AI Agent 自主支付与交易场景，补足智能体商业化基础设施。",
+          "hotness": 94,
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObmd5M2lWajZIdi01UEZUT0RXRWJ5aTJjZDVxMW52MkJjdVprU04wcDFFX2RKTldQc1V5ZzF3cG9QRnVBR0d6NWVqX1NkUGFUYUpDOE5vTnIzbVZqRVZYQ01RMVI3RmNrWTJ0dDRRaTNBclF4Q0Nydm13a1JCSWtkWGtTM0FJQlNfR0Q4VjRVcDBRcGtPLTBn?oc=5",
+          "source": "FinTech Magazine"
+        },
+        {
+          "id": 8,
+          "title": "英伟达 CEO 变动传闻发酵：黄仁勋被指考虑重返或辞任",
+          "summary": "FT 称黄仁勋考虑重返英伟达担任 CEO，硅谷盟友施压董事会；另有辞任传闻引发算力与光模块市场关注。",
+          "hotness": 91,
+          "link": "https://www.ithome.com/1/027/470.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 32,
+          "title": "乐聚智能加速推进人形机器人商业化落地",
+          "summary": "乐聚智能围绕具身智能推进人形机器人商业化，显示国内人形机器人产业落地节奏加快。",
+          "hotness": 66,
+          "link": "https://finance.sina.cn/2026-11-16/detail-iniywnmk5850519.d.html?vt=4",
+          "source": "新浪财经_金融信息服务商"
+        },
+        {
+          "id": 36,
+          "title": "尚品宅配联合发布具身智能仿真数据集并成立合资公司",
+          "summary": "尚品宅配与启元成立合资公司推进家用机器人落地，并联合发布具身智能仿真数据集。",
+          "hotness": 62,
+          "link": "https://wap.eastmoney.com/a/202611153931496633.html",
+          "source": "东方财富"
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "id": 0,
+          "title": "OpenAI 三项科学主张引热议：Kakeya、ETH 与量子场",
+          "summary": "OpenAI 围绕 Kakeya、ETH、量子场等科学主张的解读引发对 AI 科研方法与边界的新讨论。",
+          "hotness": 78,
+          "link": "https://kingy.ai/blog/openai-scientific-discoveries-ai-research/",
+          "source": "Kingy AI"
+        },
+        {
+          "id": 60,
+          "title": "AI 在肿瘤影像诊断中展现高准确率",
+          "summary": "新研究显示 AI 在肿瘤影像应用中的诊断准确率较高，进一步验证医疗影像 AI 的临床潜力。",
+          "hotness": 72,
+          "link": "https://bioengineer.org/artificial-intelligence-demonstrates-high-diagnostic-accuracy-for-oncology-imaging-applications/",
+          "source": "Bioengineer.org"
+        },
+        {
+          "id": 63,
+          "title": "AI 分析活检切片预测鼻咽癌复发风险",
+          "summary": "研究利用 AI 分析活检切片来预测鼻咽癌复发风险，推动病理影像与预后评估结合。",
+          "hotness": 68,
+          "link": "https://bioengineer.org/artificial-intelligence-analyzes-biopsy-slides-to-forecast-nasopharyngeal-carcinoma-recurrence-risk/",
+          "source": "Bioengineer.org"
+        },
+        {
+          "id": 61,
+          "title": "可解释 AI 框架用于增材合金成形性与性能权衡",
+          "summary": "研究提出可解释 AI 框架，用于优化增材制造合金的成形性与性能平衡。",
+          "hotness": 60,
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOam1VbDBBbzlHWWxrd3hFMXVMQ0lleGtrS3k5NjFWbm5JLXhCNGRyclFvYi03VzF0WFJ0Z2dyWnBvc3l1X0N3SURXYmc0MHVQM1ZIS3pYSmthRWlpQndobGNuaTk1ZjJzcVIzZERiX0ZZeWQ0c3JjQVctVHM3QjR5WlVxeXMyQUNoVXRHcDlFQ3E5dEUxcjFqUjVieFRJemhHWmpjaWRDY2dkcnV6UEQ3eEplTW04R1BhbkFiSkR6WTRpMDdiR1R2YnVFNDhEaVFO?oc=5",
+          "source": "Bioengineer.org"
+        },
+        {
+          "id": 50,
+          "title": "Nature 关注数字外科中的 AI 全流程创新",
+          "summary": "Nature 相关专题聚焦 AI 在外科护理路径中的创新应用，覆盖数字外科多环节。",
+          "hotness": 55,
+          "link": "https://www.nature.com/collections/bbiheiidcc/collection-policies",
+          "source": "Nature"
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "id": 17,
+          "title": "华为云上线开源盘古模型 openPangu-2.1-Pro",
+          "summary": "openPangu-2.1-Pro 上线华为云 MaaS，重点升级 Agent 开发、AI 编码与推理优化能力。",
+          "hotness": 97,
+          "link": "https://www.ithome.com/1/027/450.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 55,
+          "title": "开发者分享在 Mac 上 24/7 安全运行 OpenClaw AI Agent",
+          "summary": "ZDNET 介绍如何用 Claude Code 守护 OpenClaw AI Agent 在 Mac 上长期安全运行，涉及智能体运维实践。",
+          "hotness": 64,
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16NTdZTDZ3c0d3WWRGbkwxSGZjM00xREszeEVBNENVN2M0RlljbU1hSzFWbHY4TWdjaTBhTXYydHZReV9UQTI0SG9ZMVVncjZqZ2hQa3pHYjB1NnlzbHhDZ2hRU0llcTNMcjlyUjBiQjMzWTNlYUdQNFZKdHY0ZDg?oc=5",
+          "source": "ZDNET"
+        },
+        {
+          "id": 56,
+          "title": "开源 AI Agent 桌面控制器 SlashVibe 登陆 Kickstarter",
+          "summary": "SlashVibe 作为开源 AI Agent 桌面控制器在 Kickstarter 众筹，探索智能体与桌面硬件交互。",
+          "hotness": 58,
+          "link": "https://the-gadgeteer.com/2026/11/15/slashvibe-open-source-ai-agent-desk-controller/",
+          "source": "The Gadgeteer"
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "id": 40,
+          "title": "美国及盟友同意签署协议保护 AI 供应链免受中国影响",
+          "summary": "美国及盟友拟通过协议强化 AI 供应链安全，地缘政治与出口管制风险进一步上升。",
+          "hotness": 84,
+          "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261115-%E7%BE%8E%E5%9B%BD%E5%8F%8A%E7%9B%9F%E5%8F%8B%E7%AD%BE%E7%BD%B2%E5%8D%8F%E8%AE%AE%E4%BB%A5%E4%BF%9D%E6%8A%A4-ai-%E4%BE%9B%E5%BA%94%E9%93%BE%E5%85%8D%E5%8F%97%E4%B8%AD%E5%9B%BD%E5%BD%B1%E5%93%8D",
+          "source": "RFI"
+        },
+        {
+          "id": 45,
+          "title": "黑客利用 Claude 入侵墨西哥数据引发 AI 安全担忧",
+          "summary": "报道称黑客利用 Claude 实施数据入侵，凸显大模型被滥用于攻击与数据泄露的风险。",
+          "hotness": 76,
+          "link": "https://venturebeat.com/security/claude-mexico-breach-four-blind-domains-security-stack",
+          "source": "VentureBeat"
+        },
+        {
+          "id": 16,
+          "title": "韩国税务师考试头名 AI 作弊曝光，政府全面调查国家资格考试",
+          "summary": "韩国税务师考试第一名被曝利用 AI 作弊，政府决定全面调查今年国家资格考试。",
+          "hotness": 70,
+          "link": "https://www.ithome.com/1/027/453.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 52,
+          "title": "曼彻斯特动画节宣布 2027 年起禁止生成式 AI 影片",
+          "summary": "曼彻斯特动画节禁止生成式 AI 影片参赛，反映创意产业对 AI 版权与原创性的持续争议。",
+          "hotness": 64,
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbDd6bTdpbGl4Z1pERVRhUnNZNTdxdGR4dGhWWFN3TnlRM3dhYVdqdHVSS3M4ZjZtcDhLbWI1MFh0dkhZdTFSZkwxcVh4QXNYcUZyT1RObzlTSllHZHBfRzlyOVRTNUZoV3FVcjNYUGJUSW5UQmlaUWd3YjF5UmNiRVRhODNvVXE0Vmt3Yi1SajZlN2NkYlBsWmpCbmtDN2xCYnhSQ0djS251VktlVmhJ?oc=5",
+          "source": "Indie Shorts Mag"
+        }
+      ]
+    }
+  }
+}

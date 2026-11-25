@@ -1,0 +1,83 @@
+{
+  "overview": [
+    "Meta正式发布个人AI代理Muse，能跨应用发送邮件、预订旅行和购物，被视为其在AI Agent赛道的重大布局。",
+    "小米推出MiMo桌面版，支持浏览器操控与预览界面生成，加速AI Agent入口竞争。",
+    "安全团队披露DeepSeek Harness的CVE-2026-82533漏洞，AI Agent沙箱可被逃逸，引发安全警示。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "id": 3,
+          "title": "Meta推出个人AI代理Muse，可跨应用完成邮件与订票等任务",
+          "summary": "Meta今日发布全新AI代理Muse，能够访问邮件、日历、旅行等应用，帮助用户发送邮件、预订行程和购物，官方强调易用性与隐私保护。",
+          "hotness": 97,
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPa0RtbWlkWWU2NWs0TWhieEFJdmlzVVUyQTlfNy1hR1U0TTladUJLdFZpakNrUUNJaHYzRlFHd0ZZMjdRV0t2bGpFbmZIaGU0TFNVNnJUTWZCYlprTF9YLWk2UlZtZ2RhQjBhOFhEZ2ZtTmFsb1NDd0RfOVAtX0ZxQ2twN3JWdTZxZnhTX2t4SDQ2TjBTWUx6S0hMR25JT09FMXZ2XzRwTW9vaVU5?oc=5",
+          "source": "The Verge"
+        },
+        {
+          "id": 0,
+          "title": "小米发布MiMo桌面版AI代理，支持浏览器操控和预览生成",
+          "summary": "小米MiMo桌面版上线，能自主操控浏览器，支持生成预览界面，进一步提升AI Agent本地化能力。",
+          "hotness": 85,
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYY19MemJDTWJjWlpPV3Jjb3UxNXFhYmFvcHMzb01obXBUMnBfNV9TSHdKNFZ4Vmg5UUlqNWE5bUxzNHp6U2pxVGVMZFhKUXRsNVBr?oc=5",
+          "source": "华尔街见闻"
+        },
+        {
+          "id": 13,
+          "title": "北德州大学获2000万美元捐赠，新设聚焦人工智能的学院",
+          "summary": "包括北德州大学在内的多所高校获大额捐赠，启动AI学位项目，以应对未来劳动力需求。",
+          "hotness": 50,
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQY0pNaERKOXNTb0VJb21fR1V5V0tNdFdfM1ZLZTZ1U2g4eXFzMEpTODBES2psU1FxcXJtaXJDWjE5WHA4RWZaQXJXWVZIZVA3bVQ1c0NEUi1sS0Z0YkpQVFJjWU8xOHlYUkVxZmVxd3VXMURMcWFOdFZJV0xzR0ZzSS1sR2txVXpZb1VmVjZlTnRlbFVWbW9TRjUyd08wYXNtRFFqbkg4bVV1dUFXSHhNVXh0alB6dkU1cy1TdmxHZnhkMzA5dThZVzk0c1FCV1JTV19PbjlkZmJSWkRoa0pNbDVkam84VkxoUVhmVkRR?oc=5",
+          "source": "WFAA"
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": []
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": []
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "id": 8,
+          "title": "DeepSeek Harness漏洞曝光：AI Agent可逃逸沙箱",
+          "summary": "CVE-2026-82533漏洞影响DeepSeek工具链，攻击者可让AI代理突破隔离环境，需紧急修补。",
+          "hotness": 90,
+          "link": "https://www.ox.security/blog/cve-2026-82533-deepseek-harness-ai-agent-sandbox-escape/",
+          "source": "OX Security"
+        },
+        {
+          "id": 4,
+          "title": "盖茨：AI动荡时代已至，当下选择至关重要",
+          "summary": "比尔·盖茨在Gates Notes发文，警告AI带来的变革潜力，呼吁人类做出关键决策。",
+          "hotness": 55,
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5",
+          "source": "Gates Notes"
+        },
+        {
+          "id": 17,
+          "title": "研究分析：生成式AI实际做什么工作？",
+          "summary": "一篇分析探讨生成式AI在工作中具体应用，帮助理解其劳动力影响。",
+          "hotness": 40,
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE53TmZBWmliZWRoLTYwWWpwUmVoYi1EakI0UzlyV2NtX0w0c3Nwalctd09hNF9YczA1QmItbWpyaDdnaWpwZ0pUZzlwRWVHUl9wQmpBd0VlelhzRGtxZXNjb05xb1Jzd3VRNlVNUw?oc=5",
+          "source": "Equitable Growth"
+        },
+        {
+          "id": 1,
+          "title": "华尔街日报评论：AI代理的卢比孔河时刻",
+          "summary": "文章评论AI Agent将跨越重大门槛，社会需预备其带来的深远影响。",
+          "hotness": 45,
+          "link": "https://www.wsj.com/opinion/the-ai-agent-rubicon-f1f81014",
+          "source": "WSJ"
+        }
+      ]
+    }
+  }
+}

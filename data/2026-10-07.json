@@ -1,0 +1,117 @@
+{
+  "overview": [
+    "Mistral AI 发布 Mistral Large 4 公开预览版，号称“欧美最强开源模型”并将于月底开放权重；OpenAI 同日公布未发布前沿模型攻破数百个数学难题，核心模型竞赛显著升温。",
+    "谷歌开源多模态嵌入模型 EmbeddingGemma 2，量化后仅 191MB 内存即可在手机端运行；Anthropic 则向更多安全团队开放最强 Claude 模型，AI 安全与端侧能力同步推进。",
+    "AI 算力基建持续狂热：英伟达市值达 5.8 万亿美元创历史新高，SpaceX 拟募资 400 亿美元采购 AI 芯片，谷歌与 Constellation 签下 3.59GW 长期电力协议。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "id": 13,
+          "title": "英伟达市值达 5.8 万亿美元，创历史新高",
+          "summary": "英伟达开盘后市值一度达到 5.82 万亿美元，距离 6 万亿美元仅一步之遥，AI 芯片需求继续推高资本市场预期。",
+          "hotness": 88,
+          "link": "https://www.ithome.com/1/010/109.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 4,
+          "title": "SpaceX 计划募资 400 亿美元，用于采购英伟达 AI 芯片",
+          "summary": "据《金融时报》报道，SpaceX 正计划募资 400 亿美元，资金将用于采购英伟达 AI 芯片，显示非传统科技巨头也在加码算力。",
+          "hotness": 86,
+          "link": "https://www.ithome.com/1/010/134.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 12,
+          "title": "AMD 股价创历史新高，CEO 苏姿丰称 AI 芯片需求非常旺盛",
+          "summary": "AMD 股价盘初涨近 3% 创历史新高，市值达 1.06 万亿美元；苏姿丰表示 AI 芯片需求旺盛，公司将持续大幅扩产。",
+          "hotness": 84,
+          "link": "https://www.ithome.com/1/010/114.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 18,
+          "title": "谷歌与 Constellation 达成 3.59GW 长期电力协议",
+          "summary": "谷歌宣布与美国能源企业 Constellation 达成总规模 3.59GW 的长期战略能源合作，为 AI 数据中心扩张提供电力保障。",
+          "hotness": 82,
+          "link": "https://www.ithome.com/1/010/063.htm",
+          "source": "IT之家"
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "id": 14,
+          "title": "Mistral AI 发布 Mistral Large 4 公开预览版，月底开放权重",
+          "summary": "法国 Mistral AI 推出 Mistral Large 4 公开预览版，宣称是“欧美最强开源模型”，并计划于月底开放模型权重。",
+          "hotness": 97,
+          "link": "https://www.ithome.com/1/010/108.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 1,
+          "title": "OpenAI 公布 AI 数学研究成果，攻破数百个悬而未决难题",
+          "summary": "OpenAI 在一批包含 722 份手稿、372 个结果家族的文件中，公布某款未发布前沿模型解决的多项长期数学难题。",
+          "hotness": 96,
+          "link": "https://www.ithome.com/1/010/137.htm",
+          "source": "IT之家"
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "id": 8,
+          "title": "谷歌推出 EmbeddingGemma 2：支持多模态，量化手机端仅 191MB 内存",
+          "summary": "谷歌发布 EmbeddingGemma 2，支持多模态嵌入，7.4 亿参数量化后可在手机端运行且仅需 191MB 内存，前代下载量已超 2000 万次。",
+          "hotness": 94,
+          "link": "https://www.ithome.com/1/010/125.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 5,
+          "title": "LibreOffice：短期内默认版本不内置 AI，用户可通过扩展接入本地模型",
+          "summary": "开源办公软件 LibreOffice 表示短期内不会在默认版本中内置 AI 功能，但允许用户通过扩展自行接入本地模型。",
+          "hotness": 68,
+          "link": "https://www.ithome.com/1/010/132.htm",
+          "source": "IT之家"
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "id": 7,
+          "title": "Anthropic 向更多安全团队开放最强 Claude 模型",
+          "summary": "Anthropic 扩大计划，允许经审核的网络安全人员在更少安全防护下测试其最强 Claude 模型，目前已挖出十几万个漏洞。",
+          "hotness": 92,
+          "link": "https://www.ithome.com/1/010/127.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 3,
+          "title": "美国司法部要求员工改称 AI 为“超级智能”",
+          "summary": "路透社看到备忘录显示，美国司法部指示内部工作人员在绝大多数场合，包括法庭文书中，将 AI 称为“超级智能”。",
+          "hotness": 76,
+          "link": "https://www.ithome.com/1/010/135.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 19,
+          "title": "亚马逊 Alexa 智能音箱出现诡异 Bug：无征兆哼唱数分钟",
+          "summary": "部分用户反馈亚马逊 Alexa Plus 语音助手毫无征兆地哼唱“啦啦啦”数分钟，官方已承诺修复。",
+          "hotness": 62,
+          "link": "https://www.ithome.com/1/010/048.htm",
+          "source": "IT之家"
+        }
+      ]
+    }
+  }
+}

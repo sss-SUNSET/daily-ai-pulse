@@ -1,0 +1,214 @@
+{
+  "overview": [
+    "Google 发布 Gemini 4 Hydrogen，主打快速低成本并面向编码与 AI Agent，同时接入 Antigravity 多模型编排，核心模型竞争再提速。",
+    "OpenAI 推出 ChatGPT Wallet，为 ChatGPT Work、Codex 等智能体提供安全支付能力，Agent 商业化基础设施补齐关键一环。",
+    "Meta 旗下 Muse 上线代打电话功能，付费用户可让 AI 智能体代联系美国商家，Agent 正从信息助手走向现实事务执行。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "id": 9,
+          "title": "OpenAI 推出 ChatGPT Wallet，为智能体提供安全支付",
+          "summary": "OpenAI 推出 ChatGPT Wallet，为 ChatGPT Work、Codex 等智能体提供安全支付方式，补齐 Agent 执行交易的基础设施。",
+          "hotness": 95,
+          "link": "https://openai.com/index/introducing-chatgpt-wallet",
+          "source": "OpenAI Blog"
+        },
+        {
+          "id": 20,
+          "title": "Meta 旗下 Muse 上线代打电话功能",
+          "summary": "Meta 旗下 AI 智能体 Muse 推出代打电话功能，高级订阅用户可让 AI 代自己联系美国商家，Agent 落地现实事务。",
+          "hotness": 92,
+          "link": "https://www.ithome.com/1/027/238.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": [
+            13,
+            14,
+            21,
+            23
+          ],
+          "title": "黄仁勋辞任英伟达 CEO 引发请愿与声援风波",
+          "summary": "黄仁勋辞任英伟达 CEO 后，请愿复职人数突破 12 万、马斯克声援，英伟达副总裁辟谣公开信并支持董事会和临时 CEO。",
+          "hotness": 90,
+          "link": "https://www.anthropic.com/research/building-strong-safety-evaluations"
+        },
+        {
+          "id": 48,
+          "title": "OpenAI 解散独立机器人团队",
+          "summary": "OpenAI 解散独立机器人团队，引发具身智能是否仍需“专属大脑”的讨论。",
+          "hotness": 85,
+          "link": "https://www.cls.cn/detail/2534550",
+          "source": "财联社"
+        },
+        {
+          "id": 12,
+          "title": "SpaceX 星舰首次机械臂回收，马斯克推进 AI 数据中心星座",
+          "summary": "SpaceX 星舰首次用发射塔机械臂捕获回收飞船，马斯克同时推进 AI 数据中心星座建设。",
+          "hotness": 80,
+          "link": "https://www.ithome.com/1/027/253.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 11,
+          "title": "国产算力巨头超聚变创业板 IPO 过会",
+          "summary": "前华为 X86 服务器业务超聚变创业板 IPO 过会，国产算力资本化提速。",
+          "hotness": 78,
+          "link": "https://www.ithome.com/1/027/255.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 46,
+          "title": "AI 算力供不应求，中芯国际逼近满产",
+          "summary": "AI 算力需求持续供不应求，中芯国际产能逼近满产，芯片制造端承压扩张。",
+          "hotness": 76,
+          "link": "https://www.guancha.cn/CaiJing/2026_11_14_908230.shtml",
+          "source": "观察者网"
+        },
+        {
+          "id": 32,
+          "title": "港股大模型双雄遭“杀估值”，空头资金加速撤退",
+          "summary": "港股大模型双雄遭估值回调，但空头资金却在加速撤退，市场对 AI 资产分歧加大。",
+          "hotness": 68,
+          "link": "https://www.cls.cn/detail/2477915",
+          "source": "财联社"
+        },
+        {
+          "id": 37,
+          "title": "联想把“词元工厂”开进张家口",
+          "summary": "算力紧俏背景下，联想在张家口布局“词元工厂”，加码算力基础设施。",
+          "hotness": 66,
+          "link": "http://news.10jqka.com.cn/20261115/c681827580.shtml",
+          "source": "同花顺财经"
+        },
+        {
+          "id": 45,
+          "title": "香港昼夜赶工打造大湾区超级算力枢纽",
+          "summary": "香港昼夜轮班抢工建设大湾区超级算力枢纽，区域算力竞赛升温。",
+          "hotness": 62,
+          "link": "https://m.sohu.com/a/1101701761_119038?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+          "source": "Sohu"
+        },
+        {
+          "id": 8,
+          "title": "UiPath 参与 Google Cloud Gemini 医疗健康发布",
+          "summary": "UiPath 参与 Google Cloud Gemini 医疗健康发布，AI 自动化进一步进入医疗场景。",
+          "hotness": 60,
+          "link": "https://www.ad-hoc-news.de/boerse/news/corporate-news/uipath-stock-joins-google-cloud-gemini-healthcare-launch/70506878",
+          "source": "ad-hoc-news.de"
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "id": [
+            2,
+            5,
+            7
+          ],
+          "title": "Google 发布 Gemini 4 Hydrogen，并接入 Antigravity 多模型编排",
+          "summary": "Google 发布 Gemini 4 Hydrogen，定位快速低成本，面向编码与 AI Agent，并加入 Antigravity 多模型 Orchestrator。",
+          "hotness": 98,
+          "link": "https://www.anthropic.com/research/building-strong-safety-evaluations"
+        },
+        {
+          "id": 28,
+          "title": "前 Anthropic 研究员称重训 Mythos 只需初始一小部分算力",
+          "summary": "前 Anthropic 研究员考克森称，如今重训 Mythos 只需初始一小部分算力，训练效率与模型复现门槛引发关注。",
+          "hotness": 75,
+          "link": "https://www.ithome.com/1/027/221.htm",
+          "source": "IT之家"
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "id": 25,
+          "title": "借助 Claude 和 Arduino 改造 1994 款切诺基通过排放检测",
+          "summary": "爱好者借助 Claude 和 Arduino 开发板改造 1994 款切诺基，使其通过加州排放检测，展示 AI 加硬件开发潜力。",
+          "hotness": 55,
+          "link": "https://www.ithome.com/1/027/226.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 62,
+          "title": "开发者给本地 AI Agent 接入去中心化 GPU",
+          "summary": "开发者给本地 AI Agent 接入去中心化 GPU 以扩展算力，探索低成本 Agent 运行方案。",
+          "hotness": 54,
+          "link": "https://hackernoon.com/my-local-ai-agent-needed-a-bigger-brain-so-i-gave-it-a-decentralized-gpu",
+          "source": "HackerNoon"
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "id": [
+            1,
+            4
+          ],
+          "title": "Anthropic 因“Mythos”模型名遭商标侵权诉讼",
+          "summary": "Anthropic 因“Mythos”模型名称遭商标侵权诉讼，核心模型命名与品牌合规受到关注。",
+          "hotness": 82,
+          "link": "https://www.anthropic.com/research/building-strong-safety-evaluations"
+        },
+        {
+          "id": 24,
+          "title": "Meta 因 Facebook 擅自读取相册被罚 8.05 亿欧元",
+          "summary": "因 Facebook 擅自读取意大利用户相册，Meta 被处以 8.05 亿欧元重罚，隐私合规压力加大。",
+          "hotness": 78,
+          "link": "https://www.ithome.com/1/027/227.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 22,
+          "title": "白宫“超级智能工作组”呼吁放宽问责政策",
+          "summary": "白宫新设超级智能工作组建议放宽网络安全事件问责，鼓励 AI 企业主动上报安全事件。",
+          "hotness": 72,
+          "link": "https://www.ithome.com/1/027/229.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 50,
+          "title": "非营利组织起诉要求阻止 AI 开发",
+          "summary": "多家非营利倡导组织以风险为由起诉，要求阻止 AI 开发，AI 监管法律战升级。",
+          "hotness": 70,
+          "link": "https://www.jurist.org/news/2026/11/nonprofit-advocacy-groups-cite-dangers-sue-to-stop-development-of-artificial-intelligence/",
+          "source": "Jurist.org"
+        },
+        {
+          "id": 0,
+          "title": "Anthropic 发文探讨构建强安全评估体系",
+          "summary": "Anthropic 发文提出构建更强安全评估体系的方法，强调在模型部署前量化风险。",
+          "hotness": 68,
+          "link": "https://www.anthropic.com/research/building-strong-safety-evaluations",
+          "source": "Anthropic"
+        },
+        {
+          "id": 59,
+          "title": "伯班克市议会禁止在城市发布内容中使用生成式 AI 艺术",
+          "summary": "伯班克市议会禁止在城市发布内容中使用生成式 AI 艺术，地方层面的版权与透明度争议升温。",
+          "hotness": 62,
+          "link": "https://heysocal.com/2026/11/14/burbank-council-bans-generative-ai-art-in-citys-published-content/",
+          "source": "Hey SoCal. Change is our intention."
+        },
+        {
+          "id": 52,
+          "title": "AI Agent 无故替人订购大量鸡蛋且无法解释",
+          "summary": "一 AI 智能体莫名替人类订购大量鸡蛋且无法解释原因，引发对 Agent 权限、可靠性和失控风险的讨论。",
+          "hotness": 60,
+          "link": "https://futurism.com/artificial-intelligence/ai-agent-cant-explain-egg-order",
+          "source": "Futurism"
+        }
+      ]
+    }
+  }
+}

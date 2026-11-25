@@ -1,0 +1,164 @@
+{
+  "overview": [
+    "苹果 Apple 智能国行版官宣落地：接入阿里千问，11 月 4 日随 iOS 开发者 Beta 开放测试，并支持 AirPods 实时翻译。",
+    "华为 Mate 90 系列小艺全面升级，超百款应用接入帮记与触发式 AI，端侧智能体能力加速落地。",
+    "OpenAI 强化 ChatGPT 安全治理：可自动终止表现出暴力执念的对话，并承诺定期发布社区安全报告。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "id": 4,
+          "title": "苹果 Apple 智能国行版官宣落地：接入阿里千问，11 月 4 日开放测试",
+          "summary": "苹果宣布 Apple 智能国行版将于 11 月 4 日随 iOS 开发者 Beta 开放测试，接入阿里千问支持写作、读文档、识图，并上线 AirPods 实时翻译；用户可自主选择是否开通千问集成。（源 id: 4,8,10,11,13）",
+          "hotness": 98,
+          "link": "https://www.ithome.com/1/020/401.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 17,
+          "title": "华为 Mate 90 系列小艺升级：超百款应用接入帮记与触发式 AI",
+          "summary": "华为宣布 Mate 90 系列小艺全面升级，强化帮记和触发式 AI 能力，超百款应用接入，推动端侧智能体与系统级 AI 服务落地。（源 id: 17）",
+          "hotness": 94,
+          "link": "https://www.ithome.com/1/020/381.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 6,
+          "title": "Anthropic 将 Claude Max 20x 更名为 Ultra，已验证账户取消五小时限制",
+          "summary": "Anthropic 调整个人付费套餐命名，Max 20x 更名 Ultra，并对已验证账户移除五小时使用限制，提升高端订阅体验。（源 id: 6）",
+          "hotness": 86,
+          "link": "https://www.ithome.com/1/020/398.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 5,
+          "title": "联发科确认拿下第二家 AI 芯片大客户，预计 2028 年量产",
+          "summary": "联发科在 2026 年三季度财报电话会确认获得第二家 AI 芯片大客户，计划 2028 年量产，AI 算力芯片竞争进一步升温。（源 id: 5）",
+          "hotness": 80,
+          "link": "https://www.ithome.com/1/020/400.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 22,
+          "title": "硅基流动港股上市申请获证监会备案接收，注册用户超千万",
+          "summary": "AI 词元供应商硅基流动港股发行上市申请获备案受理，注册用户超千万、年内融资近 29 亿元，AI 基础设施资本化提速。（源 id: 22）",
+          "hotness": 82,
+          "link": "https://www.ithome.com/1/020/369.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 24,
+          "title": "Google Cloud 汇总 10 月 AI 基础设施与编排更新",
+          "summary": "Google Cloud 发布 10 月 AI 基础设施与编排更新，聚焦模型部署、资源调度与云端 AI 工程能力。（源 id: 24）",
+          "hotness": 72,
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeEJLWXRCYmZVWWdnRnoyMUh4dWktaWJEV1NJenBuRTNfMWQyd1RXTkx0V0wycnJFbmxxNHFnZFBsWFZKdl9SN1dXUjFTbVJ4Q1VYbjZCM0ZPMWNDcmRoM3R3ZmZNTUt4TE9vdHpEQTZFSF9oUXg5aXVZWEZhTGVJeURWOXBJaHF4MzE0N21TMW0tZmNTTUtXT19MUl8?oc=5",
+          "source": "Google Cloud"
+        },
+        {
+          "id": 7,
+          "title": "香港“港话通”上线 AI 音乐功能，可免费生成粤语歌",
+          "summary": "香港生成式 AI 研发中心推出的本地 AI 助手港话通更新 AI 音乐功能，支持免费生成粤语歌，拓展粤语生成式 AI 应用。（源 id: 7）",
+          "hotness": 70,
+          "link": "https://www.ithome.com/1/020/396.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 29,
+          "title": "Reddit 因搜索流量下滑转向登录化体验",
+          "summary": "Reddit 宣布将转向登录化体验，原因是搜索流量枯竭；这反映 AI 搜索与内容摘要正在改变内容平台流量结构。（源 id: 29）",
+          "hotness": 69,
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQR3R1SnVRQ1pmNnBkWkNISGdWSGktQ3lEdmtUSEJ1RzRqbGpFOTh3MEQtMS1XUlcwR2hxM0s1OXhoWmRuTFpCTGFuYzdsU3dZeHlXdzR4UVljbGltOEl2X0R1ZzJQWHhlUEhiTTc5OUFOLV81N24yT1F3a3FGS0lfVGVzWnpCMjlsdVFaSFR0ckQyelVFTHVFTkxfamhUU1FteExsSHVIRzltZ0xvVzhEb1dHam1nLXNI?oc=5",
+          "source": "TechCrunch"
+        },
+        {
+          "id": 40,
+          "title": "德意志银行警告 AI 股票抛售可能威胁美元避险地位",
+          "summary": "德意志银行警告，AI 股票抛售若持续，可能威胁美元避险地位，市场关注 AI 估值回调的外溢风险。（源 id: 40）",
+          "hotness": 66,
+          "link": "https://www.pymnts.com/economy/2026/deutsche-bank-warns-ai-stock-selloff-threatens-dollar-safe-haven-status/",
+          "source": "PYMNTS.com"
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": []
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "id": 32,
+          "title": "AWS 用 Bedrock AgentCore 与 Saviynt Zuma 治理 AI Agent 身份",
+          "summary": "AWS 与 Saviynt 合作，通过 Bedrock AgentCore 和 Zuma 治理 AI Agent 身份与权限，补上企业智能体安全管控与访问治理。（源 id: 32）",
+          "hotness": 78,
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQR1NxZ3BmSmRXaVI3Zng3N3p5RUlIQUlHcHVlNWVqbnQ2cEI1UzVVejFyX2QyMFJmY3duNTdEQ2JFZlR6Sk80X29SUUFremw0djJRMnVRaVFFdjRFMFRrUWFmTkF2aEZtQ3F6OXZNck92UWhYYXhCOUlPejVKMC1lT25LV01NM3FnZzk3OFpjSDFrUkszY2RkNkcxYnNMTTR6SHBoa0RsV216UzdK?oc=5",
+          "source": "Amazon Web Services (AWS)"
+        },
+        {
+          "id": 28,
+          "title": "Step Security Dev Machine Guard 新增 AI Agent 技能清点",
+          "summary": "Step Security 的 Dev Machine Guard 可清点开发者机器上的 AI Agent 技能，强化智能体资产可见性与供应链安全。（源 id: 28）",
+          "hotness": 68,
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOemkySF81SHdqTjN3Smwta2JUS3A0c3BTRXM4SUlhUTh0MHZLSC1hYmoxeG5LQlhUOHJnTWE2d1RSdGRqNHMtQ0VneHV1OHQ1ZmE2YUR6NGx3X21wM3BUeVVKVzZDQ0tsVE5TR0pHT2J3em8wNTd5cy1ldmRVcUpmMDhURENqNDIyRURFbW9Lc1l4UnNMVG5KTG9DOGZBMlVVbUdaelF2Zw?oc=5",
+          "source": "Step Security"
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "id": 1,
+          "title": "OpenAI 发布社区安全报告，ChatGPT 可自动终止暴力执念对话",
+          "summary": "OpenAI 发布社区安全报告并加强青少年保护，ChatGPT 可自动终止表现出暴力执念的对话，并承诺定期披露安全报告。（源 id: 1,9）",
+          "hotness": 90,
+          "link": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+          "source": "OpenAI Blog"
+        },
+        {
+          "id": 0,
+          "title": "OpenAI 将遵循共享 robots.txt 信号表达 AI 训练偏好",
+          "summary": "OpenAI 表示将遵循共享 robots.txt 信号，让网站运营者可表达 AI 训练偏好，推动训练数据授权与内容治理。（源 id: 0）",
+          "hotness": 82,
+          "link": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+          "source": "OpenAI Blog"
+        },
+        {
+          "id": 3,
+          "title": "OpenAI 更新 Model Spec，提出五项核心价值观",
+          "summary": "OpenAI 更新 Model Spec，以五项核心价值观指导更强大且有助益的 AI 行为，强化模型对齐与安全规范。（源 id: 3）",
+          "hotness": 84,
+          "link": "https://openai.com/index/updated-model-spec",
+          "source": "OpenAI Blog"
+        },
+        {
+          "id": 2,
+          "title": "OpenAI 主张合理使用惠及所有人，回应版权争议",
+          "summary": "OpenAI 引用创作者、学者、无障碍团体等法庭简报，主张合理使用惠及所有人，继续回应 AI 训练版权争议。（源 id: 2）",
+          "hotness": 78,
+          "link": "https://openai.com/index/fair-use-benefits-everyone",
+          "source": "OpenAI Blog"
+        },
+        {
+          "id": 41,
+          "title": "荷兰议员推动将生成式 AI 排除在小学学习之外",
+          "summary": "荷兰议员寻求让生成式 AI 远离小学学习，反映教育界对 AI 依赖、认知发展与课堂监管的担忧。（源 id: 41）",
+          "hotness": 70,
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWnd6ZGZBNHRDUWE5LWZsY09sdGhjQ1BCa3pUdzNCQ1JpM09TRzg5LXlkNFpOM3VhZ3RaZGRWT3JJRlNKTGhydlQwbVBWWUc1dkkzYU8zSE9naGtqb2tLZ2JRSlh6WW5wMENoeS1hUHVqNWZleGpFZFg2T1A2NGRSVkZFdlVrV2ExalNSb1J1OE1jX2IyUGxpVXdOY3NkeUdXLWdLNGw1cmY4WHRKbzZ3?oc=5",
+          "source": "Hungarian Conservative"
+        },
+        {
+          "id": 42,
+          "title": "宾州允许 AI 生成竞选广告播出，引发深度伪造监管讨论",
+          "summary": "宾夕法尼亚州允许一则 AI 生成、描绘州长夏皮罗的竞选广告播出，凸显选举季政治广告与深度伪造监管空白。（源 id: 42）",
+          "hotness": 74,
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRjhoX2hsQ3lQcmdDVHZZMHdnSWZZQ09ROEJBRG9RSWxDaVd2SXlQTERUaElUb2FkdjU4SmdmSXowQmNGTlF4V2syM0FZU2d2LXVfVldQSXh4bWo2SkRYMVBzZTNmeXRYRUhVS1RESE9KZFBPTDZHanBDWVFqZDVkUldwdVNUU0ZrNFlwMXFsS2hpelBJSUt2Z1lXSk5NaWszYWtESTJSRGNKTVAtMkR5VHFxOHlwMHVrTnRadkRMQ1o5VlR0azBBbWFvNWnSAdIBQVVfeXFMTnlhemFsejYzZUNlMTJGUW5pdGM1M3dXSG80WUM2UFVXQzdIOTVVWXhGeEFkeFBYa08wWkpMVlc2aWU5Wm9OekpoNElXaXZQRV9oT0h0WFBOLTRNVHdRTFpuYmZka2Q4UUUzb1VpVjN5NTA2ZVZ0TXZBNk1TYVJ2dVhMZDVuTlFERzBCczB6a0xuSTNKQmtXYjFIV3pLZHdQY3F2Y1ROM2lTaTkycDlQWm1Ob1EwX3ZVTm9wQmI3NmVTQ1IxanhBYVp5RjBFUTFiT1RB?oc=5",
+          "source": "6abc Philadelphia"
+        }
+      ]
+    }
+  }
+}

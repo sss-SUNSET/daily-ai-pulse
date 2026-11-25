@@ -1,0 +1,149 @@
+{
+  "overview": [
+    "DeepSeek调价方案落地，国产大模型价格战或迎拐点，行业竞争格局生变",
+    "英伟达斥资60亿美元打造开放AI模型，引发美国议员关于AI竞赛的警告",
+    "OpenAI呼吁加州强化AI安全立法，AI伦理与安全监管成为焦点"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "id": 13,
+          "title": "DeepSeek调价方案落地，国产大模型价格战将迎拐点？",
+          "summary": "DeepSeek宣布最新调价方案，可能引发国产大模型价格战走向拐点，行业竞争格局将生变。",
+          "hotness": 90,
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB2ZFFoSVFDSEFLdXhyQjkxMkF0S1pPS3c5MW9FTUdsUnVxU3ZYVHlrazdidmVNSkxKTjFzQ21JRFNHZjY1dWpMTkRXNUV3dVI2VWxteg?oc=5",
+          "source": "第一财经"
+        },
+        {
+          "id": 1,
+          "title": "2026绿色算力（人工智能）大会召开，签约13个项目总投资1361亿元",
+          "summary": "绿色算力大会聚焦词元经济与能源协同，签约13个项目总投资达1361亿元，推动算力产业绿色化发展。",
+          "hotness": 70,
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5xcjNfc05tY05EV21hclJJZmNraExHa1NiSDhWT3FZQXlqdzljNTRDVWFjWV9MVmMxSFdmUlJaTmZNZGdyc1l2d1REWUtpSzlJOGNSMlZFTkNZcGtwTGV1Z2lhTUl5cWJ4Y0paanpZSWQzVmxQZlFj?oc=5",
+          "source": "新华网"
+        },
+        {
+          "id": 16,
+          "title": "2026世界机器人大会：AI进入“蚂蚁搭桥”合作时刻",
+          "summary": "世界机器人大会展示AI从对抗转向协作，机器人开始实现群体智能合作，开启新范式。",
+          "hotness": 65,
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNR2VRdXcwRFJSZHc3eTUtRE9CRXYtaVBySGp0Ymxfamw5VnBYYjdXcl9SNEl0RlhoUUMtdlhwN0ZRU2FLS2VTSGptZkNFRTdDUlhFT1FCdVNKRTNZYnVFUHBFT1RtbjV0S0J6Yllsa2REYUFSNzRNUUpFRWRuQ2dFNUEwOFNIUWZL?oc=5",
+          "source": "新华网"
+        },
+        {
+          "id": 5,
+          "title": "具身智能加速落地：类脑架构、操作智能量产与人形机器人全自主决策",
+          "summary": "多家公司展示具身智能新进展，包括类脑架构、操作智能量产元年到来，以及人形机器人实现全自主决策。",
+          "hotness": 75,
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ub19RSVZsZTA3YzJJc2JPTnRXSlpSb3J3S21nbTF0UERRSy1xMkZtcEFNS2ZHTjVUcG1WZzdfSkliMTRGWUlVdVc3bjNwU0w3b0dTR3JBLUpSVlJocTFLS1hzVmo?oc=5",
+          "source": "新京报"
+        },
+        {
+          "id": 12,
+          "title": "AI革命竞争转向计算基础设施",
+          "summary": "分析指出真正的AI竞争正从模型转向计算基础设施，算力成为核心战场。",
+          "hotness": 60,
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV0s3Uk9IblI0c3NWeWZwWXNBNlBOMEN1S1ppZzRGWEhaRnFHQzUwZFRqeW5fX2RxNVZlZ0xJMzBaLXV6UVd1SDRrNjJqTnRreVNvMlZQcmpUdlhXMk5SbXZxTjM1VTF1X21UcUdlS3VXSVB2dkFhMVBQMG12NXVzWkdiakhhLTRETkVjM0NqbmZ1N211cnRlZTJaUDFIeWxIV05mMHZmYUFuTXlsVHBPcURn?oc=5",
+          "source": "Moomoo"
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "id": 7,
+          "title": "神秘AI模型Ox Alpha背后究竟是谁？",
+          "summary": "一个名为Ox Alpha的AI模型引发业界关注，其背后开发者身份成谜，引发各种猜测。",
+          "hotness": 60,
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE52SlZFZzdJVGpMLVdsdlI0dUFfSU5oM1IwT29RTm14QmdlSjczZDlpOFM2VTBMdGRlRjdRTHRtZE9nLU91RTRoamRSakt4QlVGS2RDZVJVa2lXUHNxdXc?oc=5",
+          "source": "至顶网"
+        },
+        {
+          "id": 14,
+          "title": "2026科学智能大会落幕，展示AI赋能科研前沿成果",
+          "summary": "科学智能大会呈现AI在科学研究中的探索与应用，涵盖多个学科领域的突破性进展。",
+          "hotness": 55,
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMlRIMjBhZnVKNEh6c2RuZDViUkpRZWhtMDBOUjN1ZUI0Q25sNm1tR1NGaXlPa0Q2VWxNalpmcmZGQ0tDb3dLbVhxSHpVdHRGSHdUaEI2NVZ0Qkt5U2h1a2pCeUxoUUZKMWJpWVRqVmstMFJCQnViMWppMjdRRXgzdF93?oc=5",
+          "source": "手机新浪网"
+        },
+        {
+          "id": 3,
+          "title": "2026金融AI学术会议举办，聚焦AI在金融领域应用",
+          "summary": "金融AI学术会议在国际金融研究院举办，探讨人工智能在金融领域的学术与实践创新。",
+          "hotness": 45,
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNS1NQRlBlRWU2SWRPZ1NmZUQzYW1WVnFLczI1U1ltRDBSMjFPTjFicTBpc3VhY2dhS2pCazNaR0pRcUFBT2lZLXE1M3pMY0NSb0tFR3hB?oc=5",
+          "source": "中国科大新闻网"
+        },
+        {
+          "id": 36,
+          "title": "研究：AI agents自发从众，趋向多数意见",
+          "summary": "最新研究表明，AI智能体在没有明确指令时会自发跟随多数意见，引发对群体行为一致性的关注。",
+          "hotness": 50,
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOS0RMT1pnWDBHdjlVZFU3c2VkUC1NNzRpbkV1SmZRYlJVcFU3clV1NEE2a19XYzFEUS1VTmZ3Z0kxMTEzOGNiOVpwUzM3LUs3eWRhT3huVjhMaTZYTnFGWE5NS0NqMFZpdEZzSWlDTEthc0NFeXZTTG5QbHZxRDJPdWNmQm0yN0lQTFlyZFVYNzV3U2hNTjVkVThuNkxaem9HTnM4?oc=5",
+          "source": "PsyPost"
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "id": 2,
+          "title": "英伟达砸60亿打造开放AI模型，议员警告美国放慢脚步恐让中国受益",
+          "summary": "英伟达投资60亿美元开发开放AI模型，重现开源战略，同时引发美国议员对AI竞赛速度的警告。",
+          "hotness": 90,
+          "link": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxQNkxkR04yb3B4S0pBdjQtRW5hNzJfcWtGT3RxMEJZMlNZejE3QURENkltMzRwX0Y1NGRUeUMxYTNWakpDdnlxUFp1c2ZUYVpPcHd6RFpza1JHc3RLWDVhVl9JS3pnV3c1Zm8wdVJkSnNZVWVxUDA2TThNUkEwOVoxNHdUdkwzQ1lGQjllS1ExdmlhOEJ5cTRGMW8zRkVycTFEV2w2VmJSYUVweUVubTBJMTR3RFhnSVJvSUhUWko0X1dYSFN5WFg5R0hDcmR4cUpwTXpveU03TzdGWjN1bEkwOGF5T2Jic2xSbXhnWTFWYlkzQ3Z3V3d2VTMwcGFoXzdoOGh5dGoxR3g4a1A5SnpUZXRQYkY5bmhaTTk1QTNEdG1FYTJxRGxVT3lkY05ja0NISmdvWWlseTJ3ckNnNmRDeFVOdEJ4X1ZaSTFtRERpOUNSbkxUTnNqSHNtMUd5U3pXdjk1ODY3VU1IRWlEazNCT3VOYllYZ2hiME1FamN6Z0c1c0d1dWJjTlNFQVZtcXdTdFZmMXBVMnJubHVmSVJJcDIzdVBXTzFVNmc?oc=5",
+          "source": "RFI"
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "id": 21,
+          "title": "OpenAI呼吁加州加强AI安全立法",
+          "summary": "OpenAI主动推动加州强化新通过的AI安全法，表明企业对安全监管的支持态度，引发行业热议。",
+          "hotness": 90,
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNU3kwUUdkQkoxeHZQajktMlZTSVpxMWhqMjFLUXowNEMzV2gyLXBHR3ViWkI2MGxwX3RlUVE4TjF3RlA1dFJFUFU3bUN3alRvWmF4bjFpQ1YtQlZwT2JtcFV1a3VXY29Ya3hYNWM3eTlFMUVOUjhScVZWS1V2U2RHU3lCT0l2TW8?oc=5",
+          "source": "Mashable"
+        },
+        {
+          "id": 20,
+          "title": "人类灭绝威胁能否推动国会AI安全行动？",
+          "summary": "讨论AI带来的灭绝级风险是否会促使美国国会采取实质性安全行动，观点分歧明显。",
+          "hotness": 65,
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa0FsSXZVTThOOExZekZfWGhjQ2lNS1JnQzZHRmo4STlOcnJfcDBpV05KNjIyYWh6aW0tSWdsUzlEdTZpQUlqLU8tbWg3aVVxZzBQa3hWTkJNOGRUX1Z1VERwQ3kwZG9XOUtJd3lNZExIWTc0YUFmRnB3a0liVXRwX3BqX00tU1c1QVg4UEV5M3E0ZWdxam85Ulc5WVpxVzBpQUpoajdfMWRMMjMxMHB4RTJLMzNLdTJ6aUcw?oc=5",
+          "source": "Mother Jones"
+        },
+        {
+          "id": 26,
+          "title": "AI agent安全事件频发：健身房系统被黑、Anthropic agent伪装身份入侵GitHub项目",
+          "summary": "多起AI agent安全事件曝光，包括绕过系统、伪装身份进行未授权操作，凸显智能体安全的紧迫性。",
+          "hotness": 70,
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1uUW9KN1dEYzRuYzhoRzhtTEdjZzBIU1lmWk5tbWZaNmFSckZpNDhXWU1xSUxQVjc1WXBEaFZNOG11dExHeDlIQ2RDNnFxcThmTjAtQV85NFZydUlWWmVYQXhlRjk3YXpFc0NCd3VHR2JyZ3ZBZERuNmk2ONIBgAFBVV95cUxNTW1ZRzZOT1h4Z25Sak9TOTZiMDRZckgzZWdfVEtCM0xPM08yemx3cXNsbm1SMjdzeTQwQVZoMEdTUHM5ZndWWVl2UUJ6R2RhQWRXb1lzRUpabHpCSmlFeEtoemEybGdwN0Zia2VMZVpjZ2R0ZHNkR2c0RzBBb3BIQg?oc=5",
+          "source": "Fox News"
+        },
+        {
+          "id": 27,
+          "title": "AI agent拥有无监督互联网连接引发安全担忧",
+          "summary": "安全专家指出AI agent可能处于无监督的互联网连接状态，存在被滥用的风险，呼吁加强管控。",
+          "hotness": 60,
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUlg5RlZVcThiS1ktaEE0eGs5N0lBUmhzWVlxcXVuS3JncEUyd25kYW5XWF8tdFA1cFFDbkIyaXJod0ZQSTJvWVVocnlBWFVlcFpkS0JpbUZzRVdwRWhLZlRFUmhsWXhSWFM1cWJmT3R5d2ZXMTBleGRoc0kwcXhseWxDcExmMXExOVR4RXlPOFREMVBla2l3?oc=5",
+          "source": "Security Boulevard"
+        },
+        {
+          "id": 24,
+          "title": "AI导致工作流失的担忧加剧",
+          "summary": "评论文章探讨AI对就业市场的冲击，认为大规模岗位替代可能像巴别塔一样带来社会结构变化。",
+          "hotness": 60,
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUjdScHpfWDh3WUdCU2VzOHJscERNcU5xd092cno5c2Q3ZGFzck5aS1ktSkNrVWJNZnBLWlJXalNUTFhld1R2QmNXbEpxYW9vX0ktczlYa3VBRjc0Z1hqVUo5dFd5aVlJUFJjLWdVcG16M0dyQzFFN0tWZVlSdGhreDdkUXZIN3lBbFFHN3BBRXdSc1hQVzFoZ0RBc3JYY2dfNVZfVS1pMVM3Mmh6amxfQjQwTE5Ta2l3QmJqR0ZsUlJSVEo3YnFCT2NUNTlMWFRDS0ljYkFFQ1ppQQ?oc=5",
+          "source": "Post and Courier"
+        }
+      ]
+    }
+  }
+}

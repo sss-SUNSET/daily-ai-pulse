@@ -1,0 +1,119 @@
+{
+  "overview": [
+    "医疗AI实现重大突破，诊断模型性能媲美人类医生",
+    "AI伦理与监管问题集中爆发，涉及版权、作弊和儿童保护",
+    "全球AI产业投资活跃，中国企业加速商业化布局"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "title": "微信AI助手“小微”小范围灰度上线",
+          "summary": "微信AI助手开始小范围测试，AI应用投资机会显现",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBKNnFQSXUtNjhlMWNpV05pZVR2WThITFRJWlZoRkE4dVowNWxiYnZlZ0kwV1FMajdOZTBXandmMDgzUzlaeWFhQQ?oc=5",
+          "hotness": 75
+        },
+        {
+          "title": "首程控股拟投资智子芯元加速AI商业化",
+          "summary": "首程控股计划投资AI公司智子芯元，推动AI技术商业化进程",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBUTDd0N3pWSEdkTWFtTTRsUzVoVWstbzdud1h6ckFQc05qUHpUVGJRUXIya196V09xRmRDdm9oczA1RzB3M1lXNWJWbndPeWZHWi1wdUFJUlpIbV92bXllb3NPLVYwUQ?oc=5",
+          "hotness": 65
+        },
+        {
+          "title": "Santander将AI访问权限扩展至18.5万员工",
+          "summary": "桑坦德银行实施AI优先战略，为所有员工提供AI工具访问权限",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUnJpb3F5T0V4Tll3MjJqNUstQVEtNF9UMWhGMEdTS1JjSVV1ZTlVQkFFazZGd09HZ3pYc3ZZbklyRHhQTFVfX2xnVXk4UFVUWHNvcHNMQl9vMDBqQUVzcGpCNWs3ajktRjkwZ0xNQXoxd1o2ZFZwdzhnR3VuVGw4OFkteFhDYUN4YkozanlHa3ViTGQ4dUlsOHlLbW1NZVFqYTBPa1hGdUJjckpEVkJDaHMxR0R1dy01UmVSWklOOWhta0RLMkJmMEp3anpZX0ZjQnBBQTBXeWhmM0k?oc=5",
+          "hotness": 60
+        },
+        {
+          "title": "AI赋能科技服务业支撑产业转型升级",
+          "summary": "AI技术正推动科技服务业发展，支撑传统产业转型升级",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNei0tZVZvdUR0MnFoZ3Ywc2lCa1pORm9MOExuZjV0UmVpVXUzaHdkZHRzTDJoeGcwS0E2anUxNzZTbFRLZ1hvMGxBeDh3YlNQZXlUVXNQNDBLYXVpWGo1ZTcyN215Z2pfQnRSZEZ6Z3JIUUVGcVFvOXFwTkJwb195NUFR?oc=5",
+          "hotness": 55
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "title": "两个AI模型实现诊断到治疗全面管理",
+          "summary": "医疗AI模型在诊断和治疗管理方面表现与人类内科医生相当",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE54NFpreDRNdTBNb1kxNEo2NFRJRWJobTVnck1jV3gta1lxaTdYNmliZWxDRFlXVElRN2VVa05ycnNmUEkzckFJLWppMnNNbXNFVFlEdUhZT3BXSWQtclFhaXZYS0lPaWlyczEyT0ZTQVA?oc=5",
+          "hotness": 85
+        },
+        {
+          "title": "UH获得1200万美元资助建立AI医学研究中心",
+          "summary": "夏威夷大学获得1200万美元资助，用于推进医学AI和数据科学研究",
+          "link": "https://news.google.com/rss/articles/CBMiokFVX3lxTE5LbFlqSVZaVVFxR1VQbHZENjM5ZkgtTjNwSDZ4MG5ta2RmcTVRdEJMazFZQ0JCZ0V1VkZEUGdJTURuaXczVENScDNQX1VYRVlyRDNnTmNxdTRod1R4U2JvRGgwYTBHTXo3Z2tTSzN1VWlXcVM4STN0dGdkcTlwODE0ZkJNa2R6VWxtOVRfeVl1TmFabmJnVnNrbTVHcU9JYmFLOWItdmlwZUo4WEllYlhIeURvclpoaw?oc=5",
+          "hotness": 70
+        },
+        {
+          "title": "世界模型，人工智能的下一个前沿",
+          "summary": "世界模型被认为是AI发展的下一个重要前沿领域",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZ1VTMXQxdFFXZmY1Y1lFRmRvdTJNWG5OTmNuN1pvbm1vSjRJNksyN1BHX0Y4R1VwRmNoN2JCWlQyMVYzYnhKbDRoNXVSZFB0OVl3RFdhek91dF9BSENvWXhSQ0NlYWZxY0xBNThFdWpic2R0UUpScmFjdGFJOEtjQ2p0VEVYT05PblpFNlktamp5VW11a3ZrRlRNMldnQ3RwNXdjNWZFdw?oc=5",
+          "hotness": 75
+        },
+        {
+          "title": "在AI笔迹识别赛道上创新突围",
+          "summary": "中国在AI笔迹识别技术领域实现创新突破",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB2czVZS3laN2V0RjJMSzZ6U0ZKWko4SFpUM2tiYVJUWWlmNnEwRWpTZldhakV4S2JmMnh4OWNXblNlNzJWRzdVb1hrek80RHN6X1hBc2FUQW8tYTZoaldhQjhYeUMyZ2NDUjRzOFVB?oc=5",
+          "hotness": 60
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "title": "图解全球17家主流AI大模型（2026）",
+          "summary": "电子工程专辑发布全球17家主流AI大模型图解分析",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1GbkF2SXFMRFA3V1RYNXh3cHg0WVNZcnBPYWFzVlRNSHBGYnpELUpLcWFEckZLY1ZYcFZtWElZcEdrTVNadVZPU3RMa3NhcE1KUXRv?oc=5",
+          "hotness": 65
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "title": "AI短剧模型训练数据存在侵权风险",
+          "summary": "AI短剧模型训练数据面临版权侵权风险问题",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1WY1ZiVmxaaUhlX0lnQVN6SDBqa1ptUzZIeHNYMFJaYVBjQ010THBxYXBIcXUwWUhZUXdJc0E4YUVkVDhraFlwREJyTkY1WUtrQUlBVmFQM0kxaUFDaHdmbEJ0S0RpQnZE?oc=5",
+          "hotness": 75
+        },
+        {
+          "title": "调查显示36%的大学生直接用AI译文提交作业",
+          "summary": "调查发现超过三分之一大学生直接使用AI翻译提交作业",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBTQ0V4QVlWeVo4aE1lY1ROeTB2NG1wMkxJcHJmVGhWbDJtNFJZOGdoT0V1QnU1VnRKRXdXTVpPWjhna1FTOEJ5VGowMW5wX2JRWGNLVmRzTQ?oc=5",
+          "hotness": 80
+        },
+        {
+          "title": "贝索斯驳斥“AI抢饭碗”论",
+          "summary": "贝索斯反驳AI抢工作观点，认为未来十年将迎来多个黄金时代",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5CQmVPR05xSHFMV2xLdk8xYkVvTDBfdUlMa3ZHQkRReG9COW9lVnNBWkdubEJZY1pYbm1CRmVDOGtRV184RjVYWA?oc=5",
+          "hotness": 70
+        },
+        {
+          "title": "AI陪伴服务引发可靠性讨论",
+          "summary": "AI陪伴服务日益流行，但其可靠性和效果引发社会讨论",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1pRkoyMG1FNlJsbEMzcTU0UnRJblgxb2dQMk5DSFZEOHNSTU5KOUYzZnFMWlBCUmtTVzZVV1UtZGN5YUNORC1aUTZRbUxKSjV3WTFzN3lwQmd5YkhoX2dKNw?oc=5",
+          "hotness": 65
+        },
+        {
+          "title": "大学AI作弊战争：监控、误指控与混乱",
+          "summary": "高校应对AI作弊采取极端监控措施，导致误指控和混乱局面",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRnpyN3NoUkprU3gwaUQxbnJxMEpCMjhJcEJYY1ktUEVvOGNYNkotR1RNd0R4ZF9sX2pfdk4wRnF2U0xPZ3JleTRVaUlQNENpV2hCWDFtV196eldmMl9hcTJZVEt5WTV5Q2hYb0xJN09kRUs0a1R6TjdETko4YlJPLVBjZnVOZ1k3M2R5WWRBM1VJNk51bGtkWVh5UjdWazdjVzVwbkVVUHhTS2ZwUnV6QzN5ZkZiYlNfTzZfNFd6NUhUSGwtSWhRSEJKRnBnZw?oc=5",
+          "hotness": 75
+        },
+        {
+          "title": "AI监管混乱，Anthropic陷入困境",
+          "summary": "AI监管体系混乱，Anthropic公司在监管夹缝中面临困境",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1neXNmOTd6N0V5LVlxS0pFVnVUVHpEMzNXSE5aSkE0aWJCMDc1N3BuVXFRX091UWFWR2MzVEw0MW5aQzh5TjRPTVYwVjQtUHYzT2RTLW1kRi11am80cHFfTGREZUtwdEw3RlBR?oc=5",
+          "hotness": 70
+        }
+      ]
+    }
+  }
+}

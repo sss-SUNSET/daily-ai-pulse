@@ -1,0 +1,329 @@
+{
+  "overview": [
+    "OpenAI 正式预览 GPT-5.6 Sol 超高速模式，速度高达常规版 14 倍，并配套发布开发者指南，AI Agent 应用开发迎来新一轮提速。",
+    "Anthropic 一款未发布模型在数学重大未解难题上取得进展，前沿推理模型的能力天花板继续被抬高。",
+    "DeepSeek Harness 预览版发布，开源 AI 编程工具战正式开打，开源模式正在深刻改写大模型竞争格局。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "title": "IBM 与 OpenAI 达成合作，加速企业核心业务安全部署 AI",
+          "summary": "IBM 将与 OpenAI 合作，帮助企业将 AI 安全地落地到核心运营中，推动企业级 Agent 和生成式 AI 规模化应用。",
+          "link": "https://newsroom.ibm.com/2026-08-13-ibm-partners-with-openai-to-accelerate-secure-ai-deployment-for-enterprises-across-core-operations",
+          "hotness": 82
+        },
+        {
+          "title": "DeepSeek 正式涨价，算力供需缺口凸显，国产 AI 芯片或迎价值重估",
+          "summary": "DeepSeek 上调 API 价格，反映出算力供需紧张；市场认为国产 AI 芯片有望获得更多机会与价值重估。",
+          "link": "https://wap.eastmoney.com/a/202608143840965939.html",
+          "hotness": 80
+        },
+        {
+          "title": "AI 数据平台 Databricks 完成 50 亿美元融资，估值升至 1900 亿美元",
+          "summary": "Databricks 新一轮 50 亿美元融资落地，估值达 1900 亿美元，显示资本市场对 AI 数据基础设施的持续追捧。",
+          "link": "https://www.cls.cn/detail/2453918",
+          "hotness": 78
+        },
+        {
+          "title": "OpenAI 任命 Dali Rajic 为首席营收官，换帅信号引关注",
+          "summary": "OpenAI 官宣 Dali Rajic 出任 CRO 领导全球营收团队；此前一任 CRO 仅任职 8 个月，外界解读为商业化策略加速调整。",
+          "link": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+          "hotness": 75
+        },
+        {
+          "title": "合肥西站推出 AI 智能体“合小西”，服务旅客出行",
+          "summary": "合肥西站上线智能体“合小西”，提供问询、引导等服务，成为 AI Agent 在公共交通场景落地的新案例。",
+          "link": "https://www.cnr.cn/ah/news/20260813/t20260813_527761222.shtml",
+          "hotness": 75
+        },
+        {
+          "title": "AI 手机竞速升级，荣耀抛出“机器人手机”",
+          "summary": "荣耀在 AI 手机上提出“机器人手机”新概念，将 AI 助手向主动服务、具身交互方向推进。",
+          "link": "https://www.bjnews.com.cn/detail/1786623485129695.html",
+          "hotness": 72
+        },
+        {
+          "title": "微软中国业务收缩，但 AI 热潮下仍留“窗口”",
+          "summary": "路透独家称微软在华业务有所撤退，但 AI 需求增长使其保留了一定的发展空间与合作窗口。",
+          "link": "https://www.reuters.com/world/china/microsoft-retreats-china-ai-boom-helps-it-keep-window-open-2026-08-13/",
+          "hotness": 70
+        },
+        {
+          "title": "OpenAI 报告：企业 AI 正在从辅助走向执行",
+          "summary": "OpenAI 研究显示，越来越多企业通过 ChatGPT 和 Codex 落地 Agentic AI，从辅助任务向自动执行迈进。",
+          "link": "https://openai.com/index/how-enterprises-put-ai-to-work",
+          "hotness": 68
+        },
+        {
+          "title": "AMD 创纪录发行 47.5 亿美元债券，AI 需求催生巨额融资",
+          "summary": "AMD 以 47.5 亿美元创纪录发债，反映 AI 芯片需求火爆带来的资本开支与融资压力。",
+          "link": "https://wap.eastmoney.com/a/202608143840885667.html",
+          "hotness": 65
+        },
+        {
+          "title": "财经观察：日本 AI 国家级项目押注美国？",
+          "summary": "日本国家级 AI 项目在技术合作与生态建设上进一步向美国倾斜，引发对其自主 AI 能力的讨论。",
+          "link": "https://finance.sina.com.cn/stock/t/2026-08-14/doc-ininfrtz9536833.shtml",
+          "hotness": 64
+        },
+        {
+          "title": "Cerebras 财报喜忧参半，股价下跌冲击 AI 增长叙事",
+          "summary": "AI 芯片公司 Cerebras 季度业绩不及预期，股价下挫，给 AI 硬件高增长故事带来考验。",
+          "link": "https://www.reuters.com/business/cerebras-slumps-mixed-quarterly-results-test-ai-growth-narrative-2026-08-13/",
+          "hotness": 62
+        },
+        {
+          "title": "融合三项关键技术，新平台让 AI 芯片更紧凑、高速且节能",
+          "summary": "研究人员推出融合三项关键技术的新平台，可在更紧凑尺寸下实现更高速度与能效，助力下一代 AI 芯片设计。",
+          "link": "https://www.stdaily.com/web/gdxw/2026-08/14/content_563414.html",
+          "hotness": 60
+        },
+        {
+          "title": "“算力金属”身价飙升，AI 背后的“硬通货”受关注",
+          "summary": "随着 AI 算力需求爆发，铜、稀土等“算力金属”价格走高，成为 AI 产业链上游的重要赢家。",
+          "link": "https://news.youth.cn/gn/202608/t20260814_16814803.htm",
+          "hotness": 58
+        },
+        {
+          "title": "Google 等科技巨头为教师提供免费 AI 培训",
+          "summary": "Google 等公司面向教师推出免费 AI 培训课程，帮助其用 AI 进行课程规划与行政事务处理。",
+          "link": "https://abc7news.com/post/google-tech-giants-offer-free-ai-training-teachers-help-course-planning-administrative-tasks/19673484/",
+          "hotness": 55
+        },
+        {
+          "title": "AI 破圈好物持续“上新”，中国智造圈粉全球",
+          "summary": "一批中国 AI 消费级产品持续出海走红，展现中国智造在 AI 硬件与应用上的全球吸引力。",
+          "link": "https://finance.sina.com.cn/roll/2026-08-14/doc-ininfrtu4249949.shtml",
+          "hotness": 52
+        },
+        {
+          "title": "RingCentral 借助 OpenAI 构建 AI 原生工作流",
+          "summary": "RingCentral 使用 ChatGPT Work 与 Codex 加速 AI 产品研发，并将运营智能集中到工程与运维中。",
+          "link": "https://openai.com/index/ringcentral",
+          "hotness": 50
+        },
+        {
+          "title": "上海浦东启动大模型等 AI 新技术应用项目申报",
+          "summary": "2026 年度浦东新区人工智能产业专项开始申报，重点支持大模型等新技术应用，推动 AI 产业高质量发展。",
+          "link": "https://www.pudong.gov.cn/0060011/20260813/831505.html",
+          "hotness": 48
+        },
+        {
+          "title": "京东工业中报观察：AI 叙事开始兑现",
+          "summary": "京东工业中期财报显示，AI 正从概念走向实际业务引擎，助力供应链与工业互联网升级。",
+          "link": "https://www.guandian.cn/m/show/584943",
+          "hotness": 45
+        },
+        {
+          "title": "Lululemon 首席 AI 官任职不到一年即离职",
+          "summary": "运动品牌 Lululemon 的首席 AI 官在上任不到一年后离职，引发对企业 AI 高管角色与战略连续性的讨论。",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1TRk5sc1lNTkJqVmhOUkEwaHRBQmowazQ0wd0tOME1DUlNZaVVrUEJvNEpsQ0dpOXZaVUlRUzY0T0pIX3Z6N1NBcGFnRUhndW9VdFR1Zm5aSHFKbFpqQXdmNA?oc=5",
+          "hotness": 44
+        },
+        {
+          "title": "AI 交易降温后银行股受益，华尔街押注金融板块上涨",
+          "summary": "市场资金从 AI 交易轮动至金融板块，华尔街认为银行股有望延续上涨行情。",
+          "link": "https://www.cls.cn/detail/2453846",
+          "hotness": 42
+        },
+        {
+          "title": "AI 购物兴起，商家被迫加强用户忠诚度保护",
+          "summary": "支付平台 Adyen 指出，AI 购物助手普及正改变消费路径，商家需更注重复购与忠诚度运营。",
+          "link": "https://finance.yahoo.com/technology/ai/articles/rise-ai-shopping-pushes-merchants-090049703.html",
+          "hotness": 40
+        },
+        {
+          "title": "「建德故事·AI创想」大赛启动，最高奖金 4 万元",
+          "summary": "杭州建德推出 AI 创意征集活动，鼓励用 AI 创作建德故事，最高可获 4 万元奖金。",
+          "link": "https://hznews.hangzhou.com.cn/chengshi/content/2026-08/14/content_9279833.htm",
+          "hotness": 30
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "title": "Anthropic 未发布模型在数学重大未解难题上取得进展",
+          "summary": "据 TechCrunch，Anthropic 一个未公开模型在数学领域最富挑战性的未解问题之一上取得实质进展，预示推理模型能力再上台阶。",
+          "link": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
+          "hotness": 96
+        },
+        {
+          "title": "OpenAI 预览 GPT-5.6 Sol 超高速模式，速度提升 14 倍",
+          "summary": "OpenAI 发布 Ultrafast API 服务层级，基于 Cerebras 算力让 GPT-5.6 Sol 输出速度达到每秒 750 tokens，较常规模式快 14 倍。",
+          "link": "https://openai.com/index/previewing-ultrafast",
+          "hotness": 95
+        },
+        {
+          "title": "OpenAI 发布 GPT-5.6 开发者构建指南",
+          "summary": "面向开发者详解如何用 GPT-5.6 与 Responses API 构建更高效、低成本的 AI Agent，并给出模型选型建议。",
+          "link": "https://openai.com/index/builders-guide-to-gpt-5-6",
+          "hotness": 85
+        },
+        {
+          "title": "MIT 评论：一批创业公司正押注 LLM 的下一代突破",
+          "summary": "MIT Technology Review 盘点正在挑战大模型范式的新创公司，探索超越当前 Transformer 路线的技术方向。",
+          "link": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
+          "hotness": 70
+        },
+        {
+          "title": "智能体成为科学家“超级合伙人”，AI 化身“森林医生”",
+          "summary": "报道展示了 AI Agent 如何从 107 个特征中挖掘数据，辅助科学家进行森林生态研究，成为科研新范式。",
+          "link": "https://www.yzwb.net/news/ch/202608/t20260813_382425.html",
+          "hotness": 68
+        },
+        {
+          "title": "不只是拍片查病，AI 医学影像可预判健康风险",
+          "summary": "AI 在医学影像领域从辅助诊断走向风险预测，可提前识别潜在健康问题，拓展临床应用边界。",
+          "link": "https://news.sciencenet.cn/htmlnews/2026/8/569758.shtm",
+          "hotness": 55
+        },
+        {
+          "title": "会“说人话”的 AI 为何“读不懂人话”？",
+          "summary": "文章探讨大模型在语言生成上以假乱真，却在语义理解与真实意图把握上存在根本缺陷。",
+          "link": "https://news.sciencenet.cn/htmlnews/2026/8/569756.shtm",
+          "hotness": 55
+        },
+        {
+          "title": "AI 加速走进科研机构，深入真实创新场景",
+          "summary": "越来越多科研机构将 AI 引入实验室与创新流程，推动从数据采集到成果产出的全链条智能化。",
+          "link": "https://www.stdaily.com/web/gdxw/2026-08/13/content_563506.html",
+          "hotness": 50
+        },
+        {
+          "title": "新 AI 健康计划瞄准丙型肝炎防控",
+          "summary": "Axios 报道一项新的 AI 健康项目利用人工智能加强丙肝筛查与防治，提升公共卫生效率。",
+          "link": "https://www.axios.com/2026/08/13/ai-health-effort-hepatitis-c",
+          "hotness": 50
+        },
+        {
+          "title": "Audubon 用 AI 声学处理技术助力拉丁美洲鸟类保护",
+          "summary": "非营利组织 Audubon 的 AI 生态声学处理技术开始在拉丁美洲支持本地主导的鸟类保护行动。",
+          "link": "https://www.audubon.org/news/chorus-our-ai-ecoacoustic-processing-technology-begins-supporting-locally-led-bird",
+          "hotness": 45
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "title": "DeepSeek Harness 预览版发布，AI 编程工具开源之战打响",
+          "summary": "DeepSeek 推出 Harness 预览版，以开源方式切入 AI 编程工具市场，可能引发新一轮开源生态竞争。",
+          "link": "https://wap.eastmoney.com/a/202608133840768934.html",
+          "hotness": 90
+        },
+        {
+          "title": "中国制造观察：开源正在改写人工智能竞争规则",
+          "summary": "分析认为开源模型和工具正重塑 AI 竞争格局，使得技术扩散更快、市场准入门槛更低。",
+          "link": "https://finance.sina.com.cn/jjxw/2026-08-14/doc-ininfrtz9542109.shtml",
+          "hotness": 75
+        },
+        {
+          "title": "OpenAI 担忧开放权重模型，美国该担心吗？",
+          "summary": "TechCrunch 报道 OpenAI 对开源权重模型的竞争压力感到警惕，并引发美国 AI 政策与安全平衡的辩论。",
+          "link": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
+          "hotness": 65
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "title": "新联邦诉讼：Grok AI 工具被用于生成 16 岁未成年人色情图像",
+          "summary": "一项新诉讼指控 xAI 的 Grok 工具被用来制造未成年人的性化图像，再度引发 AI 安全与内容监管争议。",
+          "link": "https://www.nwaonline.com/news/2026/aug/13/new-federal-lawsuit-alleges-grok-ai-tool-used-to/",
+          "hotness": 72
+        },
+        {
+          "title": "中国法院支持被 AI 替代的劳动者，但就业焦虑仍在",
+          "summary": "NPR 报道，中国法院在涉及 AI 替代员工的案件中倾向劳动者，但面对 AI 冲击，整体就业焦虑依然明显。",
+          "link": "https://www.npr.org/2026/08/10/nx-s1-5822592/chinas-courts-side-with-workers-displaced-by-ai-but-employees-remain-anxious",
+          "hotness": 70
+        },
+        {
+          "title": "台湾称遭“异常”AI 辅助网络攻击",
+          "summary": "台湾方面称其受到异常复杂的 AI 辅助网络攻击，引发对 AI 在网络战与安全领域应用的关注。",
+          "link": "https://www.theguardian.com/technology/2026/aug/13/taiwan-ai-assisted-cyber-attacks-overseas",
+          "hotness": 68
+        },
+        {
+          "title": "NYT 观点：只有全球合作才能让世界免于 AI 风险",
+          "summary": "《纽约时报》观点文章强调，AI 安全治理需要国际协作，单边行动无法应对日益复杂的 AI 风险。",
+          "link": "https://www.nytimes.com/2026/08/13/opinion/ai-safety-regulation-robert-wright.html",
+          "hotness": 65
+        },
+        {
+          "title": "AI 革命拐点：岗位压缩开始跑赢岗位创造",
+          "summary": "分析指出 AI 对就业的替代速度正超过新增就业岗位的速度，劳动力市场面临结构性转变。",
+          "link": "https://k.sina.com.cn/article_5953190046_162d6789e06703pdce.html?from=tech",
+          "hotness": 65
+        },
+        {
+          "title": "新 Instagram Logo 被批为“AI 垃圾”的完美体现",
+          "summary": "Ars Technica 评论认为 Instagram 新 Logo 缺乏设计感，像极了 AI 生成的廉价内容，引发关于 AI 审美侵蚀的讨论。",
+          "link": "https://arstechnica.com/ai/2026/08/the-new-instagram-logo-is-the-perfect-embodiment-of-ai-slop/",
+          "hotness": 60
+        },
+        {
+          "title": "清华学者：AI 安全需要实证，而非承诺",
+          "summary": "清华大学战略与安全研究中心发文指出，AI 安全不能停留在口头保证，必须通过可验证的证据和机制来落实。",
+          "link": "https://ciss.tsinghua.edu.cn/info/banner/3296000027547",
+          "hotness": 60
+        },
+        {
+          "title": "国际 AI 安全榜单公布，我国高校团队排名全球第二",
+          "summary": "最新国际 AI 安全评测榜单中，中国高校团队位列全球第二，显示国内 AI 安全研究竞争力提升。",
+          "link": "https://www.cztv.com/newsDetail/895165",
+          "hotness": 58
+        },
+        {
+          "title": "a16z 文章：这篇文章有 10% 由 AI 生成",
+          "summary": "Andreessen Horowitz 发布实验性文章，公开标注 AI 生成比例，探讨 AI 写作与创作透明度的边界。",
+          "link": "https://a16z.com/this-essay-is-10-ai-generated/",
+          "hotness": 55
+        },
+        {
+          "title": "VA 越来越多使用 AI，退伍军人要求决策透明",
+          "summary": "美国退伍军人事务部加大 AI 应用，但退伍军人希望了解 AI 如何影响医疗与福利决策，呼吁透明可解释。",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbVZIc1kyNXhPaHE1RF9YU3AzMWNkdkEyRU9nYXV0OVFaQzZ1RHB3LXhzdkRjdUxwQm56eERkVnBuVWM2RHhTUEFaN2U3dVUwRjl3SHp1RmEzRm1sRFdRenVrVDZOS0FLaUduSmEzYUdBQW1scnZSNHlBdURtQWlFbjRqODJQOVdFdzNVRDBpMXV6SEw3WnJKX3M0NUVmTm5sWDc0WlpFZ0JHSVR6ZEkxcURIMEZnZ1hqWm9iczdvYjM2cEg3M0VEZFh5eVNMS2FZ?oc=5",
+          "hotness": 50
+        },
+        {
+          "title": "Cato 批评桑德斯 AI 暂停呼吁混淆议题",
+          "summary": "Cato 研究所撰文称，桑德斯提出的 AI 暂停令将不同问题混为一谈，并指向了错误的解决方案。",
+          "link": "https://www.cato.org/blog/sanders-call-ai-pause-conflates-different-issues-while-pushing-wrong-solution",
+          "hotness": 45
+        },
+        {
+          "title": "明尼苏达学生参与制定国家 AI 政策",
+          "summary": "美国明尼苏达州学生参与国家 AI 政策讨论，为青少年视角进入 AI 治理提供样本。",
+          "link": "https://www.mprnews.org/episode/2026/08/13/minnesota-students-help-craft-national-ai-policy",
+          "hotness": 42
+        },
+        {
+          "title": "李开复专访：热爱与担当是 AI 无法复刻的内核",
+          "summary": "李开复在采访中强调，人类的情感、热爱与责任担当是 AI 永远无法替代的核心价值。",
+          "link": "https://www.cnr.cn/newscenter/dj/20260813/t20260813_527761164.shtml",
+          "hotness": 42
+        },
+        {
+          "title": "共和党人与 TSA 就人脸识别法案陷入拉锯",
+          "summary": "围绕美国交通安全管理局的人脸识别使用，参议院共和党人持续施压，要求限制并透明化相关技术应用。",
+          "link": "https://www.politico.com/news/2025/08/03/gop-tsa-tech-senate-cruz-00490397",
+          "hotness": 40
+        },
+        {
+          "title": "用阳明心学智慧回应 AI 之变",
+          "summary": "有评论从阳明心学出发，探讨在 AI 时代如何以心学智慧应对技术变革中的人性与价值问题。",
+          "link": "https://finance.sina.com.cn/jjxw/2026-08-14/doc-ininfmnc9653866.shtml",
+          "hotness": 30
+        }
+      ]
+    }
+  }
+}

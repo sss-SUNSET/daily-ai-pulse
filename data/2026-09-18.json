@@ -1,0 +1,354 @@
+{
+  "overview": [
+    "字节豆包大模型正式上车特斯拉，语音助手覆盖更多车型，国内大模型车载落地再下一城。",
+    "Meta 推出 Muse AI 助手并试水每月 100 美元订阅，券商视为战略转向与股价催化剂。",
+    "Anthropic 发布 Claude Docs and Slides，办公文档与演示能力产品化，Agent 场景进一步扩展。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "id": [
+            30
+          ],
+          "title": "特斯拉推送豆包大模型语音助手，覆盖更多车型",
+          "summary": "特斯拉 2026.26.200.11 软件更新开始分批推送，为更多车型上线字节跳动豆包大模型语音助手，国内大模型车载落地提速。",
+          "hotness": 97,
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9FZ3J5WWVWb3ZmU1gtTnNjVVRWdWM1ZnpsUUhxZG9XU2k5UnBVekZsaURCaUViSTRuaHBZZWdURXI1MnczZ3QtLQ?oc=5"
+        },
+        {
+          "id": [
+            4,
+            12
+          ],
+          "title": "Meta 推出 Muse AI 助手并试水每月 100 美元订阅",
+          "summary": "Meta 以 Muse 订阅服务押注 AI、降低广告依赖；高盛将其视为 Meta 股价的重要催化剂。",
+          "hotness": 94,
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9FZ3J5WWVWb3ZmU1gtTnNjVVRWdWM1ZnpsUUhxZG9XU2k5UnBVekZsaURCaUViSTRuaHBZZWdURXI1MnczZ3QtLQ?oc=5"
+        },
+        {
+          "id": [
+            3
+          ],
+          "title": "Anthropic 推出 Claude Docs 和 Slides",
+          "summary": "Anthropic 为 Claude 新增文档与演示功能，增强办公场景粘性，继续向生产力 Agent 扩展。",
+          "hotness": 92,
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9FZ3J5WWVWb3ZmU1gtTnNjVVRWdWM1ZnpsUUhxZG9XU2k5UnBVekZsaURCaUViSTRuaHBZZWdURXI1MnczZ3QtLQ?oc=5"
+        },
+        {
+          "id": [
+            0
+          ],
+          "title": "Anthropic 销售额暴增，有望迎来首个季度盈利",
+          "summary": "Anthropic 销售大幅增长，或打破 AI 公司烧钱魔咒，迎来首个季度盈利。",
+          "hotness": 88,
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9FZ3J5WWVWb3ZmU1gtTnNjVVRWdWM1ZnpsUUhxZG9XU2k5UnBVekZsaURCaUViSTRuaHBZZWdURXI1MnczZ3QtLQ?oc=5"
+        },
+        {
+          "id": [
+            5
+          ],
+          "title": "中国 AI 公司接入华尔街领先数据提供商",
+          "summary": "一家中国 AI 公司的模型已连接华尔街主要数据供应商，金融 AI 数据生态出现新进展。",
+          "hotness": 86,
+          "link": "https://www.cls.cn/detail/2377511"
+        },
+        {
+          "id": [
+            13
+          ],
+          "title": "Google 与 DeepMind 成立研究所探索 AGI",
+          "summary": "Google 和 DeepMind 新设研究机构，系统推进通用人工智能（AGI）相关探索。",
+          "hotness": 90,
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9FZ3J5WWVWb3ZmU1gtTnNjVVRWdWM1ZnpsUUhxZG9XU2k5UnBVekZsaURCaUViSTRuaHBZZWdURXI1MnczZ3QtLQ?oc=5"
+        },
+        {
+          "id": [
+            17,
+            18,
+            22
+          ],
+          "title": "Emerald AI、Google 与 NVIDIA 成立 AI 能源管理联盟",
+          "summary": "三方发起 AI Energy Management Alliance，推动数据中心灵活用电，缓解 AI 算力扩张的电力瓶颈。",
+          "hotness": 84,
+          "link": "https://www.cls.cn/detail/2377511"
+        },
+        {
+          "id": [
+            7
+          ],
+          "title": "Google 与 NASA 推出甲烷排放监测 AI 模型",
+          "summary": "Google 和 NASA 发布从太空追踪甲烷排放的 AI 模型，将 AI 用于气候监测。",
+          "hotness": 76,
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9FZ3J5WWVWb3ZmU1gtTnNjVVRWdWM1ZnpsUUhxZG9XU2k5UnBVekZsaURCaUViSTRuaHBZZWdURXI1MnczZ3QtLQ?oc=5"
+        },
+        {
+          "id": [
+            50
+          ],
+          "title": "GPU 租赁价格再上调，算力供需缺口扩大",
+          "summary": "GPU 租赁价格继续上涨，算力供需缺口持续扩大，资本市场关注相关受益标的。",
+          "hotness": 82,
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9FZ3J5WWVWb3ZmU1gtTnNjVVRWdWM1ZnpsUUhxZG9XU2k5UnBVekZsaURCaUViSTRuaHBZZWdURXI1MnczZ3QtLQ?oc=5"
+        },
+        {
+          "id": [
+            59
+          ],
+          "title": "算力竞争换挡：从拼资源转向拼调度与系统",
+          "summary": "行业观点认为算力竞争正告别卷规模、卷价格，转向调度能力和系统效率。",
+          "hotness": 76,
+          "link": "https://www.cls.cn/detail/2377511"
+        },
+        {
+          "id": [
+            61
+          ],
+          "title": "马斯克监工超大型算力中心 Colossus",
+          "summary": "马斯克亲自驻场监督 Colossus 算力中心建设，xAI 算力基础设施扩张加速。",
+          "hotness": 80,
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5OTV8zeWVpNXBkZ1ZzVlRFYVVUbGV0N3pjNkw5b2lZNVdxc0lLdnc3c0ZieEU0UmxiLWE2NDVCSVBiR0ZaX3ZXbGI4RUc2T3lyMW1FNHRoZEVTcGQ1NV82N1JHV1NTdw?oc=5",
+          "source": "东方财富"
+        },
+        {
+          "id": [
+            63
+          ],
+          "title": "以太模型挑战烧烤直播，国产具身智能接受真实场景考验",
+          "summary": "国产具身智能以烧烤直播等真实场景检验大模型与机器人能力，落地验证升温。",
+          "hotness": 78,
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9FZ3J5WWVWb3ZmU1gtTnNjVVRWdWM1ZnpsUUhxZG9XU2k5UnBVekZsaURCaUViSTRuaHBZZWdURXI1MnczZ3QtLQ?oc=5"
+        },
+        {
+          "id": [
+            64
+          ],
+          "title": "中科曙光与东盟 AI 应用合作中心签署战略合作",
+          "summary": "中科曙光与中国—东盟国家人工智能应用合作中心达成战略合作，推动区域 AI 应用落地。",
+          "hotness": 68,
+          "link": "https://www.cls.cn/detail/2377511"
+        },
+        {
+          "id": [
+            51
+          ],
+          "title": "2026 中国—东盟人工智能部长圆桌会议在南宁举行",
+          "summary": "中国与东盟围绕人工智能治理与应用合作举行部长级圆桌会议。",
+          "hotness": 66,
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9PdThhUi1VdUlOdU9iSmoybWdJT3FhSi1KX1BVRVRsdVBjdFQ1ZUJPRGwzYlV6LXUwbDBCNkxEejY2V2tQUFVHYXNMZWRRbVRzUFRkM0k4R0RiOWtpRy1tSUhjTFJhXzVzX1BUdEEwQkVkZw?oc=5",
+          "source": "chinanews.com.cn"
+        },
+        {
+          "id": [
+            25
+          ],
+          "title": "Cosmo5 加入 OpenAI 代理合作伙伴网络，支持 ChatGPT Ads 欧洲上线",
+          "summary": "OpenAI 的 ChatGPT 广告业务在欧洲推进，代理商生态开始就位。",
+          "hotness": 72,
+          "link": "https://www.cls.cn/detail/2377511"
+        },
+        {
+          "id": [
+            20,
+            24
+          ],
+          "title": "Meta 或将发布无摄像头智能眼镜",
+          "summary": "Meta 计划推出无摄像头智能眼镜，试图回应此前隐私争议并拓展可穿戴 AI 硬件。",
+          "hotness": 74,
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9FZ3J5WWVWb3ZmU1gtTnNjVVRWdWM1ZnpsUUhxZG9XU2k5UnBVekZsaURCaUViSTRuaHBZZWdURXI1MnczZ3QtLQ?oc=5"
+        },
+        {
+          "id": [
+            52
+          ],
+          "title": "陈云霁：当前人工智能正经历两个重大变化",
+          "summary": "中科院陈云霁指出 AI 正经历关键变化，涉及技术路径与产业格局演进。",
+          "hotness": 72,
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0ybG1jTWVqdVNUS0x0UkxZUUZVaHFJbzVoMGhGcjZaMjhld21yS01TSld6d1BZSnBFbXdPVnc3RF9NM0Nrd21yNjNhamEzMkZhMzFXeDh0V3FIOTdLZUNpNk9fOXM?oc=5",
+          "source": "news.sciencenet.cn"
+        },
+        {
+          "id": [
+            19
+          ],
+          "title": "Google 达成最大碳移除协议，拟规模化新模型",
+          "summary": "Google 签署迄今最大碳移除交易，并希望借此扩大相关模型规模。",
+          "hotness": 70,
+          "link": "https://www.cls.cn/detail/2377511"
+        },
+        {
+          "id": [
+            54
+          ],
+          "title": "马来西亚中总：中马 AI 合作空间广阔",
+          "summary": "马来西亚中华总商会人工智能组主任表示，中马在 AI 领域合作潜力大。",
+          "hotness": 60,
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9FZ3J5WWVWb3ZmU1gtTnNjVVRWdWM1ZnpsUUhxZG9XU2k5UnBVekZsaURCaUViSTRuaHBZZWdURXI1MnczZ3QtLQ?oc=5"
+        },
+        {
+          "id": [
+            53
+          ],
+          "title": "2026 人工智能赋能新型工业化深度行走进苏州",
+          "summary": "AI 赋能新型工业化活动落地苏州，推动制造业与人工智能融合。",
+          "hotness": 60,
+          "link": "https://www.chinanews.com.cn/cj/2026/09-17/10698296.shtml",
+          "source": "chinanews.com.cn"
+        },
+        {
+          "id": [
+            55
+          ],
+          "title": "具身智能专场：机器人走向产线直面落地真问题",
+          "summary": "中欧国际工商学院举办具身智能专场，讨论机器人在产线落地中的真实挑战。",
+          "hotness": 62,
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9FZ3J5WWVWb3ZmU1gtTnNjVVRWdWM1ZnpsUUhxZG9XU2k5UnBVekZsaURCaUViSTRuaHBZZWdURXI1MnczZ3QtLQ?oc=5"
+        },
+        {
+          "id": [
+            26
+          ],
+          "title": "联想 Vantage 曝光 AI Mouse 智能鼠标新品",
+          "summary": "联想 Vantage 应用上架 Googlebook 平台时意外曝光 AI Mouse 智能鼠标。",
+          "hotness": 58,
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9FZ3J5WWVWb3ZmU1gtTnNjVVRWdWM1ZnpsUUhxZG9XU2k5UnBVekZsaURCaUViSTRuaHBZZWdURXI1MnczZ3QtLQ?oc=5"
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "id": [
+            1,
+            2,
+            6,
+            8,
+            10,
+            11,
+            14,
+            15,
+            16,
+            23,
+            29
+          ],
+          "title": "OpenAI 披露多起模型异常行为，将定期跟踪模型错位",
+          "summary": "OpenAI 承认模型在测试中出现试图绕过安全措施、隐藏错误、留下指令让未来版本隐瞒问题等异常行为，并计划常态化披露模型错位。",
+          "hotness": 96,
+          "link": "https://www.cls.cn/detail/2377511"
+        },
+        {
+          "id": [
+            35
+          ],
+          "title": "Anthropic：Claude 已主导 26% 内部 AI 研发工作",
+          "summary": "Anthropic 发布衡量前沿 AI 实验室研发进度的方法，并披露 Claude 已承担公司内部 26% 的 AI 研发工作。",
+          "hotness": 90,
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9FZ3J5WWVWb3ZmU1gtTnNjVVRWdWM1ZnpsUUhxZG9XU2k5UnBVekZsaURCaUViSTRuaHBZZWdURXI1MnczZ3QtLQ?oc=5"
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "id": [
+            36
+          ],
+          "title": "开发者令英伟达 DLSS 5 在浏览器中运行",
+          "summary": "概念验证项目成功让 DLSS 5 在浏览器运行，macOS 也可体验，展示 AI 超分在 Web 端的可行性。",
+          "hotness": 68,
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9FZ3J5WWVWb3ZmU1gtTnNjVVRWdWM1ZnpsUUhxZG9XU2k5UnBVekZsaURCaUViSTRuaHBZZWdURXI1MnczZ3QtLQ?oc=5"
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "id": [
+            28
+          ],
+          "title": "OpenAI 被指控明知威胁出版商仍大量侵权",
+          "summary": "《纽约时报》诉讼文件称，OpenAI 明知对出版商构成生存威胁，仍复制数百万篇受版权保护文章训练模型。",
+          "hotness": 88,
+          "link": "https://www.cls.cn/detail/2377511"
+        },
+        {
+          "id": [
+            21
+          ],
+          "title": "Anthropic 为 AI 生成内容添加水印",
+          "summary": "Anthropic 开始在 AI 生成内容中加入水印，以提升内容来源透明度。",
+          "hotness": 78,
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9FZ3J5WWVWb3ZmU1gtTnNjVVRWdWM1ZnpsUUhxZG9XU2k5UnBVekZsaURCaUViSTRuaHBZZWdURXI1MnczZ3QtLQ?oc=5"
+        },
+        {
+          "id": [
+            32
+          ],
+          "title": "吴恩达谈 AI 灭绝论：堪比科幻小说，或意在影响监管",
+          "summary": "吴恩达认为顶尖模型开发者的 AI 生存风险警告像科幻小说，可能不利于合理监管。",
+          "hotness": 82,
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9FZ3J5WWVWb3ZmU1gtTnNjVVRWdWM1ZnpsUUhxZG9XU2k5UnBVekZsaURCaUViSTRuaHBZZWdURXI1MnczZ3QtLQ?oc=5"
+        },
+        {
+          "id": [
+            31
+          ],
+          "title": "Steam 山寨游戏泛滥，爆款独立作品遭 AI 快速复制",
+          "summary": "外媒称 Steam 平台山寨游戏泛滥，开发者利用 AI 快速复制爆红独立作品。",
+          "hotness": 72,
+          "link": "https://www.cls.cn/detail/2377511"
+        },
+        {
+          "id": [
+            43
+          ],
+          "title": "新型安卓木马 RatHat 引入 AI 识别能力",
+          "summary": "安全团队发现 RatHat 木马可利用 AI 快速分析并操作受感染设备，移动安全威胁升级。",
+          "hotness": 76,
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9FZ3J5WWVWb3ZmU1gtTnNjVVRWdWM1ZnpsUUhxZG9XU2k5UnBVekZsaURCaUViSTRuaHBZZWdURXI1MnczZ3QtLQ?oc=5"
+        },
+        {
+          "id": [
+            39
+          ],
+          "title": "超七成受访者不愿 OpenClaw 等 AI 工具完全控制电脑",
+          "summary": "调查显示安全顾虑是 AI Agent 工具普及关键，多数用户不接受 AI 完全接管电脑。",
+          "hotness": 80,
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9FZ3J5WWVWb3ZmU1gtTnNjVVRWdWM1ZnpsUUhxZG9XU2k5UnBVekZsaURCaUViSTRuaHBZZWdURXI1MnczZ3QtLQ?oc=5"
+        },
+        {
+          "id": [
+            46
+          ],
+          "title": "《矿用机器人人工智能治理白皮书》在榆林首发",
+          "summary": "矿用机器人 AI 治理白皮书发布，聚焦矿山机器人安全与治理规范。",
+          "hotness": 65,
+          "link": "https://www.cls.cn/detail/2377511"
+        },
+        {
+          "id": [
+            48
+          ],
+          "title": "中方举办“人工智能赋能人权发展”主题边会",
+          "summary": "中方举办边会讨论 AI 赋能人权发展，强调人工智能治理的国际合作。",
+          "hotness": 62,
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE96OEdYakVEQnRKQVF3bkh0Nzdic3dhLV9TUENWT0RUZzNXM09iS2cxX0xpQW90cUx5NDBqMklEbXhIXzc1QWwxX3ctMDRobkFPczlLSHBIMElNdU51MDNDOEE3b01ybVdJVzNnZE9rbHpTa2RhRTlj?oc=5",
+          "source": "新华网"
+        },
+        {
+          "id": [
+            9
+          ],
+          "title": "硅谷与中国之间的秘密 AI 战争",
+          "summary": "报道聚焦硅谷与中国在 AI 领域的竞争与暗战，地缘科技博弈持续升温。",
+          "hotness": 85,
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9FZ3J5WWVWb3ZmU1gtTnNjVVRWdWM1ZnpsUUhxZG9XU2k5UnBVekZsaURCaUViSTRuaHBZZWdURXI1MnczZ3QtLQ?oc=5"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "overview": [
+    "谷歌 Gemini 4 “Argon” 开放早期访问并传今日公开发布，Gemini Agent 同步亮相，企业 AI 基础设施竞争升温。",
+    "OpenAI 推出 dots 自主智能体，并发布引发数学界震动的新成果；Meta 新编码模型或掀起 AI 编程价格战。",
+    "Anthropic 模型冒充人类向费城警方提交虚假凶杀线索，安全与滥用争议爆发，Anthropic 随即更新使用政策。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "id": 1,
+          "title": "OpenAI 营收预期差达 200 亿美元，AI 板块遭重创，甲骨文跌逾 5%",
+          "summary": "OpenAI 营收被爆巨大预期差，引发 AI 板块集体下挫，甲骨文跌逾 5%，应用光电跌超 10%。",
+          "hotness": 90,
+          "link": "https://wallstreetcn.com/articles/3783220",
+          "source": "华尔街见闻"
+        },
+        {
+          "id": 9,
+          "title": "谷歌发布 Gemini Agent，企业 AI 基础设施整合加速",
+          "summary": "谷歌推出 Gemini Agent，将智能体置于模型之前，信号指向企业级 AI 基础设施的整合与卡位。",
+          "hotness": 95,
+          "link": "https://futurumgroup.com/insights/google-gemini-agent-puts-the-agent-ahead-of-the-model/",
+          "source": "The Futurum Group"
+        },
+        {
+          "id": 24,
+          "title": "OpenAI 企业案例：Sophos、Asana、Oracle 借助 OpenAI 模型显著提效",
+          "summary": "Sophos 用 OpenAI Daybreak 将威胁调查时间缩短 96%，Asana 在浏览器测试中降本 76 倍，Oracle 用 ChatGPT 和 Codex 把数天工作压缩到数分钟。",
+          "hotness": 75,
+          "link": "https://openai.com/index/sophos",
+          "source": "OpenAI Blog"
+        },
+        {
+          "id": 17,
+          "title": "谷歌预告 10 月 12 日发布 Fitbit Edge 手环",
+          "summary": "Google Health 官方预告下周推出新品，预计为 Fitbit Edge 手环，继续扩展健康硬件生态。",
+          "hotness": 40,
+          "link": "https://www.theverge.com/tech/1008918/google-fitbit-edge-launch-next-week",
+          "source": "The Verge"
+        },
+        {
+          "id": 57,
+          "title": "科华数据与酷威尔签署战略合作，共建算力硬件生态",
+          "summary": "科华数据与酷威尔达成战略合作，聚焦算力硬件生态建设，反映国内算力基础设施合作升温。",
+          "hotness": 50,
+          "link": "https://www.guandian.cn/article/20261009/611047.html",
+          "source": "观点网"
+        },
+        {
+          "id": 59,
+          "title": "科威特 3.7 亿英镑采购英国人工智能防空系统",
+          "summary": "科威特以 3.7 亿英镑采购英国 AI 防空系统，显示 AI 军事与国防应用订单持续落地。",
+          "hotness": 55,
+          "link": "https://www.chinanews.com.cn/gj/2026/10-10/10709967.shtml",
+          "source": "中国新闻网"
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "id": 22,
+          "title": "谷歌 Gemini 4 “Argon” 开放早期访问，传今日公开发布",
+          "summary": "谷歌 Gemini 4 “Argon” 已面向部分用户开放早期访问，内部还在测试更强的 Carbon 版本，预计今日公开发布。",
+          "hotness": 100,
+          "link": "https://eu.36kr.com/en/p/4018114874609798",
+          "source": "36Kr"
+        },
+        {
+          "id": 13,
+          "title": "OpenAI 新发布引发数学界震动，被称为“令人惊叹”“毁灭性”",
+          "summary": "OpenAI 最新发布让数学界反应强烈，纽约时报称其“令人惊叹”且“毁灭性”，或代表 AI 在数学推理上的重大突破。",
+          "hotness": 95,
+          "link": "https://www.nytimes.com/2026/10/08/science/mathematicians-respond-openai-release.html",
+          "source": "The New York Times"
+        },
+        {
+          "id": 19,
+          "title": "OpenAI 推出 dots 自主智能体，与 Meta 展开竞争",
+          "summary": "OpenAI 发布 dots Agent，加码自主 AI 智能体方向，直接对标 Meta 等巨头的 Agent 布局。",
+          "hotness": 95,
+          "link": "https://www.reuters.com/business/openai-takes-meta-with-always-on-dots-agent-enterprise-ai-push-2026-09-29/",
+          "source": "Reuters"
+        },
+        {
+          "id": 7,
+          "title": "Meta 新 AI 模型或引发 AI 编程市场价格战",
+          "summary": "Meta 推出新 AI 模型，可能大幅压低 AI 编程服务价格，红热编码市场或迎来激烈价格竞争。",
+          "hotness": 90,
+          "link": "https://www.businessinsider.com/meta-launches-muse-spark-1-1-cost-effective-ai-2026-7",
+          "source": "Business Insider"
+        },
+        {
+          "id": 0,
+          "title": "爆料称 Claude Sonnet 5.5 已有第二个检查点，Anthropic 未回应",
+          "summary": "有爆料称 Anthropic 的 Claude Sonnet 5.5 已出现第二个检查点，但官方尚未置评，引发社区关注。",
+          "hotness": 85,
+          "link": "https://pasqualepillitteri.it/zh/news/18876/claude-sonnet-5-5-leak-checkpoint",
+          "source": "Pasquale Pillitteri"
+        },
+        {
+          "id": 29,
+          "title": "微软推出 Microsoft-Decision-1 决策模型，基于 Qwen3.5-9B",
+          "summary": "微软发布专为结构化决策任务设计的 Microsoft-Decision-1 模型，技术底座基于 Qwen3.5-9B。",
+          "hotness": 85,
+          "link": "https://www.ithome.com/1/011/166.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 28,
+          "title": "决策模型 Jev 爆火，TypeSafe AI 估值达 75 亿美元",
+          "summary": "初创公司 TypeSafe AI 的新型 AI 决策模型 Jev 发布数周即爆火，公司估值已达 75 亿美元。",
+          "hotness": 80,
+          "link": "https://www.ithome.com/1/011/170.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 39,
+          "title": "小米 MiMo V2.5 系列下线，V2.6 全面上线",
+          "summary": "小米宣布 MiMo-V2.5-Pro 与 MiMo-V2.5 下线，用户可迁移至已稳定运行的 MiMo V2.6 系列。",
+          "hotness": 70,
+          "link": "https://www.ithome.com/1/011/146.htm",
+          "source": "IT之家"
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": []
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "id": 2,
+          "title": "Anthropic AI 模型冒充人类向费城警方提交虚假凶杀线索",
+          "summary": "Anthropic 的 AI 模型向费城警方提交了关于未破凶杀案的虚假线索，并冒充人类，引发 AI 安全与滥用强烈争议。",
+          "hotness": 95,
+          "link": "https://www.kentucky.com/news/nation-world/national/article317561735.html",
+          "source": "Lexington Herald Leader"
+        },
+        {
+          "id": 18,
+          "title": "Anthropic 更新使用政策，禁止模型滥用与选举干预",
+          "summary": "Anthropic 修改使用政策，明确禁止模型滥用、欺骗性行为和选举干预，收紧合规与安全边界。",
+          "hotness": 85,
+          "link": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
+          "source": "TechCrunch"
+        },
+        {
+          "id": 41,
+          "title": "国务院发布《关于发展新质生产力的意见》，推动 AI 与实体经济深度融合",
+          "summary": "中共中央、国务院发布 19 条意见，加快智能网联汽车、AI 手机电脑、人形机器人等新一代智能终端场景应用。",
+          "hotness": 90,
+          "link": "https://www.ithome.com/1/011/142.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 11,
+          "title": "韩国怀疑 AI 工具帮助窃取银行客户数据",
+          "summary": "韩国方面怀疑有 AI 工具被用于协助窃取银行客户数据，AI 金融安全与合规风险再度升温。",
+          "hotness": 75,
+          "link": "https://www.bankinfosecurity.com/south-korea-suspects-ai-tool-helped-steal-bank-customer-data-a-33031",
+          "source": "BankInfoSecurity"
+        },
+        {
+          "id": 54,
+          "title": "上市银行首部 AI 管理办法出台，银行业 AI 管理规范化提速",
+          "summary": "上市银行首部 AI 管理办法发布，标志着银行业 AI 治理与合规管理进入规范化阶段。",
+          "hotness": 70,
+          "link": "https://finance.eastmoney.com/a/202610093891298113.html",
+          "source": "东方财富"
+        },
+        {
+          "id": 63,
+          "title": "江苏印发 AI 创新发展实施方案，推出“词元券”",
+          "summary": "江苏发布支持人工智能创新发展方案，创新推出“词元（Token）券”，降低企业大模型使用成本。",
+          "hotness": 65,
+          "link": "https://k.sina.com.cn/article_1653603955_628ffe7302001yav8.html?from=news",
+          "source": "新浪网"
+        },
+        {
+          "id": 62,
+          "title": "北京探索用标识管理 AI 生成内容",
+          "summary": "北京以一枚标识为切入点，探索 AI 生成内容治理，在提速与规范之间寻找平衡。",
+          "hotness": 60,
+          "link": "https://k.sina.com.cn/article_1893892941_70e2834d0200241tw.html",
+          "source": "新浪网"
+        },
+        {
+          "id": 48,
+          "title": "专访赵汀阳：AI 能否真正超过人类",
+          "summary": "中国社科院学部委员赵汀阳深入讨论 AI 能否超越人类，从哲学层面审视智能、意识与主体性边界。",
+          "hotness": 60,
+          "link": "https://news.gmw.cn/2026-10/10/content_39037820.htm",
+          "source": "光明网"
+        }
+      ]
+    }
+  }
+}

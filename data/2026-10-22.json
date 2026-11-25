@@ -1,0 +1,197 @@
+{
+  "overview": [
+    "OpenAI与Google Cloud达成合作，OpenAI前沿模型及Codex工作流将登陆Google Cloud Model Garden/Gemini，云厂商模型边界进一步模糊。",
+    "Anthropic发布可主动工作的Claude Duet智能体，同时Claude Opus 5.5/Sonnet 5.5登陆Google Antigravity，AI Agent与核心模型迭代同步加速。",
+    "英伟达GTC推出DSX POD模块化AI工厂并扩展DGX Spark集群，AI算力基础设施部署周期最快压缩至14天。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "id": 0,
+          "title": "OpenAI前沿模型及Codex工作流将登陆Google Cloud",
+          "summary": "OpenAI与Google Cloud合作，企业客户可在Google Cloud Model Garden/Gemini使用OpenAI前沿模型与Codex工作流，进一步扩大模型选择。（源ID：0、1、6、12）",
+          "hotness": 95,
+          "link": "https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-brings-openai-models-to-customers",
+          "source": "Google Cloud"
+        },
+        {
+          "id": 37,
+          "title": "英伟达GTC发布DSX POD预制AI工厂，DGX Spark支持8台集群",
+          "summary": "黄仁勋推出模块化AI工厂DSX POD，最快14天部署、2027年初全球交付；DGX Spark集群上限升至8台，128GB版统一内存最高1TB。（源ID：33、37）",
+          "hotness": 86,
+          "link": "https://www.ithome.com/1/016/138.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 34,
+          "title": "腾讯内测AI互动社区“懂了鸭”",
+          "summary": "腾讯内测面向青少年的AI互动内容社区“懂了鸭”，支持一句话生成可玩的动态课件与3D演示，探索AI教育内容创作。",
+          "hotness": 82,
+          "link": "https://www.ithome.com/1/016/145.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 14,
+          "title": "ChatGPT广告扩展至26国，OpenAI披露LLM驱动广告栈",
+          "summary": "ChatGPT广告业务新增26个国家，超10万广告主使用；OpenAI详解以LLM理解对话、兼顾用户信任与相关性的广告技术栈。（源ID：14、16）",
+          "hotness": 80,
+          "link": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+          "source": "OpenAI Blog"
+        },
+        {
+          "id": 26,
+          "title": "沃尔玛推出自有智能体网关，AI可代用户下单购物",
+          "summary": "沃尔玛上线智能体网关处理交易，并推出面向AI智能体消费者的新功能，加码Agent电商入口。",
+          "hotness": 75,
+          "link": "https://www.ithome.com/1/016/172.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 18,
+          "title": "通用汽车加码AI：研发端押注AI与新型电池，安吉星引入AI助手",
+          "summary": "通用汽车称用AI和新型电池将电动车研发周期减半，并为安吉星升级AI助手实现控车与排障。（源ID：18、22）",
+          "hotness": 65,
+          "link": "https://www.ithome.com/1/016/180.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 10,
+          "title": "AT&T用OpenAI重构法务知识工作",
+          "summary": "AT&T与OpenAI合作让法律知识更易获取，展示大模型在企业法务场景中的落地。",
+          "hotness": 62,
+          "link": "https://openai.com/index/att-legal",
+          "source": "OpenAI Blog"
+        },
+        {
+          "id": 4,
+          "title": "高通启动全球裁员",
+          "summary": "高通宣布开始全球范围裁员，反映半导体行业需求调整与成本压力。",
+          "hotness": 60,
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZWtQYmF4NkxKak1CUkRSMU1SVEE0a2pxSEluNy1zRUZCY0c2ZHpFLVp0QUFZNDg0ZHBpaFFnV3dlcnczWWNxMWdXOEJ2NlNEakZzUEhHUWVXNks0U1BRamxzMzU5cHdkUlN4eTF6S25mR1FkRElUU01FMzM3TGdCXzI0VTk1QS16bTQ2RXNwTlVDaWswLXY4?oc=5",
+          "source": "Electronics Weekly"
+        },
+        {
+          "id": 19,
+          "title": "Meta向扎克伯格配发C类无投票权股份，换取其扎根加州8年承诺",
+          "summary": "面对加州富人税，Meta与扎克伯格达成协议配发C类无投票权股份，换取其未来8年扎根加州承诺。",
+          "hotness": 58,
+          "link": "https://www.ithome.com/1/016/178.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 21,
+          "title": "Meta第三财季归母净利润98.6亿美元，同比增长264%",
+          "summary": "Meta发布2026财年第三财季业绩，归母净利润98.6亿美元，同比大增264%。",
+          "hotness": 55,
+          "link": "https://www.ithome.com/1/016/163.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 23,
+          "title": "微软员工总数十年来首次下降",
+          "summary": "微软最新年报显示截至6月底雇员约22.3万人，员工总数十年来首次下降。",
+          "hotness": 55,
+          "link": "https://www.ithome.com/1/016/174.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 35,
+          "title": "华为鸿蒙HarmonyOS 7小艺AI快捷栏功能延期",
+          "summary": "华为确认HarmonyOS 7小艺AI快捷栏功能延期，预计11月初分批推送。",
+          "hotness": 55,
+          "link": "https://www.ithome.com/1/016/144.htm",
+          "source": "IT之家"
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "id": 29,
+          "title": "Anthropic推出Claude Duet：可主动工作的AI智能体",
+          "summary": "Claude Duet以研究预览版发布，定位24小时主动工作的智能体，直接迎战Meta和OpenAI的Agent布局。",
+          "hotness": 93,
+          "link": "https://www.ithome.com/1/016/169.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 8,
+          "title": "Claude Opus 5.5与Sonnet 5.5登陆Google Antigravity",
+          "summary": "Anthropic最新Claude Opus 5.5和Sonnet 5.5已可在Google Antigravity中使用，为开发者提供更强推理与编码能力。",
+          "hotness": 92,
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYlRVVVRvR21CSnQ3QUFkSkZBcWZhSmk4UTEzZmJlbU1PZ0k5cWFUTjg3TDBkdkdpdzJ6bU9TUGREdjQxZ2dxTllMODNMYTdlUVNJbDZ5bmFUMHNGNzhFby1MQ3ZNbUp0UVJLX3N5aHJmaDlKS1YteVIya1V3ZFBmOGxHWGNuWTFoQ1FjVTZTVHI2bTRvUU04ek44SmUyLUdjZEhTdk02WTlDOF9UUFVMRlkya2dPSDk4RUdn?oc=5",
+          "source": "Google Cloud"
+        },
+        {
+          "id": 15,
+          "title": "OpenAI等用数千AI智能体挖掘生物数据新线索",
+          "summary": "OpenAI与PerturbAI、Scripps Research利用分布式AI智能体在生物数据中大规模发现新线索，展示AI for Science潜力。",
+          "hotness": 75,
+          "link": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+          "source": "OpenAI Blog"
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "id": 36,
+          "title": "Node.js发布最高严重级别高危安全更新",
+          "summary": "Node.js针对26.x、24.x和22.x系列发布最高严重级别安全更新，建议开发者立即升级修复高危漏洞。",
+          "hotness": 70,
+          "link": "https://www.ithome.com/1/016/143.htm",
+          "source": "IT之家"
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "id": 13,
+          "title": "OpenAI牵头Patch the Planet协调修复PHP高危漏洞，影响约70%网站",
+          "summary": "OpenAI通过“修补地球”计划联合安全研究者与维护者，协调发现并修复PHP最高危漏洞，避免大规模网站风险。（源ID：13、24）",
+          "hotness": 75,
+          "link": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+          "source": "OpenAI Blog"
+        },
+        {
+          "id": 3,
+          "title": "Anthropic推动AI安全法案：模型若可能致50人以上死亡可被阻止",
+          "summary": "Anthropic提出安全法案，主张当模型可能造成50人以上死亡风险时可阻止其发布或使用，引发监管边界讨论。",
+          "hotness": 70,
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaDFyYXc1VXhSNWszSTJjeHpqMzhfNnJyaU44UURVY2tKdl9PdVh1TXRnQ3lrRktDV1VhMEttU25ERGFKaXFKZmlsN0tZZDlGWVhPM0VKMXA1VHZlN0pja1BNSExXUnFTRUtES2xoM3hXdG95MDNSSjFDZTFOck1ZaXlVMDZwMW56VWlRVzVXTzY5TmdrZnoxVG51ZmhGQl8zeC1DeTcwalM3RzhISi1ncUE1Z2FXYUZOTXlB?oc=5",
+          "source": "TechCrunch"
+        },
+        {
+          "id": 2,
+          "title": "美参议员调查Google校园AI推进，称存在严重担忧",
+          "summary": "参议员对Google在学校推进AI表达“严重担忧”并启动调查，聚焦学生隐私与教育场景风险。",
+          "hotness": 65,
+          "link": "https://www.wsj.com/tech/ai/senators-express-grave-concerns-launch-inquiry-into-googles-ai-push-in-schools-a198d5c1",
+          "source": "WSJ"
+        },
+        {
+          "id": 17,
+          "title": "OpenAI提出前沿AI民主治理蓝图：赋能网络防御者",
+          "summary": "OpenAI发布治理方案第二部分，建议以民主治理和网络防御能力建设应对前沿AI安全风险。",
+          "hotness": 55,
+          "link": "https://openai.com/index/empowering-cyber-defenders",
+          "source": "OpenAI Blog"
+        },
+        {
+          "id": 11,
+          "title": "OpenAI：通过分发伙伴统一安全标准扩大可及性",
+          "summary": "OpenAI称将与分发伙伴合作维持一致安全防护，在扩大AI可及性的同时防止滥用。",
+          "hotness": 50,
+          "link": "https://openai.com/index/broad-access-through-consistent-standards",
+          "source": "OpenAI Blog"
+        }
+      ]
+    }
+  }
+}

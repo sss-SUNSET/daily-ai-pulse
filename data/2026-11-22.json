@@ -1,0 +1,277 @@
+{
+  "overview": [
+    "Anthropic 的 Claude 辅助黎曼猜想证明获 Lean 社区认证，AI 数学推理与形式化验证能力迎来里程碑。",
+    "MiniMax 披露未公开内部模型的密码分析结果，国产大模型在复杂推理与安全任务上的前沿探索受关注。",
+    "英伟达因 SEC 潜在会计调查股价较 10 月高点腰斩，叠加 Anthropic IPO 后市场重新审视 AI 基础设施投资。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "id": 46,
+          "title": "Anthropic IPO 后，散户关注三大美国 AI 基础设施股",
+          "summary": "Anthropic IPO 后，散户投资者关注三类美国 AI 基础设施股，显示资本市场对 AI 算力链的重新定价。",
+          "hotness": 96,
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYzlJeHdzSnYwUjNlM2xWdmUydHRuYkxmT1dyWXVrOF8ySm4tYkluUmxERW90OFQwVWpQSUtselQwUFBSWVAtb1FqOHJaVjZfZURMSDhNZTRHcHVYanZUZ1MyWlVPdWdxWVRLd09RWm5TOEhBM3MtQ2E2OWpOTGxtd2F2ZENyZk1meHZsaHRLLVNPakEtRldKRw?oc=5",
+          "source": "Yahoo Finance"
+        },
+        {
+          "id": 11,
+          "title": "英伟达遭 SEC 潜在会计调查，股价较 10 月高点腰斩",
+          "summary": "路透称 SEC 正调查英伟达潜在会计问题，股价较 10 月高点大幅回撤；单日 14% 暴跌加剧 AI 算力链估值担忧。",
+          "hotness": 92,
+          "link": "https://www.ithome.com/1/030/514.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 1,
+          "title": "OpenAI 要求 AI 模型转售商先获其批准",
+          "summary": "OpenAI 要求 AI 模型转售商先获其批准，强化对模型分发渠道与商业生态的控制。",
+          "hotness": 82,
+          "link": "https://ppc.land/openai-forces-ai-model-resellers-to-seek-its-approval-first/",
+          "source": "PPC Land"
+        },
+        {
+          "id": 4,
+          "title": "Meta 计划推 300 美元 Muse Charm AI 设备，智能手表推迟至 2027 年",
+          "summary": "Meta 计划推出约 300 美元的 Muse Charm AI 设备，并将智能手表发布推迟至 2027 年，AI 硬件路线继续扩展。",
+          "hotness": 82,
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeVJ3T01mUUJpNGZFYWJoXzBhbWhXVDBHZjNiaUpJWlJWbU5udWlRZXlIVS1ERWdTNFBXM2FKbVpCRXRTOTNEa3UycERKWVpBZGdaaGhNUnNqVW8wdFNlbEhzZy1vd3VaVVdBeXF6allWbnBJOUJSaE5pNmVfU0prd2VrTVNwV25KWTNwa2FrN0d0MllSUnVURw?oc=5",
+          "source": "Tekedia"
+        },
+        {
+          "id": 55,
+          "title": "特朗普警告美国企业海外建 AI 数据中心将面临重税",
+          "summary": "特朗普警告美国企业若在海外建设 AI 数据中心将面临重税，AI 基础设施政策不确定性上升。",
+          "hotness": 82,
+          "link": "https://newscord.org/article/trump-threatens-enormous-tax-huge-fines-for-data-centers-built-outside-the-us--Story_20261121_AlJazeeraexplainsThe093b7666",
+          "source": "NewsCord"
+        },
+        {
+          "id": 16,
+          "title": "三星未来三年大部分存储芯片产能已被锁定",
+          "summary": "三星 2027 至 2029 年大部分存储芯片产能已被锁定，有客户希望供货保障至 2031 年，AI 存储需求持续紧张。",
+          "hotness": 78,
+          "link": "https://www.ithome.com/1/030/475.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 29,
+          "title": "欧盟首次专题 AI 峰会召开，59 位科技界人士联名呼吁加大投入",
+          "summary": "欧盟首次专题 AI 峰会召开，59 位科技界人士联名呼吁加大投入，以追赶中美 AI 竞争。",
+          "hotness": 76,
+          "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E4%BB%8A%E6%97%A5%E6%AC%A7%E6%B4%B2/20261121-%E8%BF%BD%E8%B5%B6%E4%B8%AD%E7%BE%8E-%E6%AC%A7%E7%9B%9F%E9%A6%96%E6%AC%A1%E4%B8%93%E9%A2%98%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%B3%B0%E4%BC%9A-59%E4%BD%8D%E7%A7%91%E6%8A%80%E7%95%8C%E4%BA%BA%E5%A3%AB%E8%81%94%E5%90%8D%E5%91%BC%E5%90%81%E5%8A%A0%E5%A4%A7%E6%8A%95%E5%85%A5",
+          "source": "RFI"
+        },
+        {
+          "id": 22,
+          "title": "前英特尔 CEO 基辛格：AI 需要万倍效率飞跃，渐进式芯片提升不够",
+          "summary": "基辛格称 AI 需要“一万倍效率飞跃”，渐进式芯片性能提升无法满足，呼吁架构级创新。",
+          "hotness": 74,
+          "link": "https://www.ithome.com/1/030/464.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 17,
+          "title": "欧洲央行行长拉加德：欧盟公共资金应率先承担芯片厂与数据中心首轮损失",
+          "summary": "拉加德建议欧盟用公共资金率先承担大型芯片厂与数据中心项目首轮损失，以吸引 AI 基础设施投资。",
+          "hotness": 72,
+          "link": "https://www.ithome.com/1/030/472.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 30,
+          "title": "芝商所拟推出 AI 算力期货合约",
+          "summary": "芝商所官宣拟推出两项 AI 算力期货合约，算力资源金融化迈出一步。",
+          "hotness": 70,
+          "link": "https://www.cls.cn/detail/2451730",
+          "source": "财联社"
+        },
+        {
+          "id": 43,
+          "title": "开普云联合四川发展、智元等共建具身智能场景公司",
+          "summary": "开普云携手四川发展、智元等共建具身智能场景科技公司，推动机器人场景落地。",
+          "hotness": 70,
+          "link": "https://wap.eastmoney.com/a/202611213936847388.html",
+          "source": "东方财富网"
+        },
+        {
+          "id": 10,
+          "title": "谷歌 Nest 应用明年停服，功能整合进 Google Home",
+          "summary": "谷歌宣布独立 Nest 应用明年停服，功能全面整合进 Google Home，智能家居入口进一步统一。",
+          "hotness": 68,
+          "link": "https://www.ithome.com/1/030/515.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 7,
+          "title": "华为鸿蒙 7 更多机型小艺上线“小艺星芒”音色",
+          "summary": "华为鸿蒙 HarmonyOS 7 更多机型小艺助理上线“小艺星芒”音色，AI 语音助手个性化升级。",
+          "hotness": 66,
+          "link": "https://www.ithome.com/1/030/519.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 37,
+          "title": "中科元创 OPC 平台发布，天河算力超市即将开张",
+          "summary": "中科元创 OPC 平台发布，天河算力超市即将开张，地方算力调度与交易平台加速落地。",
+          "hotness": 62,
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE84QUhYcmVERF82OENZN2ZUT19oTmxlU2RJSks0Ul9pMTFzRzlYZ3Nyd3MzZDczM3RzdGlxX2g4amhzY1hYcGNpZnJiWDJpT2IxWXdZeEItbXdpR1liWEt5amRHb3gwcU1QZEtLWllWOA?oc=5",
+          "source": "广州市人民政府"
+        },
+        {
+          "id": 25,
+          "title": "2030 年冲击 10000EFLOPS，算力概念股受关注",
+          "summary": "国内算力目标指向 2030 年 10000EFLOPS，算力概念股与基础设施投资再获关注。",
+          "hotness": 60,
+          "link": "https://wap.eastmoney.com/a/202611203936217729.html",
+          "source": "东方财富网"
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "id": 61,
+          "title": "Lean 社区认证 Anthropic Claude 辅助的黎曼猜想证明",
+          "summary": "Lean 社区已认证 Anthropic Claude 辅助的黎曼猜想证明，若成立将标志 AI 在最高难度数学问题上的突破。",
+          "hotness": 100,
+          "link": "https://startupfortune.com/lean-groups-certify-claude-assisted-riemann-hypothesis-proof-from-anthropic/",
+          "source": "Startup Fortune"
+        },
+        {
+          "id": 2,
+          "title": "MiniMax 披露未公开内部模型的密码分析结果",
+          "summary": "MiniMax 公布未公开内部模型在密码分析任务上的结果，展示国产大模型在复杂推理与安全攻防上的潜力。",
+          "hotness": 94,
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSkVhTXJvZ0QwS1Y5aTNTc3JRRzloUTFhTVpKVDdrVk1MaHNjTjBsVWZIc0dVVE5hbU9WWE1JUTd1UkFpMUdVQUR6cnBqNm90bFRPZFIyWXp1X3JQeVdJNDRoWElmMTAwc3dMM3FyMzlBT3VuYUdURTNXV3BMUm1Qem1Ga1RKZHEx?oc=5",
+          "source": "Pandaily"
+        },
+        {
+          "id": 8,
+          "title": "Anthropic 研究员预测 2027 年底 AI 比肩顶尖专家",
+          "summary": "Anthropic 研究员预测 2027 年底 AI 将比肩顶尖专家，引发对 AGI 时间表与能力跃迁的讨论。",
+          "hotness": 80,
+          "link": "https://www.ithome.com/1/030/518.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 41,
+          "title": "“天河”大模型 V2 发布，为国家水网装智慧大脑",
+          "summary": "“天河”大模型 V2 发布，面向国家水网场景提供智能调度与决策能力，行业大模型继续落地。",
+          "hotness": 68,
+          "link": "https://www.stdaily.com/web/gdxw/2026-11/21/content_617063.html",
+          "source": "中国科技网"
+        },
+        {
+          "id": 28,
+          "title": "粤海信研发具身智能“空间触觉”技术",
+          "summary": "粤海信成功研发具身智能“空间触觉”技术，推动机器人物理感知与交互能力升级。",
+          "hotness": 64,
+          "link": "https://www.stdaily.com/web/gdxw/2026-11/21/content_617117.html",
+          "source": "中国科技网"
+        },
+        {
+          "id": 3,
+          "title": "元学习模型可预测服役涡轮叶片微观损伤",
+          "summary": "元学习模型能准确预测在用涡轮叶片的微观结构损伤，展示 AI 在工业材料监测中的应用。",
+          "hotness": 58,
+          "link": "https://bioengineer.org/meta-learning-model-accurately-predicts-microstructural-damage-in-in-service-turbine-blades/",
+          "source": "Bioengineer.org"
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "id": 0,
+          "title": "双 RTX 3090 本地运行 Moonshot Kimi K3，达 3.11 tokens/s",
+          "summary": "爱好者用双 RTX 3090 搭建 homelab 本地运行 Kimi K3，实测 3.11 tokens/s，体现开源权重在消费级硬件上的可行性。",
+          "hotness": 90,
+          "link": "https://news.lavx.hu/article/homelab-build-runs-moonshot-kimi-k3-at-3-11-tokens-per-second-with-two-rtx-3090s",
+          "source": "news.lavx.hu"
+        },
+        {
+          "id": 49,
+          "title": "如何从日志构建 AI Agent 评估的黄金数据集",
+          "summary": "介绍如何从日志构建 AI Agent 评估的黄金数据集，为 Agent 工具链的可观测与评测提供方法。",
+          "hotness": 66,
+          "link": "https://startupfortune.com/how-to-build-a-golden-dataset-for-ai-agent-evaluation-from-your-logs/",
+          "source": "Startup Fortune"
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "id": 9,
+          "title": "Signal 默认屏蔽截图，防止 AI 智能体读取用户消息",
+          "summary": "Signal 在 iOS/Android 更新中默认关闭应用内截图，以阻止 AI 智能体读取加密聊天内容，隐私与 Agent 权限边界再受关注。",
+          "hotness": 78,
+          "link": "https://www.ithome.com/1/030/517.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 59,
+          "title": "你的 AI Agent 有钱包，谁为它的决策负责？",
+          "summary": "随着 AI Agent 可自主支付，责任归属、审计与风控成为智能体落地关键问题。",
+          "hotness": 74,
+          "link": "https://fortune.com/2026/11/21/chatgpt-wallet-ai-agents-payments-liability-mandates/",
+          "source": "Fortune"
+        },
+        {
+          "id": 33,
+          "title": "戚薇授权 AI 数字分身，演员开始批量生产自己",
+          "summary": "戚薇授权 AI 数字分身，演员开始批量生产数字形象，数字人权与授权边界再受关注。",
+          "hotness": 72,
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIUFJMNl8xM0t1RUtxZjV4eTRxWkpIUW9JSHdwb3ZVMC1GdVYtWDBva240enRsME1tU2xGQnBVUVgyUXZzOWdQRnk2aXFrU1FQRmRjeTItTG5xUQ?oc=5",
+          "source": "钛媒体"
+        },
+        {
+          "id": 56,
+          "title": "美国众议院启动两党 AI 安全小组，AI 安全治理升温",
+          "summary": "美国众议院启动两党 AI 安全小组，加州议员共同主持；同期民众“末日准备”与特朗普“放松”言论形成反差。",
+          "hotness": 68,
+          "link": "https://insider.govtech.com/california/news/california-congressman-to-co-chair-bipartisan-ai-safety-caucus",
+          "source": "GovTech"
+        },
+        {
+          "id": 51,
+          "title": "AI 助推房产产权盗窃案上升",
+          "summary": "多地出现利用 AI 伪造文件实施房产产权盗窃的案件，AI 安全与身份验证风险上升。",
+          "hotness": 66,
+          "link": "https://www.fox32chicago.com/video/fmc-sprose641mhm4u7d",
+          "source": "FOX 32 Chicago"
+        },
+        {
+          "id": 27,
+          "title": "布鲁盖尔研究所：人工智能失控的成因及应对",
+          "summary": "布鲁盖尔研究所分析人工智能失控的成因及应对，强调治理框架与安全投入需同步跟进。",
+          "hotness": 62,
+          "link": "https://fddi.fudan.edu.cn/36/b3/c21253a800435/page.htm",
+          "source": "复旦发展研究院"
+        },
+        {
+          "id": 34,
+          "title": "官方连夜声明回应“试题经过大模型测试”质疑",
+          "summary": "针对“试题经过大模型测试”质疑，官方连夜声明回应，引发 AI 在教育评价中使用的讨论。",
+          "hotness": 62,
+          "link": "https://www.thepaper.cn/newsDetail_forward_34531817",
+          "source": "ThePaper.cn"
+        },
+        {
+          "id": 13,
+          "title": "韩国总统李在明：AI 竞赛中速度至关重要",
+          "summary": "韩国总统李在明视察在建数据中心，强调速度在 AI 竞赛中至关重要，敦促韩国加快布局。",
+          "hotness": 62,
+          "link": "https://www.ithome.com/1/030/506.htm",
+          "source": "IT之家"
+        }
+      ]
+    }
+  }
+}

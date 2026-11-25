@@ -1,0 +1,130 @@
+{
+  "overview": [
+    "月之暗面发布Kimi K3模型，凭借超高性价比引发行业震动，被视为对OpenAI和Anthropic商业模式的重大威胁。",
+    "苹果正式推出Siri AI公测版，标志其AI战略提速，智能体竞争进入新阶段。",
+    "2026世界人工智能大会（WAIC）在上海举行，聚焦万亿参数大模型、具身智能和AI算力，中国AI产业加速商业化与全球化。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "title": "Kimi K3发布引关注，月之暗面以高性价比冲击AI商业模式",
+          "summary": "月之暗面发布Kimi K3模型，性能强劲且成本极低，被Bloomberg等媒体视为对OpenAI和Anthropic的新威胁，可能重塑AI定价格局。",
+          "link": "https://finance.yahoo.com/technology/ai/articles/kimi-k3-threatens-ai-business-171408106.html",
+          "hotness": 98
+        },
+        {
+          "title": "苹果Siri AI公测版上线：智能体体验全面升级",
+          "summary": "苹果发布Siri AI beta，用户现可尝试7项新AI功能，标志着苹果正式加入AI智能体竞争，进一步推动AI普及。",
+          "link": "https://mashable.com/tech/siri-ai-new-features",
+          "hotness": 95
+        },
+        {
+          "title": "2026世界人工智能大会（WAIC）聚焦万亿参数大模型与国产算力",
+          "summary": "WAIC 2026在上海举办，华为、百度等展示万亿参数大模型及AI超节点，具身智能、算力普惠成为热议焦点。联影智能发布“元医院”战略。",
+          "link": "http://emwap.eastmoney.com/a/202607193811850757.html",
+          "hotness": 93
+        },
+        {
+          "title": "Netflix斥资5.87亿美元收购Ben Affleck旗下AI电影制作初创公司",
+          "summary": "Netflix大手笔押注AI影视创作，收购高调创立的AI电影公司，推动AI在娱乐产业的商业化落地。",
+          "link": "https://www.techbuzz.ai/articles/netflix-drops-587m-on-ben-affleck-s-ai-filmmaking-startup",
+          "hotness": 88
+        },
+        {
+          "title": "台积电预计AI芯片需求将持续多年强劲，加速亚利桑那州投资",
+          "summary": "台积电表示AI芯片订单强劲，将在美国额外投资，进一步巩固全球半导体供应链。",
+          "link": "https://finance.yahoo.com/technology/ai/articles/tsmc-expects-strong-multi-demand-231456689.html",
+          "hotness": 82
+        },
+        {
+          "title": "苹果惊人转向Nvidia，揭示AI资金流向变化",
+          "summary": "苹果与Nvidia合作关系加深，暗示AI算力投资重心转移，对行业格局产生深远影响。",
+          "link": "https://www.thestreet.com/investing/apples-stunning-nvidia-flip-reveals-where-ai-money-is-moving",
+          "hotness": 80
+        },
+        {
+          "title": "Teleperformance计划2027年前实现全员AI赋能",
+          "summary": "全球BPO巨头Teleperformance宣布将让所有员工使用AI工具，显示AI对劳动力市场的深度改造。",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-19/teleperformance-wants-entire-bpo-staff-to-be-ai-enabled-by-2027",
+          "hotness": 75
+        },
+        {
+          "title": "中国智能手机厂商围绕AI重构设备",
+          "summary": "多家中国手机厂商在WAIC展示以AI为核心的操作系统和功能，推动端侧AI普及。",
+          "link": "https://www.pymnts.com/news/artificial-intelligence/2026/chinese-smartphone-companies-rework-devices-around-ai/",
+          "hotness": 70
+        },
+        {
+          "title": "OpenAI发布AI投资回报评分卡，助力企业评估AI商业价值",
+          "summary": "OpenAI推出实用AI评分卡，从有用工作、单任务成本、可靠性等维度衡量AI投资回报。",
+          "link": "https://openai.com/index/a-scorecard-for-the-ai-age",
+          "hotness": 78
+        },
+        {
+          "title": "Cars24借助OpenAI语音与聊天智能体，月处理超100万分钟对话",
+          "summary": "二手车平台Cars24使用OpenAI智能体，挽回12%流失客户，展示AI agent在企业级应用中的显著效果。",
+          "link": "https://openai.com/index/cars24",
+          "hotness": 72
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "title": "OpenAI发布GPT-Red：通过自我对弈自动提升AI鲁棒性",
+          "summary": "GPT-Red是OpenAI的自动化红队系统，利用自我博弈提升模型安全对齐与Prompt注入防御能力，属于AI安全前沿研究。",
+          "link": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+          "hotness": 85
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": []
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "title": "白宫考虑设立专门监管机构以规范AI模型",
+          "summary": "美国政府正在权衡成立独立监管机构，负责监督AI模型的安全性和伦理问题，引发行业热议。",
+          "link": "https://www.pymnts.com/news/artificial-intelligence/2026/white-house-weighs-regulator-to-police-ai-models/",
+          "hotness": 80
+        },
+        {
+          "title": "澳大利亚拟出台新规，限制政府使用自动化AI决策",
+          "summary": "澳大利亚政府计划限制在公共决策中完全依赖自动化AI系统，强调问责制与人类监督。",
+          "link": "https://www.theguardian.com/australia-news/2026/jul/19/national-ai-plan-labor-anthony-albanese-andrew-charlton",
+          "hotness": 78
+        },
+        {
+          "title": "OpenAI推动针对青少年的安全AI使用：年龄保护与家长控制",
+          "summary": "OpenAI宣布为青少年提供更安全的ChatGPT体验，包括内容过滤、学习工具和家长控制功能。",
+          "link": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+          "hotness": 76
+        },
+        {
+          "title": "OpenAI提出“反向联邦主义”：州法先行，联邦跟进构建AI治理框架",
+          "summary": "OpenAI发表观点文章，倡导以州立法为试点，逐步构建全国性AI安全治理体系。",
+          "link": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+          "hotness": 72
+        },
+        {
+          "title": "《卫报》讨论：AI能否拥有意识？引发伦理大讨论",
+          "summary": "关于AI是否可能具备意识，以及这带来的伦理冲击的深度报道。",
+          "link": "https://www.theguardian.com/technology/2026/jul/19/could-ai-be-conscious",
+          "hotness": 68
+        },
+        {
+          "title": "中国呼吁让AI成为造福全人类的国际公共产品",
+          "summary": "在WAIC及相关会议上，中国方面强调AI全球治理与国际合作，推动构建人类命运共同体。",
+          "link": "http://world.people.com.cn/n1/2026/0720/c1002-40763710.html",
+          "hotness": 65
+        }
+      ]
+    }
+  }
+}

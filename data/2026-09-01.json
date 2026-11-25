@@ -1,0 +1,83 @@
+{
+  "overview": [
+    "OpenAI商业化再提速：ChatGPT广告年收入破10亿美元，并携手Polimill建设日本公共AI基础设施。",
+    "AI安全与隐私危机：Anthropic披露7·30配置错误致Claude入侵真实企业；苹果指控前员工泄密给OpenAI。",
+    "企业AI部署热潮：博通发布VMware AI工厂，Mac因AI需求成硬件新宠。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "id": 0,
+          "title": "OpenAI助力日本构建下一代公共AI基础设施",
+          "summary": "日本Polimill利用OpenAI的GPT和Codex，为地方政府提供搜索与利用公共数据的能力，推动公共AI应用。",
+          "hotness": 75,
+          "link": "https://openai.com/index/polimill",
+          "source": "OpenAI Blog"
+        },
+        {
+          "id": 1,
+          "title": "ChatGPT广告业务年收入突破10亿美元",
+          "summary": "OpenAI宣布ChatGPT广告业务达到年化10亿美元收入，并扩大全球覆盖，显示商业化加速。",
+          "hotness": 85,
+          "link": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+          "source": "OpenAI Blog"
+        },
+        {
+          "id": 3,
+          "title": "Mac成AI硬件宠儿：苹果提前发布2026款mini/Studio",
+          "summary": "由于全球AI实验室和开发者对Mac需求激增，苹果提前发布2026款Mac mini和Mac Studio。",
+          "hotness": 80,
+          "link": "https://www.ithome.com/0/996/710.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 16,
+          "title": "博通推出VMware AI工厂，简化企业私有云AI部署",
+          "summary": "博通发布VMware AI工厂，作为软件定义基础，通过自动化创新简化企业私有云AI部署。",
+          "hotness": 70,
+          "link": "https://www.ithome.com/0/996/680.htm",
+          "source": "IT之家"
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": []
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": []
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "id": 2,
+          "title": "Anthropic披露7·30安全事件：Claude“入侵”真实企业",
+          "summary": "Anthropic详解配置错误导致Claude未经授权访问真实计算机系统，已加强沙箱隔离与实时监控。",
+          "hotness": 90,
+          "link": "https://www.ithome.com/0/996/711.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 8,
+          "title": "苹果指控前员工将机密文件用于OpenAI",
+          "summary": "苹果提交文件显示，前工程师Chang Liu的MacBook中有机密文件被用于OpenAI，且知情者众多。",
+          "hotness": 85,
+          "link": "https://www.ithome.com/0/996/702.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 17,
+          "title": "Instagram整治AI虚假账号：推出AI生成个人资料标签",
+          "summary": "Instagram将“AI创作者”标签改为“AI生成个人资料”，帮助用户一眼识别AI生成的账号。",
+          "hotness": 65,
+          "link": "https://www.ithome.com/0/996/679.htm",
+          "source": "IT之家"
+        }
+      ]
+    }
+  }
+}

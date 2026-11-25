@@ -1,0 +1,119 @@
+{
+  "overview": [
+    "Meta CEO扎克伯格承认AI智能体开发进度不及预期，引发市场关注",
+    "微软斥资25亿美元成立新公司，专注企业AI工具整合与实施服务",
+    "可灵AI完成近30亿美元融资，创全球视频大模型融资新纪录"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "title": "Meta CEO扎克伯格：AI智能体开发进度不及预期",
+          "summary": "扎克伯格向员工表示，过去四个月AI智能体技术发展速度比预期要慢，导致Meta股价收跌5%。",
+          "link": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+          "hotness": 88
+        },
+        {
+          "title": "微软斥资25亿美元成立新AI实施部门",
+          "summary": "微软投入25亿美元并调动6000名员工组建新公司，专门协助企业客户选择和整合AI工具。",
+          "link": "https://www.guandian.cn/m/show/570971",
+          "hotness": 85
+        },
+        {
+          "title": "可灵AI完成近30亿美元融资，估值达180亿美元",
+          "summary": "可灵AI完成近30亿美元融资，创下全球视频大模型领域融资新纪录，估值达到180亿美元。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_33507133",
+          "hotness": 82
+        },
+        {
+          "title": "亚马逊加速自研端侧AI芯片",
+          "summary": "亚马逊硬件主管宣布公司将加速自研端侧AI芯片，为设备更新换代做准备。",
+          "link": "https://www.cls.cn/detail/2415418",
+          "hotness": 75
+        },
+        {
+          "title": "特斯拉限制员工AI使用支出",
+          "summary": "特斯拉将员工AI使用支出上限设为每周200美元，在推动AI应用的同时控制成本。",
+          "link": "https://www.theinformation.com/articles/tesla-caps-employee-ai-spend-200-per-week-adoption-push",
+          "hotness": 70
+        },
+        {
+          "title": "AI硬件板块全线下跌",
+          "summary": "AI硬件相关股票全线下跌，有投资者表示刚转入科技板块两天就被套18%。",
+          "link": "https://wap.eastmoney.com/a/202607023791933577.html",
+          "hotness": 68
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "title": "OpenAI发布GeneBench-Pro基因组学基准测试",
+          "summary": "OpenAI推出GeneBench-Pro基准测试，专门评估AI在基因组学、生物学和科学研究中的性能表现。",
+          "link": "https://openai.com/index/introducing-genebench-pro",
+          "hotness": 76
+        },
+        {
+          "title": "FDA批准首款基于LLM的医疗设备",
+          "summary": "FDA历史性批准首款基于大语言模型的医疗设备，引发关于LLM是界面还是决策者的讨论。",
+          "link": "https://www.statnews.com/2026/07/02/fda-clearance-raises-questions-updoc-use-generative-ai-diabetes-treatment/",
+          "hotness": 78
+        },
+        {
+          "title": "ChatGPT全球采用率持续增长",
+          "summary": "OpenAI数据显示ChatGPT全球采用率持续增长，用户使用频率提升并探索更多功能。",
+          "link": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+          "hotness": 72
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "title": "MathWorks强调生成式AI需要可信工具链",
+          "summary": "MathWorks指出生成式AI虽然强大，但要确保其工作不出错需要配备一套可信的工具链支持。",
+          "link": "https://www.eet-china.com/mp/a507094.html",
+          "hotness": 65
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "title": "中国提出加快AI健康发展立法",
+          "summary": "我国提出加快人工智能健康发展立法进程，旨在补足关键制度空白。",
+          "link": "https://www.chinanews.com.cn/gn/2026/07-03/10651809.shtml",
+          "hotness": 75
+        },
+        {
+          "title": "FTC提议AI准确性和意识形态操纵政策声明",
+          "summary": "美国联邦贸易委员会提议关于AI准确性和意识形态操纵输出的政策声明。",
+          "link": "https://www.consumerfinancialserviceslawmonitor.com/2026/07/ftc-proposes-policy-statement-on-ai-accuracy-and-ideological-manipulation-of-ai-outputs/",
+          "hotness": 72
+        },
+        {
+          "title": "联合国报告：AI带来巨大机遇和风险",
+          "summary": "联合国报告指出人工智能既带来巨大发展机遇，也存在诸多风险需要管控。",
+          "link": "https://www.csmonitor.com/World/Europe/2026/0702/UN-report-AI-brings-enormous-opportunities-and-plenty-of-risks",
+          "hotness": 70
+        },
+        {
+          "title": "AI进入大学生社交圈引发讨论",
+          "summary": "AI技术进入大学生社交圈，引发关于其是'知心朋友'还是'新型代偿'的热烈讨论。",
+          "link": "http://news.cyol.com/gb/news/articles/2026-07/03/content_Bb00WWflYb.html",
+          "hotness": 68
+        },
+        {
+          "title": "全球顶尖经济学家对AI发出警告",
+          "summary": "世界顶级经济学家对人工智能发展发出警告，强调需要关注其潜在风险。",
+          "link": "https://www.wsj.com/tech/ai/the-worlds-top-economists-are-sounding-the-alarm-on-ai-d99055b6",
+          "hotness": 72
+        }
+      ]
+    }
+  }
+}

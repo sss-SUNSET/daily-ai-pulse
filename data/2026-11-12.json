@@ -1,0 +1,117 @@
+{
+  "overview": [
+    "Google 正式上线 Gemini 4 Carbon，核心模型迭代但仅向部分用户开放，需关注后续能力与接入范围。",
+    "MiniMax 开源 H3-Image，4K 图像生成进入约 10 秒级，国内多模态开源竞争再提速。",
+    "英伟达被曝董事会拟讨论罢免 CEO 黄仁勋，AI 算力龙头治理突发震动市场，消息仍待证实。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "id": 9,
+          "title": "英伟达被曝董事会拟讨论罢免 CEO 黄仁勋，股价盘后大跌",
+          "summary": "《华尔街日报》报道称英伟达董事会计划召开专项会议讨论黄仁勋去留，消息引发股价盘后大跌；该突发消息仍待公司证实。",
+          "hotness": 99,
+          "link": "https://www.ithome.com/1/025/829.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 6,
+          "title": "全球最大 AI 模型 API 聚合平台 OpenRouter 正式并入 Stripe",
+          "summary": "Stripe 宣布 OpenRouter 已正式并入，后续将优化词元路由与用量管理，AI 模型分发入口进一步向支付与基础设施平台集中。",
+          "hotness": 80,
+          "link": "https://www.ithome.com/1/025/833.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 8,
+          "title": "苹果 CarPlay 接入谷歌 Gemini，车内 AI 语音交互落地",
+          "summary": "谷歌宣布 CarPlay 接入 Gemini，即日起面向全球部分用户推进，苹果车联生态开始引入外部大模型语音助手。",
+          "hotness": 73,
+          "link": "https://www.ithome.com/1/025/831.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 17,
+          "title": "Adobe 公布四项 AI 实验项目：照片变 3D 场景、聊天设计 AI 角色",
+          "summary": "Adobe MAX 展示多项实验性 AI 创作技术，包括照片快速生成 3D 场景和通过对话设计 AI 角色，指向创意工作流智能化。",
+          "hotness": 68,
+          "link": "https://www.ithome.com/1/025/815.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 7,
+          "title": "Nothing CEO 展示公司首款 AI 设备，预计采用无屏幕设计",
+          "summary": "Nothing 首次展示 AI 硬件外观，产品采用无屏幕设计与彩色灯效，显示 AI 原生设备形态探索继续升温。",
+          "hotness": 55,
+          "link": "https://www.ithome.com/1/025/832.htm",
+          "source": "IT之家"
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "id": 1,
+          "title": "Google Gemini 4 Carbon 正式上线，但仅部分用户可用",
+          "summary": "Google 上线新一代 Gemini 4 Carbon，核心模型能力迭代但尚未全面开放；具体能力边界与开放节奏成为后续关注重点。",
+          "hotness": 100,
+          "link": "https://www.ifanr.com/1688883",
+          "source": "爱范儿"
+        },
+        {
+          "id": 3,
+          "title": "谷歌 DeepMind 发布 AlphaGenome 2 基因组 AI 模型",
+          "summary": "DeepMind 推出新一代 DNA 序列模型 AlphaGenome 2，从组织预测深入单细胞分析，识别致病变异能力接近翻倍。（合并源 id：3、11）",
+          "hotness": 88,
+          "link": "https://www.ithome.com/1/025/840.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 19,
+          "title": "DeepL 推出语音 AI 翻译模型 Aure，实时复现语气与情绪",
+          "summary": "DeepL 发布迄今最逼真的语音翻译模型 Aure，可实时复现说话者语气起伏和情绪流转，推动语音翻译自然度提升。",
+          "hotness": 76,
+          "link": "https://www.ithome.com/1/025/810.htm",
+          "source": "IT之家"
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "id": 0,
+          "title": "MiniMax 开源 H3-Image，4K 图像生成进入约 10 秒时代",
+          "summary": "MiniMax 开源 H3-Image 图像生成模型，主打 4K 高分辨率与约 10 秒级生成速度，国内多模态开源模型再添重要权重。",
+          "hotness": 99,
+          "link": "https://www.minimax.cn/blog/minimax-h3-image",
+          "source": "https://www.minimax.cn/"
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "id": 20,
+          "title": "马斯克旗下 Grok 被指生成儿童色情图像，xAI 面临多起集体诉讼",
+          "summary": "彭博社报道称 Grok 被指生成儿童色情图像，xAI 因此面临多起集体诉讼，AI 内容安全与平台责任争议再度升级。",
+          "hotness": 86,
+          "link": "https://www.ithome.com/1/025/809.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 2,
+          "title": "FreeBSD 组建工作组制定 AI 使用新规，88% 受访开发者赞成",
+          "summary": "FreeBSD 在季度进展中披露将制定 AI 辅助开发新规，88% 受访开发者表示赞成，开源社区开始系统性回应 AI 编码合规问题。",
+          "hotness": 50,
+          "link": "https://www.ithome.com/1/025/845.htm",
+          "source": "IT之家"
+        }
+      ]
+    }
+  }
+}

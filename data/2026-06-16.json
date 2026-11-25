@@ -1,0 +1,89 @@
+{
+  "overview": [
+    "今日 AI 新闻热点涵盖了 Google News、GitHub Trending 和 Hacker News 等多方渠道。",
+    "由于未检测到有效的 LLM 配置，系统已自动切换至试运行模拟汇总模式。",
+    "目前已成功接入联网数据源，可正常解析文章标题、链接，并依据点赞和收藏数智能计算了初始热度。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "title": "AI Is Changing How Consultants Get Paid—and Much More, BCG’s CEO Says - Boston Consulting Group",
+          "summary": "[源自: Google News] AI Is Changing How Consultants Get Paid—and Much More, BCG’s CEO Says&nbsp;&nbsp;Boston Consulting Group",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVDhDV2dYZXR2VHJ3OFRtOUkySVZZLUpWeUtOVDJXUGYyQW9OeUEwenE4SDVpNFVQVjg4VTk5MzZ1b0FWNkpuV0VyZURXRjhLVjFXbUpiSHBUVWVXUkJwcXpjcFJieTFCeXRoYlFwS09ocmw2TFhYNzF1MTFkRHpXZ2p1WQ?oc=5",
+          "hotness": 87
+        },
+        {
+          "title": "Microsoft sued by shareholders over expenses, cloud business, AI - Reuters",
+          "summary": "[源自: Google News] Microsoft sued by shareholders over expenses, cloud business, AI&nbsp;&nbsp;Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUmJQUkh0dTUzZ2dITlpFWVp1ZGp4d0t2T3RYNHZMTVVra042ZVNYTk94R1dKdjM2cU0yWTh5cXNCVlVHTkFXRDFiT3ptRnNPeDUteGR1RDV5eWVoS3M4NFJsNDVpcHlVTVluQWViLUI0a29XR0JOaERIUXZnUTJ2V2VXSWs4MFBzMlFUR2NGNHJRcEFjUWptTU84dEZ2UllET0NWX2hsTDgwRDQ?oc=5",
+          "hotness": 86
+        },
+        {
+          "title": "黄仁勋，出手AI服务器 - 电子工程专辑",
+          "summary": "[源自: Google News] 黄仁勋，出手AI服务器&nbsp;&nbsp;电子工程专辑",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE54TXN4bU1fY3pYdTZweXQ5NlRxOE5yVlVCSDNYQ0xDSERJOUVhYVNKSHdpamplNld2Z3FvbWJ2RGZKSjNGdEprdzRJUzdxTVl2MG9F?oc=5",
+          "hotness": 85
+        },
+        {
+          "title": "价格飙升 三种小金属被AI算力逼到“断货” - 东方财富",
+          "summary": "[源自: Google News] 价格飙升 三种小金属被AI算力逼到“断货”&nbsp;&nbsp;东方财富",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9pUEFydkJ6RHg0LU42dUpjTlBJeG9iWGZ5WnRQRGI1WnhYYkp6ZUsweVdQS0ctanFsdEV4SmhwX2xyUzFLSTROaElsakU5UEFQOFAzdjlsdTRYTl9JS09aNg?oc=5",
+          "hotness": 83
+        },
+        {
+          "title": "Nvidia plans to raise at least $20 billion in its first debt sale since start of AI boom - CNBC",
+          "summary": "[源自: Google News] Nvidia plans to raise at least $20 billion in its first debt sale since start of AI boom&nbsp;&nbsp;CNBC",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSm10ZmNvZWpmMVE3X0NfTS1GbENvZVBBZEo5a3lxYUJHb1U5SDNXWnZ3TnpKN3libzgxdll0cFdzU1I0X1ZtamNNZENRai1SOEFlSFJkYnBqeHJ2UHRGUHpZWFZ5Q0tzNWx5V05GVEhTbzI2cmRRZnNpNEVKRlI4ZkltQVBIMkpqWTZKSzBnNVdVSUlDSktBQ2QwSV9ONHJEQ1JZWNIBqgFBVV95cUxPcmJMMkx1b0tuWlk3OG55WlFKSWMtdGtMRUQxNzBUbWxzWUdkWlNWY3RFUlBZYy0zcWFmSDBOVVczcGFYQVgxSF9UOHNjTFM0a1BrNkJ2dDE3S0cxNUhnSk03MXZvNTJSWEJ1TEp6VkZDSmp3aUNVOTMxOWJtWXQ3YU13WF80OGhvRGg0U3lTdmhCYmtLaE45MDU1NWxVWmZ2clh6SmM5bHJndw?oc=5",
+          "hotness": 83
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "title": "Yale researchers propose ‘copyleft’ rules for generative AI - YaleNews",
+          "summary": "[源自: Google News] Yale researchers propose ‘copyleft’ rules for generative AI&nbsp;&nbsp;YaleNews",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWnd2a0ctWW50cndUcGZEeHNwS0VwMGx1Mll1bDZwblEyZTNXTnFGNFczQUlTaHJJdDR0YldLbW53eWFjT1dMbUJQSjZTdFExeWFEc3hhTklkXzg2b29IS3oxMDdZS2VoZmE3NFVzaXptVVIyN0hucmRzRXFfWjMtZUsxQnFVX284bDZPRXpaUQ?oc=5",
+          "hotness": 78
+        },
+        {
+          "title": "技术革命还是概念“画饼”？AI制药的机遇与挑战 - thepaper.cn",
+          "summary": "[源自: Google News] 技术革命还是概念“画饼”？AI制药的机遇与挑战&nbsp;&nbsp;thepaper.cn",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5vWVJpNE9fZ3NaaHNRZ0hfM0UwS2d0X3F3Y0JiZkJTM2RwMEdNRUtNVl8tX1RKRnoyenFCbElpdElHQVdBTG1TNm1BbUF4U2RmTXJxUzB0dnl2bUdSd0E?oc=5",
+          "hotness": 60
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "title": "New AI Tools to Help You Make Things Happen on Facebook - meta.com",
+          "summary": "[源自: Google News] New AI Tools to Help You Make Things Happen on Facebook&nbsp;&nbsp;meta.com",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTFQ2a1E5SGRLNy1CZENhR3B3eWw0LTk0QWVIT3gySVIwenFHYUkxSWNDbkt3djR2YkZUZnZ3MEdnM24wSWtzc2ZQSHk5VjV3ZlgwampXTDF3ZTlUbG1YU3lkTjVBYk5QWVBnaWNBUzhoQ0dRUl80cUVzdjNQQ1U0ekdPTGdsUjJsYzM4cnludFNGRHRf0gGaAUFVX3lxTFBBUDVNOHBhd1JnSmhhYXNyTTlKbGFjekdEdDJ6a290VFVJTGlKOTV1WHUxZmFKQlBGU0xiYjRBdHVvRTR2eElhWkhSNmxUX1lKOXZYMFpoYzktVnI4QWNUbkNqT0xBUEx5VGgxclVWQUlDbGZVZ3A1LXlMZnIzclNfdE02NGRDS1BLdjNjYWNXb3pWcGdDQnExSGc?oc=5",
+          "hotness": 89
+        },
+        {
+          "title": "Anthropic to meet White House over AI tool suspension - BBC",
+          "summary": "[源自: Google News] Anthropic to meet White House over AI tool suspension&nbsp;&nbsp;BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwNmlkOXRjN3BBTnhaTEZPZXdQM3VHNklvenRZcXotMzFVaFpjaUFwR0hvUDh4MExWcDBYazdSSWFuVVYzRHRaaklDZkk3dGZwZS1TN0U1NlNkdw?oc=5",
+          "hotness": 73
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "title": "A Kill Switch for Frontier AI - Lawfare",
+          "summary": "[源自: Google News] A Kill Switch for Frontier AI&nbsp;&nbsp;Lawfare",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB4TkdQbWg4aHY3ZnNvYXRpWGs0THZSZ0ZCT3BxOVdiZTZXeWNheUNQTE1BTUZzTFBEN1Bmd2dtUFEzdlJRT29nQjdTTHV3d2NfdE5BNTVPMGVrd2tXZHJyQW8zY1JPWjd6NUpqcFJXSGZzVXJ0?oc=5",
+          "hotness": 82
+        }
+      ]
+    }
+  }
+}

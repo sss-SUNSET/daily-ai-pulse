@@ -1,0 +1,239 @@
+{
+  "overview": [
+    "Google Gemini 4 Carbon 登顶两项 Artificial Analysis 基准；Anthropic Fable 5.5 与华为 openPangu-2.1-Pro 等新模型密集亮相，模型竞赛进入新阶段。",
+    "OpenAI 多模态与生态双线推进：ChatGPT 支持 GIF 生成/编辑，并收购 Pierre Computer 扩展 Codex 工具链。",
+    "AI 安全与治理升温：OpenAI 自动化管道在 Linux 内核发现 948 个可提权漏洞，陶哲轩警告人类过度依赖 AI 思考的风险。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "id": 12,
+          "title": "OpenAI 宣布收购 Pierre Computer Company",
+          "summary": "OpenAI 将收购 Pierre Computer Company，以扩展 Codex 的构建工具与智能体能力，进一步完善开发者生态。",
+          "hotness": 95,
+          "link": "https://openai.com/index/openai-to-acquire-pierre",
+          "source": "OpenAI Blog"
+        },
+        {
+          "id": [
+            14,
+            25
+          ],
+          "title": "OpenAI 自动化扫描 Linux 内核发现 948 个可提权漏洞",
+          "summary": "OpenAI 利用新一代安全模型搭建自动化漏洞发现与验证管道，在 Linux 内核中确认 948 个可提权漏洞，2308 个候选中复现 1724 个。",
+          "hotness": 94,
+          "link": "https://qz.com/gemini-4-carbon-things-to-know"
+        },
+        {
+          "id": 13,
+          "title": "OpenAI Daybreak Red 上线 AWS GovCloud",
+          "summary": "OpenAI 的 Daybreak Red（集成 GPT-5.6 Cyber）在 AWS GovCloud 美国东部区域上线，面向获批客户提供网络安全能力。",
+          "hotness": 90,
+          "link": "https://openai.com/index/daybreak-red-aws-govcloud",
+          "source": "OpenAI Blog"
+        },
+        {
+          "id": 4,
+          "title": "Meta Muse 下载量突破 1000 万，增速超过 ChatGPT",
+          "summary": "Meta 的 Muse 应用达到 1000 万次下载，速度超过 ChatGPT，显示消费级 AI 产品竞争进一步加剧。",
+          "hotness": 88,
+          "link": "https://www.pymnts.com/news/artificial-intelligence/2026/metas-muse-reaches-10-million-downloads-faster-than-chatgpt/",
+          "source": "PYMNTS.com"
+        },
+        {
+          "id": 46,
+          "title": "中石油与宇树科技拟设立工业具身智能机器人企业",
+          "summary": "中石油与宇树科技联手，计划设立工业具身智能机器人企业，推动具身智能在能源工业场景落地。",
+          "hotness": 88,
+          "link": "https://finance.eastmoney.com/a/202611043922063023.html",
+          "source": "东方财富"
+        },
+        {
+          "id": [
+            22,
+            49
+          ],
+          "title": "苹果收紧员工 AI 使用预算",
+          "summary": "因 AI 使用成本快速上升，苹果削减员工 AI 工具内部预算，部分工程师日额度下降 33%，并可能进一步下探。",
+          "hotness": 85,
+          "link": "https://www.ithome.com/1/022/479.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 33,
+          "title": "高通联合 SpaceX 建设星链移动美国全国 5G 网络",
+          "summary": "SpaceX 选择高通跃龙蜂窝基础设施平台，为星链移动建设美国全国 5G 网络，成为高通史上最大 5G 交易之一。",
+          "hotness": 80,
+          "link": "https://www.ithome.com/1/022/434.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 15,
+          "title": "DevRev 基于 GPT-6.1 Sol 推出自主自助服务",
+          "summary": "DevRev 使用 GPT-6.1 Sol 驱动 Computer 和 Operator，在推理、速度与成本之间取得平衡，实现自主客户自助服务。",
+          "hotness": 75,
+          "link": "https://openai.com/index/devrev-enterprise-self-service",
+          "source": "OpenAI Blog"
+        },
+        {
+          "id": 27,
+          "title": "高通 2026 财年净利润大增，与苹果、华为续签长期授权",
+          "summary": "高通 2026 财年归母净利润 136.28 亿美元同比增长 146%，并与苹果、华为续签长期技术授权许可协议。",
+          "hotness": 75,
+          "link": "https://www.ithome.com/1/022/473.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 34,
+          "title": "小米 REDMI K100 上线 WorldCast 3D 运镜",
+          "summary": "小米 WorldCast 3D 运镜可将平面照片还原为三维场景并虚拟真实相机轨迹，已随 REDMI K100 上线。",
+          "hotness": 75,
+          "link": "https://www.ithome.com/1/022/433.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 41,
+          "title": "首程控股旗下基金投资简智，布局物理人工智能",
+          "summary": "首程控股宣布旗下基金投资简智，布局物理人工智能技术，加码具身智能与机器人方向。",
+          "hotness": 75,
+          "link": "https://finance.eastmoney.com/a/202611053922401994.html",
+          "source": "东方财富"
+        },
+        {
+          "id": 6,
+          "title": "Vodafone 葡萄牙与 Google Cloud 推出 AI 网络安全服务",
+          "summary": "Vodafone 葡萄牙与 Google Cloud 合作推出 AI 驱动的网络安全服务，面向企业客户提供智能防护。",
+          "hotness": 73,
+          "link": "https://www.telecompaper.com/news/vodafone-portugal-and-google-cloud-launch-ai-driven-cybersecurity-service--1587777",
+          "source": "Telecompaper"
+        },
+        {
+          "id": 26,
+          "title": "Arm 2027 财年 Q2 营收创同期新高",
+          "summary": "Arm 2027 财年第二财季营收 14.4 亿美元同比增长 27%，创 Q2 历史新高，但 GAAP 净利润同比下降 45%。",
+          "hotness": 72,
+          "link": "https://www.ithome.com/1/022/475.htm",
+          "source": "IT之家"
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "id": [
+            0,
+            3,
+            5
+          ],
+          "title": "Google Gemini 4 Carbon 登顶两项 Artificial Analysis 排名",
+          "summary": "Google 发布 Gemini 4 Carbon，在两项 Artificial Analysis 排名登顶，并以微弱优势超越 Claude Opus 5.5；Gemini 4 Flash 泄露信息同时引发关注。",
+          "hotness": 98,
+          "link": "https://qz.com/gemini-4-carbon-things-to-know"
+        },
+        {
+          "id": 30,
+          "title": "Anthropic 新旗舰 Claude Fable 5.5 实测曝光",
+          "summary": "Anthropic 尚未发布的 Claude Fable 5.5 在开发者社区曝光，可连续 2 小时 40 分钟生成纯代码并输出 66 秒动画，展现超长程代码与多模态能力。",
+          "hotness": 97,
+          "link": "https://www.ithome.com/1/022/468.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 17,
+          "title": "OpenAI 升级 ChatGPT 图片能力，支持生成和编辑 GIF 动画",
+          "summary": "ChatGPT 新增 GIF 生成与编辑能力，用户可通过提示词或上传照片直接创建动画，多模态内容创作门槛进一步降低。",
+          "hotness": 96,
+          "link": "https://www.ithome.com/1/022/486.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 29,
+          "title": "华为小艺 Work 率先上线 openPangu-2.1-Pro 模型",
+          "summary": "华为小艺 Work 率先上线 openPangu-2.1-Pro，主打“鸿蒙任务增强”，强化端侧与云侧智能体任务执行能力。",
+          "hotness": 95,
+          "link": "https://www.ithome.com/1/022/472.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": [
+            2,
+            11
+          ],
+          "title": "Anthropic 发布 FlashProve，可加密验证响应背后的 AI 模型",
+          "summary": "Anthropic 推出 FlashProve，能够通过加密方式验证每条响应实际由哪个 AI 模型生成，提升模型溯源与审计能力。",
+          "hotness": 92,
+          "link": "https://qz.com/gemini-4-carbon-things-to-know"
+        },
+        {
+          "id": 57,
+          "title": "生成式 AI 补全 MRI 信号缺失处的脑连接图谱",
+          "summary": "研究团队利用生成式 AI 填补脑部 MRI 扫描信号丢失区域，为脑连接图谱构建和神经影像分析提供新方法。",
+          "hotness": 78,
+          "link": "https://medicalxpress.com/news/2026-11-generative-ai-gaps-brain-wiring.html",
+          "source": "Medical Xpress"
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "id": 35,
+          "title": "字节跳动“扣子”推进企业级服务产品整合升级",
+          "summary": "字节跳动旗下 AI 开发平台“扣子（Coze）”正推进企业级服务整合升级，现售企业版将先暂停新售。",
+          "hotness": 85,
+          "link": "https://www.ithome.com/1/022/432.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 59,
+          "title": "Oracle 为 AI Agent Studio 推出 FDI Fusion Agents 仓库",
+          "summary": "Oracle 发布 FDI Fusion Agents Repository，帮助开发者在 AI Agent Studio 中发现、配置和使用智能体。",
+          "hotness": 75,
+          "link": "https://blogs.oracle.com/analytics/from-discovery-to-use-introducing-the-fdi-fusion-agents-repository-for-oracle-ai-agent-studio",
+          "source": "Oracle Blogs"
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "id": 32,
+          "title": "陶哲轩警告：人类把思考交给 AI，危险可能很快到来",
+          "summary": "菲尔兹奖得主陶哲轩对人类日益依赖 AI 完成思考发出警告，担心过度外包认知能力会带来快速逼近的风险。",
+          "hotness": 90,
+          "link": "https://www.ithome.com/1/022/440.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 61,
+          "title": "ChatGPT、Claude 和 Grok 等 AI 服务中断引发企业反思",
+          "summary": "多家主流 AI 服务发生中断，Forbes 总结高管应从中吸取的教训，包括避免单一 AI 依赖和建立应急方案。",
+          "hotness": 85,
+          "link": "https://www.forbes.com/sites/sandycarter/2026/09/05/c-suite-lessons-from-the-ai-outage-that-hit-chatgpt-claude-and-grok/",
+          "source": "Forbes"
+        },
+        {
+          "id": 38,
+          "title": "中国启动首个新一代人工智能国家科技重大专项",
+          "summary": "首个新一代人工智能国家科技重大专项正式启动，体现国家层面对 AI 核心技术攻关和产业生态的强化布局。",
+          "hotness": 80,
+          "link": "https://epaper.tianjinwe.com/tjrb/html/2026-11/05/content_143082_3984978.htm",
+          "source": "天津日报"
+        },
+        {
+          "id": 36,
+          "title": "“开源必胜、闭源必败”引发 AI 生态路线争论",
+          "summary": "观察者网文章讨论 AI 领域开源与闭源路线之争，围绕商业模式、生态开放与安全性展开观点碰撞。",
+          "hotness": 78,
+          "link": "https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_04_907041.shtml",
+          "source": "观察者网"
+        }
+      ]
+    }
+  }
+}

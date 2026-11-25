@@ -1,0 +1,113 @@
+{
+  "overview": [
+    "SpaceX AI原型设备引发广泛关注与争议，马斯克否认相关报道",
+    "AI智能体应用加速渗透，从工业到教育领域全面落地",
+    "联合国发布首份全球AI评估报告，国际AI治理框架逐步形成"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "title": "SpaceX开发AI原型设备引发关注与争议",
+          "summary": "多家媒体报道SpaceX向投资者展示类似手机的AI设备原型，但马斯克随后否认相关报道，称其完全错误。",
+          "link": "https://www.wsj.com/tech/ai/spacex-showed-investors-prototype-of-elon-musks-new-ai-device-b445c57b",
+          "hotness": 92
+        },
+        {
+          "title": "Meta计划推出云业务挑战行业竞争对手",
+          "summary": "Meta宣布计划推出云业务，直接挑战亚马逊AWS、微软Azure和谷歌云等行业巨头。",
+          "link": "https://www.bloomberg.com/news/newsletters/2026-07-01/meta-plans-a-cloud-business-in-challenge-to-industry-rivals",
+          "hotness": 85
+        },
+        {
+          "title": "Together AI完成8亿美元融资，估值达83亿美元",
+          "summary": "AI初创公司Together AI在新一轮融资中筹集8亿美元，估值达到83亿美元，显示AI基础设施领域持续火热。",
+          "link": "https://www.reuters.com/legal/transactional/together-ai-raises-800-million-83-billion-valuation-2026-07-01/",
+          "hotness": 82
+        },
+        {
+          "title": "松下加码AI基础设施业务，目标1.4万亿日元销售额",
+          "summary": "松下宣布加大AI基础设施业务投入，瞄准1.4万亿日元销售额目标，布局AI算力市场。",
+          "link": "https://www.cls.cn/detail/2414332",
+          "hotness": 78
+        },
+        {
+          "title": "Nvidia投资Verkada扩展物理AI平台",
+          "summary": "Nvidia投资安防公司Verkada，帮助其扩展物理AI平台，布局边缘AI应用场景。",
+          "link": "https://siliconangle.com/2026/07/01/verkada-takes-nvidia-investment-expand-physical-ai-platform/",
+          "hotness": 76
+        },
+        {
+          "title": "AI交易全线暴跌，市场风格切换",
+          "summary": "AI相关股票交易出现全线暴跌，市场风格发生切换，机构分析背后原因。",
+          "link": "https://wap.eastmoney.com/a/202607013790216845.html",
+          "hotness": 75
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "title": "OpenAI发布GeneBench-Pro基因组学基准测试",
+          "summary": "OpenAI推出GeneBench-Pro基准测试，专门评估AI在基因组学、生物学和科学研究中的性能表现。",
+          "link": "https://openai.com/index/introducing-genebench-pro",
+          "hotness": 80
+        },
+        {
+          "title": "87岁院士李德仁研发时空智能AI智能体",
+          "summary": "87岁院士李德仁透露正在研发时空智能的AI智能体，推动AI在时空数据处理方面的应用。",
+          "link": "https://news.hubeidaily.net/pc/c_5706311.html",
+          "hotness": 75
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "title": "葡萄牙发布首个开源AI模型，加入欧洲主权推动",
+          "summary": "葡萄牙推出首个开源AI模型，加入欧洲AI主权推动计划，减少对国外AI技术的依赖。",
+          "link": "https://www.tradingview.com/news/reuters.com,2026:newsml_L8N43311Y:0-portugal-launches-first-open-source-ai-model-joining-europe-s-sovereignty-push/",
+          "hotness": 72
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "title": "联合国发布首份全球AI评估报告",
+          "summary": "联合国秘书长欢迎首份全球人工智能评估报告，强调科学依据已经存在，为全球AI治理提供基础。",
+          "link": "https://news.un.org/zh/story/2026/07/1142415",
+          "hotness": 88
+        },
+        {
+          "title": "特朗普政府暂停对Anthropic最新模型的禁令",
+          "summary": "Anthropic获得特朗普政府暂缓执行对其最新AI模型的出口禁令，但业界质疑这一暂缓是否足够。",
+          "link": "https://www.nytimes.com/2026/07/01/business/dealbook/anthropic-fable-mythos-trump.html",
+          "hotness": 82
+        },
+        {
+          "title": "AI智能体渗透加速，员工价值面临重估",
+          "summary": "随着AI智能体在各行业加速渗透，传统员工价值正在大幅贬值，引发就业市场关注。",
+          "link": "https://www.eet-china.com/mp/a506772.html",
+          "hotness": 78
+        },
+        {
+          "title": "高校生成式人工智能治理的国际经验",
+          "summary": "分析全球高校在生成式人工智能治理方面的国际经验，为国内高校AI应用管理提供参考。",
+          "link": "https://news.gmw.cn/2026-07/02/content_38862788.htm",
+          "hotness": 70
+        },
+        {
+          "title": "聊天机器人替代治疗师缺乏科学证据",
+          "summary": "WSJ报道指出聊天机器人正在替代人类治疗师，但背后缺乏足够的科学证据支持其有效性。",
+          "link": "https://www.wsj.com/health/wellness/chatbots-are-replacing-therapists-with-little-scientific-evidence-behind-them-584a1532",
+          "hotness": 68
+        }
+      ]
+    }
+  }
+}

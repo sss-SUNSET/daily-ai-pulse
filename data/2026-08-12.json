@@ -1,0 +1,305 @@
+{
+  "overview": [
+    "OpenAI发布GPT-5.6 Sol，金融工作自动化效率大幅提升",
+    "马斯克xAI上线“数字同事”Grok Bot，AI Agent应用加速",
+    "Anthropic敲定90亿美元巨额交易，AI资本竞赛白热化"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "title": "马斯克押注智能体再出招：“数字同事”Grok Bot上线",
+          "summary": "马斯克旗下xAI推出智能体产品Grok Bot，定位“数字同事”，进一步加码AI Agent应用。",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5CZGNmd3ktWWZ3QndldzRUU1R3WjVmZHJvTzlRUkIyelBVUU1sQ09PekNPc09Sa3lxN3VpYkJzSF9BY0xHeHAxbS00R1pjNDBUNWh2TF96cVhjR0JpcDVtVQ?oc=5",
+          "hotness": 95
+        },
+        {
+          "title": "Anthropic敲定90亿美元巨额交易",
+          "summary": "Anthropic达成一项90亿美元的巨额交易，进一步巩固其在AI大模型领域的竞争地位。",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNalFxeTNNeGRzU2ZKZENwbnRENFNUWmhkbUlBQ05TR3RTZnc2M3BUMUxBRlByeHgyYm9VTkZuOFA0eC0yR2M3RnQwTm56d0xLdTRMbm9GQWd4OHBmbzE2QUtZWTJyejVqSURBRy1hOENlNW1iSnBWQXppVDltOTlramg0MHhQVmY1RnZDTmE3Rld1U3BqelNhRGhCUW5QcHVtd0ZfNFdEMA?oc=5",
+          "hotness": 92
+        },
+        {
+          "title": "英伟达获华尔街5000亿美元融资承诺",
+          "summary": "英伟达从华尔街获得5000亿美元融资承诺，用于扩大AI算力基础设施布局。",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5DTHhMd3ZpWDIyMjYzYk5ncGZQUWxTRkV0RERIV0ZxOHM5UGNGSjg1WlBON1JQNm9GdGlkWmJmMVQwamNvdHh3OERYc1VrendsNm85d0ZB?oc=5",
+          "hotness": 90
+        },
+        {
+          "title": "英特尔增发200亿美元豪赌AI，创55年来最大单次股权融资",
+          "summary": "英特尔宣布增发200亿美元股权融资，押注AI芯片和代工业务，为55年来最大单次融资。",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBuX2NETEF4bGQxTm42U2w1QXNYWGtpSWUwem5xVDY1dHpmZWVDSEQ4R1lEQ1RJRUtac2QxM2I2ZndwZVhwNXVRbEYybjRZT1kwYjJhZjRvcld2SWpVMUVEZQ?oc=5",
+          "hotness": 85
+        },
+        {
+          "title": "OpenAI开始测试ChatGPT广告",
+          "summary": "OpenAI在ChatGPT中试运行广告，以支持免费用户，强调广告标识、答案独立与隐私保护。",
+          "link": "https://openai.com/index/testing-ads-in-chatgpt",
+          "hotness": 85
+        },
+        {
+          "title": "IBM与Together AI签署2.4亿美元协议，部署NVIDIA AI推理集群",
+          "summary": "IBM与Together AI达成多年协议，在IBM Cloud上基于NVIDIA基础设施提供开源AI推理服务。",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPczQ0bnRwU3FTN2NaN0wzbUVkbGxtYUZkcm5wa2F4R2E4T1VlYnJBTjVzR1VHWFJCelZ5ZHVSUFdyOU5YcjItRnd3aUQ3c2JsWjN2eFZSM0VHM1pONFdCYXRnNUc1cVpaVC1yOXdVR04yMDV5LW9oaGFjelJfclFTOG1EdkZ5LTQxb1RBbEl5Z2tmeklKUm5jdElUam1uN2ZZNmRlVGZjeW9QQ2tUY1R2RG9Kc09FNGg1b1Jid21NTFBheGdYTnNOdWZhVjhJVmJGWUF4bUI3VXV1eVVWa2ticXJsRFJoMl9qOHp4MTZPZw?oc=5",
+          "hotness": 85
+        },
+        {
+          "title": "AI基建需求强劲，超微电脑上季销售翻倍，盘后股价大涨",
+          "summary": "超微电脑上季销售接近翻倍，本季及新财年指引远超预期，凸显AI基建需求迅猛，盘后股价直线飙涨。",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9CeWVZUGVvS2liTlNCeGIyT3M4djY4dEM5Z2g0UTMwdlJ4QzhxSUtIaWRrYmxIQlMwdnVjSGNna204bl9LcjlfbXY0eHdXVDZUZktB?oc=5",
+          "hotness": 82
+        },
+        {
+          "title": "AI算力开启金融化：芝商所拟10月推出两项期货合约",
+          "summary": "CME与Silicon Data计划10月推出AI算力期货合约，使算力成为可交易的大宗商品。",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1xSEl6bjRzSHpfeFBhS3NLaUQwLWZsM2VHSnNmNE1tLTdSUGt0RW5zYWdHQk83OXRYVnNjOURxNEVtRGpEU1E?oc=5",
+          "hotness": 82
+        },
+        {
+          "title": "没有一个真人员工！日本电气成立“全AI部门”",
+          "summary": "日本电气设立完全由AI驱动的部门，无真人员工，探索AI Agent大规模自动化办公的新形态。",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5sRXdzWGZZc3h1MTlxbzd1QjdiUi1KdS02TU5fdkFLbXZCVjNQMXJMXzAxZVZiRFN2cUt1TlVMc3JEZ0pjdC1SZw?oc=5",
+          "hotness": 80
+        },
+        {
+          "title": "AI光通信需求强劲，Lumentum营收翻倍，但债务重组巨亏超70亿",
+          "summary": "Lumentum上季营收翻倍且指引超预期，但债务重组导致超70亿美元巨额亏损，市场关注AI光通信前景。",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9lb2lscDJ5RENJeE9FcmpyM1NDMlBnUWhkUXRlRkVSXzlISXowVWFUdExDLVhnNE5fMmVYQXZVQkxHc3JfWHdILVZuQThmZlhXX2Fz?oc=5",
+          "hotness": 70
+        },
+        {
+          "title": "Target任命首位首席AI官，强化AI与用户体验",
+          "summary": "Target公司宣布增强AI和UX能力，并任命公司首位首席AI官，押注零售AI转型。",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZEpIcG4xZnFvVnI1RDRmS2NJYzM4WG1YV3ZBUDVvX1Y3dVlBOElhNElfYVV4eFJGQlJSMWFBdTExMV9ySURpdFFUR3VScGtrS0F3OHJrRjVMX1pYeWRaeC1GcG91QXhMTEV5dTAyOWpvUnlXYk1qZUFqMG5ZNF9vUGVsMjExMTNsSWfSAY8BQVVfeXFMTVp2bFlOZjduRU56WG9uLUxhelFuMTdzRlM3RzZ3NVRyOVYyaEtjNzBCVUduc0dNQ3pMMHNDNE5maEJfRUx1cUNQZXl6V2cxcHczY29rQnZVMlQ1Yk5BT0t5eFdPaGJMQXI0cHlfdk8wZ1poZ2UtMWk1b3VEM3R4ZU43elV6SE5yNnhZeUJsZTA?oc=5",
+          "hotness": 70
+        },
+        {
+          "title": "xAI联创的新创企River AI融资11亿美元",
+          "summary": "xAI联合创始人创立的新公司River AI完成11亿美元融资，用于扩展定制AI工具。",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPay11LURqNzhrelJLRnd1WWVEZldIR0c5eC11VjBRdmtLS1BILWY4c0xQdlpKR3ZNSzYybmVMWW4wWFA1a3BTZDBSRkRsMm1WaTdzdzFObFJxTHRELWtMZzVuSzFKYUtZaWdCTEFCbHpPTjYyR3lRV2tRRWxCTzNVTk9sT2xBSUtCc1FJSUZDbnRZdUpCekVlTWZveHZSQ0NuVG1FUnpMTjRId0FiSU81T25DSlZiTXJjbE9xZg?oc=5",
+          "hotness": 70
+        },
+        {
+          "title": "上海发布重大AI和算力政策利好",
+          "summary": "上海盘后发布AI与算力领域的重大政策，为相关产业发展注入新动力。",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA2RzJILUZKOUJZdkFPb2NlTHJpeTJLRThQYjdtcjlSNHNMeHpOVTVocVBGdE50ZWl1UVlnQi0xb3pVRWZlYV9iMzBQb1FBdXZRcTFfREVxa0Q3cXRUUENNcg?oc=5",
+          "hotness": 65
+        },
+        {
+          "title": "美国空军探索用AI预测飞机故障",
+          "summary": "美国空军研究使用AI工具预测飞机故障，以提升装备维护效率与战备水平。",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdnFna1BaNmhRV0FYSTk1RFFvSmUxMDZLQUhFQ3NaN2E4X19KRDhPYzVYZEVKMXJzN0dLWVBnek1jcWRRRUNVbllnXzhkZGdRa2I1RVZKZFE4ZFlIZC1ZMTZ3V3VuSnhnejdKb2hIMDdPMm1rQnpfcEsxZVVDZW1mWkFHRXBzQlhIZE1ZcjdzdVBJVmNkUGR3c3NKZWRtblU?oc=5",
+          "hotness": 60
+        },
+        {
+          "title": "OpenAI CFO分享AI原生财务团队建设经验",
+          "summary": "OpenAI CFO Sarah Friar总结建设AI原生财务部门的五个关键经验，强调自动化与AI回报。",
+          "link": "https://openai.com/index/building-an-ai-native-finance-function",
+          "hotness": 60
+        },
+        {
+          "title": "Google上线AI地球功能一天后即回滚",
+          "summary": "Google在推出AI增强版Google Earth次日即撤下该功能，具体原因尚未公布。",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1pbnRKU3JlVVgtem00WXBCbS0zM3FjVm1DTGlnTkgwOFU2Mlp3YVV6eFlLSHJLSFJRaFNUa2pOTlF4U0lxNnA0bE5ZSmRKSlpnbXZmTWh5cHB6REp5VnJqTWlBcWRDOXFuaW9ZUlBMVV93bXgtX3c?oc=5",
+          "hotness": 58
+        },
+        {
+          "title": "AI泡沫隐忧打压美股，纳指跌0.6%，黄金回落",
+          "summary": "AI泡沫担忧压制美国科技股，纳指收跌0.6%，中东局势支撑油价，黄金承压回落。",
+          "link": "https://wallstreetcn.com/articles/3779161",
+          "hotness": 55
+        },
+        {
+          "title": "新华日报：大模型变现，“账”要怎么算？",
+          "summary": "文章剖析大模型商业化路径，讨论算力成本、定价与盈利逻辑如何平衡。",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1TlU2WHlFVTg1aDFqeUt1YmxSS3FDeElmNUViNVNFZngweTJqQ2M5QUo2TUU2eTMtOXpTczF1NTVsMFdnM0FpN0ZETUprM3dFc2RoNk1lZEJ5NUkzMUNCbA?oc=5",
+          "hotness": 55
+        },
+        {
+          "title": "为什么中国大模型便宜又好用？",
+          "summary": "央视网解读中国大模型以较低成本实现高性能，背后是工程优化和产业链优势。",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE81S01zYmNEUnNKQVc1eDRtN1hLUmY3akU4UGltUzA5eDgyNXFTejZwbHMtb0FRblBkSkxwMjkzRi1HSXZkMnZnUGVCQzhkaG1aNlphdmdJS0k0Z3FjRDl5T0N1aU43OHp3MlYtYml2WTBzQTZTYnlJcA?oc=5",
+          "hotness": 55
+        },
+        {
+          "title": "AI担忧引发韩国股市外资撤离，亚洲市场连失血九个月",
+          "summary": "因AI泡沫担忧，7月外资从韩国股市大幅撤出，亚洲股市连续九个月资金外流。",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1RM1NTaUU0QjQtYjFvMnh2OGtkU3c4TzVoenRGNEhVLVU2V1g5N2dwNEk1WXJJRWJ2N2l5eDhRcy1lQ1pmNmxHMw?oc=5",
+          "hotness": 50
+        },
+        {
+          "title": "金山办公章庆元：企业AI落地至少要解决三类问题",
+          "summary": "金山办公CEO章庆元指出，企业AI落地需解决数据、场景与成本三类问题，才能实现规模化应用。",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1yenFOUWxFMk1SWExtampIR2dLZEtwRVdFMDEwdVFNeDRHdlJ5VHZ0c0RLYnZ2ZlJQZmZUbFp4NUhtRktXMGRLTm02RThuakJFaUl3YjFlWGI4RHYzYTBocg?oc=5",
+          "hotness": 50
+        },
+        {
+          "title": "5000余台深圳出租车装上AI翻译机",
+          "summary": "深圳为5000余台出租车安装AI翻译机，方便司机与外籍乘客沟通，提升城市国际化服务。",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBBZlpkX0hFWWtjMEYyVjd6aTNud0loNmVpeVpoODRnZms4VzJRRzd4c2RGMlh2eENfdVlvZFdEaW9YXzVRcUdOSS1ZekFHQUVXT2Rqbnp1aU5Qa3kxeFlMY2xVXzVKYlFiU1ROZWFzR0lkN00?oc=5",
+          "hotness": 50
+        },
+        {
+          "title": "商务部专家：推动人工智能与消费深度融合",
+          "summary": "商务部研究院专家建议，通过AI与消费场景融合，释放内需潜力，培育新增长点。",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9EQnNRZnZsMkJkT3M1WjZkZHVzcURuLXBmMTA2ZmlRZDZRTXkyUGVFbXpUQ3pPUTdpdDFwR1ItaDN5aEk4dTI4TQ?oc=5",
+          "hotness": 45
+        },
+        {
+          "title": "休斯顿拨款资助AI建筑合规审查计划",
+          "summary": "休斯顿专员为AI项目划拨资金，用于自动核查新建筑是否符合法规要求。",
+          "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxObkJBWlJIbWJ0a2FoaU0xS2QtblJQMDRHcElFT0YtQnJIeWJvVWZYSU80dklMbWJtd2Qzc3h5Z1ZVUEVpLTdLamdKZmg4TnB0T09BRWZud0xCMUduajlTMHBLUE12dzR5djFnRU8yc3N0YkRWdDZ1WlVQeWNfNDNUTTJzN0RMMlJJb2VaclRFS1p5Snk4c25DeEZGNlhXOXRsNzh0M0djNzdESUlFLU95WE04N2kwUUs2WWcwdkJXQmNIZ0E4QVhoOEtUTDNramRKdXhFWXpDR0hSV2paeGE4OGxsZDIwdkl0OUFrc0h2T2VPWDlMcHhKdDBUSnFUZGVod3BlTWM4VjdFQ0phdHJkRUdiMGNibkRLckdR0gGjAkFVX3lxTFBDMm9maXJ2OGdHTXgzYjN1ZzN2ZHVoU0wyRzhsT2c1MVlod1liTTZ2eTBHbWltLWh1YVBwSEM2RUZId3gwOHNmTWxFYTdzaGg5aHdjakZTOThkY280eXU0dVhHZmxLakt0X0YybExjNTNiSkFucTlKOGkzTmtWVnJVdl9kYlFjaDNDWFUwcHQ1bVhYVEdvcUNLWktpYTAxaURoUE5OMHk2NnByVXVaeTBtVUg3NnBaUUFRU0doRFJwSl9DM28yUEg4a3FBQV9fZUkwQVdUNmlfWTVZMkFFVVFrb2YxamlsQVd4eDRtWjJOc2ttVHdjRkh1aVVfWWhaRE42WU1MUWJxMkYtTU44QVhXV2xsQXB1ZEZPTlAtN0IyRElmbw?oc=5",
+          "hotness": 45
+        },
+        {
+          "title": "AI正改变信息传播逻辑，品牌如何管理声誉？",
+          "summary": "AI生成内容影响信息传播，品牌需要建立新的声誉监测与应对机制。",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMUtsdXFTT3pJdEE0WjRFQm5iV0JLdENtcGNrcGhlZ3V1LTg2RjFNaWFOM3Nxbjd3MUZFMXg2d1QyWkh0LVlkUGVOUmtnblkyaVlkNWo4N0l1WFlBeWZxeUxvN01lVlFQY2x1MDhZU0JjcEtjTGdEdDhZWFVpQTN0TnMtNkg1SUZQVVRLMjZBQVlHakVjVWhFbkVvajJ2Q0Q1cmxtMDhNaw?oc=5",
+          "hotness": 45
+        },
+        {
+          "title": "AI并非大公司专属：中小玩家同样有机会",
+          "summary": "评论指出，随着开源和云服务普及，中小企业也能利用AI，竞争格局正在变化。",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdm9pZVUyZ21xWWlPUnl5dmNJRFViN3VVaERBVkNFUVVnWUNJNUs1czI0X2RDTGhQWUVYYXczYV9hUW5ETXAyUW1FQUdLYXRVellqUWxteHNINWRWNVZvbFh3YW41NHlzUFM0U1YtRFJCUW9hdnA5S3VsTF9PT3hYY3NuODdRdUs4RFVNVQ?oc=5",
+          "hotness": 40
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "title": "OpenAI发布GPT-5.6 Sol，提升金融工作自动化",
+          "summary": "OpenAI新模型GPT-5.6 Sol可端到端完成金融研究、生成PPT与Excel，显著提升效率。",
+          "link": "https://openai.com/index/model-ml",
+          "hotness": 98
+        },
+        {
+          "title": "OpenAI Daybreak模型上线AWS，赋能企业安全",
+          "summary": "OpenAI的Daybreak安全模型现通过Amazon Bedrock提供，支持企业网络安全工作流。",
+          "link": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+          "hotness": 80
+        },
+        {
+          "title": "研究显示：AI生成小说的沉浸感更受欢迎",
+          "summary": "海外研究指出，AI生成小说在沉浸感上优于人类创作，可能改写内容创作格局。",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1NdVh4NUhkRF8wa1FGUkJfZXVQLVI0bVZUcXFVdDc5SXpBVmRzT0ZhQzhJN3pNbW5CdXhBbkpKeWJDUXMzSDV6Mm9icTdta3pXYXBXMXc5czMxY1dOd1gtNDdWSFM?oc=5",
+          "hotness": 55
+        },
+        {
+          "title": "复旦团队上线AI品牌健康度指数评估体系",
+          "summary": "复旦团队推出AI品牌健康度指数，帮助企业在AI时代量化评估和管理品牌风险。",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUnhlSnRvdnFXSmFMd0hYUE9XdFN0clRTSzhiTV9XeDB4dlRRVkVoaWs1RVZLVFdxOXpJS19nb3Vmam1BTjNDZGZISU15bDBPVEc2MHZSS0pveXhkZmZYamJrWmI0T1ZiOHVCVnhINWxLN0x5c1lvVDV3N0RDYTdwcHNZdF9YZTM1bE05MzYwbTU1cGhaZFlxT2pDTzN6cUZWT1JyRGdpN1ZTMUNNdmEwWHlR?oc=5",
+          "hotness": 50
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "title": "NVIDIA与本地AI社区共推开源模型与智能体",
+          "summary": "NVIDIA与本地AI社区合作，推动开源模型和智能体生态，降低AI应用门槛。",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45UUttUUMyRTI3WHVUbF9oMlRKX0NIUHJ2WUFobm9Ta3NubmhVS0pmRjkxMzZILU0wWEFFa1JWTXVBYVhzTkhhS292U1hOWUFoUkRrOUJTTFY3RURHTkZjMWlyTVhlYjE1bHQ2M3ZDRzNlSWlpNDJPTUM1d0l0eFU?oc=5",
+          "hotness": 75
+        },
+        {
+          "title": "新创企目标：打造可训练且不被大公司控制的AI",
+          "summary": "一家初创公司致力于开发可自主训练、不受大公司控制的AI，倡导开源与用户所有权。",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVl9aRkNka2lrQ2RYZE1IZll6Mzd2RGZ6S1ZxYVlSTjZEN1RLN0VhSnpMd2RpLXUyNTJ2eFRDc2dZYmNIcXR4ODRFZGJxakI3VllRVE93WExsRjQ3TDZjRk1tdUFDM3UyT0ZvWkc4a1NNTWN4eXhUYkpxZm5JcFIzUk9CRlFPQQ?oc=5",
+          "hotness": 62
+        },
+        {
+          "title": "Google扩展AI专业证书，新增vibe coding课程",
+          "summary": "Google AI专业证书项目加入“vibe coding”内容，帮助开发者掌握AI辅助编程新方式。",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVzNDVlVFeXhpb09WUXhCTS1EVGU1OWRucHU3STdad1IxQjRsdGwtVU5LTlFBNGdJa0N2RVFlM1F4SGdaT2ZwSlAzczBndlAwLXJ2bTByUDZMeDlCT1ZnUHhxQkxvQURNNlRCaXlNV0N5eHJCQko3OXI1d1FOSWNib3RuYmc2dVYyUVRsN2Vwc1gwVjlkaG96enRn?oc=5",
+          "hotness": 60
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "title": "Claude上线AI内容隐形水印，用户无法选择退出",
+          "summary": "Anthropic为Claude推出隐形内容标识，复制粘贴仍可追踪，且无法关闭，引发隐私与透明度讨论。",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBhRDJlZlBJZy1SWkZoOHVrSlM3YUxRdHBtNHMtb3IxV1p0clVLdFBYOFk3NUlIYlJ4TDJnQjAzSlhGQTloallmUnlDUFBVQVJ1V2tUeEV4M0ZXZ1NlMTNWbQ?oc=5",
+          "hotness": 88
+        },
+        {
+          "title": "法国多份报纸起诉谷歌AI摘要侵权",
+          "summary": "法国报纸集团针对谷歌AI摘要未经授权使用内容发起版权诉讼，施压AI内容使用规则。",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcjR3Y1dnbVVXbHJBN2c0d25mYUxLZU1MOFM2aG8wa2dzN2FVbkw4VTFTRS01TFBGSV9yWk1rSGx1V3BPRHZrQXg5YnlsSS1aQzBLUzF3MjRCTDRrLTZxY09uWl9wbndYRUIzZF9tMzVwTF90VzVwSVlBblpHUUFtMFZwbw?oc=5",
+          "hotness": 75
+        },
+        {
+          "title": "Spotify标记AI生成艺术家身份，并将其排除在推荐外",
+          "summary": "Spotify自9月中旬起为AI生成的艺术家身份添加标签，并停止推荐，以提高AI内容透明度。",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE54SHRiUkpBcXlNYVRiYjJfUi1lMnFhMFowRkpwVTdUdWx0SDV5YXphU1A3N1UxQVNTX1lheHR6MGdqX2hDejkwQlNYTUNOTjg2dklSUjJEN3liNXZtcVV0OFlXbHBnaHMxbkw0S0RqVmNXSTE3WWd5UFlOYw?oc=5",
+          "hotness": 65
+        },
+        {
+          "title": "一整个夏天的AI峰会，凸显中美裂痕扩大",
+          "summary": "多个AI峰会上的交锋显示，中美在AI治理规则上的分歧日益加深。",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMkFvRFhOR3pIalEwM2xSZ1FBajRYTkpqcUJYRjEweF9LRFE4Q3R6TklaN1phUmxJVE5wNlZmc0ZRdDU3RWJ2bHhrXzY3a3hvUExBYldpaWVDWWVyT3JIc0J4RlFmSnJlRzNEd1ZhQWN4UnZ0XzY3ZXRfQWxwYnItMFB0RkdROGMtNl9SMXBhdmQ4RllfdkZnbg?oc=5",
+          "hotness": 65
+        },
+        {
+          "title": "OpenAI：AI政策仍将出自各州",
+          "summary": "OpenAI表态称，美国AI政策短期内仍由州一级推动，全国性立法存疑。",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcGd2OW9seUdCNVpvejVJWi1DOUZEa2JUaXlQRms5c3QyMjdDRjNHaHZERTMtTWNoNGN2N0JwWXpWYUNMNHplcWF3WDdYbFRtQXVGXzZ5TnpjbC05cm9wbVVyNE1DMEk1M1AxM1d5RkhodjA5ODBrNlkzVl9OdC1uMWsxVGtsdUNocXdsQTBtZGd6LVBBMHhFOHgxTQ?oc=5",
+          "hotness": 58
+        },
+        {
+          "title": "机构须在AI超越安全计划前做好四件事",
+          "summary": "报告指出，政府机构需在数据治理、监控、问责和演练等方面提前布局，防止AI安全失控。",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcUNUSWx3T29pV2xMQXZLcUlCcFY3V3cweV85N1QzZnVObkFsVm42WU5JZ3JWdW1WMjQ2THBnZlpMdFA1UTZ1Q1pWdFJGSk0tZEpzZGl4RDVxa0VzOW04T05GbWJsQTZYYUlxT1hqQWpuVWhwN093YXhYelF0U0ZmM3VMQ1ZiLUwyMkpobmRabGp5NkhlN05hTHZwZGstLVNTdklJT1VNWl9xb2ltRU9VRkdteGZqTldORnQ4UXY1OF9XWWFFczdSUktJMjA?oc=5",
+          "hotness": 55
+        },
+        {
+          "title": "军方AI评标遭诉讼，或提升合同评估透明度",
+          "summary": "一项诉讼质疑美国陆军用AI评估投标，可能推动提案评审过程的公开透明。",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxObGdoSFd5UGhFYVZmRVIxdUlkbHl1eWhlZlBFRXBTNk1kQTBCX2hjZVptdkZ2NnFQRm1ReVg4VXlpc2trS2VndVg1SXlHRC13LUVJQ002QzJXa1FfOEd6SU44THg5Zy1RSW93TjNGNEpTN3M3VG1aOGJySF9HWDhYZ0hVRzNremVGeXg3WHJEQUtkc0ZyQlRRRTZPVnB1VUFYUnlqTldqbV9GWWdFSXZ2MVN4VklySTU1UTBKYVlFbTFoOUNzX0dLWjRaM1V6OXQ1OVphVUFmNnhpYkpUeGpmZWpXeVdNcGpVNkE?oc=5",
+          "hotness": 55
+        },
+        {
+          "title": "OpenAI致信德州州长，承诺负责任AI基础设施",
+          "summary": "OpenAI向德州州长公开承诺，将建设可靠透明的AI基础设施，并强调对德州民众有益。",
+          "link": "https://openai.com/index/responsible-ai-infrastructure-texas",
+          "hotness": 55
+        },
+        {
+          "title": "“开放”还是“筑墙”：美国AI政策面临两难",
+          "summary": "美国在AI开放合作与安全限制之间难以取舍，政策走向影响全球AI生态。",
+          "link": "https://news.youth.cn/gj/202608/t20260812_16810960.htm",
+          "hotness": 50
+        },
+        {
+          "title": "WSJ播客：《AI治疗师》系列上线",
+          "summary": "华尔街日报推出播客系列，探讨AI在心理治疗领域的应用前景与伦理争议。",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5oUWlRZDIyTHJkVldYMlFVb3NIZ3VON3VDOFV1MVkwSXNCcVd5aFZsbGNvWW52RnBHcWFoQkR6LU1yRFNsWUdqS3F1VHVrSlE5aURSSU92a3ZxV1BOamRtbjdta1hMY3hkRHlLcVgxc0E4X3JFSjRINC1UelZRdHM?oc=5",
+          "hotness": 50
+        },
+        {
+          "title": "经济面面观：中国方案如何让AI行稳致远",
+          "summary": "评论认为，中国通过治理与创新并重，为AI安全发展提供可行方案。",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5JUDlMajZraUZtMTl1cWpvVm1QQnREajNhSnpMbmhlWFMtajVHcFh0dENlbFNkSFdiWW9rZEVWT09MMlhLZGlaNVdXUFNMRjJ0cGthaDk4aUhjRnRaU0pRYm0xMlF6QWZ6cHZfQXRWNUhDdXI2d2c?oc=5",
+          "hotness": 45
+        },
+        {
+          "title": "AI助手写文章：30%改写红线，工具还是作者？",
+          "summary": "语音交互AI辅助写作的30%改写限度引发讨论，模糊了工具与作者的边界。",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1adXBkSlpKYXBQaFpidzFMUER3T3QzdVpwdlZKbEZ1ekJ2S3NPSkcwRVZSU3Y5azRqVmUyc0hxUFA5ZDRZV2l1WHowbzRuRVRqZVJGX2E0ZWR0bzNQc2x0R3U1ZmRINzA1SThEbUdKYjU3UEVoZVYtMFdPWnY4a1E?oc=5",
+          "hotness": 45
+        },
+        {
+          "title": "别让AI速成片头消解创作诚意",
+          "summary": "评论呼吁警惕AI快速生成片头对影视创作匠心的侵蚀，强调原创价值。",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOY0NuQzJmb01KamdhTV9DVl9sQlZpQ2dLc2xCU1JDbTRRVFFiTWFiOG15VUMxVHNaajYzdTFBTFNramNWcTNCUm9zbGh6ZW1Bcm1ZS1VsVHgwUjhuLUpIWjR1aVFUTUFfUDVHVVNZODZzN0lhQlFuOGlHMlhRWkpXVFdR?oc=5",
+          "hotness": 40
+        }
+      ]
+    }
+  }
+}

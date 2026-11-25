@@ -1,0 +1,213 @@
+{
+  "overview": [
+    "Mistral 发布 Large 4（Le Chonk）开放权重模型，主打智能体编码与网络安全，开源模型竞争升温。",
+    "谷歌发布旗舰模型 Gemini 4 Carbon，将网络安全能力作为下一代前沿模型的核心卖点。",
+    "月之暗面 Kimi 接入 Gmail、Google Drive 和日历，国内 AI 助手加速融入办公生态。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "id": 37,
+          "title": "月之暗面 Kimi 接入 Gmail、Google Drive 和日历",
+          "summary": "Kimi 海外版通过 Plugins 插件接入谷歌 Gmail、云端硬盘和日历，可在对话中调用邮件、云盘与日程能力。",
+          "hotness": 90,
+          "link": "https://www.ithome.com/1/019/782.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 3,
+          "title": "微软推出首个网络安全模型及代理式网络安全系统",
+          "summary": "微软发布首个网络安全专用模型，并配套代理式安全系统，将模型能力嵌入安全运营流程。",
+          "hotness": 85,
+          "link": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
+          "source": "TechCrunch"
+        },
+        {
+          "id": 44,
+          "title": "百度确认副总裁吴甜离职，知情人士称文心模型下周将有新进展",
+          "summary": "百度确认副总裁、研究院副院长吴甜离职，同时有知情人士称文心模型下周将有新进展。",
+          "hotness": 75,
+          "link": "https://www.ithome.com/1/019/769.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 13,
+          "title": "Anthropic 推出 Claude for Legal Artifacts，深入法律科技工作流",
+          "summary": "Anthropic 扩展 Claude 的法律科技能力，推出面向法律文书的 Artifacts 功能，进一步进入专业工作流。",
+          "hotness": 75,
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeGNGazhzV2JjTk9OUzR0bV9TN3cxdjdLaU9PcVN0dnNfQjFCek51WHFZSGtPN3A5d1JHY1RZUlhYSXNXRE45WHhkRExHbmxLemNUWkNYcEttdEdoM3E2S2pTeS16WWhPZld6VU5yMVlKY3lfNGFmQkR5dzlKbTJEWE9VMTl1Q3NtbkxZaWxhSUQtSXVhVFdQYU51aWlxeklCS2l5SFIyejlKZW5OcXlNNjlWMFNLMFJuR2c?oc=5",
+          "source": "Legal IT Insider"
+        },
+        {
+          "id": 27,
+          "title": "OpenAI 与 ServiceNow 扩大合作，将模型与 Agent 引入企业工作流",
+          "summary": "双方扩大合作，把 OpenAI 模型与智能体接入 ServiceNow 企业流程，覆盖更多工作流场景。",
+          "hotness": 72,
+          "link": "https://openai.com/index/openai-servicenow-partnership-expansion",
+          "source": "OpenAI Blog"
+        },
+        {
+          "id": 56,
+          "title": "加拿大向 Cohere 投资 16 亿加元",
+          "summary": "加拿大政府向本土 AI 公司 Cohere 投资 16 亿加元，加码本土大模型与 AI 产业。",
+          "hotness": 70,
+          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQc2hJb0Npc3JETmdEaENSMkhhUUotYmdBeGd5b2JRcWJSZjU1TV9TNjRkQXJ2cG81NlNodVlGRzlhMVZyN243azhqd25jTkViUjFwTmdBVzNJcmZCMEZVdEVXU2ozOUcyMVJyaFlYamU3RWpKdW5HQWNiUTh2SWo5YWQzR05wVGlpcHJYOW51VG1xT0tyelJwNHNkbUQ5N2VGU2lBRkJHSTFWZlpRYk9tQ1pZWDN3ZGZTVXkwN3M3Y2xTR29VdVV2alp4YW1QdC1KSHpJSjZDM3RYd1p2cDFTNTZGWC1zZC0zYnBCMktyb1JLOTFoQlZqeGJ1TkZiUUJIZkRFY3luaw?oc=5",
+          "source": "RFI"
+        },
+        {
+          "id": 28,
+          "title": "英特尔 2026Q3 营收 165 亿美元超预期，数据中心业务暴增近 80%",
+          "summary": "英特尔第三财季营收超预期，数据中心业务同比增长近 80%，创 15 年最强增长，反映算力需求强劲。",
+          "hotness": 80,
+          "link": "https://www.ithome.com/1/019/836.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 43,
+          "title": "Alphabet 单日跌超 13%，创历史上最大单日跌幅",
+          "summary": "谷歌母公司 Alphabet 开盘大跌，盘中跌幅一度达 13%，市场关注 AI 竞争、估值与业绩压力。",
+          "hotness": 85,
+          "link": "https://www.ithome.com/1/019/773.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 52,
+          "title": "新芯航途发布 X7 Ultra 智驾芯片，大模型算力 700TOPS",
+          "summary": "新芯航途公布 X7 Ultra 芯片，面向大模型智驾场景提供 700TOPS 算力，台积电等产业伙伴到场。",
+          "hotness": 75,
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1oaG1pdkdWS2wzX2x1RWx4NE5FdXZpd2J4NndDWEM1QjFmSDJ1eXd6akQ4QkRDaTlWLWloejY4OUJHbTljWXMzYQ?oc=5",
+          "source": "财联社"
+        },
+        {
+          "id": 50,
+          "title": "德科立拟约 12 亿元投建 AI 算力及数据中心光连接项目",
+          "summary": "德科立计划投资约 12 亿元建设 AI 算力与数据中心光连接产业化项目，扩充算力基础设施供应链。",
+          "hotness": 65,
+          "link": "https://www.guandian.cn/article/20261030/620761.html",
+          "source": "观点网"
+        },
+        {
+          "id": 39,
+          "title": "华为制药军团称“不做药”，要做 AI 制药产业技术底座",
+          "summary": "华为制药军团总裁樊杰明确华为不直接做药，而是希望以 AI 与算力成为制药产业的技术底座。",
+          "hotness": 60,
+          "link": "https://www.ithome.com/1/019/780.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 12,
+          "title": "Meta 介绍 Andromeda 广告检索系统：模型-系统协同设计",
+          "summary": "Meta 工程团队披露 Andromeda 广告检索系统，通过模型与系统协同设计提升下一代广告检索效率。",
+          "hotness": 65,
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMEZ3MUhGWnBzZDB1UFlCaFVRbVRFV25lNVlfeG5zemxaaVYyZWZrc25YWS16aXlyVC13NGtXM0dsU3M2MHhmdmo1eW5yZkMwSTBvVldteDdxdk1vdEZEVlZ5ZEpxMl9Gc3pXTDR5eHhrc1lZS3VDbElORlJ3UTQwS3d0RjdWWDRFNmx4UzBIdWNQNkZIaUk0UkZzRlZheExXZVdUanRZSHRaUQ?oc=5",
+          "source": "Engineering at Meta Blog"
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "id": 16,
+          "title": "谷歌发布旗舰模型 Gemini 4 Carbon，强化网络安全能力",
+          "summary": "谷歌推出下一代前沿模型 Gemini 4 Carbon，重点强化网络安全相关能力，并同步登陆官方博客与多家媒体。",
+          "hotness": 100,
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLXQyWUp5N0QwdVRZWXFkd1M5b2RrcExtNVBJS0JKaDdhaG1DQThXeEVlUWVWQUNPTjNOak9ZSnZlQjhDUkNIT2oxSlJrSjlJSkVSMVZFMW5acXV1N0l5bWxKTU1CNmtzZVM3U2dZVE5RbHlrZ2k5LTljM2FnNDVLM3NFbGI4N1hSMVIyQ2FNZXZYY0ZuNV9KR0lQYzdxT2RGdzkxamkzLXloVUVmLUhmdUZ3?oc=5",
+          "source": "Reuters"
+        },
+        {
+          "id": 30,
+          "title": "智元发布具身模型 GO-3 Preview，登顶三大榜单",
+          "summary": "智元推出 GO-3 Preview 具身模型，覆盖预训练、后训练与部署全链路规模化学习，可完成煎饼果子制作和便利店上岗等任务，并登顶三大榜单。",
+          "hotness": 85,
+          "link": "https://www.ithome.com/1/019/806.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 36,
+          "title": "DiffuSpace 推出 Clover-35B-A3B-Preview 扩散语言模型",
+          "summary": "DiffuSpace 发布 Clover 系列首个模型 Clover-35B-A3B-Preview，采用扩散语言模型路线，兼顾性能与速度。",
+          "hotness": 70,
+          "link": "https://www.ithome.com/1/019/783.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 53,
+          "title": "中南民族大学联合华为发布中华民族共同体大模型及 AI 智能体",
+          "summary": "中南民族大学与华为发布面向中华民族共同体场景的大模型及 AI 智能体，推动垂直领域应用。",
+          "hotness": 60,
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9oenFRZVFMVkR5X1VseGs3QmtsR1ZZLXJRZjdMNG1yRTdxNHh0T09Zc3h0cEd0N2dNNW1BZUtpQ2pWTVhIbGczR19lMFR1OEpXMjhwNmpoZTczZ3BBM3ZZZG9aTG14NjkwbXFmSzQ4WGtKRXU5?oc=5",
+          "source": "新华网"
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "id": 4,
+          "title": "Mistral 发布 Large 4（Le Chonk）开放权重模型，主打智能体编码与网络安全",
+          "summary": "Mistral 推出 Large 4（代号 Le Chonk），开放权重并主打智能体编码与网络安全，官方称每任务成本降低 63%，号称中国以外最强开源模型。",
+          "hotness": 98,
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYzZpUXA0LXZzVzFDcDVYNGdhRmh4T2FXb25rdjM1M1ZkTE42VVU3SDdwTmpwLXkzcDZGdEpFeE51Z19pUTI2TjJ5TFI3SU5LLWFCc0dNbk9RdElTSnpHYlRVdDA5UmluSHhRSWF6RTQ4UzJKZ21DSnF0MlR0SDJIUVRxMWlJYWtMWjNxeHJTa0FHckV2QW5YQ0twYWx3V2RFYXR0TDFKbW1aWnZXNWpFUWl5TzhkTnVjaFk2WHRBRDZOZkRfQ0IyUA?oc=5",
+          "source": "Fortune"
+        },
+        {
+          "id": 8,
+          "title": "Anthropic 因 npm Source Map 意外泄露 Claude Code 源码",
+          "summary": "Anthropic 的 Claude Code 源码通过 npm Source Map 文件意外暴露，引发开发工具供应链安全关注。",
+          "hotness": 75,
+          "link": "https://www.infoq.com/news/2026/04/claude-code-source-leak/",
+          "source": "infoq.com"
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "id": 24,
+          "title": "OpenAI 更新 Model Spec：以人类意图为中心提出五项核心价值",
+          "summary": "OpenAI 发布更新版 Model Spec，提出五项核心价值，强调以人类意图为中心指导模型行为与边界。",
+          "hotness": 80,
+          "link": "https://openai.com/index/updated-model-spec",
+          "source": "OpenAI Blog"
+        },
+        {
+          "id": 0,
+          "title": "OpenAI 披露前沿模型训练环境安全与错位监测机制",
+          "summary": "OpenAI 介绍前沿模型训练环境加固、能力路径与分层错位监测，强化部署前安全保障。",
+          "hotness": 80,
+          "link": "https://openai.com/index/securing-our-frontier-model-training-environment/",
+          "source": "OpenAI"
+        },
+        {
+          "id": 9,
+          "title": "研究称 Claude 可跨主流浏览器与操作系统构建漏洞利用",
+          "summary": "安全研究显示 Claude 能为主流浏览器和操作系统生成漏洞利用，凸显模型攻防双用途风险。",
+          "hotness": 70,
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdUdTTkVweWU5c2MwajUwLW1WNzdrdFFkZUdLYURmM2NHenFDOFV1dUNSRVlZVFBENnBRbXNxUGdJWEZrV3pFOVRPRE54aDlXdHkxLW1Cb3JPQkdIZDhDeWYyNFR2N2FVallMZ0RSYWc2Ym0yWDJWamNvUnR1TFo0LXQybS1jdHJFMHF5RF9KNHNYSDM1?oc=5",
+          "source": "Dark Reading"
+        },
+        {
+          "id": 35,
+          "title": "EA 裁员后士气低落，管理层仍热衷生成式 AI",
+          "summary": "EA 裁员 400 人并取消部分项目后员工士气跌至谷底，管理层对生成式 AI 的热衷引发就业与创作伦理讨论。",
+          "hotness": 60,
+          "link": "https://www.ithome.com/1/019/785.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 60,
+          "title": "AI 治理“四个 A”新框架提出，针对不同伦理问题分类施策",
+          "summary": "研究者提出 AI 治理“四个 A”框架，指向不同类型伦理问题，为分类治理提供新思路。",
+          "hotness": 58,
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1xenNXQWcwem1ZdVZBd3E0ZnJZRVloSFRaY3VneWNxSTJCalc2VDEtUGRlclB2SV8wMWN3cDRvamNlUUdRdFpMclhqVFFuWjg3WF8xbEZMSDFnQVA1Snl2T0lXRnZ0eG9NT0hrYnFGbXc?oc=5",
+          "source": "中国科技网"
+        }
+      ]
+    }
+  }
+}

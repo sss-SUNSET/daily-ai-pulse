@@ -2,9 +2,18 @@ import React, { useState, useEffect } from 'react';
 import { 
   Flame, Calendar, Search, RefreshCw, BookOpen, 
   Terminal, ShieldAlert, ExternalLink, Sparkles, Check, Mail,
-  Sun, Moon
+  Sun, Moon, Cloud, Database
 } from 'lucide-react';
 import './App.css';
+
+function getBeijingDateStr() {
+  return new Intl.DateTimeFormat('en-CA', { timeZone: 'Asia/Shanghai' }).format(new Date());
+}
+
+function isJsonResponse(response) {
+  const contentType = response.headers.get('content-type') || '';
+  return response.ok && contentType.includes('application/json');
+}
 
 export default function App() {
   const [dates, setDates] = useState([]);
@@ -12,6 +21,7 @@ export default function App() {
   const [summaryData, setSummaryData] = useState(null);
   const [loading, setLoading] = useState(false);
   const [syncing, setSyncing] = useState(false);
+  const [isStaticMode, setIsStaticMode] = useState(false);
   const [searchQuery, setSearchQuery] = useState('');
   const [activeTab, setActiveTab] = useState('all');
   const [message, setMessage] = useState({ text: '', type: '' });
@@ -48,9 +58,32 @@ export default function App() {
   const fetchDates = async (selectLatest = true) => {
     setLoading(true);
     try {
-      const response = await fetch('/api/summaries');
-      const data = await response.json();
-      if (data.success && data.dates && data.dates.length > 0) {
+      let data = null;
+      let staticFallback = isStaticMode;
+
+      if (!staticFallback) {
+        try {
+          const response = await fetch('./api/summaries');
+          if (isJsonResponse(response)) {
+            data = await response.json();
+            setIsStaticMode(false);
+          } else {
+            staticFallback = true;
+          }
+        } catch {
+          staticFallback = true;
+        }
+      }
+
+      if (staticFallback) {
+        const staticRes = await fetch(`./data/index.json?t=${Date.now()}`);
+        if (isJsonResponse(staticRes)) {
+          data = await staticRes.json();
+          setIsStaticMode(true);
+        }
+      }
+
+      if (data && data.success && data.dates && data.dates.length > 0) {
         setDates(data.dates);
         if (selectLatest) {
           setSelectedDate(data.dates[0]);
@@ -60,7 +93,7 @@ export default function App() {
         setSelectedDate('');
       }
     } catch (err) {
-      showMsg('获取日期列表失败，请检查后端服务是否启动', 'error');
+      showMsg('获取日期列表失败，请检查数据服务是否正常', 'error');
     } finally {
       setLoading(false);
     }
@@ -69,8 +102,30 @@ export default function App() {
   const fetchSummary = async (date) => {
     setLoading(true);
     try {
-      const response = await fetch(`/api/summary/${date}`);
-      const data = await response.json();
+      let data = null;
+
+      if (!isStaticMode) {
+        try {
+          const response = await fetch(`./api/summary/${date}`);
+          if (isJsonResponse(response)) {
+            data = await response.json();
+          }
+        } catch {
+          // Fall back to static JSON archive
+        }
+      }
+
+      if (!data) {
+        const staticRes = await fetch(`./data/${date}.json`);
+        if (isJsonResponse(staticRes)) {
+          const rawJson = await staticRes.json();
+          data = { success: true, data: rawJson };
+          setIsStaticMode(true);
+        } else {
+          data = { success: false, error: 'Archive file not found' };
+        }
+      }
+
       if (data.success) {
         setSummaryData(data.data);
       } else {
@@ -78,7 +133,7 @@ export default function App() {
         setSummaryData(null);
       }
     } catch (err) {
-      showMsg('连接服务器失败', 'error');
+      showMsg('加载简报数据失败', 'error');
       setSummaryData(null);
     } finally {
       setLoading(false);
@@ -115,7 +170,7 @@ export default function App() {
 
         // Poll for the dates updates every 3 seconds, up to 10 times
         let attempts = 0;
-        const todayStr = new Date().toISOString().split('T')[0];
+        const todayStr = getBeijingDateStr();
         
         const pollInterval = setInterval(async () => {
           attempts++;
@@ -257,11 +312,23 @@ export default function App() {
         </div>
         
         <div className="sidebar-footer">
-          <div className="mail-info">
-            <Mail size={14} />
-            <span>简报订阅邮箱:</span>
-          </div>
-          <div className="mail-addr">xuhongtaooo@outlook.com</div>
+          {isStaticMode ? (
+            <>
+              <div className="mail-info">
+                <Database size={14} />
+                <span>在线归档库状态:</span>
+              </div>
+              <div className="mail-addr">共 {dates.length} 期 · 每日 08:10 自动同步</div>
+            </>
+          ) : (
+            <>
+              <div className="mail-info">
+                <Mail size={14} />
+                <span>简报订阅邮箱:</span>
+              </div>
+              <div className="mail-addr">xuhongtaooo@outlook.com</div>
+            </>
+          )}
         </div>
       </aside>
 
@@ -290,33 +357,53 @@ export default function App() {
               >
                 {theme === 'light' ? <Moon size={16} /> : <Sun size={16} />}
               </button>
-              <button 
-                onClick={() => triggerSync('update')} 
-                disabled={syncing} 
-                className="btn btn-secondary"
-                title="仅从网络抓取最新新闻，不发送邮件"
-              >
-                <RefreshCw size={14} className={syncing && message.text?.includes('数据') ? 'animate-spin' : ''} />
-                仅更新数据
-              </button>
-              <button 
-                onClick={() => triggerSync('email')} 
-                disabled={syncing} 
-                className="btn btn-secondary"
-                title="将已抓取的今日摘要发送至您的邮箱"
-              >
-                <Mail size={14} />
-                仅发送邮件
-              </button>
-              <button 
-                onClick={() => triggerSync('all')} 
-                disabled={syncing} 
-                className="btn btn-primary"
-                title="抓取最新数据并自动发送邮件"
-              >
-                <RefreshCw size={14} className={syncing && message.text?.includes('AI 热点') ? 'animate-spin' : ''} />
-                更新 & 发送邮件
-              </button>
+              {isStaticMode ? (
+                <>
+                  <span className="static-status-pill" title="已托管至 GitHub Pages，每天定时自动抓新并发布">
+                    <Cloud size={14} />
+                    云端每日自动更新
+                  </span>
+                  <button
+                    onClick={() => fetchDates(true)}
+                    disabled={loading}
+                    className="btn btn-primary"
+                    title="重新加载最新已归档简报"
+                  >
+                    <RefreshCw size={14} className={loading ? 'animate-spin' : ''} />
+                    刷新简报
+                  </button>
+                </>
+              ) : (
+                <>
+                  <button 
+                    onClick={() => triggerSync('update')} 
+                    disabled={syncing} 
+                    className="btn btn-secondary"
+                    title="仅从网络抓取最新新闻，不发送邮件"
+                  >
+                    <RefreshCw size={14} className={syncing && message.text?.includes('数据') ? 'animate-spin' : ''} />
+                    仅更新数据
+                  </button>
+                  <button 
+                    onClick={() => triggerSync('email')} 
+                    disabled={syncing} 
+                    className="btn btn-secondary"
+                    title="将已抓取的今日摘要发送至您的邮箱"
+                  >
+                    <Mail size={14} />
+                    仅发送邮件
+                  </button>
+                  <button 
+                    onClick={() => triggerSync('all')} 
+                    disabled={syncing} 
+                    className="btn btn-primary"
+                    title="抓取最新数据并自动发送邮件"
+                  >
+                    <RefreshCw size={14} className={syncing && message.text?.includes('AI 热点') ? 'animate-spin' : ''} />
+                    更新 & 发送邮件
+                  </button>
+                </>
+              )}
             </div>
           </div>
         </header>
@@ -335,9 +422,16 @@ export default function App() {
             <div className="empty-state">
               <Sparkles size={48} className="empty-icon text-primary animate-pulse" />
               <h3>没有找到数据</h3>
-              <p>请点击上面的“更新”或“更新 & 发送邮件”按钮，抓取今日最新的 AI 行业动态和热度分析。</p>
-              <button onClick={() => triggerSync('all')} className="btn btn-primary mt-4">
-                <RefreshCw size={16} /> 立即抓取
+              <p>
+                {isStaticMode
+                  ? '暂无已归档的简报数据，请点击下方按钮重新加载。'
+                  : '请点击上面的“更新”或“更新 & 发送邮件”按钮，抓取今日最新的 AI 行业动态和热度分析。'}
+              </p>
+              <button
+                onClick={() => (isStaticMode ? fetchDates(true) : triggerSync('all'))}
+                className="btn btn-primary mt-4"
+              >
+                <RefreshCw size={16} /> {isStaticMode ? '重新加载' : '立即抓取'}
               </button>
             </div>
           ) : (

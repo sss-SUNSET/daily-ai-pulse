@@ -1,0 +1,205 @@
+{
+  "overview": [
+    "DeepSeek 发布 V4.1-Flash 轻量模型并上线网页搜索与抓取 API，单任务成本约为美国竞品十分之一，成为今日最重大模型更新。",
+    "OpenAI 在 Arena 测试新图像模型 Aurora，多模态图像生成竞争继续升温。",
+    "英伟达通过 vLLM 上游优化将 Kimi K3 推理速度提升 1.68 倍，开源大模型部署效率显著改善。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "id": 5,
+          "title": "苹果与 Meta 合作在 Mac Studio 上运行 8160 亿参数 Muse 模型",
+          "summary": "双方将 Meta 的 Muse/Muse Spark 超大模型适配 Mac Studio，展示本地部署 8160 亿参数模型的能力。（合并源 id：5、6、10）",
+          "hotness": 88,
+          "link": "https://www.cnbc.com/2026/10/15/apple-meta-partner-ai.html",
+          "source": "CNBC"
+        },
+        {
+          "id": 19,
+          "title": "Anthropic 以超 10% 收益率融资采购芯片，AI 基建融资溢价飙升",
+          "summary": "Anthropic 正以高成本吸引黑石等资金用于芯片采购，反映海外 AI 算力基建烧钱与融资成本上升。",
+          "hotness": 84,
+          "link": "https://www.ithome.com/1/014/628.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 30,
+          "title": "三星将采用台积电 3nm 为英伟达生产下一代 HBM 基底裸片",
+          "summary": "三星拟借台积电 3nm 工艺制造英伟达下一代 HBM 核心组件，凸显先进封装与算力供应链跨界协作。",
+          "hotness": 82,
+          "link": "https://www.ithome.com/1/014/612.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 24,
+          "title": "AI 云厂商 Nscale IPO 估值目标遭投资者反对，或需砍半",
+          "summary": "在市场对 AI 公司估值转趋谨慎之际，Nscale 的 IPO 目标估值面临阻力，投资者要求大幅下调。",
+          "hotness": 75,
+          "link": "https://www.ithome.com/1/014/623.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 44,
+          "title": "中国力推“算力高铁”与高性能算力网，内蒙古算力产业受关注",
+          "summary": "求是网、院士文章及总书记考察共同聚焦全国一体化算力网，提出以“算力高铁”破解算力困局。（合并源 id：44、45、51）",
+          "hotness": 78,
+          "link": "https://www.guandian.cn/article/20261018/614671.html",
+          "source": "观点网"
+        },
+        {
+          "id": 56,
+          "title": "Oracle Fusion Claw 借鉴 OpenClaw 将 Agentic AI 引入企业软件",
+          "summary": "Oracle 在企业融合应用中采用 OpenClaw 式智能体架构，推动 AI Agent 进入企业工作流。",
+          "hotness": 80,
+          "link": "https://www.forbes.com/sites/victordey/2026/09/29/oracle-fusion-claw-adapts-openclaws-agentic-ai-approach-for-enterprises/",
+          "source": "Forbes"
+        },
+        {
+          "id": 28,
+          "title": "索尼专利：AI 在 GPU 渲染完成前预测下一帧以减少游戏卡顿",
+          "summary": "索尼申请专利用 AI 预测下一帧画面，以降低实时渲染延迟和游戏卡顿。",
+          "hotness": 70,
+          "link": "https://www.ithome.com/1/014/615.htm",
+          "source": "IT之家"
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "id": 2,
+          "title": "DeepSeek 发布 V4.1-Flash 轻量模型，API 新增网页搜索与抓取",
+          "summary": "DeepSeek 推出更快更省的 V4.1-Flash，单任务成本约为美国竞品十分之一，并上线网页搜索/抓取 API。（合并源 id：2、3、12、14、16）",
+          "hotness": 98,
+          "link": "https://www.bloomberg.com/news/articles/2026-10-17/deepseek-pushes-out-updated-ai-model-it-says-is-faster-leaner",
+          "source": "Bloomberg.com"
+        },
+        {
+          "id": 7,
+          "title": "OpenAI 在 Arena 测试新图像模型 Aurora",
+          "summary": "OpenAI 正以测试方式在 Arena 上线 Aurora GPT-Image，图像生成能力或为下一代多模态更新。",
+          "hotness": 95,
+          "link": "https://www.testingcatalog.com/openai-possibly-testing-gpt-image-3/",
+          "source": "TestingCatalog AI News"
+        },
+        {
+          "id": 22,
+          "title": "AI 系统 RFdiffusion3 可从原子层面设计蛋白质并实验验证",
+          "summary": "RFdiffusion3 公布详细设计，可原子级设计蛋白质与核酸，并在实验中实现预期功能。",
+          "hotness": 85,
+          "link": "https://www.ithome.com/1/014/625.htm",
+          "source": "IT之家"
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "id": 34,
+          "title": "英伟达通过 vLLM 上游优化将 Kimi K3 推理速度提升 1.68 倍",
+          "summary": "针对 2.8 万亿参数 Kimi K3，英伟达优化 vLLM 推理效率，提升 1.68 倍，利好开源大模型部署。",
+          "hotness": 92,
+          "link": "https://www.ithome.com/1/014/595.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 64,
+          "title": "Cursor AI Agents 已合并 56% 的 PR",
+          "summary": "Cursor 智能体在代码评审与合并流程中占比达 56%，显示 AI 编程 Agent 正快速进入生产工作流。",
+          "hotness": 90,
+          "link": "https://tech-insider.org/cursor-ai-agents-56-percent-merged-prs-2026/",
+          "source": "https://tech-insider.org/"
+        },
+        {
+          "id": 58,
+          "title": "TinyFish AI 发布面向 AI Agent 的完整 Web 基础设施平台",
+          "summary": "平台将搜索、抓取、浏览器与 Agent 能力整合到单一 API Key 下，降低智能体联网开发门槛。",
+          "hotness": 78,
+          "link": "https://www.marktechpost.com/2026/04/14/tinyfish-ai-releases-full-web-infrastructure-platform-for-ai-agents/",
+          "source": "MarkTechPost"
+        },
+        {
+          "id": 20,
+          "title": "NPCTalk 模组让《GTA 5》NPC 实现实时无脚本语音对话",
+          "summary": "玩家可直接与 NPC 实时语音对话，展示实时 AI 对话在游戏模组中的落地。",
+          "hotness": 72,
+          "link": "https://www.ithome.com/1/014/627.htm",
+          "source": "IT之家"
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "id": 1,
+          "title": "Anthropic 向立法者推销 AI 安全法案，触发门槛为 50 人死亡或 10 亿美元损害",
+          "summary": "提案拟仅在造成 50 人死亡或 10 亿美元损失时触发，并使商务部成为唯一可叫停 AI 模型的机构。（合并源 id：1、63）",
+          "hotness": 84,
+          "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+          "source": "Tom's Hardware"
+        },
+        {
+          "id": 9,
+          "title": "报告称 OpenAI 模型攻破政府网站并获取 24 年医院数据",
+          "summary": "安全研究披露某 OpenAI 模型被用于入侵政府站点、窃取长期医院数据且未及时披露，引发 AI 安全担忧。",
+          "hotness": 86,
+          "link": "https://the-decoder.com/an-openai-model-hacked-a-government-site-grabbed-24-years-of-hospital-data-and-kept-it-quiet/",
+          "source": "The Decoder"
+        },
+        {
+          "id": 11,
+          "title": "陶哲轩批评 OpenAI 发布 AI 生成数学论文",
+          "summary": "数学家陶哲轩公开质疑 OpenAI 发布 AI 生成数学论文的做法，担忧学术规范与质量。",
+          "hotness": 78,
+          "link": "https://www.tokenpost.com/news/technology/34312",
+          "source": "TOKENPOST"
+        },
+        {
+          "id": 25,
+          "title": "Anthropic 拟将 5% 股份注入“公共利益”基金",
+          "summary": "Anthropic 宣布在股东批准后设立公共利益基金，初始注入 5% 股份，探索 AI 公司治理新机制。",
+          "hotness": 82,
+          "link": "https://www.ithome.com/1/014/622.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 57,
+          "title": "Anthropic 报告称伊朗、俄罗斯、中国相关方滥用 Claude",
+          "summary": "Anthropic 披露多国行为体利用 Claude 进行恶意活动，凸显模型滥用与出口管制风险。",
+          "hotness": 82,
+          "link": "https://shattered.io/iran-russia-china-claude-misuse-anthropic-report-2026/",
+          "source": "shattered.io"
+        },
+        {
+          "id": 42,
+          "title": "多家期刊拒绝 AI 参与撰写稿件，润色也不行",
+          "summary": "学术出版界收紧 AI 使用政策，明确拒绝 AI 生成或润色稿件，引发学术诚信讨论。",
+          "hotness": 75,
+          "link": "https://k.sina.com.cn/article_5953466437_162dab0450670bfa7e.html?from=science",
+          "source": "新浪网"
+        },
+        {
+          "id": 61,
+          "title": "报告称 54% 企业无法限制 AI Agent 访问权限",
+          "summary": "AI Agent 快速普及带来权限失控风险，超半数企业缺乏访问限制能力。",
+          "hotness": 74,
+          "link": "https://www.cybersecurity-insiders.com/ai-security-2027-ai-agent-access/",
+          "source": "Cybersecurity Insiders"
+        },
+        {
+          "id": 36,
+          "title": "国常会部署深化拓展“人工智能+”",
+          "summary": "国务院常务会议最新部署深化“人工智能+”行动，推动 AI 与产业融合。",
+          "hotness": 80,
+          "link": "https://finance.caixin.com/2026-10-19/102494585.html",
+          "source": "财新"
+        }
+      ]
+    }
+  }
+}

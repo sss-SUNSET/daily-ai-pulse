@@ -1,0 +1,301 @@
+{
+  "overview": [
+    "DeepSeek 被曝完成 1000 亿元融资，宁德时代、腾讯参投，国内大模型资本与产业协同再升级。",
+    "OpenAI 全面开放 Decisions API，基于 GPT‑6 Luna 以 0.10 美元/百万 token 输入价切入低成本决策场景。",
+    "Anthropic 推出可在用户离开后继续工作的 Claude Duet 智能体，与 Meta Muse 等竞逐 AI Agent 入口。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "id": 0,
+          "title": "DeepSeek 被曝完成 1000 亿元融资，宁德时代和腾讯参投",
+          "summary": "报道称 DeepSeek 完成巨额融资，宁德时代与腾讯参投，显示国内大模型公司与产业资本、互联网巨头加速绑定。",
+          "hotness": 100,
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB3a21jSTBTanJsaWxfSXdkOVZZeXZGTThaZXRqWEdMRC00ZkR2Q1VkRmo0bXZhbUZPUVd5Nl9kejBJZ2dEdG9Ycnl2Tk5QNUZkTHRB?oc=5",
+          "source": "华尔街见闻"
+        },
+        {
+          "id": 5,
+          "title": "ChatGPT Ads 扩展至 26 个新国家，广告主已超 10 万",
+          "summary": "OpenAI 广告平台继续全球化，覆盖本地商家与全球品牌，商业化场景进一步扩大。",
+          "hotness": 82,
+          "link": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+          "source": "OpenAI Blog"
+        },
+        {
+          "id": 2,
+          "title": "Uber 向 3 万多名员工部署 ChatGPT Work",
+          "summary": "Uber 与 OpenAI 合作全面落地企业级 ChatGPT，推动团队办公与业务流程 AI 化。",
+          "hotness": 78,
+          "link": "https://openai.com/index/uber-chatgpt-work-rollout",
+          "source": "OpenAI Blog"
+        },
+        {
+          "id": 3,
+          "title": "AT&T 用 OpenAI 改造内部法律工作",
+          "summary": "AT&T 借助 OpenAI 提升法律知识获取效率，显示大模型在企业法务场景继续渗透。",
+          "hotness": 70,
+          "link": "https://openai.com/index/att-legal",
+          "source": "OpenAI Blog"
+        },
+        {
+          "id": 12,
+          "title": "苹果更新 iWork 15.4.1，引入 AI 智能助理",
+          "summary": "Keynote、Numbers 和 Pages 加入 AI 助理能力，苹果生产力套件进一步智能化。",
+          "hotness": 76,
+          "link": "https://www.ithome.com/1/016/762.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 7,
+          "title": "特斯拉为 Optimus 建“学校”，马斯克称训练机器人像育儿",
+          "summary": "特斯拉计划通过集中训练让 Optimus 掌握更多技能，人形机器人训练体系加速成形。",
+          "hotness": 80,
+          "link": "https://www.ithome.com/1/016/769.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 13,
+          "title": "英特尔 CTO 称前沿晶圆产量最多翻倍，AI 算力扩张遇供应链天花板",
+          "summary": "即便资金充足，前沿晶圆产能扩张仍受限，AI 算力增长面临制造端约束。",
+          "hotness": 74,
+          "link": "https://www.ithome.com/1/016/761.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 40,
+          "title": "黄仁勋：AI 算力需求极旺，但资本短缺制约“新云”扩张",
+          "summary": "英伟达 CEO 强调算力需求强劲，同时指出新云厂商扩张受资本约束，供需矛盾仍突出。",
+          "hotness": 78,
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9LRUF1dHVfQ00zVlFkakZ0LUpqcnhnSzdPbks0SVNfeDVZWnlzV09HaWlKbC1aeHRyM1ZRZ1I0c3JzdDFuSmVnTw?oc=5",
+          "source": "财联社"
+        },
+        {
+          "id": 38,
+          "title": "海光信息：新一代芯片算力密度、互联带宽等指标将显著升级",
+          "summary": "海光信息在业绩会透露算力基础设施加速扩容，新一代芯片关键指标将明显提升。",
+          "hotness": 72,
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5mUTJEai1McHA2dHowU3RaOUZjRGlJYWpmNmZVd0xfS0ZfZDJ5QWZTXzUzM2h0dWhqZkZ0QThSV1lwYzNWejJ6Mg?oc=5",
+          "source": "财联社"
+        },
+        {
+          "id": 43,
+          "title": "景嘉微回应 AI 算力：高性能通用 GPU 项目推进，型号 2 实现推训一体",
+          "summary": "景嘉微披露高性能通用 GPU 进展，型号 2 支持推理与训练一体，国产算力芯片持续迭代。",
+          "hotness": 65,
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FNnctVDB4b3FwVnVVQ2tQVFNUQnRwWjJBY1Ywc2JjcDd2bnlJek5yUWJKREpRWkRjNFh2X21ya2VHdWNTWkZTaU5Hc2tkOGpKSVVGQmVuVU5zU1FSMG5oNw?oc=5",
+          "source": "证券之星"
+        },
+        {
+          "id": 17,
+          "title": "华为公布乾崑智驾 ADS 5 各版本配置差异",
+          "summary": "Max 版独占漫游巡航辅助 RCA、车位到车位等功能，华为智能驾驶能力分层进一步明确。",
+          "hotness": 70,
+          "link": "https://www.ithome.com/1/016/749.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 16,
+          "title": "黑石集团总裁反驳 AI 泡沫论，称需求呈“抛物线式”增长",
+          "summary": "黑石集团总裁 Jon Gray 认为 AI 需求增长强劲，反驳近期市场对 AI 泡沫的担忧。",
+          "hotness": 65,
+          "link": "https://www.ithome.com/1/016/752.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 25,
+          "title": "极米上架 AI 记忆眼镜 G1 与 AI 记忆手环 L1",
+          "summary": "极米推出可穿戴 AI 记忆硬件，支持自动整理纪要、全天候录音等能力，AI 硬件形态继续扩展。",
+          "hotness": 60,
+          "link": "https://www.ithome.com/1/016/723.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 35,
+          "title": "上汽通用五菱与上海人工智能研究院签署战略合作协议",
+          "summary": "车企与 AI 研究机构合作，推动人工智能在汽车产业场景中的落地应用。",
+          "hotness": 55,
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9tazZDa1FQa3FfMVpsSko1bGkzZy1DTGRLN3dxMGhTZGFWUEF3ZVRvWVJlaFZESGNTSmwzb1FYYUI4UWw2UXNVNV9ScW1jRXpVRTctblVKUFFQQzJDUlI4NjhDdw?oc=5",
+          "source": "东方财富"
+        },
+        {
+          "id": 27,
+          "title": "华丰科技回应 AI 算力话题：高速互联产品合作及扩产项目推进",
+          "summary": "华丰科技披露高速互联产品合作与扩产进展，AI 算力基础设施供应链继续扩容。",
+          "hotness": 55,
+          "link": "http://stock.stockstar.com/RB2026102300006492.shtml",
+          "source": "证券之星"
+        },
+        {
+          "id": 36,
+          "title": "通用人工智能大会在重庆启幕，发布“明镜平台”赋能超大城市治理",
+          "summary": "重庆通用人工智能大会发布明镜平台，聚焦超大城市治理与 AI 应用落地。",
+          "hotness": 58,
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xMHlIU1Z6cTRCNWpnYUw2Tkh2UnBjN2NhOTlMZU1JUUJnbGZwM0VsVndwUWRZOUdqX0tDeFZaSnhZTW5TRk12TDZjc3FyeWpZakEwOFh1Z2xHeTZ5T1NDWVVZLW9vTXB6?oc=5",
+          "source": "中国新闻网"
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "id": 6,
+          "title": "OpenAI 全面开放 Decisions API：基于 GPT‑6 Luna，百万 token 输入 0.10 美元",
+          "summary": "该 API 面向应用提供快速、低成本决策能力，输入价格低至 0.10 美元/百万 token，降低 Agent 与业务集成门槛。",
+          "hotness": 96,
+          "link": "https://www.ithome.com/1/016/771.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 61,
+          "title": "Anthropic 推出新 AI 智能体 Claude Duet，可在用户离开时继续工作",
+          "summary": "Claude Duet 强调持续自主执行任务，与 Meta Muse 等产品竞逐 AI Agent 赛道。",
+          "hotness": 95,
+          "link": "https://americanbazaaronline.com/2026/10/22/anthropics-new-ai-agent-claude-duet-can-work-while-users-are-away-490568/",
+          "source": "The American Bazaar"
+        },
+        {
+          "id": 39,
+          "title": "科大讯飞发布新一代国产大模型，刘庆峰最新发声",
+          "summary": "科大讯飞推出新一代国产大模型，强调自主可控与行业落地，国内大模型竞争继续升温。",
+          "hotness": 90,
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9SSkFSX3NrdTZaOFNEdkVPSjhuRnJENHF4WkNVLWt1N01ReWZGNEIzVXc2WkEteFFVQVdCNFpfT0xQVi1xYjBqOXh5ZHZhb3h2YWdGYkQzUVgyNU5wcWdZZA?oc=5",
+          "source": "证券之星"
+        },
+        {
+          "id": 54,
+          "title": "Meta 为 Muse AI 智能体制定大计划",
+          "summary": "Meta 正加大 Muse 智能体布局，强化自主代理与 AI 助手能力，Agent 入口竞争加剧。",
+          "hotness": 88,
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNk1GQWNscXk0Z2NxV0syUElfdkxWMi1tUHhkcFNuUE9tY19qMEZYRGpUbFhiczBsOV9oUUwxWnZOaWtXUjlnd2xJbEUzdGdyemM5M0FqakV5eU5aYlBSY2RTeUI2NmJzSEFzb2NjdDBHVF9YWTRiWjN0V1JBMFNSRV9zRmpScGtqUGxmREF0bzVQUF85ZXJIY2RXZTBMRTM1cUE?oc=5",
+          "source": "Yahoo Finance"
+        },
+        {
+          "id": 9,
+          "title": "微软推出 AI 医疗诊断系统 MAI-DxO，复杂病例准确率达 83%",
+          "summary": "基于 MIMIC-IV-ED 数据集评估，微软 AI 诊断系统在急诊复杂病例中表现突出，成果登上《科学》。",
+          "hotness": 88,
+          "link": "https://www.ithome.com/1/016/765.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 32,
+          "title": "邓中翰院士：将 CPU 规则约束嵌入大模型底层可减少 AI 幻觉",
+          "summary": "邓中翰提出将规则约束嵌入模型底层，为降低大模型幻觉提供新思路。",
+          "hotness": 65,
+          "link": "https://www.nbd.com.cn/articles/2026-10-22/4613418.html",
+          "source": "每日经济新闻"
+        },
+        {
+          "id": 51,
+          "title": "新一代 AI 智能体可提供个性化健康建议",
+          "summary": "新型 AI Agent 面向健康咨询场景，展示智能体在个性化医疗建议中的应用潜力。",
+          "hotness": 60,
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQzdfNEZKZWZ2RlNSeWpLdUZ2V1ZRY2psZk1paDVsRHBZMlcxSS1kSzZQeEd3SjNEeGcwM1pQNlNXT3pza3JJdkRTTFI3RGtqbDNQcTMtZ28zM28xUVhHdFdHRUhvWG93dzhMd0ZHTFVaRUo0cVFNcGNvYjZQSzBNelkwS3VXdk8xUnAzX1h2WlpOOS1YLVRmbVpQN2pkUEk1QUF3b0sxd3oybGVORThvMGVvLXk3aUo5VHB1UHl0ZmxLVmlPT0E?oc=5",
+          "source": "Inside Precision Medicine"
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "id": 57,
+          "title": "LangChain 创始人 Harrison Chase 谈企业应拥有自己的智能体智能",
+          "summary": "Harrison Chase 强调企业应掌握智能体架构与智能所有权，反映 Agent 开发工具链与自主可控需求上升。",
+          "hotness": 60,
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTjlCekFza0hnTjJOT3ZBUVh0bmVYRlJGbk1TQzItUmg3TFRVeE5qVW9JVEwzdFdmUEd3aENKdHhzNkVmLS1yeHhWcFhxNktSWXZ2ZzV4NWpFVnB3dDFQVTFzYmRWY0dqNkZpaFprTXA1Zko0c3lrU2g0aEpKMExSc05saVNYb09r?oc=5",
+          "source": "Observer"
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "id": 50,
+          "title": "外部评估发现 OpenAI AI 监控系统存在缺陷",
+          "summary": "试点审查显示 OpenAI 的 AI 监控机制仍有不足，模型安全与外部审计有效性受关注。",
+          "hotness": 82,
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa2JvMy1McnRUdXBvVGlqSDhtMERqUGQyczh4TzJpTGFLX21ncWdQMXZOLW9YNW01b3hvWm1iWnVEQmtfQWowX1JRdzgzZFBlZVk4d0pxbFFnX3p0andwR09xWU9Fb2gtQ2hBZXI0QmlKZU1OWGlLQW1RdEtJTlM1WUVIdk15U0xQYU00eVl5UThUX2M3N0ZZOFJKM3R1RVF5RUpoTTRFZ05EQmw5WG8tS2ZB?oc=5",
+          "source": "Reuters"
+        },
+        {
+          "id": 28,
+          "title": "Google 军事人工智能合约引发辞职潮",
+          "summary": "Google 军事 AI 合约引发员工辞职与伦理争议，科技公司 AI 军用边界再成焦点。",
+          "hotness": 80,
+          "link": "https://www.bbc.com/zhongwen/articles/c620re8ye3e4o/simp.amp",
+          "source": "BBC"
+        },
+        {
+          "id": 31,
+          "title": "OpenAI 支持 AI 强制监管，致信加州州长建议强化透明度法案",
+          "summary": "OpenAI 主动支持 AI 强制监管与透明度要求，显示头部厂商在政策博弈中调整姿态。",
+          "hotness": 76,
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBpTzF0VzVRRlhMVjBIbHZDcUx6LTc5anJ1UzBEVFhxZDdMOGJHR3VQM1dJUEo3aWNBc3c5Sm05ZU9ZV3cyZjRUaA?oc=5",
+          "source": "财联社"
+        },
+        {
+          "id": 64,
+          "title": "Anthropic 提议 AI 安全法案：仅允许政府在极端情况下阻止模型",
+          "summary": "Anthropic 提出安全立法建议，试图在政府监管权与模型发布自由之间划定边界。",
+          "hotness": 72,
+          "link": "https://www.yahoo.com/news/videos/anthropics-proposed-ai-safety-bill-231317262.html",
+          "source": "Yahoo"
+        },
+        {
+          "id": 21,
+          "title": "比尔·盖茨：人们要为 AI 带来的二十年颠覆性变革做好准备",
+          "summary": "盖茨警告 AI 将在未来二十年带来深远颠覆，社会需提前适应就业与产业变化。",
+          "hotness": 70,
+          "link": "https://www.ithome.com/1/016/742.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 8,
+          "title": "奥尔特曼：数学家起初觉得“我们完蛋了”，最终仍会接受 AI",
+          "summary": "奥尔特曼谈 AI 对数学等知识工作的冲击，反映专业群体对 AI 替代与协作的复杂心态。",
+          "hotness": 65,
+          "link": "https://www.ithome.com/1/016/766.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 42,
+          "title": "AI 大模型付费权益“低价共享”靠谱吗？",
+          "summary": "低价共享账号与权益存在合规、安全与服务质量风险，AI 订阅灰色市场引发讨论。",
+          "hotness": 62,
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9QOXNpbThPX3c0Q2pKS1ZqbFpXRWxHNUpxMzVnLXV3ZE9YUEx3a3A2SUxuSi1qRXl6QUdRenl6RFlETHRvaFRCM1BEd1J2ZVFfSnd5empGUy0zYmxkdVBUN0liTkZ5bkdod05nVnhia1RfNlVnNnc?oc=5",
+          "source": "新浪新闻"
+        },
+        {
+          "id": 63,
+          "title": "谁来 on-call AI？智能体所有权危机待解",
+          "summary": "随着 AI Agent 自主执行任务，责任归属、运维与事故响应机制成为新的治理难题。",
+          "hotness": 64,
+          "link": "https://thenewstack.io/production-ai-agent-ownership/",
+          "source": "The New Stack"
+        },
+        {
+          "id": 47,
+          "title": "FDA 对 AI 性能监测反馈不一",
+          "summary": "美国 FDA 就 AI 医疗产品性能监测收集意见，监管方与产业界在持续评估机制上存在分歧。",
+          "hotness": 60,
+          "link": "https://www.medtechdive.com/news/fda-comments-ai-performance-monitoring/807995/",
+          "source": "MedTech Dive"
+        },
+        {
+          "id": 20,
+          "title": "商务部：将出台加快智能产品在消费领域应用工作方案",
+          "summary": "政策层面将推动智能产品消费应用，AI 终端与智能硬件有望获得更多落地支持。",
+          "hotness": 60,
+          "link": "https://www.ithome.com/1/016/743.htm",
+          "source": "IT之家"
+        }
+      ]
+    }
+  }
+}

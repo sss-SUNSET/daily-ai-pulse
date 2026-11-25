@@ -1,0 +1,131 @@
+{
+  "overview": [
+    "美团发布万亿参数大模型LongCat-2.0，全程采用国产芯片训练",
+    "智能体互联网首套国家级标准体系出炉，多家厂商集中下线智能体功能",
+    "OpenAI推出GeneBench-Pro科学基准，测试AI在基因组学和生物学研究性能"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "title": "训练全程由国产芯片完成，万亿级参数大模型 LongCat-2.0 发布 - 美团",
+          "summary": "美团发布万亿参数大模型LongCat-2.0，全程采用国产芯片完成训练，展现国产AI芯片实力。",
+          "link": "https://www.meituan.com/news/NN260630164005904",
+          "hotness": 92
+        },
+        {
+          "title": "AI巨头拟在澳大利亚布局1.4GW数据中心算力",
+          "summary": "某AI巨头计划在澳大利亚建设1.4GW数据中心算力基础设施，扩大全球算力布局。",
+          "link": "https://m.21jingji.com/article/20260706/herald/dd1fe105b541af6a9ebf5e93586fbe7f.html",
+          "hotness": 85
+        },
+        {
+          "title": "特斯拉放缓内部AI使用步伐",
+          "summary": "特斯拉决定放缓公司内部AI技术的使用节奏，重新评估AI应用策略。",
+          "link": "https://www.pymnts.com/news/artificial-intelligence/2026/tesla-pumps-brakes-on-in-house-ai-usage/",
+          "hotness": 78
+        },
+        {
+          "title": "OpenAI超级应用新负责人希望向用户和投资者证明公司不止聊天功能",
+          "summary": "OpenAI新任超级应用负责人致力于展示公司技术多样性，超越单纯的聊天功能。",
+          "link": "https://finance.yahoo.com/technology/ai/articles/openai-super-app-boss-hopes-154616037.html",
+          "hotness": 82
+        },
+        {
+          "title": "Anthropic加强谷歌云在企业AI开发中的地位",
+          "summary": "Anthropic与谷歌云深度合作，强化谷歌在企业AI开发市场的竞争优势。",
+          "link": "https://www.insidermonkey.com/blog/anthropic-strengthens-alphabet-inc-googls-google-cloud-positioning-in-enterprise-ai-development-1795870/",
+          "hotness": 76
+        },
+        {
+          "title": "前苹果工程师创办AI芯片初创公司",
+          "summary": "前苹果工程师创立AI芯片初创企业，加入AI硬件竞争赛道。",
+          "link": "https://letsdatascience.com/news/former-apple-engineer-launches-ai-chip-startup-c652bd74",
+          "hotness": 74
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "title": "OpenAI推出GeneBench-Pro科学基准",
+          "summary": "OpenAI发布GeneBench-Pro基准测试，专门评估AI在基因组学、生物学等科学领域的性能表现。",
+          "link": "https://openai.com/index/introducing-genebench-pro",
+          "hotness": 88
+        },
+        {
+          "title": "ChatGPT采用率持续扩大",
+          "summary": "OpenAI最新数据显示ChatGPT全球采用率持续增长，用户使用频率和功能探索深度不断提升。",
+          "link": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+          "hotness": 80
+        },
+        {
+          "title": "OpenAI通过核心转储分析修复18年历史bug",
+          "summary": "OpenAI工程师利用大规模核心转储分析成功修复基础设施中的罕见崩溃问题，发现硬件故障和长期软件bug。",
+          "link": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+          "hotness": 72
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "title": "狂揽2.4万星标：一行命令，AI会自己找技能了",
+          "summary": "开源项目获得2.4万星标，通过简单命令实现AI自主寻找和学习新技能的能力。",
+          "link": "https://finance.sina.cn/2026-07-05/detail-iniftwia8955576.d.html?oid=800&vt=4&cid=76993&node_id=76993",
+          "hotness": 86
+        },
+        {
+          "title": "特朗普限制私有AI模型推动开源关注度提升",
+          "summary": "特朗普政府对私有AI模型的限制政策促使业界更加关注开源AI模型的发展。",
+          "link": "https://thehill.com/policy/technology/5952253-trump-administration-ai-restrictions-opens/",
+          "hotness": 75
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "title": "智能体互联网从概念走向落地，首套国家级标准体系出炉",
+          "summary": "智能体互联网首套国家级标准体系正式发布，推动智能体技术从概念向实际应用转化。",
+          "link": "https://finance.sina.cn/stock/jdts/2026-07-05/detail-inifuaqx2106952.d.html?oid=800&vt=4&cid=76993&node_id=76993",
+          "hotness": 90
+        },
+        {
+          "title": "强合规重塑行业发展逻辑，多家头部厂商集中下线智能体功能",
+          "summary": "强合规要求重塑AI行业发展逻辑，多家头部厂商集中下线智能体相关功能以符合监管要求。",
+          "link": "https://finance.sina.cn/stock/relnews/hk/2026-07-06/detail-inifuxup1910397.d.html?vt=4&pos=108",
+          "hotness": 88
+        },
+        {
+          "title": "联合国推动全球AI治理，警告'灾难性伤害'风险",
+          "summary": "联合国推动全球AI治理框架建设，同时警告缺乏监管可能带来的灾难性伤害风险。",
+          "link": "https://news.un.org/en/story/2026/07/1167862",
+          "hotness": 84
+        },
+        {
+          "title": "英国官员警告AI可能带来'广岛式'威胁",
+          "summary": "英国官员Cooper警告称，缺乏全球规则的AI可能对人类构成'广岛式'的威胁。",
+          "link": "https://www.theguardian.com/politics/2026/jul/05/ai-hiroshima-style-threat-humanity-global-rules-yvette-cooper",
+          "hotness": 82
+        },
+        {
+          "title": "白宫顾问称特朗普不会创建'AI版FDA'",
+          "summary": "白宫顾问表示特朗普政府不会建立类似FDA的AI监管机构，采取不同的监管思路。",
+          "link": "https://www.pymnts.com/news/artificial-intelligence/2026/white-house-adviser-says-trump-wont-create-fda-for-ai/",
+          "hotness": 78
+        },
+        {
+          "title": "AI公司最新招聘目标：哲学家",
+          "summary": "AI公司开始大量招聘哲学专业人才，关注AI伦理和价值观对齐问题。",
+          "link": "https://www.nytimes.com/2026/07/05/business/philosophy-majors-ai-jobs.html",
+          "hotness": 76
+        }
+      ]
+    }
+  }
+}

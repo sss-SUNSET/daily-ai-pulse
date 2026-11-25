@@ -1,0 +1,185 @@
+{
+  "overview": [
+    "OpenAI发布GPT-5.6 Sol预览版，展示下一代模型在编程、科学和网络安全方面的强化能力",
+    "Google正式推出Interactions API，成为Gemini模型和智能体的主要接口",
+    "国内首批智能体国家标准正式发布，新华社AI时政资讯智能体'新华语典'上线"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "title": "OpenAI预览GPT-5.6 Sol：下一代模型",
+          "summary": "OpenAI预览GPT-5.6 Sol，在编程、科学和网络安全方面能力更强，配备最先进的安全堆栈。",
+          "link": "https://openai.com/index/previewing-gpt-5-6-sol",
+          "hotness": 98
+        },
+        {
+          "title": "Google正式推出Interactions API",
+          "summary": "Google宣布Interactions API全面可用，成为Gemini模型和智能体的主要接口。",
+          "link": "https://blog.google/innovation-and-ai/technology/developers-tools/interactions-api-general-availability/",
+          "hotness": 95
+        },
+        {
+          "title": "HP与OpenAI扩大Frontier战略合作",
+          "summary": "HP扩大与OpenAI的Frontier合作伙伴关系，在客户体验、软件开发和企​​业运营中部署AI。",
+          "link": "https://openai.com/index/hp-frontier-partnership",
+          "hotness": 88
+        },
+        {
+          "title": "OpenAI与Broadcom推出Jalapeño推理芯片",
+          "summary": "OpenAI与Broadcom推出专为LLM推理设计的定制AI芯片Jalapeño，提升AI系统性能、效率和规模。",
+          "link": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+          "hotness": 90
+        },
+        {
+          "title": "澳大利亚Firmus Technologies与Nvidia达成AI访问协议",
+          "summary": "澳大利亚Firmus Technologies与Nvidia达成AI访问协议，获得先进AI计算资源。",
+          "link": "https://www.reuters.com/world/asia-pacific/australias-firmus-technologies-strikes-ai-access-deal-with-nvidia-2026-06-28/",
+          "hotness": 82
+        },
+        {
+          "title": "韩国公布6490亿美元芯片和AI计划",
+          "summary": "韩国公布价值6490亿美元的芯片和AI发展计划，加强在关键技术领域的竞争力。",
+          "link": "https://letsdatascience.com/news/south-korea-unveils-649b-chip-and-ai-plan-a585f69a",
+          "hotness": 85
+        },
+        {
+          "title": "福特重新聘用资深工程师，AI实验失败",
+          "summary": "福特在AI实验失败后重新聘用350名资深工程师，以解决质量控制问题。",
+          "link": "https://www.techbuzz.ai/articles/ford-rehires-veteran-engineers-after-ai-experiment-fails",
+          "hotness": 78
+        },
+        {
+          "title": "中国软件国际中标4415万元水电智慧运行大模型项目",
+          "summary": "中国软件国际中标雅砻江4415.50万元水电智慧运行大模型项目，推动AI在能源领域应用。",
+          "link": "https://wap.eastmoney.com/a/202606293785662354.html",
+          "hotness": 75
+        },
+        {
+          "title": "雄安新区人工智能产业聚力跃升",
+          "summary": "雄安新区人工智能产业快速发展，形成产业集群效应。",
+          "link": "https://www.stcn.com/article/detail/3984125.html",
+          "hotness": 72
+        },
+        {
+          "title": "曹操出行任命图灵奖得主为AI创新中心首席科学顾问",
+          "summary": "曹操出行委任图灵奖得主约瑟夫·希发基思为人工智能创新中心首席科学顾问。",
+          "link": "https://finance.eastmoney.com/a/202606293785687669.html",
+          "hotness": 70
+        },
+        {
+          "title": "vivo折叠旗舰新品主打AI轻办公",
+          "summary": "vivo推出折叠旗舰新品，主打AI轻办公功能，起售价7999元。",
+          "link": "https://www.guancha.cn/economy/2026_06_29_821901.shtml",
+          "hotness": 68
+        },
+        {
+          "title": "AniShort获近亿元融资刷新AI短剧工具纪录",
+          "summary": "AniShort斩获近亿元融资，刷新AI短剧工具赛道融资纪录。",
+          "link": "https://finance.sina.com.cn/tech/roll/2026-06-11/doc-iniaysmc0945275.shtml?froms=ggmp",
+          "hotness": 65
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "title": "AI智能体如何改变工作方式",
+          "summary": "OpenAI研究论文显示AI智能体正在改变工作方式，能够处理更长、更复杂的任务，提升各岗位生产力。",
+          "link": "https://openai.com/index/how-agents-are-transforming-work",
+          "hotness": 92
+        },
+        {
+          "title": "WIRobotics启动物理AI开发生态系统",
+          "summary": "WIRobotics启动物理AI开发生态系统建设，首项技术发布以ALLEX仿真模型为亮点。",
+          "link": "https://www.prnasia.com/story/538956-1.shtml",
+          "hotness": 75
+        },
+        {
+          "title": "AI能否改善牛只IVF结果？俄亥俄州立大学研究显示潜力",
+          "summary": "俄亥俄州立大学研究显示AI在改善牛只体外受精结果方面具有潜力。",
+          "link": "https://ocj.com/2026/06/can-ai-improve-ivf-results-in-cattle-ohio-state-research-shows-promise/",
+          "hotness": 60
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "title": "Undo将AI驱动的错误调查引入自动化软件开发",
+          "summary": "Undo将AI驱动的错误调查功能引入自动化软件开发流程。",
+          "link": "https://adtmag.com/articles/2026/06/26/undo-brings-ai-powered-bug-investigation.aspx",
+          "hotness": 65
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "title": "国内首批智能体国家标准正式发布",
+          "summary": "国内首批智能体国家标准正式发布，规范AI智能体技术发展。",
+          "link": "https://www.cls.cn/detail/2411221",
+          "hotness": 85
+        },
+        {
+          "title": "新华社AI时政资讯智能体'新华语典'正式上线",
+          "summary": "新华社权威AI时政资讯智能体'新华语典'正式上线，提供专业时政信息服务。",
+          "link": "https://finance.sina.cn/stock/jdts/2026-06-27/detail-inieuimk5072209.d.html?oid=%E5%B8%82%E5%9C%BA%E6%B8%97%E9%80%8F%E7%AD%96%E7%95%A5%E7%9A%84%E4%BE%8B%E5%AD%90(%E9%9C%80%E8%A6%81%E8%81%94%E7%B3%BBTG:@HHCH8%E6%92%9E%E5%BA%93%E6%95%B0%E6%8D%AE%E6%B8%97%E9%80%8F%E6%95%B0%E6%8D%AE%E6%B5%B7%E5%A4%96%E6%94%AF%E4%BB%98%E9%80%9A%E9%81%93)iqMU&vt=4",
+          "hotness": 80
+        },
+        {
+          "title": "OpenAI帮助建立先进AI共享标准",
+          "summary": "OpenAI帮助建立先进AI共享标准，通过Appia基金会支持评估框架、安全实践和全球合作。",
+          "link": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+          "hotness": 78
+        },
+        {
+          "title": "BIS警告AI投资热潮可能危及经济和金融体系",
+          "summary": "国际清算银行警告AI投资热潮可能对经济和金融体系构成风险，支出可能不可持续。",
+          "link": "https://www.wsj.com/economy/bis-sees-peril-for-economy-financial-system-in-ai-investment-boom-326960fb",
+          "hotness": 75
+        },
+        {
+          "title": "AI就业末日是否来临？三位经济学家展开辩论",
+          "summary": "三位经济学家就AI是否会导致就业末日展开辩论，讨论AI对就业市场的影响。",
+          "link": "https://www.wsj.com/economy/jobs/ai-jobs-economists-f787105d",
+          "hotness": 72
+        },
+        {
+          "title": "美国科技白领与AI展开生存竞争",
+          "summary": "美国科技行业裁员12万后，白领与AI展开生存竞争，学者建议缩短周工时保障就业。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_33472508",
+          "hotness": 70
+        },
+        {
+          "title": "生成式AI的环境成本：询问ChatGPT的代价",
+          "summary": "研究显示生成式AI如ChatGPT存在显著环境成本，引发对AI可持续性的讨论。",
+          "link": "https://themontclarion.org/opinion/generative-ai-the-environmental-costs-of-asking-chatgpt/",
+          "hotness": 68
+        },
+        {
+          "title": "调查：仅9%的日企运用AI取得超预期效果",
+          "summary": "调查显示仅9%的日本企业运用AI取得超出预期的效果，多数企业AI应用效果有限。",
+          "link": "https://www.keguanjp.com/kgjp_gongtong/pt20260629000022.html",
+          "hotness": 65
+        },
+        {
+          "title": "AI短剧产量暴增，制作成本降90%但流量成本涨超100%",
+          "summary": "AI短剧产量暴增，制作成本下降90%，但流量成本上涨超过100%，多家A股公司布局。",
+          "link": "https://www.stcn.com/article/detail/3984242.html",
+          "hotness": 62
+        },
+        {
+          "title": "科技企业加价时纷纷怪罪AI",
+          "summary": "科技企业在产品加价时纷纷将原因归咎于AI技术成本，引发'RAMageddon'讨论。",
+          "link": "https://www.bbc.com/zhongwen/articles/cvg5jl7gd4ro/simp",
+          "hotness": 60
+        }
+      ]
+    }
+  }
+}

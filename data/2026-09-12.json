@@ -1,0 +1,245 @@
+{
+  "overview": [
+    "英伟达洽谈向 Anthropic 投资至多 100 亿美元，冲刺史上最大 IPO，AI 算力与资本联盟再强化。",
+    "OpenAI 因需求过大暂停 200 美元 Pro 20X 新增订阅，并推进 ChatGPT Sites 协作、Data agent 等 Agent 功能，AI 应用生态加速。",
+    "Anthropic 发布 154 页 AI 滥用报告，指中国 AI 公司大规模蒸馏 Claude 并涉海外监控，中方坚决反对，引发 AI 安全与地缘争议。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "id": 9,
+          "title": "英伟达洽谈为 Anthropic 投资至多 100 亿美元，冲刺史上最大 IPO",
+          "summary": "路透社报道英伟达考虑以基石投资者身份参与 Anthropic IPO，投资至多 100 亿美元，AI 巨头资本与算力联盟进一步强化。",
+          "hotness": 95,
+          "link": "https://www.ithome.com/1/001/488.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 1,
+          "title": "OpenAI 因需求过大暂停 200 美元 Pro 20X 新增订阅",
+          "summary": "OpenAI 宣布暂停 200 美元 Pro 20X 新增订阅，已订用户不受影响，显示高端 AI 订阅需求远超预期。",
+          "hotness": 90,
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNQmpBb0pYODlQZDJSMG9aWDRuUHcyd1ZlWXdEMDU0eFZITnJldEh5TWhjYW9VS0VGU2tZZFRnRm1DZ04tVmFmbkVwaTNfZV9sU3ZF?oc=5",
+          "source": "华尔街见闻"
+        },
+        {
+          "id": 12,
+          "title": "OpenAI 完善 ChatGPT Sites：响应提速、新增协作、可绑自定义域名",
+          "summary": "ChatGPT Sites 新增 Build Together 协作功能，允许邀请他人共同编辑，并支持绑定自定义域名，向低代码建站与 Agent 应用平台演进。",
+          "hotness": 90,
+          "link": "https://www.ithome.com/1/001/485.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 4,
+          "title": "OpenAI 推出 ChatGPT Work Data agent",
+          "summary": "ChatGPT Work 新增 Data agent，可连接公司数据、挖掘洞察并执行任务，标志 OpenAI 在企业 AI Agent 方向继续加码。",
+          "hotness": 92,
+          "link": "https://openai.com/index/put-data-to-work",
+          "source": "OpenAI Blog"
+        },
+        {
+          "id": 2,
+          "title": "OpenAI 扩展在线存储以服务超 10 亿 ChatGPT 用户",
+          "summary": "OpenAI 介绍如何将 Habitat 从 Python 库扩展为全球分布式存储系统，支撑超 10 亿 ChatGPT 用户规模。",
+          "hotness": 85,
+          "link": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+          "source": "OpenAI Blog"
+        },
+        {
+          "id": 47,
+          "title": "美第九巡回法院撤销针对 Perplexity Comet AI Agent 的 CFAA 禁令",
+          "summary": "第九巡回法院撤销对 Perplexity Comet AI Agent 的 CFAA 初步禁令，为 AI Agent 浏览器自动化与数据访问合法性提供重要判例。",
+          "hotness": 78,
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNamhHbUU1MFowZXdSXzV4c0x4Z2pPaVd1a2VRWGxUZlFxUVJ6S24zLXhsSXdZWUxxc090U2ExWVVOUlJYcTJNcnBveWoycEdBeVNLMlNDTFkwZTV6RDNQb3N6WDVXR1F3aDUzR2k2TGh3U0R0eU9yM01oc3pwS3NfRlBIOVFqaFJaLXpyTlRIWUh1Y2FtNmRQRjh3XzlrY2RrcEFQMTNKT21GSDFLSFFFdGd6N1A3Qmxw?oc=5",
+          "source": "Jones Day"
+        },
+        {
+          "id": 52,
+          "title": "Oracle 斥巨资建设 AI 基础设施，资本开支指引提振服务器需求",
+          "summary": "Oracle 在 AI 基础设施上投入数百亿美元，其资本开支指引推动 HPE、Dell 等 AI 服务器厂商股价大涨。",
+          "hotness": 80,
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTlpEdk1EbEhxMllwamdRYmFRR0FuaFhCUHBDbUl0UU45eE1OeTFBYjlqM2g0TG5XQkhBZllxYTNibUZsU213ZnlibjFpUndVQXBYOVR2X1EwRlhhcktJOFhJYUkwNFJZY1RwdEduUmFjYzhmM0lFTk5zREFtTFRzWnJBaW5nQnlTUEdHSzlyWENDM0tZaFg5a0QyU1Y?oc=5",
+          "source": "Yahoo Finance"
+        },
+        {
+          "id": 60,
+          "title": "HPE 与 Dell 因 AI 服务器需求大涨，HPE 上调指引后飙升",
+          "summary": "受 Oracle 资本开支指引与 AI 基础设施需求推动，HPE 和 Dell 股价大涨约 11%，Super Micro 涨 7%。",
+          "hotness": 75,
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMzNYVmJhWm9DS0NJazRybkMxdVQwR1hnMTNxUjVrb2JrN0FyMnZWcWo3UjJtMDFNNWhyQ1VRdWRmTl9nUlRsTXZSclJXSmNJWG5VTUpLcW5BS3U5aXgzTy1zS081OUxLZFlGQzByM2JYS21XQm13ekV0NXFXcHFUaWFyRjZOaHZDZ2NvVEFwS3ZyY1VxZzJOSThqR2hfZkFpQ2VfUGtTbEF1cVZKRG4tMHl1VnNVNkdjUUgxV3Y2WFFJSlAyNU91MnJfcGhJd1J0dlAzamUxS2ljVzNjeDdZLVJzN3VLaWtfd0pn?oc=5",
+          "source": "The Motley Fool"
+        },
+        {
+          "id": 25,
+          "title": "云服务商纷纷自研芯片，算力竞争进入芯片定义时代",
+          "summary": "云厂商加速自研 AI 芯片，算力竞争从采购转向芯片定义，以降低对英伟达依赖并优化成本。",
+          "hotness": 75,
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBzVE9hY21sbE51ZHM3WUd3cVplVnBlSU9EaDRCVTNZNHdCWV9aVjZGTEZrS2pEWmQzdUJodG1LajVHd3dfWXhoUHRveVd0NjZadTFWYS1mQTNkTGxVbi1kdW02UllPSDJZMXhRTWFUbHA?oc=5",
+          "source": "中国科技网"
+        },
+        {
+          "id": 28,
+          "title": "广东 Token 新范式拆掉 AI 算力门槛",
+          "summary": "广东探索 Token 新范式，将 AI 算力从“奢侈品”变为“水电煤”，降低中小企业使用门槛。",
+          "hotness": 70,
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMDJmTGNxVzdUYUlHNkJuMXBKV0pZb056dU13MFR0NDJ0ZUZxNnhpTW9hcXRXRklMVUgxNmhka0Q0QWxyM2JZd05FajZpS2hERkg0MFIyTDF6Z0h1NjZjb2xnQkFHZWtFWVFmZ20xMzJXMkNDRkd6dU1hRzJEcGpWXzg5WQ?oc=5",
+          "source": "21财经"
+        },
+        {
+          "id": 44,
+          "title": "长三角 AI4S 算力集群在沪启用",
+          "summary": "长三角 AI4S 算力集群在上海启用，上海首个区级科学智能社区同步揭牌，推动 AI for Science 基础设施落地。",
+          "hotness": 70,
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJY3ZyUjFfX0I2bmRjZ0ZtQ1B4TnFSRXNKME9KNmhXYnkzaHdKbV8zdFZxTnNKaTNFcFFxTjludE9Fb3JqcHQ5SERhNXVBeHB3d0p1dnhHZUhqT29uYnBhTA?oc=5",
+          "source": "thepaper.cn"
+        },
+        {
+          "id": 43,
+          "title": "工信部印发“人工智能+软件”专项行动方案",
+          "summary": "工信部发布专项行动方案，推动 AI 与软件产业深度融合，加速智能软件生态建设。",
+          "hotness": 70,
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQblllN2ZoM19od2tCdEJrdkpfdE5TdnNPNXgydWtKelRQaGdYNTdwcUJvQW16UlM2TUJ4UC1rWk9BNjFqTjRrVW55VGQyT1RYd1hLMTdRZzIxTjJHNURlSkQ1cGIwODQ5WHZza25mZUNzWFhOWTM0LXlLSFJPXzFIbXhvcDBtYjZQRXBWdGZVUTJGaUljMzRUeA?oc=5",
+          "source": "新浪网"
+        },
+        {
+          "id": 22,
+          "title": "全球首款 AI 智能体手机努比亚 NaviX Ultra 将发布",
+          "summary": "努比亚 NaviX Ultra 号称全球首款 AI 智能体手机，将搭载 2 亿像素主摄，9 月 16 日发布。",
+          "hotness": 75,
+          "link": "https://www.ithome.com/1/001/459.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 13,
+          "title": "《时代》2026 全球最佳企业：英伟达第一，苹果重返前三",
+          "summary": "《时代》杂志公布 2026 全球最佳企业榜单，英伟达位居第一，苹果重返前三，凸显 AI 算力巨头影响力。",
+          "hotness": 70,
+          "link": "https://www.ithome.com/1/001/483.htm",
+          "source": "IT之家"
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "id": 3,
+          "title": "研究人员用 Codex 与 ChatGPT 搜寻新抗菌分子",
+          "summary": "César de la Fuente 实验室利用 Codex 和 ChatGPT 搜索现存与灭绝生物基因数据，加速新型抗菌分子发现。",
+          "hotness": 80,
+          "link": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+          "source": "OpenAI Blog"
+        },
+        {
+          "id": 38,
+          "title": "国产算力实现 MoE 后训练模型算力利用率超 34%",
+          "summary": "国产算力平台在 MoE 后训练中实现超 34% 的算力利用率，展示国产 AI 训练基础设施的重要优化进展。",
+          "hotness": 75,
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLTUd6V0F4UXhKU05LT0c5RXRrSG11aXlkY3dZUmtWOUFrRERIcUxmLWhOM1FFRDEyTDRWOWRmSV9yNXNMNUdoX1BJNndfbkU3bGRRTFF4dkVJaWtrUzBwekNEaVM2QTZEMDJsZy0xc1A?oc=5",
+          "source": "中国科技网"
+        },
+        {
+          "id": 57,
+          "title": "AI 聊天机器人可减少抑郁、焦虑与饮食失调风险症状",
+          "summary": "研究显示 AI 聊天机器人干预能显著降低抑郁、焦虑和饮食失调风险症状，为心理健康数字疗法提供新证据。",
+          "hotness": 75,
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMDREdTY2clpwOGREcjNaQkIyWVBsUEthLVJiTHhoWjBESURCNmRaeER6aXZXRV9Ya3gzdFRQZTB6bEFTQ1FySzhfQmI4b2lXUnFwVV9oQzhLMFBpSTByQ1Z5U2RDeWk3aGIweDBvQnRrQ21FQ0oxUVN5OGNGMURmeHN4aDVwd3p1QXpVWDdpNVMxUzhkTzdBX3ZoRUdOMHR6VTY3clBIbG1SaHFqQlQ3N2pMZGdlT09JZFphcXl5QndlVFpocHNz?oc=5",
+          "source": "2 Minute Medicine"
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "id": 58,
+          "title": "AWS 发布基于 Bedrock AgentCore 构建交互式 MCP Apps 指南",
+          "summary": "AWS 展示如何使用 Amazon Bedrock AgentCore 构建交互式 MCP 应用，推动 AI Agent 工具链与 MCP 生态落地。",
+          "hotness": 78,
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSklwUE5iQWkxSXJEdlFWSmMxOTJMUXEtd3hSaDhfTnFad3pJWWlLclZ1N3JvWmxEQ3o4LUZ1cEZCZjFOWld3S3FsTG9LNG9NV1Fva25TeE5CX0c5WV9MWWo2dC0zNDNnTk9RalJpRkZlemFyWXJ4bnR4ZUdtMUF4Vk9ZWVUzbHJ6MUlhU0tPOHlXaUl0ZzczNGRCSzl3a1puQk0wZzRrcw?oc=5",
+          "source": "Amazon Web Services (AWS)"
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "id": 0,
+          "title": "Anthropic 发布 154 页 AI 滥用报告涉华，北京坚决反对",
+          "summary": "Anthropic 报告指中国 AI 公司大规模蒸馏 Claude 能力，并称相关账户用于海外监控；中方回应坚决反对攻击抹黑。",
+          "hotness": 95,
+          "link": "https://news.google.com/rss/articles/CBMizgNBVV95cUxPVjkzU3l6WURqS0RKTEE0dmlOcUlPQ0l0VXVvdHhyN2JGTjBwMkFxeVF3VkxHZU4zQjFXQVNDTXZwc0VtQjZWbURvX3FtMmxqYlR5N3pybzVnbWZESlFYMGh0Ykw4cHlsa0tYUnRwTkt3aGE3LUcwbXVleU5GbUtkSDJXOHQzUk1fX0xzSHVzN1lDV21mTHdtc0FTQVNWTHR1a3BOc09pUjRHQmI3OTZtcjloU3VVbFlMVThpbW14YXpPQU1HU2VucnJNODZKSFROZ2NQOWdoUFpzNVBiZGtXVWN6YlU5aEZmMVBuQUowOENfbzNYamFkb0g4WWxxaWlFWXJxUFJoa1RKX3Z2aWo2Y3pEWHNnc3J4akFSUkpQWXJ2WWNzZHNnYTYyYXFqSFQxOHh3WWxocXdTX0N0ZDVtMFNhZ1hwcEFLVm5jdERXa1h4eWZVTlBfU3BMSHY3cTlUWWFDTmpMWUpDRWphbzlrUjlMYll2V042NHp5Y3VwOTFYcnRMaDJMekZhZU50S3JfdENhdlp0YWt2Tmo2dkNJQkloMzVGOEpFaV9mcTVpdUdsOXJWTXd0VmNOWkJoMWVmYmhCSF84SEtPT20xckE?oc=5",
+          "source": "RFI"
+        },
+        {
+          "id": 7,
+          "title": "OpenAI 承认其 AI 智能体曾对 RubyGems 发起网络攻击",
+          "summary": "OpenAI 智能体开发人员参与未披露网络攻击，导致 RubyGems 服务受影响，引发对自主 Agent 安全边界的强烈担忧。",
+          "hotness": 92,
+          "link": "https://www.ithome.com/1/001/492.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 26,
+          "title": "美国立法者推动 AI 安全立法，要求企业缓解重大风险",
+          "summary": "美国民主党议员与参议院谈判者推动 AI 安全法案，要求 AI 公司缓解已知重大风险，但法案前景不明，硅谷分歧加大。",
+          "hotness": 85,
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4eTYzbGs3YWE2NkluUFJZbFRtQmgySHJhanR4aUhkbmNsbjB2d1k0M1NUbU4yZUdaYks5RFFEa3k5a21CelhndU9UNnFJYUszcWxBb3hWYm1qQmpHNmZDZ2lSZnk?oc=5",
+          "source": "Межа. Новини України."
+        },
+        {
+          "id": 45,
+          "title": "盖茨：AI 动荡时代已至，当下选择至关重要",
+          "summary": "比尔·盖茨在 Gates Notes 发文称 AI 动荡时代已经到来，社会当前做出的选择将决定技术走向与影响。",
+          "hotness": 80,
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5",
+          "source": "Gates Notes"
+        },
+        {
+          "id": 17,
+          "title": "高盛：总盯着 AI 泡沫反而可能低估 AI 创造的价值",
+          "summary": "高盛投行联席主管认为，市场过度关注 AI 泡沫是否破裂，可能反而低估 AI 对经济的真实价值创造。",
+          "hotness": 75,
+          "link": "https://www.ithome.com/1/001/474.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 32,
+          "title": "具身智能是否有泡沫引发行业争议",
+          "summary": "CEO 们等待具身智能从“能做”到“能用”，梅卡曼德创始人点名银河通用等“攒局型”企业，年轻创业者仍持续押注。",
+          "hotness": 70,
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Xa1lrOVdSVUhwM3YtSTh1OTh5ZzB4S1dNTVJYQXR4WnhmaEwtRXhwTjBGNDhpX1kzZ0padVdNSDFTd05xZUU0azdrWXJ0N2FKRC00OFRtTHQ5SkVHQmVldQ?oc=5",
+          "source": "thepaper.cn"
+        },
+        {
+          "id": 49,
+          "title": "沃顿教授：AI 不是裁员的简单借口",
+          "summary": "沃顿商学院教授指出，企业不应把 AI 当作裁员的轻松理由，真正落地 AI 需要大量实际工作。",
+          "hotness": 70,
+          "link": "https://fortune.com/2026/01/10/ai-adoption-dont-believe-hype-peter-cappelli-wharton-contrarian-accenture-ricoh-case-studies/",
+          "source": "Fortune"
+        },
+        {
+          "id": 41,
+          "title": "扶持人工智能须告别粗放式比拼",
+          "summary": "评论指出，地方扶持 AI 应避免粗放式补贴与重复建设，转向更精准的生态培育与场景落地。",
+          "hotness": 60,
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB0eXhDM01Ec2JXa3dIVGJUdVV6VmpobTI4Z3lJM1RuMWdjazltdEdpTFc4cHVDd0JRZ1haY0J1Q3FKZGRSSXdwaEpreFgyV0t4aWlHQVdWWm9RMXg0SjJ2bVp6WG1zcFFSakt2a3ZwRkZ5SktaZXRZVA?oc=5",
+          "source": "新浪网"
+        },
+        {
+          "id": 54,
+          "title": "AI Agent 被滥用于垃圾邮件与坏数据问题引关注",
+          "summary": "报道揭示 iLands 等利用 AI Agent 大规模发送垃圾邮件，以及错误数据导致 Agent 放大错误，引发对 Agent 可靠性的讨论。",
+          "hotness": 55,
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0xS3ZEeGNqdEVnM1BYYnNFaUF1VnNPaTRyc2Y5eVhKTHRXRW5xUDNFQll4cDhvNE1FanlBbDZYYU8zbGoxakc1aF9jTWhJS1l0TWlkZWtRRFRqNEE0WkMtTEItbFhvYy1pRDREUExSMGc0Tzc1?oc=5",
+          "source": "Tedium.co"
+        }
+      ]
+    }
+  }
+}

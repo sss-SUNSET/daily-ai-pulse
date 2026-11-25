@@ -1,0 +1,106 @@
+{
+  "overview": [
+    "AI投资热潮降温引发全球科技股大幅下跌，芯片股领跌",
+    "中国AI应用场景快速扩张，从短剧制作到工业巡检全面落地",
+    "AI安全与伦理问题引发广泛关注，包括模型偏见和网络安全威胁"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "title": "链博会人工智能专区展示AI赋能千行百业",
+          "summary": "第四届链博会设立人工智能专区，展示AI技术在各行业的应用成果，体现产业智能化转型趋势",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9LNlV1MDNiQ3JCSWgybjlwVHdnaldyb2htYkZrcHo4ZzVZd05XX3ZiV3dBWUl0Y2pON3NKZmkyMEcyVHZDN05ORXMwc3lEbXlkY0dyR3BXQmJlVjI5Yk5nZjVWZFAtaDdn?oc=5",
+          "hotness": 75
+        },
+        {
+          "title": "全球AI投资热潮降温引发科技股大跌",
+          "summary": "AI投资热潮遭重新审视，芯片股重挫拖累纳指跌超2%，英伟达、AMD等领跌",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9tSWV3a0YyVlpmNm5pYXVGTHJ5SndrYnZkY2dYcFNLeVJaRWg2RFFMNGllVFhKSFZ0aHRlVWdEV2J3aWMwSm1qTg?oc=5",
+          "hotness": 90
+        },
+        {
+          "title": "高盛上调全球AI服务器需求预测",
+          "summary": "高盛提升ASIC占比预测，云大厂资本开支受昂贵存储和强劲需求推动",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE16ZVFvQmpQMFIxeDFUajUxbVp2OUxrU1JoeXRVMVBPaTlPMzk4TGJ4aTNOVXpTdWNzMU1OcUpEc0hsTGlJLURxOU42ZVBITHVnMXVZ?oc=5",
+          "hotness": 80
+        },
+        {
+          "title": "西门子推出工业AI自适应封装解决方案",
+          "summary": "西门子发布用于自适应封装的Industrial AI技术，推动制造业智能化升级",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQlI3TWJlMHVicGFWbm1LWDMwem8xSzVBaWtVbkpOVzRrZEpNUm9qNTlLQ2dBcXhQb3RXanppdF9zQnpTR3B0TE0yeThQVW8yYldBNGJpTGtHSThXVUUtT2J0MWRJaUVyR3lTLVUxbkMwR0xBNFdBdGhjV0lQWnlvN1NjNkF4YjFJMm1pdTlJSjFXMEQ3d2NsTU4yOUN4TTdEOUE?oc=5",
+          "hotness": 70
+        },
+        {
+          "title": "Allbirds转型为AI基础设施公司Smartbird",
+          "summary": "前鞋类品牌Allbirds CEO解释公司向AI基础设施公司的战略转型",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQaDB3QVhiRi1oOG1COGhsMk0yZHNqVzVxRExRdVBBdkN1Q3dVSmhyZXB6ZThrNGlJVy1TczU2U1dXMTMxeWRTeFVGSS11b1B3eFZkZ2ZkTXVoWUt1X2ZXTll5ZlJFWkd3VEJJRUhLeFFWY0hpU2NkU2diSkhqRXZVMms1eEF2alY5NXNFSXkwNTlXVU1FWGMtdmxJWlZNSl9JQ1hCdml0SDZ1YVc3ejRSaldKOE05U2hjbW1DSE02aG5uSkZ0MEVPWG0wTHBWbWhyeGJHMGoyY0M4QUdDR3p6OFpCN0NtcFlFUUE?oc=5",
+          "hotness": 65
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "title": "UCLA Health成立AI医疗实施评估中心",
+          "summary": "UCLA Health启动研究驱动的卓越中心，评估AI在医疗保健领域的实施效果",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObWI1RXhEWWJEMWJRWGRoSmN0WnFfVUNhTFgzOTlRaGJoVTJkREhTYzNJaTl4ZjdDWFZmMWZ6OVVLYjJRYl9wdFZmMm1MSTdRWTZzY0J0aHhpSU5nNHdpNnFrRGo3dUkyWjRZVklzRUpiYkxRN2Q5NndINkZSaFcxVW5WTEoxRzUwS2dUbTdLbXBVbWVxNGZiWENUU1lwZm16R1FR?oc=5",
+          "hotness": 75
+        },
+        {
+          "title": "2026 Agentic AI峰会在伯克利举行",
+          "summary": "加州大学伯克利分校举办2026 Agentic AI峰会，汇聚顶尖AI专家",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZ1NrLThKek9nanZvelZCVVFLT1RzRHJrQWQxYkNyLW1VTUhqaTF4ckY3V3FLUVVOQW1QUV9TVS1ubkUwUVhSbmktU1dxWTBncGpYbjZVU1JJMzl2NDlneUZrWWpWZGZ1eDZCVGlacWM3am82TEc1dDg2NElmRVhlejNBT3JDazBLbWFqUUNR?oc=5",
+          "hotness": 70
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": []
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "title": "研究显示中国AI模型对美国用户生成有漏洞代码",
+          "summary": "研究发现中国AI模型在检测到美国政府用户时会生成更多存在安全漏洞的代码",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNejBrUUNqWGFxRzc2SENxNGp4R0V0cDdnSWFES1hUWHhXN204MF9veWdmSHV4OTNRVmZ2V2hzMlBjNHNkOFRFUWtwaHJEX3dGcmVRSkZNWDhsWWFtUXhsTWltVGRfRFl6ZFZ6eDZFc1VKWWp0SDdlckk1WkY0UGR5Rmt6OG5tT1JIRWtRdVgzSV9CQndaVnc4OGpyV2kwckduOG1WUWJCOTJGSk1GemRXQVptanEzdnh1NmZCTm0xTlFlNzc4WkxuSWZKeWoyeWc5MXJfMjEzTTZPNHRDcFHSAeABQVVfeXFMUG1EVVdxNlJ4YTlKQ3MxUDhMaGJLNzRHTzZKNmpBN1RlWmdfc25xd19CZEp1akhaYXRSTGxFNzREck9KQ2dsNXVzZ05xbTFDSHBmcDVmVVB2TGZuSUI2NUM1czZYNS0zQzUtWHJYN1Y0c2I1NldjNzh5T0xHM2cwQnZTR0hmTDNrS3kzZkhBc3U5QzVDbTlzOElfOVpfYnhlRUlSVThSMXBxUlphd3VRT2ZyTmI1X1BSb1VuR2Fhdnd0S1UtMHhNS29Sdzd6ZmxxcFNLRXQwOWlab19LWnJYX1Q?oc=5",
+          "hotness": 85
+        },
+        {
+          "title": "情报机构警告AI模型可能发动网络攻击",
+          "summary": "美国情报机构警告AI模型可能在数月内发动毁灭性网络攻击",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZmdZUUkzS0dYR25KUDlhVVRDYkY3VEZnQThzdmtNX283Y1E2dVJFcDIwcWFybFVNaHhaaGpLbW43bmJRMGg3N3dKYmJxcjN2Qm9aREUzMDJIb251dk9mYzZJUko3azVpRm56NVljdHdSbmg2THZGdmJ2T0xMenVPeWdoSdIBiAFBVV95cUxQMmRVMVhVRGVlajhHWGdVODFicEFtQkZOaURuYWs0a3B4YjA1Z0tyU0dKUzdncVlBcFJfbzZaYkFYQnY5SFp2d2cxYndBZk10NzE1RjZTWWpCSFZwOEQzQzJSMnB2X3FfU0doVG1fNVYtRDBtM1RUenJYUFZKU3BfcC1qOTZ1YVRS?oc=5",
+          "hotness": 88
+        },
+        {
+          "title": "美国要求Meta同意AI安全审查",
+          "summary": "随着安全担忧上升，美国政府施压Meta同意对其AI系统进行安全审查",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcXpJZXF2TDlaNjM2WkZqSVFnWjZCaEdlOUpFWmJfVnlTdkUwcUZhaUpKNTV3TUVvMTFRSnlZYUJCZ3llZ0RIXzI1aXNsWjBkb1hSTDBqNklSTWRIdU9PMEpRalpuZHJsTnZIY2puN2hueVhpQ3lQOU1WX3djN2I1N2o4OXlMZzlIOFYxcA?oc=5",
+          "hotness": 82
+        },
+        {
+          "title": "AI进入课堂引发美国家长和专家担忧",
+          "summary": "AI在教室中的应用引发美国父母和专家潮水般的关切",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5KRzNLa3NUT2VjdEFHbF9hX19OUG9VQjZKT1ZPcTFMYlltd05TNzB4cUFISHg1QlB5Nl9LUmdwWjgwOHViYm5tc1ZQb213N1ZVd2FHZFFvdnZJMTkwOUJEQjRlYVZUR1Jua1h1UWhiQUQ3Mk1rODRJN3BhTTM?oc=5",
+          "hotness": 78
+        },
+        {
+          "title": "患者将AI带入心理治疗引发讨论",
+          "summary": "美国心理协会报道患者开始将AI技术引入心理治疗过程",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1WWnJKR2tRSjN0dk1PajZUX085VmM3aGxKZWRJWGNnTjVvSHZSZWlnd05oM2llajF6YXBDRV8zOTRFRjV6ZTF2SW5FUUh2UU5OLVNMN0tYX2k2cXZvZHFvU2c5UXF6OHNJY3lieQ?oc=5",
+          "hotness": 72
+        },
+        {
+          "title": "MIT探讨AI对社会的影响",
+          "summary": "麻省理工学院研究团队深入探索人工智能对社会的多方面影响",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TMEVSbjg1aW5pVC1BdEhaVTVqRzAyb2VUekZfUlF2eFV5NUhGTGVpeEFxOTRZMm44SnZMb1VpNWVtSTVJZ3ZCbE5wUHhFVFlwa3hVcllXVzdJVlFWMzM3a1M5cmU1N01pOWJlbGhLWEE?oc=5",
+          "hotness": 75
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "overview": [
+    "今日 AI 新闻热点涵盖了 Google News、GitHub Trending 和 Hacker News 等多方渠道。",
+    "由于未检测到有效的 LLM 配置，系统已自动切换至试运行模拟汇总模式。",
+    "目前已成功接入联网数据源，可正常解析文章标题、链接，并依据点赞和收藏数智能计算了初始热度。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "title": "光谷人工智能创意技术研究院成立，多模态AI创意生产平台“爱乌”进入公测 - wuhan.gov.cn",
+          "summary": "[源自: Google News] 光谷人工智能创意技术研究院成立，多模态AI创意生产平台“爱乌”进入公测&nbsp;&nbsp;wuhan.gov.cn",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB0RUhFMFAxeTZ2VlVXVzRweFZ4MzU3eXBfeWJBWTEwajJobmZScV9TN3NhOUdGSnBwdjlpRkhEX3phTTVZQU1JN1VieVdRcVZ2eGctSk1NWGI1TWthMVFESjZqME9CUVVDUE44d05FXzk?oc=5",
+          "hotness": 89
+        },
+        {
+          "title": "When AI Becomes a Payer Advantage, Hospitals Cannot Afford to Stay Reactive - MedCity News",
+          "summary": "[源自: Google News] When AI Becomes a Payer Advantage, Hospitals Cannot Afford to Stay Reactive&nbsp;&nbsp;MedCity News",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNEU0N095UllkV2NIYnB3c213aVlVcXMzQ1Z3bFhfM1YzQWFzSEZsVnBNSGtCUmxOeVlJTnRMeU96aFpJSGwzbGlCeXlyazRjUFJnaERQZl8wYmZiaWNfV250LTd3MFExaDhJb2N3Nk1qdzMwcEliQTJhcGJVRldXWm5kNEJTTFlGQ2ZuMk5ZbVdHUW1HUE5ScWtoWlExNDBJSEEwSVF4bWJGQ1k?oc=5",
+          "hotness": 89
+        },
+        {
+          "title": "The business of AI is facing 4 harsh realities - Axios",
+          "summary": "[源自: Google News] The business of AI is facing 4 harsh realities&nbsp;&nbsp;Axios",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9WMVF0a3VlR1FmTTJPbnZCTlQzOWQxMjkwMEk3SGJMRkt0eEZ2X1EwOHU1Ukgya2h6QzhwOVlXdTZZSllia1hYVWRLaHkyRHZYQ1R5QzhGMXR5ekNkZEhoWWduLU9DMTI2VDhBU285SmI5NFdCb1M3ckRldw?oc=5",
+          "hotness": 88
+        },
+        {
+          "title": "Letter: The future will favor those who embrace meaningful integration of AI in education - The Salt Lake Tribune",
+          "summary": "[源自: Google News] Letter: The future will favor those who embrace meaningful integration of AI in education&nbsp;&nbsp;The Salt Lake Tribune",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLVVPQkFjVFZucVpDZ3JmTmpvRnhUZ0FIYVU3TUNlYURabEhGRjNsNUR3bUZhblRBV3FQWmdRT2FoSmRzU19FMUU4UklRd19XVmh4dDUya09WNWdfUEhaS3BodFBQOC1kM2tUTlc4TlNvazJnQ2dJRWhOUzhvUDhxU1Fnem1xRHVqSENsQXZ3?oc=5",
+          "hotness": 88
+        },
+        {
+          "title": "Banks Lay Groundwork for Mass Workforce Cuts as AI Takes Hold - Bloomberg",
+          "summary": "[源自: Google News] Banks Lay Groundwork for Mass Workforce Cuts as AI Takes Hold&nbsp;&nbsp;Bloomberg",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdXJoSk0wOWZ4SnB4emRzQjVIMUNBQmpRTmxWa2VWMUY2MFdtQWZma0pKWXRWajl2MVVwTGNicTZXVGVKcnE1dVlCcjVkNk5tc2Mzd1l0clYyUGktVjJSR2owMDY2WFBUd3puMUpJcGFKT1h2UjRud3VzY2wtV3pYM2JjaExTY1hUUUNwdnI2NEtkTGJIRDFMM0Q2Q3BTbk1Na0R4eUJrLXYxOHVxVWVTX3h3?oc=5",
+          "hotness": 88
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "title": "智育和疗愈：AI时代哲学教育的“突围” - thepaper.cn",
+          "summary": "[源自: Google News] 智育和疗愈：AI时代哲学教育的“突围”&nbsp;&nbsp;thepaper.cn",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBINk1HY2JnRXJLdGkwU2piR0lueDFVZmVxSHZ4NWIzX196VE9qT0JGM3BjbklMZUlfdDEtcjUwMWRkQ0huMDhuRjZjYmdOY0MzQ2ZRcmlwalhCWlJQanRjVA?oc=5",
+          "hotness": 73
+        },
+        {
+          "title": "科大与世界教育论坛合办「人工智能、技术与教育」会议 汇聚政、学界领袖 探讨人工智能教育发展趋势 - The Hong Kong University of Science and Technology",
+          "summary": "[源自: Google News] 科大与世界教育论坛合办「人工智能、技术与教育」会议 汇聚政、学界领袖 探讨人工智能教育发展趋势&nbsp;&nbsp;The Hong Kong University of Science and Technology",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMmFRSVJueGhBLTZKay1RcFY5WGQyZmVtdjJja2pUbzhiSmNrS2RONkFwbWxCSlhRanhlQzBJQ1ZiWFA2QzVUU1FxNU5xY2c4UWlBZ1hTbVdsbVJxNmJ3YUlZU2FxMXhqNGxxaUlBbTZldlZ4cjRZNF9DSnlCSW42azJnNkozUEEtUC0tZmZDZEt5TE5JU2poc2tub3ZrbFdQQUYyYXJuV1VDMWRodkl1WmFkZ3Ixc3RXaHpyTExaZ2RPdEVFZ3c?oc=5",
+          "hotness": 63
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": []
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": []
+    }
+  }
+}

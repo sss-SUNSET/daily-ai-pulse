@@ -1,0 +1,155 @@
+{
+  "overview": [
+    "月之暗面发布Kimi K3大模型，性能挑战美国顶尖系统，震惊业界。",
+    "腾讯在WAIC集中展示多款AI智能体产品，加速Agent应用落地。",
+    "2026世界人工智能大会盛大开幕，AI赋能千行百业，产业生态繁荣。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "title": "2026世界人工智能大会召开：AI赋能千行百业",
+          "summary": "2026世界人工智能大会在上海举行，展示了AI在制造、教育、医疗等领域的最新应用，跨国企业看好中国AI前景。",
+          "link": "https://www.stcn.com/article/detail/4018414.html",
+          "hotness": 80
+        },
+        {
+          "title": "腾讯智能体集中亮相WAIC：AI产品开箱即用",
+          "summary": "腾讯在WAIC上展示多款AI智能体产品，强调无需复杂开发即可直接使用，推动Agent技术商业化。",
+          "link": "https://wap.eastmoney.com/a/202607173811309076.html",
+          "hotness": 90
+        },
+        {
+          "title": "中科闻歌发布业界首个完整AI决策产品体系",
+          "summary": "中科闻歌在WAIC上发布覆盖感知、决策、执行的全链路AI决策产品体系，助力企业智能化。",
+          "link": "https://www.stdaily.com/web/gdxw/2026-07/18/content_549612.html",
+          "hotness": 65
+        },
+        {
+          "title": "Anthropic秘密提交IPO文件，筹备华尔街上市",
+          "summary": "AI创企Anthropic已向SEC秘密提交上市申请，估值有望进一步攀升。",
+          "link": "https://broadbandbreakfast.com/anthropic-races-toward-a-wall-street-debut-with-a-confidential-sec-filing/",
+          "hotness": 80
+        },
+        {
+          "title": "OpenAI推出AI投资回报评分卡及企业合作案例",
+          "summary": "OpenAI发布衡量AI投入产出比的‘评分卡’，并展示与Cars24合作实现月均百万分钟语音对话的成果。",
+          "link": "https://openai.com/index/a-scorecard-for-the-ai-age",
+          "hotness": 72
+        },
+        {
+          "title": "AI明星股持续抛售，油价飙升引发市场担忧",
+          "summary": "科技股遭抛售，AI概念股承压，同时原油价格持续上涨，市场震荡加剧。",
+          "link": "https://apnews.com/article/stocks-markets-ai-iran-trump-rates-65449e9565fba441a617f9517e097f5a",
+          "hotness": 60
+        },
+        {
+          "title": "凯文·凯利：中美AI竞争可互相促进进步",
+          "summary": "知名科技思想家凯文·凯利在WAIC表示，中美AI领域的竞争有助于双方更快速迭代和发展。",
+          "link": "https://www.jfdaily.com/news/detail?id=1146854",
+          "hotness": 55
+        },
+        {
+          "title": "JPMorgan CEO预测AI投入明年将达1万亿美元",
+          "summary": "摩根大通CEO杰米·戴蒙认为AI资本开支将急剧增长，明年可能突破1万亿美元。",
+          "link": "https://finance.yahoo.com/technology/ai/articles/jpmorgan-chase-ceo-jamie-dimon-192300766.html",
+          "hotness": 65
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "title": "月之暗面发布Kimi K3大模型，性能超越美国顶级系统",
+          "summary": "中国AI初创公司月之暗面发布新一代大语言模型Kimi K3，在多项基准测试中击败GPT-4o和Claude 3.5等美国顶尖模型，引发全球AI格局震动。",
+          "link": "https://www.wsj.com/tech/ai/chinas-moonshot-ai-releases-model-to-challenge-top-u-s-systems-d84fe6e9",
+          "hotness": 98
+        },
+        {
+          "title": "上海人工智能实验室发布‘书生·端砚’全链路AI科研助手",
+          "summary": "上海AI实验室推出‘书生·端砚’模型，覆盖文献分析、实验设计、论文撰写等科研全流程，提升研究效率。",
+          "link": "https://www.stdaily.com/web/gdxw/2026-07/18/content_549614.html",
+          "hotness": 70
+        },
+        {
+          "title": "OpenAI推出GPT-Red：基于自我博弈的自动红队系统",
+          "summary": "OpenAI发布GPT-Red，利用自我博弈机制自动生成对抗性测试，用于提升大模型的安全性与鲁棒性。",
+          "link": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+          "hotness": 75
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "title": "智谱AI开源三大模型，助力北京‘开源之都’战略",
+          "summary": "智谱AI宣布开源其最新三大模型，涵盖对话、代码和视觉能力，推动国内开源AI生态发展。",
+          "link": "https://www.ncsti.gov.cn/kjdt/xwjj/202504/t20250421_202282.html",
+          "hotness": 85
+        },
+        {
+          "title": "央广网：中国开源人工智能加速全球创新应用",
+          "summary": "WAIC专题报道指出，中国开源AI项目数量和影响力持续增长，正加速全球AI创新应用落地。",
+          "link": "https://www.cnr.cn/newscenter/native/gd/20260718/t20260718_527717417.shtml",
+          "hotness": 60
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "title": "习近平倡议中国建立全球AI新秩序，挑战美国主导地位",
+          "summary": "习近平在WAIC上发表讲话，倡导建立更公正、合理的全球AI治理体系，被视为对当前美国主导秩序的挑战。",
+          "link": "https://www.dw.com/zh/%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%80%A1%E8%AE%AE%E4%B8%AD%E5%9B%BD%E5%BB%BA%E7%AB%8B%E5%85%A8%E7%90%83ai%E6%96%B0%E7%A7%A9%E5%BA%8F-%E6%8C%91%E6%88%98%E7%BE%8E%E5%9B%BD%E4%B8%BB%E5%AF%BC%E5%9C%B0%E4%BD%8D/a-78007555",
+          "hotness": 85
+        },
+        {
+          "title": "OpenAI呼吁通过州和联邦行动推进AI安全治理",
+          "summary": "OpenAI发文主张采取‘反向联邦主义’路径，由各州立法推动建立全国统一的AI安全框架。",
+          "link": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+          "hotness": 70
+        },
+        {
+          "title": "Discord确认AI审核误封数千用户，引发内容治理争议",
+          "summary": "Discord承认其AI审核系统因误判将大量无辜用户封禁，暴露出自动化内容审查的局限性。",
+          "link": "https://mashable.com/tech/discord-ai-moderators-ban-harmless-images",
+          "hotness": 68
+        },
+        {
+          "title": "全美多地爆发反AI数据中心抗议活动",
+          "summary": "抗议者指责AI数据中心能耗巨大、占用资源，要求政府限制新数据中心建设。",
+          "link": "https://www.businessinsider.com/anti-ai-data-center-nationwide-protest-photos-2026-7",
+          "hotness": 65
+        },
+        {
+          "title": "Rolling Stones乐队成员谈AI在音乐中的应用态度",
+          "summary": "米克·贾格尔和基思·理查兹表示对AI创作音乐持开放态度，但强调人类艺术独特性不可替代。",
+          "link": "https://www.kjwl.com/2026/07/16/heres-what-the-rolling-stones-mick-jagger-keith-richards-think-about-using-ai-in-music/",
+          "hotness": 45
+        },
+        {
+          "title": "OpenAI推出青少年安全版ChatGPT，引入家长管控",
+          "summary": "OpenAI为青少年用户定制AI安全保护措施，包括内容过滤、学习辅助和家长监控功能。",
+          "link": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+          "hotness": 70
+        },
+        {
+          "title": "《大西洋月刊》：生成式AI是一场工程灾难",
+          "summary": "文章批评当前生成式AI技术存在可靠性、可维护性等根本问题，称其工程实现远未成熟。",
+          "link": "https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901/",
+          "hotness": 60
+        },
+        {
+          "title": "'末日博士'鲁比尼：AI革命将迫使社会走向普遍基本收入",
+          "summary": "经济学家鲁比尼认为AI将取代大量工作，最终需要普遍基本收入或某种形式的社会主义来维持社会稳定。",
+          "link": "https://fortune.com/2026/07/18/nouriel-roubini-universal-basic-income-socialism-ai-revolution-work-agi-government-stakes/",
+          "hotness": 55
+        }
+      ]
+    }
+  }
+}

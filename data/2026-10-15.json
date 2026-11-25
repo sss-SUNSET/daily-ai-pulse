@@ -1,0 +1,293 @@
+{
+  "overview": [
+    "Google 正式发布 Gemini 4 Argon 并全球上线，主打编码、数学和机器人，性价比挑战 GPT-6/Claude，成为今日最大模型发布。",
+    "xAI 推出 Grok Voice 3.0，语音多模态能力升级，前沿语音模型竞争升温。",
+    "Meta 发布新前沿模型 Muse Wonder，重回 AI 竞赛前列；同时其 GEM 广告模型提升转化 18.9%。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "id": 0,
+          "title": "Anthropic 将公布 Q3 财务数据",
+          "summary": "Anthropic 今日将公布第三季度财务数据，市场关注其营收与亏损情况。（源 id: 0）",
+          "hotness": 75,
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5oeGYxMVB4VndodHpUX3NQdkpGaHM5VmtxY1kzMDhqajNxM2ptbVl3Y0p5VlEwdUhXT1JNa0V6cGk4T1F3UnNGNlhrd2daT05wakUw?oc=5",
+          "source": "华尔街见闻"
+        },
+        {
+          "id": 16,
+          "title": "Meta 生成式广告模型 GEM 提升转化 18.9%",
+          "summary": "Meta 公布 GEM 广告模型，跨应用转化提升 18.9%，并分享中央模型与算力引擎扩展经验。（合并 id: 16,18）",
+          "hotness": 75,
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVGsyd2JRbTdBWHFEckczVmFuc2l4ejMtR0N6WWk3UUJaM2RiMVVlTWJDcFRPTjc4Vkc1ZVVpTkV2OFhUU3hNYnE5cThtZG8taElmNlQ2eWFZOER2OFFBVnRFR2ZiZHkwUWRBYWVJMkQ1OTFJZFR3NnJIdGhYeXFEejcydE04TV9uXy1QczRUQ04tYmVFQ1dJb2pvUnA2YmF2TXpGZW1R?oc=5",
+          "source": "Engineering at Meta"
+        },
+        {
+          "id": 51,
+          "title": "首款大模型原生智能体手机 STEPXNeo 发布",
+          "summary": "STEPXNeo 发布，号称首款大模型原生智能体手机，推动端侧 Agent 硬件落地。（源 id: 51）",
+          "hotness": 85,
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE16RnRMM3Uxa3AyOTAwTmVvYURHamRPZHdYeXBCc254YTRManBCemNzU0p1R1hGN0VXczJlem5Udy1PWnUyZkFtWEF5YmQxVExYQmU1b0xNVUZhLTdrMkxCaGt0QzczRDhvX2YtVllram8?oc=5",
+          "source": "中国科技网"
+        },
+        {
+          "id": 37,
+          "title": "腾讯参与发布可信办公智能体标准体系",
+          "summary": "《人工智能 可信办公智能体标准体系》发布，腾讯 AI 办公实践提供重要支撑。（源 id: 37）",
+          "hotness": 70,
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5XaGNVb1VJS29BZXFCUDhHUEFQb0xYc0N3NlFXdDlGSUpGUzVGXzIxR3dYd2FDRWlNRWJxdVJ6UXJfNTNfTnBfRXJhUUliR0lLSEktVGRYbmtIaThBTUM1MHhhNURvYUxVWkF6SHVudlVwZjA2SmFoWVdxYWE?oc=5",
+          "source": "新华网"
+        },
+        {
+          "id": 39,
+          "title": "SK海力士：2030 年 AI 基础设施性能规模料增长约 20 倍",
+          "summary": "SK海力士预测 AI 基础设施性能规模到 2030 年将增长约 20 倍，算力需求持续爆发。（源 id: 39）",
+          "hotness": 70,
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1aek9kdlZHNkE2dlpYQlhMRTJpZDFHM2ExbU5rMWwzcXlwNHpDOVY0Q24ya0Y2VXhkWlZfUmV3R3RBVE80dHRpbQ?oc=5",
+          "source": "财联社"
+        },
+        {
+          "id": 47,
+          "title": "AI 算力缺口或达 1.5 万亿美元，科技大厂集体找钱",
+          "summary": "报告称 AI 算力缺口可能达 1.5 万亿美元，科技巨头正通过多种方式筹集资金。（源 id: 47）",
+          "hotness": 75,
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQc05xbXNjT0tYa2ZJNDVrNnVsakpSOGE1VDdELXM1a1dHU29vNG1xQ1hsQW42SDZsMjQxOU9BSU5JdEZsVFFIa3hPX3k4TER4SlRWWnlOQ0ExRy1GaUhvVlhpSm1Wd3lRTU1MWnFYbEpXRHhNWDRVM1UtZUllUWtRcGNVUVhvQQ?oc=5",
+          "source": "21财经"
+        },
+        {
+          "id": 29,
+          "title": "OpenAI 展示企业级 AI Agent 与安全应用",
+          "summary": "Amp、SentinelOne、Block 等企业利用 GPT-6 Astra 等构建 AI Agent，将恶意软件分析从数周缩短至数小时。（合并 id: 29,30,31,32,33）",
+          "hotness": 70,
+          "link": "https://openai.com/index/amp-beyond-coding",
+          "source": "OpenAI Blog"
+        },
+        {
+          "id": 40,
+          "title": "安徽省具身智能创新中心揭牌",
+          "summary": "安徽省具身智能创新中心正式揭牌，推动具身智能与机器人技术研发。（源 id: 40）",
+          "hotness": 65,
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE14Nlhza1pEYWFFX0JObFYway1CTXZrc2ZBUDk3ZXZmRzltbUtraWpHbUUzSWZsTl82ODFNdkRHVEFYazlXMVI0S21iWFlGOEZ4YTBZTEhMQQ?oc=5",
+          "source": "中国科大新闻网"
+        },
+        {
+          "id": 52,
+          "title": "爱仕达智能谷具身智能创新中心揭牌",
+          "summary": "爱仕达智能谷具身智能创新中心揭牌，推动人形机器人规模化部署。（源 id: 52）",
+          "hotness": 60,
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CU3ZwUE5DU0JkQjc4cmJLZ3dpbE56ZG1uWkU5U0RaaFlobEZRQmVaNThKaXk5d3pvalozT184ckJvUnNDRlZUWENSLXJUbE5sdE8xdXZOUmhTbDFzYkJmdTNDZFJ1UQ?oc=5",
+          "source": "东方财富"
+        },
+        {
+          "id": 23,
+          "title": "Google 支持加拿大跨网络安全培训中心",
+          "summary": "Google 资助加拿大启动跨地区网络安全培训中心，强化 AI 时代安全人才。（源 id: 23）",
+          "hotness": 60,
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMFZpa29ZRmFTUnRMLXpqaElvUF9Cd2kyNTBCWEpYeHRySklHN0tjRmc3NENIbml2d2tneFJ4MXpTM0ZPMkpoWVpTTDdjNTJDSXFlb3NWcm13VTgwZWZ0aUxhWm9sTzJaTEc1OFU4LV9TRHZxTmFxeV9naUFkUFY2SXBjdUVrUFFieXJ6Sw?oc=5",
+          "source": "BetaKit"
+        },
+        {
+          "id": 45,
+          "title": "中国造支撑全球算力和电力发展双提速",
+          "summary": "中国制造正为全球算力和电力发展提供强力支撑，AI 基础设施需求外溢。（源 id: 45）",
+          "hotness": 60,
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03Q3lDSDJBYlJ1UTQ0c19LTEkxUDFDWkU5THAzRWlfeWVZUC1IUlFRVFRZZ2ZxTzJnZTloMW94WUZoOWZaVE9NS1RtN0FiY1JXdWMxNWJWQjNvTW1Lc3Z1VjdyQllTNDk1WDV3bXVCQ1Y?oc=5",
+          "source": "中国科技网"
+        },
+        {
+          "id": 48,
+          "title": "外银看好中国 A 股人工智能板块",
+          "summary": "外资银行表示看好中国 A 股人工智能板块，认为政策与产业趋势形成支撑。（源 id: 48）",
+          "hotness": 60,
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ITmVvVDB5TjBVb3NYYWlQb0duTTdYRFprSlhRWnR3dExrRnU3V0RXRUV3UF9GSjM4UXJxWkVjNjhFak5NeUZhcEdtcjcwWnMweW05Mnl5UTkyamNKTGdCaE9aTjVDYVo2?oc=5",
+          "source": "中国新闻网"
+        },
+        {
+          "id": 49,
+          "title": "申昊科技成为 A 公司算力服务供应商",
+          "summary": "申昊科技旗下申昊智算成为 A 公司算力服务供应商，提供集群算力服务。（源 id: 49）",
+          "hotness": 55,
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFByRHExV2dKaHd3TFRJZEFkYnEydGlIaVhMSTBKOWFpYm5NdHdTV1FveUMyei1UanQ5dVU4SE80bzF4b0RXSlVGaU01aHpxOUlxU0szUTl5Vk9wTjRCZ2s4RjRTS3B5QQ?oc=5",
+          "source": "东方财富"
+        },
+        {
+          "id": 53,
+          "title": "山东力争 AI 核心产业营收年均增长 20% 以上",
+          "summary": "山东“十五五”目标 AI 核心产业营收年均增长 20% 以上，地方产业政策持续加码。（源 id: 53）",
+          "hotness": 55,
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tdG1qMEhxSXhhTGx4LVFqX0Fia2dkVW15ODZkRGdSNGNic0w0bm5nTHlyYVpIR0Z0dlZlQ0xkSEVDd1ZrMl9oSHJibVBzcjVuMlVsYXF0cnh4aktYRzJkbld2R3cyVjM1?oc=5",
+          "source": "中国新闻网"
+        },
+        {
+          "id": 42,
+          "title": "山东 10 个模型进全国 50 强",
+          "summary": "山东有 10 个模型进入全国 50 强，地方 AI 模型生态受到关注。（源 id: 42）",
+          "hotness": 55,
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdGQ0VlV0bTQybk1zYWczVDJ3REVmVjFWMjBtdlMySVlxZUxvMWljTXRjaU1FMUhFbDkyZ1RtSDJ4ak5pR0ttcW9mMmozb20tbW1MNXJfRG9taktXUENfdk5waEhjOVBWZms4TW5NaWRyY0lxVUlmRXBiSWE3MEplSllZSzFkUVNzbVlHUG5DUQ?oc=5",
+          "source": "新浪网"
+        },
+        {
+          "id": 41,
+          "title": "人工智能赋能水运自动化码头与智慧航道",
+          "summary": "从自动化码头到智慧航道，AI 正在水运场景中加速落地。（源 id: 41）",
+          "hotness": 50,
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IZFBpcG5vSjNvRTV5dTgxWmEtUmpUV1pzQkVJTW5JdWstWnRDY2NhdzdGOEFNdWpFRkZGWlNwN2VlaHRSZ1RVckdTOVY1Sk1UN01ReU96d3B4Ri1wSnhPcg?oc=5",
+          "source": "东方财富"
+        },
+        {
+          "id": 43,
+          "title": "国际嘉宾点赞苏州人工智能技术",
+          "summary": "国际嘉宾在苏州体验 AI 技术后给予好评，展示中国地方 AI 应用成果。（源 id: 43）",
+          "hotness": 50,
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOHZpWVRMVWwwTk5BbURGNHFUZGEzdjZqNEx4VXNwN2RjbElOYWZ0aUotMnhZd3VqV25IRzg1V0ltYk5uRlNubFIzYmlfaG9IOU9vb19vT2NCb0JjSGRvWFl5ZzRGeTFiSmpWLXBjS3JoSlFkLWNjTUZRTWJ5M2xvVjRlUlFIWGljVkYw?oc=5",
+          "source": "中国江苏网"
+        },
+        {
+          "id": 34,
+          "title": "人工智能如何赋能基础研究",
+          "summary": "人民网议政栏目讨论 AI 赋能基础研究，强调科研范式变革。（源 id: 34）",
+          "hotness": 55,
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1wR0h0MGZnRGVoWFVlN0Z3dUFrVTlmS2FKNHpxcVh0b2NRZE1Jb1djRnJpUkFTSjk4UExSanNvVUd1Nk96WVNaTXlSSnExamZqcUFYMEx4bVFlMkduRXNrVzJqcUE5d2xCU2prWEJB?oc=5",
+          "source": "人民网"
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "id": 1,
+          "title": "Google 正式发布 Gemini 4 Argon 并全球上线",
+          "summary": "Google 发布旗舰模型 Gemini 4 Argon，面向开发者与企业，主打编码、数学和机器人，性价比挑战 GPT-6/Claude。（合并 id: 1,2,3,5,7,8,13,14,17,20,21,22）",
+          "hotness": 100,
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBpOGx4amxkS2FvcUNYVl9pUnB4aWpSV09HY0dDUUZFS1gxUFR1SGxYTm9aNXpvS0hheGdFSzd1YXA3Wnd2TmlwQ1RlXzQyUGRQUjJ3?oc=5",
+          "source": "华尔街见闻"
+        },
+        {
+          "id": 4,
+          "title": "xAI 推出 Grok Voice 3.0",
+          "summary": "xAI 发布 Grok Voice 3.0，语音多模态能力大幅升级，加入前沿语音模型竞争。（源 id: 4）",
+          "hotness": 95,
+          "link": "https://x.ai/news/grok-voice-3",
+          "source": "xAI"
+        },
+        {
+          "id": 15,
+          "title": "Meta 发布新前沿模型 Muse Wonder",
+          "summary": "Meta 推出新前沿模型 Muse Wonder，在会计基准中排名第二，被视为重回 AI 竞赛的重要一步。（合并 id: 15,27）",
+          "hotness": 90,
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVW1oTkZ5amRzdHRfV2RYQTBpcVh2VzRuNDFTM1dEV0Z1MDB2T0pKWXl6YjgyV29iMmphTXlJYkx2VklLdElVaklwcmJheTBhT3MyR3UwZnlEaHpqZ0JRSFN1ek9EdjNEaVgxVXV0RmtqLVdNbkJHRFF2THNyX0xqV0xRNW9uYVVQWndTaHRaMA?oc=5",
+          "source": "Yahoo Finance"
+        },
+        {
+          "id": 26,
+          "title": "Google 量子模型将量子成本降低 100 倍",
+          "summary": "Google 新模型可处理聚变方程，并将量子计算成本削减 100 倍，推动前沿科学计算。（源 id: 26）",
+          "hotness": 80,
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbjFUWE03UUlxb0tfaFBycHp6d3pkR3hHbmM5SHRuelRlZ0dReS02NHNZbFJqRm90ZzlJYlBLMi1Xakc5clctbmFBNllrMnNhZlFjakdzeHQ4QjlJRE1NQVBqaGxNTmpTVTF5YTF5UnRnU2FCYVF1clEtVGZTY3JiNVJEbmMxV3ctY1hOX1k0S3lnaXB5X3g0?oc=5",
+          "source": "Interesting Engineering"
+        },
+        {
+          "id": 10,
+          "title": "OpenAI 据悉今年至少发布一款模型，旗舰仍需对齐",
+          "summary": "报道称 OpenAI 今年将交付至少一款模型，但旗舰模型仍需完成对齐工作，引发社区关注。（源 id: 10）",
+          "hotness": 75,
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOHNrZEpOV2g0bHB6NDdCWU9ZN1Z1d1p6R181SXNiaDhfU2FCSEtVRkhNdzVwMGxjb2p5cTFQZENNYWdXZlhLWFctTHV6RFJwR3VtdlEyaFZHWFFWakxtdUJNTzBRd3M1UUNVdmZTYjRRVGE5Y0c0Q3c5UmxxNG5YWkZTQ25oYXlOS1hIS0FTVW1pSlg4WnRRR1BEWGxHWVJqUV83dVdoYWlBV0FvUG5ib2VGLWV4NEhsTzVEbFFjcnpFNjA?oc=5",
+          "source": "The Decoder"
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "id": 25,
+          "title": "FLock.io 称基于 Qwen 的决策模型在部分任务超越更大 LLM",
+          "summary": "FLock.io 发布基于 Qwen 的决策模型，在部分任务上表现优于更大模型，强调开源效率。（源 id: 25）",
+          "hotness": 70,
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9LS2hfVDU3ZFlWalU3WmFNVkRVSUVpeXJQTVlteXJpc1ZELThnMFhVVTJQbWRpWldnSU9FN2JwQnpod0hROW5Rd1Y3M3FrVkNHamhnTExoMVozMFpSR3pvOE9WV1pKREtnZXZqeDB0TQ?oc=5",
+          "source": "Korea IT Times"
+        },
+        {
+          "id": 24,
+          "title": "Google 简化 vibe-coded 应用发布流程",
+          "summary": "Google 推出新工具，让开发者更容易发布 vibe-coded 应用，降低 AI 编程门槛。（源 id: 24）",
+          "hotness": 65,
+          "link": "https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch",
+          "source": "The Verge"
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "id": 19,
+          "title": "胡塞武装被指使用 Claude 模型开发导弹",
+          "summary": "Anthropic 报告称胡塞武装利用 Claude 模型开发导弹，引发 AI 武器化与安全担忧。（源 id: 19）",
+          "hotness": 90,
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUzJ4YkNRSTBPZnN2SlNONzJNN3M5NF9PbkM0WE0ya3IxRGJPZENvMVkxd21FOWhOOVRDbG1oT0RUOTRqUjZCY2VtU0FKazY3eFlQT0RIcEoxTHdiQTBjRkhnbXZzVHFVV0c0UXhpRFZhRnRJbnllZmFsd3BQX1llRVFoRWJCa1N6MVA1ZGVPQVRteThBYjl2dHlhSmhIanJiM1dDTQ?oc=5",
+          "source": "Defensemirror.com"
+        },
+        {
+          "id": 6,
+          "title": "研究人员用 OpenAI 模型六天构建 25 万美元 Chrome 全链漏洞利用",
+          "summary": "研究人员利用公开 OpenAI 模型在六天内构建 Chrome 全链漏洞利用，凸显 AI 双刃剑。（源 id: 6）",
+          "hotness": 85,
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcmY1TVNqYkRROFR2WjRqaFZuc2dLUWlkNERiSnhuZjE3UVFWVHdUUGR3dkxQOE5mZ3FXUWxzYkJPbGNiTTdsSERobFRoX2QtVjNreDJsaGhxR0pON3BHUHpjQms0VEdhaGtXdVJPSmpHUzNEdUhpUGJqM2JDTmRCSHM0b3Q?oc=5",
+          "source": "The Hacker News"
+        },
+        {
+          "id": 38,
+          "title": "联合国人权高专警告 AI 风险刻不容缓",
+          "summary": "联合国人权高专警告冲突达二战后最高水平，AI 风险“刻不容缓”，需全球治理。（源 id: 38）",
+          "hotness": 75,
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1UTFVfRkdXNF9EMy1pbXBYczNyRV9iM1pHYlREZ2s2cl9CaGdCbVFRQTVKWVhBTEJLQmJvYWY4eDNtNHpIVmtJWDhCRHR6SzlyQjdCYXd3aw?oc=5",
+          "source": "UN News"
+        },
+        {
+          "id": 35,
+          "title": "“人工智能污染”来袭，如何应对",
+          "summary": "光明网讨论“人工智能污染”现象，关注 AI 生成内容对信息生态的负面影响。（源 id: 35）",
+          "hotness": 70,
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ldXdSSmdYOXhEM1ZYSkk2TkIxcTFLbWhwakUtRTlNMDU3T2ROeldYOVR2WlNsM2syY0NhTEJOT1c1VGZPczhnaG04eUswSXVvN0tvZk5HUDNfanF2eGpERQ?oc=5",
+          "source": "光明网"
+        },
+        {
+          "id": 11,
+          "title": "前 Google 高管希望让人们远离屏幕",
+          "summary": "曾投资 OpenAI 和 Anthropic 的前 Google 高管呼吁减少屏幕时间，反思 AI 对注意力的影响。（源 id: 11）",
+          "hotness": 65,
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSE9rLXkwYXVhT2xkQTFXbXhxRnA5UG9KYkVTbWRhbkV2T3FHZzdJNVFDd2VEMWQ2UDBGMDZ3QjFYN0g5MHZ1MmhqNnJIbGsxVFZNZzhFY3RoeUQ3NF81WWhNcGx5M2s4WmQ5b2p5RU9HR3dsdkFJcmpjel9yY2RHZHFCcWFpSDdqQnVNTTJLRVo0R2VxOHNLZXdvMlpUdzgyZjNkNTZfWUhCN2Q1SUlOUVZoRWptQnp5RlU5TG9WbE9aYzUzLVQ3QmU1RQ?oc=5",
+          "source": "Business Insider Africa"
+        },
+        {
+          "id": 46,
+          "title": "美华盛顿州众议员呼吁中美加强人工智能合作",
+          "summary": "美国华盛顿州众议员呼吁中美在 AI 领域加强合作，避免技术脱钩。（源 id: 46）",
+          "hotness": 70,
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE11el9qMTNpcUlsemJJMXhVLUlRbXhCYi1BOFk3NmhjRGdBZWJ6Mm9nc1JGUXByY0U1eXBPY1hCWllBZVZPdlpQdjBsZ2xLTl9LYkFrblVlaThuanh4VEtjV25ma3dOcVNNZDZBcGtKU1F3TDlqR1YzS2FwLXg?oc=5",
+          "source": "中国日报网"
+        },
+        {
+          "id": 44,
+          "title": "AI 时代如何推进国际反恐合作",
+          "summary": "中国新闻网探讨 AI 时代国际反恐合作的新挑战与新路径。（源 id: 44）",
+          "hotness": 65,
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9RbnFXRHYwVDRGMjhnSVNnTTNuWU5CYVlVUnpCOFpTWmM1NmZMdW1CeWtlRHY2X1FmTVNmOEhxS3NpNUIzYjVMcGNUMnNRbUJOaW1IQ2JrZnc4LTc2X0hXVVNRUEMzemoz?oc=5",
+          "source": "中国新闻网"
+        },
+        {
+          "id": 9,
+          "title": "Google DeepMind 推出设备端 AI 反诈骗",
+          "summary": "Google DeepMind 发布设备端 AI 反诈骗技术，可在本地保护用户免受欺诈。（源 id: 9）",
+          "hotness": 65,
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBVWm4yeFpMWXAtMmRmZm5JTGVxVk1uZWJFX00ydzE4eEh4dEV1QXJXcTNwU3E0NEw0aUJCMXJrM2VqMmNKUmQtQ0IzNlhoMlhEX25wRjd5Rno2dDFXZmZuMTZWU0owYW5xZGVnRF9OUQ?oc=5",
+          "source": "Google DeepMind"
+        }
+      ]
+    }
+  }
+}

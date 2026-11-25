@@ -1,0 +1,107 @@
+{
+  "overview": [
+    "今日 AI 新闻热点涵盖了 Google News、GitHub Trending 和 Hacker News 等多方渠道。",
+    "由于未检测到有效的 LLM 配置，系统已自动切换至试运行模拟汇总模式。",
+    "目前已成功接入联网数据源，可正常解析文章标题、链接，并依据点赞和收藏数智能计算了初始热度。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "title": "The turbulent AI era is here. The choices we make now are critical. - Gates Notes",
+          "summary": "[源自: Google News] The turbulent AI era is here. The choices we make now are critical.&nbsp;&nbsp;Gates Notes",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5",
+          "hotness": 89
+        },
+        {
+          "title": "How To Get Started With Meta's New AI Agent, Muse - Engadget",
+          "summary": "[源自: Google News] How To Get Started With Meta's New AI Agent, Muse&nbsp;&nbsp;Engadget",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZ3lUVE9KRmtVQlEzWlNhWGJWYVl6U09RVnV2VmNaZkw4WXAwTDEwSFR2WTVZMDZzMEVQQTg2QktTcHZZX2NrcGJVWnotMWFqY2JKMnZQMkRlU2NTREZXbXN4cXlTaWVGVEN3NHRiMnZNdHZSMF9OZjFzZGVIRUZlbHRtV1N0cUtJYkE?oc=5",
+          "hotness": 89
+        },
+        {
+          "title": "UNT lands $20 million gift for new artificial intelligence college - Currently.com",
+          "summary": "[源自: Google News] UNT lands $20 million gift for new artificial intelligence college&nbsp;&nbsp;Currently.com",
+          "link": "https://currently.att.yahoo.com/att/unt-lands-20-million-gift-194742366.html",
+          "hotness": 88
+        },
+        {
+          "title": "消息称华为 Mate 90 系列手机将延续星环设计，还是本月下旬发布",
+          "summary": "[源自: IT之家] IT之家 9 月 13 日消息，博主 @数码闲聊站 昨日发文透露，华为 Mate 90 系列手机有镜头膜流出，Mate 90 / 90 Pro / 90 Pro Max 都是星环设计，Mate 90 RS 是八边形，疑似调整为全系三摄 + 单潜望长焦方案。有网友询问华为 Mate 90 的发布会时间...",
+          "link": "https://www.ithome.com/1/001/677.htm",
+          "hotness": 87
+        },
+        {
+          "title": "惠普星 Desk Mini 迷你主机上架：Ultra 5 325/7 356H，9599 元起",
+          "summary": "[源自: IT之家] IT之家 9 月 12 日消息，惠普星 Desk Mini 迷你主机现已上架电商平台，将于 9 月 16 日 0:00 开售，售价 9599 元起：Ultra 5 325、16GB+1TB：9599 元，国补到手价 8159.15 元Ultra 7 356H、16GB+1TB：10499 元，国补到...",
+          "link": "https://www.ithome.com/1/001/658.htm",
+          "hotness": 87
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "title": "IT早报 0913：央视探访无堂食外卖后厨看到店员徒手抓烤鸡；全国多所高校买商品房当学生宿舍；DeepSeek 灰度测试 AI 语音对话；“支付宝假 App”上热搜...",
+          "summary": "[源自: IT之家] “IT早报”时间，大家好，现在是 2026 年 9 月 13 日星期日，今天的重要科技资讯有：1. 外卖新规实施三个月，央视探访看到店员徒手抓烤鸡、明厨亮灶摄像头对着天花板今年 6 月 1 日起，《网络餐饮服务经营者落实食品安全主体责任监督管理规定》已施行，倡导推行“互联网 + 明厨亮灶”，让消费者...",
+          "link": "https://www.ithome.com/1/001/688.htm",
+          "hotness": 73
+        },
+        {
+          "title": "Anthropic CEO Proposes Three-Point Safety Plan as Researchers Warn of Existential Risk - Northeast Times",
+          "summary": "[源自: Google News] Anthropic CEO Proposes Three-Point Safety Plan as Researchers Warn of Existential Risk&nbsp;&nbsp;Northeast Times",
+          "link": "https://northeasttimes.com/2026/09/12/anthropic-ceo-proposes-three-point-safety-plan-as-researchers-warn/",
+          "hotness": 63
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+          "summary": "[源自: OpenAI Official] GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
+          "link": "https://openai.com/index/cognition-devin-testing-with-astra",
+          "hotness": 66
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "title": "Sam Altman says this is an 'ill-advised' time to IPO, given safety concerns - Yahoo Finance",
+          "summary": "[源自: Google News] Sam Altman says this is an 'ill-advised' time to IPO, given safety concerns&nbsp;&nbsp;Yahoo Finance",
+          "link": "https://finance.yahoo.com/technology/ai/articles/sam-altman-says-ill-advised-203530951.html",
+          "hotness": 86
+        },
+        {
+          "title": "The CEO of Anthropic said Saturday the artificial-intelligence industry should slow its fast-moving development to give safety measures time to catch up. Without it, Dario Amodei warned AI could be capable within six to 12 months of leading a swarm that could - facebook.com",
+          "summary": "[源自: Google News] The CEO of Anthropic said Saturday the artificial-intelligence industry should slow its fast-moving development to give safety measures time to catch ...",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOaUk4bzJTRHdSaEp3dTBWeFlMbTBKOXFSeXdydGR1QzF5WFcyMG9nTll3aGdncnZCNW90SWFGa252b01aRkxrY2FOR2gyaVJzc0NkYlUtLVg3RkZvOXRqbm9neWlkd3YzTXdZS3lfOFBpYjNWU0s3UVNhME1RM2xOcnZ3YVBRU3R6dllJbHVxS1NmZ2d4VjBibm1JYVluMjVIWFdLa2Y3SHN5UEUzMUVHVVJkanl3d0xsWDFGZzN4RDdUc3lnelJ3OHVBS0prWl94eUhpdDBYUVBOQQ?oc=5",
+          "hotness": 83
+        },
+        {
+          "title": "OpenAI IPO will not happen in 2026 amid AI safety fears, Sam Altman says - The Guardian",
+          "summary": "[源自: Google News] OpenAI IPO will not happen in 2026 amid AI safety fears, Sam Altman says&nbsp;&nbsp;The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeEdoQ2QteHUtOWkzSF9uZ0NTcHNiTk9MREpyX2NVbHdicXBYbnFEdXpaVVRxNmR0cTJMdXhPaVZ0QXl5ZmpobnZ4RlBkTU1CLUczWHZES0NfM3BlQngxT18wcjE2RUgzdHVuc2c3Y1A4SjI0emswb1FOejV0VVprTnNMZjEzUnZwdlR0RXhCUnlVdkZWbktWMWRWSQ?oc=5",
+          "hotness": 75
+        },
+        {
+          "title": "After a decade of failed bills and three years of resignations, Washington finally discovers it cares about AI safety - Fortune",
+          "summary": "[源自: Google News] After a decade of failed bills and three years of resignations, Washington finally discovers it cares about AI safety&nbsp;&nbsp;Fortune",
+          "link": "https://fortune.com/2026/09/12/after-three-years-of-silence-washington-discovers-it-finally-cares-about-ai-safety/",
+          "hotness": 68
+        },
+        {
+          "title": "Anthropic chief warns artificial intelligence race must slow down amid growing safety fears - Yahoo! Finance Canada",
+          "summary": "[源自: Google News] Anthropic chief warns artificial intelligence race must slow down amid growing safety fears&nbsp;&nbsp;Yahoo! Finance Canada",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWEJzZEpsd0I2cGdxQm5zTHFYOVA2MlNtLXpYOU9wYnFHa2hoanFpMi1lbV91YjFFU1ZWR2ZsSkZ1VjdQX2Nsd1M2ZkUxcWJCc25JMGRxR1pKNlNrRDZXR3BEQUdSQVotOHFUcklVTGxkQ0FYem9YVlEtejFrS2FSRjVPcnpvaHN5cTFkUnR3azdFSVltZ2tIQldn?oc=5",
+          "hotness": 64
+        }
+      ]
+    }
+  }
+}

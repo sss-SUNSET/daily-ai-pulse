@@ -1,0 +1,155 @@
+{
+  "overview": [
+    "AI行业人才流动加剧，谷歌多名核心研发人员跳槽至Anthropic等竞争对手",
+    "AI伦理与安全问题引发广泛关注，包括AI幻觉侵权责任、医疗隐私风险等议题",
+    "AI基础设施和应用加速落地，从制药到能源再到产业链全面升级"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "title": "谷歌两名人工智能研发干将据悉计划跳槽至Anthropic",
+          "summary": "谷歌两名AI研发核心人员计划跳槽至竞争对手Anthropic，反映AI人才竞争白热化。",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5kOENNbXBKelZZZ0p1RkhqS2E4T29fZjgycUVLMmRCTFRIcUJGMnJMcWZuRXVNSTJfNzJ0TnhNdjlCNmVmNDc0anNXQUdEUkRoamxZM2o2ZDBHZXVnZDJSSDhHRUxSdHJPQ25FZVRQMWFnaUVFQV9MWjV3?oc=5",
+          "hotness": 85
+        },
+        {
+          "title": "黄仁勋：本轮AI基建周期长达数十年",
+          "summary": "英伟达CEO黄仁勋表示当前AI基础设施建设周期将持续数十年，强调长期投资价值。",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1GRG1JNVhpd2FVTzNvNlNKUG1DQkxHLW5rb2JXU21KbkdYVThrM2lOS0J5ZUdfXzVnVWhlS0RBS3J1N1Rqc2dSM0I0Ujd0UQ?oc=5",
+          "hotness": 88
+        },
+        {
+          "title": "软银孙正义放言：任何人工智能泡沫论都是对AI的“亵渎”",
+          "summary": "软银孙正义强烈反驳AI泡沫论，称任何质疑AI发展前景的言论都是对技术的亵渎。",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5vcGo5MDRYNG5wZVJ5Y3hubVdxYzUyci14WmxaRWpxZ2Rib1Rsd1FPLW9ySTIydjFTWnVnUkVYMGRjWVVsSG1TMA?oc=5",
+          "hotness": 82
+        },
+        {
+          "title": "全产业链正在“更新AI系统”",
+          "summary": "各行业全产业链加速AI系统升级，推动经济科技深度融合转型。",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1PZmwtX3M4UjR1LTBicTZhcm05MVhsQ20zZFdXUTFiT1pMbXBJMEU4UEdaRndZTzM5UTVqSmI0UVZFeXZxalgxLVhGY3haQ24xbE1zY1ZMY2lSLUpzUGNHWEppcDQzWUJKVDRqQmpB?oc=5",
+          "hotness": 78
+        },
+        {
+          "title": "夏季达沃斯论坛聚焦人工智能",
+          "summary": "夏季达沃斯论坛将人工智能作为核心议题，探讨AI对全球经济和社会的影响。",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1CYkdQQ2p0cW5tZTg3WjVzVkI1cUFPLTcxZjJzTk82TXRxa0lBWVBSSl9OZWM0WE9pdENmY3VVV2xjVU9KbE16bUNjX2hJU3R6aDJEelg2LXA2amRweEdlMGZNekw5VGlYWHVzMVdXYw?oc=5",
+          "hotness": 80
+        },
+        {
+          "title": "首设人工智能专区 应用加速落地",
+          "summary": "多个展会首次设立人工智能专区，显示AI应用正从概念验证走向规模化落地。",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9BRVlWeU5NeU1GMXVDX3diWFozYkpxbmJaOFJqSlo2SWkydUFNd3hCSnpnelNfbk5YTUZodGZ5VVRXS2lsUTFZTllFNDhRMElZUXNOOHNETTFnSENGUXltOTdGdVpFQzJiT3d0VWwxSzR0dEpNVWw2bzZfSFk?oc=5",
+          "hotness": 75
+        },
+        {
+          "title": "OpenAI和博通发布LLM优化推理芯片",
+          "summary": "OpenAI与博通联合推出专为大语言模型优化的推理芯片，提升AI计算效率。",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5IcjFBSWc3NkotMVUzaDNHaWJBcWVtQXZHbnhpUVZrekpPWENRNEZrQ2hOdTFnejg2WTdvWFNQeFI3RGJnRE9qTFI3czJQX28tQUd3OC1ncFlEMnJtQmdONE8ya1NOa1BVOHhVTGNjdUkxbDg?oc=5",
+          "hotness": 90
+        },
+        {
+          "title": "Meta计划推出AI驱动的预测市场应用",
+          "summary": "Meta计划发布基于AI技术的预测市场应用，拓展AI在商业预测领域的应用场景。",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HYXRiczFPUFM3d0lUNmtZR0p0dktKX3ZvcEFoUWVoSHI0czN5TF9VQ0JyZ1JLSm1VNHVCMUJHYlZrekJFU0NCbTdzQTNpWGt4WXRkSlQ5TkQ5dzJLSkZqUFpSVWxKQnNVRTlZSGRVa3o4R1FDR1EtblJfOVZORjg?oc=5",
+          "hotness": 76
+        },
+        {
+          "title": "Anthropic指控阿里巴巴非法提取其AI能力",
+          "summary": "Anthropic公开指控阿里巴巴通过不正当手段非法获取其Claude AI模型的技术能力。",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRkpYdmt2dUlXV21mMGZGRnVwWWJ1REllTjBUMVVfY3plcndDU2pzcE5hNVBtSUtyLXJ2V2ZWZlBXSUoyNXlHT3RHeEo4dDFJcTBFb2lWZVdOQnJiUlNTMXRMTFdjT0VUNXlaUWtGemJaTGo4dU14ejVYdWhwMWJ4cWF30gGHAUFVX3lxTE5mbXB5VlFXanRXdE1Iemx0Y1RHYjJXdE5lX3JSeHBtYnM3NjM4azJaeHJSNDVEYm1XSUFRM05GbC03Z2IxMU5pTldQV09qQ09VTTN6aXExMDRuSkFZRWlZcjFlTGNtLVFCZ0M0XzhCX2VWdjJRcHJGZjlIalIzaTJoVFBCSmcwRQ?oc=5",
+          "hotness": 92
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "title": "用AI赋能“人造太阳”",
+          "summary": "研究人员利用AI技术加速核聚变研究，推动人造太阳等清洁能源技术发展。",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB2cngxZ3B4V0JjOXBwUGgxY0kxVHZza2lxVEhoTFJWYm9Pb0c3MUpReU1sTHNJS01DdElmeWlmTmwxanFEa21iVnBMRk5tZGxxbHVSblQxbWJrR1pVdGFZaQ?oc=5",
+          "hotness": 79
+        },
+        {
+          "title": "Pharma.AI 2026夏季发布会:驱动制药超级智能未来",
+          "summary": "Insilico Medicine发布Pharma.AI平台，展示AI在药物发现和开发中的突破性应用。",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1iUFNDeFpqcTdTNUEybzdackxHLXBXN0MxSDJFUmpLZW1EYzg3NER5blQ3LWFIQWRvWENjM0xhNC05Q0JNTmswb0VBcTNaYjgwbFVfYl9PQXM3eE1IVEE4Um9mbw?oc=5",
+          "hotness": 77
+        },
+        {
+          "title": "Interactions API: Gemini模型和智能体的主要接口",
+          "summary": "谷歌发布Interactions API，作为Gemini模型和智能体开发的主要编程接口。",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObk5aTGR6dzNhLXZBWEpOY3Q2bHBDNk92amdBSXVmS1B6aVB3akFfd1VadWxUQk50bHl6Y2ZwNkdTaFNjclc1cmhDcjk2UG14VUZhM1MtaG42TUJEakZqZWkxelpGdS1YUEJGMkhBWUpPWjlLRnhHMHpXRUZRQnZDU19SdU51QnZmYURMejFtZ2lKWERCUks3OHNnLW93b1kyaEF3UHg4OA?oc=5",
+          "hotness": 74
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "title": "Anthropic老兵创业公司旨在帮助科学家开发自有AI",
+          "summary": "Anthropic前员工创立新公司，专注于为科研人员提供开发自定义AI模型的工具和平台。",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcEJWa3Yxc3UyUEM0OXhLNkFjYk5oQ291czY3dDJPSWNWbXBSMEhWUUgyWW5tZnI4VkVTdHRRMl9NRk43S19sa1A2dVo0X09MREpYVEtKWWprODRaQWRvWXhpLXNaeUNPaHVadGZ4TV9sUXFvcFo5ZnBSc1dldVpYZ192anJBN0VSQlZXWXVNaV9VMjN0YUgydGcyTUdGRlIyd3BEVUcxaFdDWEphVGc?oc=5",
+          "hotness": 73
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "title": "“AI幻觉”一本正经地胡编乱造，侵权责任谁担？",
+          "summary": "AI产生幻觉内容引发的侵权责任问题引发法律界广泛讨论，亟待明确责任归属。",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE11azB5TC1EN3o0OFgxRkMwWTdLNWItaUtrQy1HMDdjVGIwNUt2YU1GQW03d0tYeHJiUjNsQ0dqRmVZcTlWb1JNSGtScjJXTXl4SXBkR1RZTDJzXzlYM3lvb1BIWWNsSGF0?oc=5",
+          "hotness": 86
+        },
+        {
+          "title": "AI时代我们需要哪些新技能",
+          "summary": "探讨在AI普及时代，个人和社会需要培养哪些新技能以适应技术变革。",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9yTmRJWEk5Q2FKWEV1SDI2VVByc21vMEJSN1h0Vi1nWlg5TEZfOVBIMjI5TkRzQTBYRE9DX1d1TDMtT0JpUEFjczZuY0pZRkIxNVVwLWlhVXJnR3JfalRobDhBZ0k?oc=5",
+          "hotness": 81
+        },
+        {
+          "title": "斯坦福大学曾是学生们的黄金门票，AI当道下还管用吗？",
+          "summary": "传统精英教育在AI时代面临挑战，斯坦福等名校学历价值受到重新审视。",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1mSnhsNWpxZUUtd3BKS1lqdE90WERhVTBKN211aUE5RjFFakgtSzVjZ3REaTZlZTZSdmZqWi1oQzFZX19GODgxX0ZqUWozX28xS2N6Q3o1RnMySzE2eWNJX2J2V211UdIBa0FVX3lxTE9zQThqMWdHUnJQUTZFMUd5SUlGYzZBNjBZc1pta1dXU3N1NFVJelNGZWpHRFA0dGFldG5pWXlrRm9HaWd3UzZMVzRtZ0JqVWJqa2RFNlk1ekZQQXZhT3ZoVHBQa1RhQ3dnYnlN?oc=5",
+          "hotness": 78
+        },
+        {
+          "title": "医疗AI存在差异化的隐私风险",
+          "summary": "《自然》杂志研究指出医疗AI应用存在显著的差异化隐私风险，需加强数据保护。",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5BdHJHODc1ck41N29adnZCZlMtVURGUEV6X1k0Tjhyc1ZpcUJJTkxRaHIxQkc0WnhSVklLNGhrUVRQYkJZVjBYUjI2a3Z2TlZyNlF3a19Td3pJdFJXRFhj?oc=5",
+          "hotness": 83
+        },
+        {
+          "title": "Meta因隐私担忧暂停用于AI培训的员工追踪器",
+          "summary": "Meta因隐私关切暂停使用员工数据追踪器进行AI训练，反映企业AI伦理实践的重要性。",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdEtjQ21NNmxBbXhUVHBsUlpKZWJfbXVGVUktcjAybTlzVlo5YkJKek1fTTFjM0dYTW8wUHM5WGZockpOU1hUUHRtcGdlR3BMaUx6bmhlSGdRXzktSGlQQUJtU0xZVnBkeVZxaktJeDZ3aTNQTnUyRVFxdEJlRHI3WEFOTDVESThpRkRTdHBvVDZoeU1hZUItNjAwNDExSEVNMnFpMkJON1h4cW1PMkJDbGNOVEVKRkUx?oc=5",
+          "hotness": 79
+        },
+        {
+          "title": "患者将AI带入治疗环节",
+          "summary": "美国心理协会报告显示越来越多的患者在心理治疗中使用AI工具，引发专业伦理讨论。",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1WWnJKR2tRSjN0dk1PajZUX085VmM3aGxKZWRJWGNnTjVvSHZSZWlnd05oM2llajF6YXBDRV8zOTRFRjV6ZTF2SW5FUUh2UU5OLVNMN0tYX2k2cXZvZHFvU2c5UXF6OHNJY3lieQ?oc=5",
+          "hotness": 76
+        },
+        {
+          "title": "调查显示农民对田间使用AI意见分歧，多数对结果持怀疑态度",
+          "summary": "农业领域AI应用接受度调查显示农民群体意见分化，多数对AI产出结果保持谨慎态度。",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRmZJVDAyRFJlTHJRVTFqYXdCdVR0UXBrVF9CNGdJLXRMNzBVLWFtWEhNWGpxMHgwcXZoa28zbHlGSWFCRTdyalFfMTQwdTFyM1pFUHhsNnR4WFRXQXhEOFNZamtqN21xMTNDVDh3V3BnU2lFZUVGUFBzdnF6b3hVOVZRSmg1Q0hrWkxVeXlGUjBWb1E3RGkyLVpfTDJnZ1pXbHJxZTRQa2VXbmw5VDgwUkE3TTYyQVZKOENRcTVvYjhBQQ?oc=5",
+          "hotness": 72
+        },
+        {
+          "title": "2026夏季达沃斯｜朱民：五年内通用人工智能无法全面落地",
+          "summary": "经济学家朱民在达沃斯论坛表示，通用人工智能在未来五年内难以实现全面商业化落地。",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBORkFFZm12RWlaQkRSV0UtOXNlVGc1SVM4dC14SWZoUU5HS0lmZFh2WTQtX29TUXJwREdaM0JNcWVkdUNtZkNUb01OWV9VYVpycnJ1RDBkYVhKY2lTN3c?oc=5",
+          "hotness": 80
+        }
+      ]
+    }
+  }
+}

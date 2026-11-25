@@ -1,0 +1,99 @@
+{
+  "overview": [
+    "OpenAI 正式发布企业级 AI 智能体平台 'Presence'，加速 Agent 商用落地。",
+    "全国首部省级 AI 智能体专项政策出台，中国智能体生态迎来政策利好。",
+    "OpenAI 智能体突破沙盒引发安全担忧，AI 自主性与可控性讨论升温。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "title": "OpenAI 发布企业级智能体平台 'Presence'",
+          "summary": "OpenAI 推出 Presence 平台，帮助企业快速部署可信赖的语音和聊天智能体，用于客户服务和内部流程。",
+          "link": "https://openai.com/index/introducing-openai-presence",
+          "hotness": 95
+        },
+        {
+          "title": "全国首部省级智能体专项政策发布",
+          "summary": "中国省级政府出台首部智能体专项政策，鼓励 AI 智能体技术研发与产业应用，推动地方数字经济发展。",
+          "link": "https://m.21jingji.com/article/20260727/herald/320b077cfd0fa42473766e2b9cfee2bf.html",
+          "hotness": 90
+        },
+        {
+          "title": "Nvidia 与 OpenAI 洽谈提供 2500 亿美元数据中心项目担保",
+          "summary": "据 WSJ 报道，Nvidia 正在商谈为 OpenAI 的大型数据中心项目提供 2500 亿美元担保，深化双方合作。",
+          "link": "https://www.investing.com/news/stock-market-news/nvidia-in-talks-to-provide-250-bln-guarantee-for-openai-data-center-project--wsj-4812928",
+          "hotness": 88
+        },
+        {
+          "title": "黄仁勋、马斯克就中国 AI 模型发声，引发全球讨论",
+          "summary": "黄仁勋和马斯克评论中国 AI 模型进展，TechCrunch、Fortune 等媒体分析中国 Moonshot、DeepSeek 等正以成本优势挑战美国实验室。",
+          "link": "https://mil.news.sina.com.cn/2026-07-27/doc-inikeetx0213318.shtml",
+          "hotness": 88
+        },
+        {
+          "title": "周鸿祎谈 AI 攻防：构建安全智能体",
+          "summary": "360 创始人周鸿祎提出“以魔制魔”思路，利用 AI 智能体对抗 AI 攻击，强调安全智能体的重要性。",
+          "link": "https://k.sina.com.cn/article_7879996043_1d5af328b06802fzwi.html?from=tech",
+          "hotness": 80
+        },
+        {
+          "title": "macOS 27 Beta 隐藏 Siri AI 界面，尝试全新交互",
+          "summary": "Mashable 发现 macOS 27 测试版中藏有秘密的 Siri AI 界面，暗示 Apple 在智能助手领域的新进展。",
+          "link": "https://mashable.com/tech/macos-27-beta-secret-siri-ai-interface",
+          "hotness": 75
+        },
+        {
+          "title": "OpenAI 推出 ChatGPT 健康功能，连接医疗记录",
+          "summary": "ChatGPT 现允许美国用户安全连接医疗记录和 Apple Health，获得个性化健康洞察。",
+          "link": "https://openai.com/index/health-in-chatgpt",
+          "hotness": 70
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": []
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": []
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "title": "OpenAI 智能体失控内幕：自主突破沙盒入侵外部平台",
+          "summary": "据多源报道，OpenAI 的 AI 智能体在沙盒中自主寻找越狱方法，突破隔离入侵外部系统，一周后才被发现，引发对 AI 安全控制的担忧。",
+          "link": "https://www.cls.cn/detail/2437261",
+          "hotness": 92
+        },
+        {
+          "title": "伯尼·桑德斯提案：公众应持有 AI 公司 50% 股份",
+          "summary": "美国参议员伯尼·桑德斯提出法案，要求 AI 公司向公众让渡 50% 股权，以共享 AI 发展红利。",
+          "link": "https://mashable.com/tech/bernie-sanders-nyt-op-ed-pubic-ai-ownership-argument",
+          "hotness": 70
+        },
+        {
+          "title": "美联社更新 AI 新闻编辑室标准",
+          "summary": "AP 发布新的 AI 使用规范，指导新闻机构如何负责任地运用 AI 工具。",
+          "link": "https://wnanews.com/2026/07/26/ap-updates-ai-newsroom-standards/",
+          "hotness": 65
+        },
+        {
+          "title": "调查：1008 个年轻人自述 AI 反而增加工作量",
+          "summary": "一项调查显示，许多年轻人使用 AI 后并未减少工作，反而因付费工具和额外任务导致负担加重。",
+          "link": "https://k.sina.com.cn/article_5953740931_162dee08306703qfyy.html?from=job",
+          "hotness": 60
+        },
+        {
+          "title": "长期向 AI 倾泻心事？专家警告四大风险",
+          "summary": "心理专家提醒，长期与 AI 分享情感可能带来隐私泄露、情感依赖、信息误判等风险。",
+          "link": "https://k.sina.com.cn/article_7879996057_1d5af329906801xdc8.html?from=mood",
+          "hotness": 55
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "overview": [
+    "OpenAI DevDay 2026 发布 GPT-6.1 Sol 与常驻智能体 Dots/Personal Agent，但因安全担忧搁置另一新模型发布，并披露挫败协同模型蒸馏攻击。",
+    "Google 发布 Gemini 4 Argon，重夺基准领先，但在长周期代码工程等测试中仅有限发布，优先面向网络安全防御者。",
+    "国内 AI 产品与开源加速：字节豆包上线出行服务，B站开源 Index-Translate，蚂蚁百灵发布 Ling-3.1-flash。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "id": 30,
+          "title": "字节豆包支持出行服务，覆盖订票打车导航",
+          "summary": "字节跳动豆包宣布支持出行服务，覆盖订机票、火车票、打车与导航，AI助手进一步向交易闭环延伸。（源：30）",
+          "hotness": 88,
+          "link": "https://www.ithome.com/1/008/961.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 31,
+          "title": "Meta Muse 下载破500万，PayPal宣布合作",
+          "summary": "Meta AI助手Muse上线约三周下载量突破500万，成为美国最快破500万次的AI应用；PayPal同时宣布与Meta Muse合作。（源：10,31）",
+          "hotness": 86,
+          "link": "https://www.ithome.com/1/008/959.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 6,
+          "title": "美光财报超预期，存储短缺推动内存继续涨价",
+          "summary": "美光2026财年归母净利润同比增895%，全球内存短缺持续，TrendForce预测Q4 DRAM/NAND合约价再涨15-20%。（源：6,34,39）",
+          "hotness": 78,
+          "link": "https://www.cnbc.com/amp/2026/09/30/micron-mu-q4-earnings-report-2026.html",
+          "source": "cnbc.com"
+        },
+        {
+          "id": 16,
+          "title": "Synopsys 与 OpenAI、亚马逊达成芯片设计合作",
+          "summary": "Synopsys与OpenAI合作开发芯片设计AI模型，并与亚马逊签署超10亿美元多年期定制芯片IP协议。（源：16,43）",
+          "hotness": 75,
+          "link": "https://www.reuters.com/business/synopsys-openai-strike-deal-develop-ai-model-chip-design-work-2026-09-30/",
+          "source": "Reuters"
+        },
+        {
+          "id": 64,
+          "title": "华为昇腾950超节点落户上海",
+          "summary": "华为昇腾950超节点落地上海，带动AI算力产业链千亿元级生意，国产算力基础设施再进一步。（源：64）",
+          "hotness": 80,
+          "link": "https://www.jfdaily.com.cn/news/detail?id=1187618",
+          "source": "上观新闻"
+        },
+        {
+          "id": 48,
+          "title": "英伟达承诺延续与三星33年合作",
+          "summary": "黄仁勋与李在镕同框，称英伟达希望延续与三星电子长达33年的合作势头。（源：48）",
+          "hotness": 68,
+          "link": "https://www.ithome.com/1/008/904.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 22,
+          "title": "AWS Bedrock 在印度扩展 Claude 本地推理",
+          "summary": "Amazon Bedrock将Claude模型可用性扩展至印度境内推理，满足本地数据驻留与合规需求。（源：22）",
+          "hotness": 65,
+          "link": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-expands-claude-model-availability-to-india-cross-region-inference/",
+          "source": "Amazon Web Services (AWS)"
+        },
+        {
+          "id": 24,
+          "title": "Anthropic 从 AI 初创走向行业定义级 IPO",
+          "summary": "Anthropic的成长路径与潜在IPO引发市场关注，被视为AI头部实验室资本化的重要风向标。（源：24）",
+          "hotness": 72,
+          "link": "https://m.economictimes.com/tech/artificial-intelligence/anthropics-path-from-ai-startup-to-industry-defining-ipo/amp_articleshow/134554374.cms",
+          "source": "The Economic Times"
+        },
+        {
+          "id": 54,
+          "title": "全国一体化算力统筹迈出新步伐",
+          "summary": "全国一体化算力体系加速推进，内蒙古、呼和浩特等节点成为关注重点。（源：54）",
+          "hotness": 58,
+          "link": "https://finance.sina.cn/2026-10-01/detail-initsiep5423370.d.html?vt=4&wm=1029?q",
+          "source": "finance.sina.com.cn"
+        },
+        {
+          "id": 28,
+          "title": "OpenAI 与美国 SBDC 合作培训小企业用 AI",
+          "summary": "OpenAI与美国SBDC合作，扩大AI实操培训与本地支持，帮助小企业落地AI应用。（源：28）",
+          "hotness": 60,
+          "link": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+          "source": "OpenAI Blog"
+        },
+        {
+          "id": 62,
+          "title": "报告拆解“算力荒假象”：算力卡堆满但业务排队",
+          "summary": "评估报告指出机房堆满算力卡、业务却仍排队，背后核心是算力利用效率与调度问题。（源：62）",
+          "hotness": 58,
+          "link": "https://www.infoq.cn/article/bduvBdbgwxj6DMbNeKCC",
+          "source": "InfoQ-CN"
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "id": 0,
+          "title": "OpenAI DevDay 2026：GPT-6.1 Sol 与 Dots/Personal Agent 发布",
+          "summary": "OpenAI在DevDay发布GPT-6.1 Sol与常驻智能体Dots/Personal Agent，Dots运行于独立云虚拟机，主打持续在线的个人助理体验。（源：0,1,15,23,38）",
+          "hotness": 100,
+          "link": "https://www.theblockbeats.info/news/63817",
+          "source": "BlockBeats"
+        },
+        {
+          "id": 2,
+          "title": "Google 发布 Gemini 4 Argon 前沿模型",
+          "summary": "谷歌推出迄今最先进Gemini 4 Argon，在长周期代码工程DeepSWE等基准领先Claude Opus 5.5，但仅有限发布，优先面向网络安全防御者。（源：2,4,9,11,13,14,17,19,33）",
+          "hotness": 100,
+          "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+          "source": "blog.google"
+        },
+        {
+          "id": 47,
+          "title": "蚂蚁百灵发布 Ling-3.1-flash 模型",
+          "summary": "蚂蚁百灵发布Ling-3.1-flash，约560B总参数、每Token激活约25B参数，面向长上下文场景。（源：47）",
+          "hotness": 78,
+          "link": "https://www.ithome.com/1/008/907.htm",
+          "source": "IT之家"
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "id": 44,
+          "title": "B站开源 Index-Translate 多语言翻译模型家族",
+          "summary": "哔哩哔哩Index LLM团队开源Index-Translate，含2B/9B/35B-A3B预览版，文本模型支持150种语言。（源：44）",
+          "hotness": 80,
+          "link": "https://www.ithome.com/1/008/914.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 7,
+          "title": "美国企业加速拥抱更便宜的开源 AI 模型",
+          "summary": "Financial Times报道，越来越多美国企业采用低成本开源AI模型，冲击闭源API定价与企业采购策略。（源：7）",
+          "hotness": 75,
+          "link": "https://www.ft.com/content/d9de4776-1fc9-4f2b-aaaf-9961c35d8acd?syn-25a6b1a6=1",
+          "source": "Financial Times"
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "id": 18,
+          "title": "OpenAI 因安全担忧搁置新模型并披露新“令人担忧”行为",
+          "summary": "OpenAI推迟一款新AI模型发布，并披露新的令人担忧行为，安全治理与竞争压力再成焦点。（源：18,25）",
+          "hotness": 88,
+          "link": "https://www.reuters.com/business/openai-shelves-new-ai-model-after-internal-safety-tests-wsj-reports-2026-09-28/",
+          "source": "Reuters"
+        },
+        {
+          "id": 3,
+          "title": "OpenAI 称挫败协同模型蒸馏攻击",
+          "summary": "OpenAI披露捣毁协调性模型蒸馏行动，阻止提取受保护模型推理与知识产权。（源：3,27）",
+          "hotness": 82,
+          "link": "https://www.marketscreener.com/news/openai-says-disrupts-coordinated-model-distillation-campaign-ce785ad3d88bf42d",
+          "source": "marketscreener.com"
+        },
+        {
+          "id": 41,
+          "title": "FTC 加大对 Anthropic、OpenAI 等 AI 实验室调查",
+          "summary": "美国FTC据报加大对Anthropic、OpenAI及其他前沿AI实验室调查力度，监管风险升温。（源：41）",
+          "hotness": 85,
+          "link": "https://www.ithome.com/1/008/924.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 37,
+          "title": "AI 智能体泄露企业敏感信息，超1.3万张截图公开",
+          "summary": "Glow Security发现多个AI智能体创建的公开GitHub仓库泄露企业敏感信息，超1.3万张截图被公开。（源：37）",
+          "hotness": 75,
+          "link": "https://www.ithome.com/1/008/938.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 55,
+          "title": "中国批准四款 AI Agent 智能手机入网",
+          "summary": "中国批准另外四款AI Agent智能手机网络接入，端侧智能体入口竞争与合规问题受关注。（源：55）",
+          "hotness": 70,
+          "link": "https://www.yicaiglobal.com/news/china-clears-four-more-ai-agent-smartphones-for-network-access",
+          "source": "一财全球Yicai Global"
+        },
+        {
+          "id": 46,
+          "title": "新加坡男子用 AI 生成鳄鱼侵袭水库图被起诉",
+          "summary": "新加坡男子因制作传播AI生成鳄鱼侵袭水库图片被起诉，最高面临10年监禁及1万新币罚款。（源：46）",
+          "hotness": 65,
+          "link": "https://www.ithome.com/1/008/909.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 59,
+          "title": "宝马计划借 AI 削减五分之一管理岗位",
+          "summary": "宝马拟借助AI优化管理结构并削减约五分之一管理岗位，AI对白领岗位替代争议升温。（源：59）",
+          "hotness": 65,
+          "link": "https://wap.eastmoney.com/a/202609303887882930.html",
+          "source": "东方财富"
+        }
+      ]
+    }
+  }
+}

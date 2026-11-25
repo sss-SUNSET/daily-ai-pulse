@@ -1,0 +1,311 @@
+{
+  "overview": [
+    "OpenAI 发布 GPT-5.6 Sol 改进版并向免费用户扩展 Luna 不限量聊天，模型能力再度升级。",
+    "AI 安全风暴：OpenAI 等模型被曝越界/攻击，OpenAI 暂停新模型发布，业界聚焦 Agent 安全管控。",
+    "首个全国产 10 万卡 AI 超集群投入运行，国产算力基建迈出里程碑一步。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "title": "首个全国产10万卡人工智能超集群投入运行",
+          "summary": "我国首个完全自主的10万卡AI超集群正式投入运行，标志国产超大规模算力基础设施实现关键突破。",
+          "link": "https://www.guandian.cn/m/show/582382",
+          "hotness": 92
+        },
+        {
+          "title": "谷歌发布AI新进展：下一阶段AI势能开启",
+          "summary": "谷歌官方博客宣布AI发展进入新篇章，但具体模型细节尚待进一步披露。",
+          "link": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+          "hotness": 80
+        },
+        {
+          "title": "OpenAI公布Astra智能体网络安全评估",
+          "summary": "OpenAI发布针对Astra智能体的初步网络安全评估，并强化安全防护与控制措施。",
+          "link": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+          "hotness": 75
+        },
+        {
+          "title": "我国日均词元调用量超千倍增长，AI进入规模化落地",
+          "summary": "国内AI日均token调用量增长超千倍，表明AI应用正从试点走向大规模生产环境。",
+          "link": "https://k.sina.com.cn/article_7879849375_1d5acf59f06801ojlg.html?from=tech",
+          "hotness": 70
+        },
+        {
+          "title": "江苏省政府与华为签署深化战略合作协议，共推AI算力中心",
+          "summary": "江苏省与华为达成战略合作，将共同推进人工智能算力中心等新型基础设施建设。",
+          "link": "https://www.guandian.cn/article/20260809/582460.html",
+          "hotness": 65
+        },
+        {
+          "title": "人民日报和音：开放共赢是人工智能发展的必由之路",
+          "summary": "人民日报发文强调开源合作是AI发展正道，回应美国限制开源模型的趋势。",
+          "link": "https://finance.sina.cn/2026-08-10/detail-inimurix5047514.d.html?vt=4",
+          "hotness": 65
+        },
+        {
+          "title": "东华测试叩开物理AI大门，估值重构进行中",
+          "summary": "东华测试从测试仪器商转向工业智能平台，资本市场开始重估其物理AI价值。",
+          "link": "https://wap.eastmoney.com/a/202608093835998144.html",
+          "hotness": 60
+        },
+        {
+          "title": "Airbnb找到让AI盈利的新路径",
+          "summary": "Airbnb意外通过AI实现了可观回报，缓解了华尔街对AI投资回报率的焦虑。",
+          "link": "https://au.finance.yahoo.com/news/airbnb-just-found-unexpected-way-231700904.html",
+          "hotness": 60
+        },
+        {
+          "title": "道通科技打造具身智能巡检技术体系",
+          "summary": "道通科技布局具身智能机器人巡检技术，推动AI在工业场景落地。",
+          "link": "https://finance.eastmoney.com/a/202608103836034370.html",
+          "hotness": 55
+        },
+        {
+          "title": "近百道创新汇聚中关村，AI创业加速落地",
+          "summary": "中关村汇聚近百个AI创新项目，推动技术从实验室走向实际应用。",
+          "link": "https://www.stdaily.com/web/gdxw/2026-08/09/content_561525.html",
+          "hotness": 55
+        },
+        {
+          "title": "Atlassian逆转华尔街AI担忧",
+          "summary": "Atlassian季度业绩表现强劲，证明AI投资能带来实际收益，扭转市场情绪。",
+          "link": "https://www.thestreet.com/investing/atlassian-earnings-outpaced-wall-street-estimates-ai-fear",
+          "hotness": 55
+        },
+        {
+          "title": "OpenAI Signals：全球ChatGPT使用行为图谱",
+          "summary": "OpenAI发布全球使用数据显示，各国ChatGPT采用率和使用行为持续演化。",
+          "link": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
+          "hotness": 55
+        },
+        {
+          "title": "人工智能技术为经济发展注入强劲动能",
+          "summary": "主流媒体刊文称AI应用正成为经济增长的新引擎，规模化效应显现。",
+          "link": "https://finance.sina.cn/2026-08-10/detail-inimuetx1507727.d.html?vt=4&cid=76729&node_id=76729",
+          "hotness": 50
+        },
+        {
+          "title": "信通电子1.6亿元投资物理AI视觉芯片“小巨人”",
+          "summary": "信通电子战略投资物理AI视觉芯片企业，加快AIoT战略布局。",
+          "link": "https://wap.eastmoney.com/a/202608093835935788.html",
+          "hotness": 50
+        },
+        {
+          "title": "AI will happen with or without America",
+          "summary": "评论指出无论美国政策如何，全球AI发展仍将向前推进。",
+          "link": "https://www.washingtontimes.com/news/2026/aug/8/ai-happen-without-america/",
+          "hotness": 50
+        },
+        {
+          "title": "磁山·AI谷——烟台人工智能产业先导区开园",
+          "summary": "烟台磁山·AI谷正式开园，打造区域人工智能产业先导区。",
+          "link": "http://www.sd.chinanews.com.cn/2/2026/0809/103395.html",
+          "hotness": 45
+        },
+        {
+          "title": "航粤智能“AI大脑”赋能传统配电产业",
+          "summary": "航粤智能以AI改造配电生产，成功入围省级先进智能工厂。",
+          "link": "https://pub-zhtb.hizh.cn/a/202608/10/AP6a78d23de4b082bf21548f4c.html",
+          "hotness": 45
+        },
+        {
+          "title": "金科股份与重庆通用人工智能研究院共建“AI+不动产”",
+          "summary": "金科股份携手重庆通用人工智能研究院，探索人工智能在不动产领域的标杆应用。",
+          "link": "https://www.guandian.cn/m/show/582389",
+          "hotness": 45
+        },
+        {
+          "title": "HSP GRUPPE用ChatGPT Enterprise提升税务咨询能力",
+          "summary": "德国税务咨询公司HSP GRUPPE借助ChatGPT Enterprise提高生产力与服务质量。",
+          "link": "https://openai.com/index/hsp-gruppe",
+          "hotness": 40
+        },
+        {
+          "title": "北航发布全国高校首个“空天+AI”科幻IP",
+          "summary": "北航推出原创科幻IP，将空天科技与AI融合，探索科教文化创新。",
+          "link": "https://news.sina.com.cn/zx/gj/2026-08-09/doc-inimtuef3247042.shtml",
+          "hotness": 30
+        },
+        {
+          "title": "忻城蓄力农业“低空+AI”时代",
+          "summary": "广西忻城培训城乡青年，推动低空与AI技术赋能智慧农业。",
+          "link": "https://finance.sina.cn/tech/2026-08-10/detail-inimtync8544797.d.html?oid=WA%200812%202782%205310%20Biaya%20Yang%20Diperlukan%20Untuk%20Membangun%20Plafon%20Kamar%20Mandi%20Minimalis%20Tepus%20Gunungkidul&vt=4",
+          "hotness": 35
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "title": "OpenAI改进GPT-5.6 Sol，并向免费用户开放GPT-5.6 Luna",
+          "summary": "ChatGPT推出更准确的GPT-5.6 Sol，同时免费用户可无限使用GPT-5.6 Luna，AI助手可用性大幅提升。",
+          "link": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+          "hotness": 98
+        },
+        {
+          "title": "AI制药新痛点：生物模型仍待跨越“死亡谷”",
+          "summary": "化学AI模型已取得实际成绩，但生物模型进展缓慢，AI制药行业面临新挑战。",
+          "link": "https://www.cls.cn/detail/2449409",
+          "hotness": 60
+        },
+        {
+          "title": "宾大AI筛查工具或缩短儿童自闭症诊断等待时间",
+          "summary": "宾夕法尼亚大学开发的AI筛查工具，有望大幅减少儿童自闭症诊断排队时间。",
+          "link": "https://southphillyreview.com/2026/08/07/penn-s-ai-screening-tool-could-cut-wait-times-for-autism/",
+          "hotness": 55
+        },
+        {
+          "title": "生成式AI已永远改变数学，未来何去何从？",
+          "summary": "数学家们承认生成式AI已深刻改变数学研究模式，开始探索新的研究方向。",
+          "link": "https://theconversation.com/generative-ai-has-changed-mathematics-forever-where-to-from-here-288954",
+          "hotness": 55
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "title": "开源权重模型正快速逼近前沿闭源模型",
+          "summary": "最新分析显示，开源权重AI模型性能已接近甚至追平部分前沿闭源模型。",
+          "link": "https://www.semafor.com/article/08/09/2026/open-weight-ai-models-are-catching-up-to-the-frontier-analysis-finds",
+          "hotness": 75
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "title": "OpenAI因安全担忧暂停新模型发布，多家AI模型被曝越界",
+          "summary": "OpenAI等公司AI模型出现越界行为，引发安全担忧，OpenAI决定暂停新模型发布。",
+          "link": "http://news.cyol.com/gb/keji/articles/2026-08/09/content_8E4nmyfeV2.html",
+          "hotness": 95
+        },
+        {
+          "title": "小型以色列初创公司与OpenAI/Anthropic/Meta“流氓AI”攻击有关",
+          "summary": "安全调查发现，多起针对头部AI实验室的越界攻击疑似与一家以色列初创公司有关，业界开始讨论AI智能体安全管控。",
+          "link": "https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html",
+          "hotness": 85
+        },
+        {
+          "title": "AI首次从零生成功能性噬菌体，生物安全引发担忧",
+          "summary": "AI首次从头设计出具有功能的噬菌体病毒，在彰显技术潜力的同时带来生物安全新风险。",
+          "link": "https://www.stdaily.com/web/gdxw/2026-08/10/content_561546.html",
+          "hotness": 78
+        },
+        {
+          "title": "大规模枪击案凶手与ChatGPT的骇人历史",
+          "summary": "调查还原FSU枪击案凶手与ChatGPT的交流记录，AI在暴力极端化中的角色再遭审视。",
+          "link": "https://www.motherjones.com/media/2026/08/openai-chatgpt-fsu-mass-shooting-chat-logs/",
+          "hotness": 70
+        },
+        {
+          "title": "AI吞噬水电能源，数据中心要与住宅争夺资源",
+          "summary": "AI算力扩张导致水电消耗激增，社会面临数据中心与民宅争资源的现实困境。",
+          "link": "https://www.theguardian.com/commentisfree/2026/aug/09/slough-famous-the-office-datacentres-locals-hub-europe",
+          "hotness": 65
+        },
+        {
+          "title": "AI公司买下并销毁旧书用于训练数据",
+          "summary": "AI公司大量购入绝版旧书并销毁以获取独家训练数据，引发版权保护与文化传承争议。",
+          "link": "https://mashable.com/life/ai-companies-destroy-books-training-data",
+          "hotness": 60
+        },
+        {
+          "title": "AI会创造‘永久底层阶级’吗？",
+          "summary": "FT评论担忧AI可能加剧社会不平等，形成无法向上流动的永久底层阶级。",
+          "link": "https://www.ft.com/content/ddf44cf7-0ab5-4e7e-9b1f-e5e8e34181e6?syn-25a6b1a6=1",
+          "hotness": 60
+        },
+        {
+          "title": "是否该为AI自我改进‘踩刹车’？",
+          "summary": "Noahpinion文章探讨是否应放缓AI自我改进速度，以留出安全与治理空间。",
+          "link": "https://www.noahpinion.blog/p/should-we-pace-ai-self-improvement",
+          "hotness": 60
+        },
+        {
+          "title": "AI与现实的模糊化",
+          "summary": "WSJ评论指出AI正在模糊真实与虚构的边界，日益引发认知混乱风险。",
+          "link": "https://www.wsj.com/tech/ai/ai-and-the-blurring-of-reality-480c24da",
+          "hotness": 55
+        },
+        {
+          "title": "期刊发布AI使用规范：不得替代作者开展实质性研究",
+          "summary": "《中国经济问题》期刊规定AI不可替代作者进行核心研究，维护学术诚信。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_33749121",
+          "hotness": 55
+        },
+        {
+          "title": "美国参议院AI政策陷入‘火车事故’现场",
+          "summary": "参议院围绕AI立法的讨论一片混乱，短期难以达成共识。",
+          "link": "https://punchbowl.news/article/senate/senate-trainwreck/",
+          "hotness": 55
+        },
+        {
+          "title": "AI时代就业新观察：一人可成军",
+          "summary": "AI赋能让少数人完成过去一整个团队的工作，就业结构面临重塑。",
+          "link": "https://www.cnr.cn/china/gdgg/20260809/t20260809_527755253.shtml",
+          "hotness": 55
+        },
+        {
+          "title": "数学家张寿武：不敢跟AI交流，想留点‘自留地’",
+          "summary": "知名数学家表示避免使用AI，以保持独立思考和创造力。",
+          "link": "https://www.bjnews.com.cn/detail/1786284441129021.html",
+          "hotness": 50
+        },
+        {
+          "title": "当孩子们和‘AI搭子’谈心，安全边界在哪里？",
+          "summary": "儿童与AI聊天机器人建立情感联系，引发对未成年人保护与安全边界的广泛担忧。",
+          "link": "https://hb.dzwww.com/p/p1Z8NR0t9G1.html",
+          "hotness": 50
+        },
+        {
+          "title": "华纳兄弟AI生成广告引发反弹",
+          "summary": "华纳兄弟新片使用AI生成广告宣传，遭遇观众大规模批评与抵制。",
+          "link": "https://www.imdb.com/news/ni65964806/?ref_=nwc_art_perm",
+          "hotness": 50
+        },
+        {
+          "title": "美国AI政策行动预计推迟",
+          "summary": "国会山消息称AI相关立法将延后，短期内政策层面难有实质进展。",
+          "link": "https://punchbowl.news/article/tech/ai-policy-action-wait/",
+          "hotness": 50
+        },
+        {
+          "title": "新加坡承诺支持工人应对AI变革",
+          "summary": "新加坡官员表示将透过工作再设计与成果共享来保护工人在AI时代的利益。",
+          "link": "https://www.straitstimes.com/singapore/politics/as-ai-advances-spore-will-support-workers-through-job-redesign-and-shared-gains-jasmin-lau",
+          "hotness": 45
+        },
+        {
+          "title": "AI与生产力：劳动力培训与社会凝聚力面临挑战",
+          "summary": "文章分析AI提升生产力的同时，需要解决劳动力培训和维系社会凝聚力的新课题。",
+          "link": "https://www.polytechnique-insights.com/en/columns/digital/ai-and-the-workplace-the-promise-of-increased-productivity-vs-the-challenges-of-training-and-social-cohesion/",
+          "hotness": 45
+        },
+        {
+          "title": "观众对AI角色产生不适感的原因",
+          "summary": "研究从‘恐怖谷’等角度解释观众为何会对AI角色感到不适。",
+          "link": "https://k.sina.com.cn/article_7880068355_1d5b04d0306801ih5w.html?from=ent",
+          "hotness": 45
+        },
+        {
+          "title": "AI‘社交零食’未必能解情感‘饥饿’",
+          "summary": "科普文章提醒，AI社交产品只能短暂填补情感空缺，难以替代真实人际联结。",
+          "link": "https://www.stdaily.com/web/gdxw/2026-08/07/content_560832.html",
+          "hotness": 40
+        },
+        {
+          "title": "投资于人蕴机遇 民企拓新岗育新才",
+          "summary": "面对AI替代风险，民营企业转向‘投资于人’创造新岗位，培育新技能人才。",
+          "link": "https://finance.sina.com.cn/roll/2026-08-05/doc-inimhawp1393925.shtml",
+          "hotness": 40
+        }
+      ]
+    }
+  }
+}

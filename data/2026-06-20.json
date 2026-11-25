@@ -1,0 +1,100 @@
+{
+  "overview": [
+    "全球AI政策与监管加速推进，挪威禁止小学使用AI，法国呼吁国际合作监管",
+    "AI消费应用迎来政策红利，中国八部门联合推动'人工智能+消费'发展",
+    "AI基础设施投资持续升温，Meta扩建数据中心，AI芯片需求激增"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "title": "Meta携手Crusoe扩建AI算力版图",
+          "summary": "Meta与Crusoe合作获得1.6GW数据中心容量，加速AI基础设施布局。",
+          "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE8tSktCWGY4WTlOSG1senpldWt4QjVVcnpOOG1qNmZna184NWMwVjVxbi12NkNCN2h0MkRva3l4dHo3dk0?oc=5",
+          "hotness": 85
+        },
+        {
+          "title": "AI大模型上市路径打通",
+          "summary": "AI大模型商业化路径逐渐清晰，为产业发展提供新机遇。",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBkaE5FVWxkMnpURmpFNUJzWFpDWEV0LVRiWXBlSUhNbDdjQTF6a3djdzNEeUJJUmtNR0VaakFBWUlITlY2ZlpHZlk2TDVJRE5HNHdwUlp0MUNJRThSd1cyOEU4VmxpQVg4QW1wdFhmeFpfQkFuNGhJ?oc=5",
+          "hotness": 80
+        },
+        {
+          "title": "AI Agent推动舱驾一体芯片需求",
+          "summary": "AI Agent应用从对话转向实际任务执行，倒逼舱驾一体芯片成为市场刚需。",
+          "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1vTW9od0FueTFCQ2pCaV9tZFpVTWNmZ3dRRGVmUWJkUnBjVm5OY1VwSE5qN0wtNFVNS2RKVjRJeFctaVE?oc=5",
+          "hotness": 75
+        },
+        {
+          "title": "AI赋能商贸物流",
+          "summary": "AI技术正在重塑河北商贸物流竞争格局，创造新的竞争优势。",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE92aWRxcS1YTERCb3dtanVNSGRlY2R5bEljNk1XWS1WaDEyaVR6Vm5NVVJ4V3ZGLUhCSEQ1MUlEOXZCUDZUTHFPTDFUckxUOVZrMmJ1dzVXRWs4RVliNTNzUjcxUXFJbmxKUlBwRUZlRVJMbmQxUGxSVg?oc=5",
+          "hotness": 70
+        },
+        {
+          "title": "UnitedHealth投入30亿美元推进AI应用",
+          "summary": "UnitedHealth集团投资30亿美元发展AI，使用机器人呼叫医生，推动医疗自动化。",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeVd2bms2M20zMWdERjUyVjNfT0pUd2NRYUE2cEJjbGRNX3I4b2NjWTZsRmhXRFkwemNLMDVWWkVlTmhqLWtWSEJNbG1pM0NDdllaa2Q4c0ZJdERzMWdrSGxtWW1DTTIzM3BDUE80ZGNzRjM3U0FabFVtZjFCSWtwZ0h3TDRIRzN1dUE1VUtmanNJd2E4ZkhGNm9XVGN2SXUxTE45V0J0YUxTVEdKS2JfeA?oc=5",
+          "hotness": 75
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "title": "AI生成肩部数字孪生体研究",
+          "summary": "Advita Ortho在CAOS 2026展示AI生成肩部数字孪生体和手术导航新研究成果。",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPWVVIWFNsZ1o1UG9ONjZmSkdNWXlmZzZveU9pLXIzUTRQNUhlUW5DTXZ3Z2JnUExoNGJSa0lkSlZxcFh2SWVGdDdES1JsMVB2d3FHaS0yYkQxd0hjZkhqS3V2MFJIRzN3aG02YW9mSWc0RDgzOEYtdlQ2M2doZVo1NGpNckJ3S2ZSVFhGNUFMbUpkREtHRHl5TW9FcGJDSnlycDZpRmljbkJZdnZMQVN6NXhuMjJsOTBxUlE5ZkpCbEZRRk94dzlCU011WklGVVhlR3dQNkZDOVB0VWpTZUdHZU9ZcklhZw?oc=5",
+          "hotness": 65
+        },
+        {
+          "title": "《人工智能与药物设计》获国际奖项",
+          "summary": "《人工智能与药物设计》英文版荣获Springer Nature'中国新发展奖'。",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9MX3kyLURSajVUUU5iYzI5RVZxM05BZHMzeE9zQm1teHJzTzUtSE9WWUE0V3pSMGhWYmlEMW0wSVdRY2EwM0RfTUxqcTJ1ek9YQU51RTZn?oc=5",
+          "hotness": 60
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": []
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "title": "挪威禁止小学使用AI",
+          "summary": "挪威实施近乎全面的AI禁令，禁止在小学阶段使用人工智能技术。",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVkxUbENacTJvOWN5TXpEeWZGbmppRFVUVmthNUJHTlBlb09mdVdYeU10bzhFLXBIcl92VlpHU1UzQmV6WlhtS1V5ZHE1blNaODdQaWF1WU84Zm1aNHhuMkpEVHhEZVZSY0RMQjFJWTg5QmROeEtCUmtxTDNKSExGMUxDZkR6azVRc1RpQmliSzVuclBmT2c?oc=5",
+          "hotness": 85
+        },
+        {
+          "title": "法国总统呼吁AI监管合作",
+          "summary": "法国总统敦促美国分享尖端AI技术，并呼吁民主国家在AI监管方面加强合作。",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQaVVNdzY1dzVHdDR0elZsZXhoeGFReWlsU2tNS0tqaUlzeENBX2Rvb0hVNURuVHZUQk41Z1drZFpBZ2E3WUVYYTJGX0pHS2ZuV1plb2ZyQUtMOWtUZUd0M3d3dnlNbTVhcHdYU0RLY1pTX2lMUFhPWEJTVnltQl9JdzhCa2picnh5Z0prMHhHNF9kcUVVMjkzeFQ1MmlfalVHRGJweDF0cXQ5eWVPYmpJUUJNZnhScEpJNnVUZFFHY3gwRFJm?oc=5",
+          "hotness": 80
+        },
+        {
+          "title": "北大教授谈AI与教育公平",
+          "summary": "北大哲学系教授关注AI时代下教育公平问题，担忧孩子被定义为'落后'的风险。",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9CaXNNQ2lIRWFKU0lzV2U1d0hWZl9LVkg1SzlHQ0htRkpwY2VOemVxUFFXSkRSNEpTYXZDYVU1UU5pajYxUEhKQ3UxYXo1VmMzbkQ5aHhpZjMzT3dJV3F2d3BQaTVFNHJTVGNWQ3FKNHhjUE5WTDBTNXJEcVJfRk0?oc=5",
+          "hotness": 75
+        },
+        {
+          "title": "AI生成内容版权争议",
+          "summary": "9个AI生成的广告作品获奖，引发关于真实性与版权的讨论。",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kelBpMm5jZzE1QlB6Q3lrSmdqX1Bab1JEdGhLZjNpcnVBNVI1dzFOLUV3YkZwdnQ4ZV9nNjNiRVJQdWhHeW1oNkwzRnR4NjRLZzdVMERCaC1JMlJyc0dZM05mOFpJQjBlZ3cxb1plXzY3czFreXc?oc=5",
+          "hotness": 70
+        },
+        {
+          "title": "文学IP全面AI化引发伦理思考",
+          "summary": "王长田质疑用AI生产数千部漫剧并将文学网站IP全面AI化的伦理合理性。",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5BWTRTZUhzSkkyRVZZY2RmNWFTWTU1R3k1Q1I0V3ZPRU82WHkyLWxUdEpmZ0Q3M1pXRTQ2Y29SN3g3bWFWaFhDckhLdXpaeHZFVE02QUN2QmVwVDJVR0E?oc=5",
+          "hotness": 75
+        }
+      ]
+    }
+  }
+}

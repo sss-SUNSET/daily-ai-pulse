@@ -1,0 +1,173 @@
+{
+  "overview": [
+    "Google 发布 Gemini 4 Hydrogen，主打速度与智能显著提升，并成为默认搜索模型，同时强化开发者编码与 Agent 工作流。",
+    "DeepSeek 开放全家桶应用 API，开发者可 1:1 复刻完整 DeepSeek App，深度思考搜索等能力全面开放。",
+    "OpenAI 推出 ChatGPT Wallet，让 ChatGPT Work、Codex 中的 Agent 可安全支付与购物，智能体商业化再进一步。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "id": 23,
+          "title": "OpenAI 推出 ChatGPT Wallet，Agent 可安全支付与购物",
+          "summary": "OpenAI 上线 ChatGPT Wallet，为 ChatGPT Work、Codex 等场景中的智能体提供安全支付能力，推动 Agent 从对话走向交易闭环。（合并源：23,37）",
+          "hotness": 92,
+          "link": "https://openai.com/index/introducing-chatgpt-wallet",
+          "source": "OpenAI Blog"
+        },
+        {
+          "id": 31,
+          "title": "OpenAI 重组具身智能团队，让通用 AI 当机器人“大脑”",
+          "summary": "OpenAI 解散独立机器人团队并调整人员，计划让 GPT-6 Astra 等通用 AI 承担机器人“大脑”角色，具身智能路线再调整。",
+          "hotness": 90,
+          "link": "https://www.ithome.com/1/027/004.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 13,
+          "title": "黄仁勋辞任英伟达 CEO 传闻震动 AI 圈，董事会澄清继任者接触",
+          "summary": "英伟达 CEO 黄仁勋辞任消息引发行业震动，董事会被曝物色继任者且 Arm CEO Rene Haas 进入候选，但董事会澄清尚未正式接触；事件或影响 Anthropic 下周重磅 IPO。（合并源：13,32,35,39）",
+          "hotness": 96,
+          "link": "https://siliconangle.com/2026/11/13/nvidia-ceo-jensen-huangs-abrupt-departure-shakes-ai-industrys-foundations/",
+          "source": "SiliconANGLE"
+        },
+        {
+          "id": 22,
+          "title": "Anthropic 三天内将模型移植到 AMD GPU，挑战 CUDA 生态",
+          "summary": "Anthropic 仅用三天把模型移植到 AMD GPU，展示非 CUDA 路线的可行性，对英伟达软件护城河构成潜在挑战。",
+          "hotness": 90,
+          "link": "https://dataconomy.com/2026/11/12/anthropic-ports-model-to-amd-gpus-in-three-days/",
+          "source": "Dataconomy"
+        },
+        {
+          "id": 6,
+          "title": "Google 与三星将于 12 月发布 AI 智能眼镜",
+          "summary": "Google 联合三星推进 AI 智能眼镜，预计 12 月/下月上市，CNET 已试戴，AR 与 AI 助手硬件竞争升温。（合并源：6,7,10）",
+          "hotness": 86,
+          "link": "https://www.bloomberg.com/news/articles/2026-11-12/google-samsung-launch-sales-of-smart-glasses-with-warby-parker-gentle-monster",
+          "source": "Bloomberg"
+        },
+        {
+          "id": 42,
+          "title": "xAI 资源转向 AI 编程与 Grok Bot，Grok Imagine 裁员约 60 人",
+          "summary": "xAI/SpaceXAI 将资源向 AI 编程工具与 Grok Bot 倾斜，视频图像工具 Grok Imagine 团队裁减约 60 人，产品优先级明显重组。",
+          "hotness": 80,
+          "link": "https://www.ithome.com/1/026/961.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 0,
+          "title": "微软在 AI 投资背景下向 6 万名员工提供买断方案",
+          "summary": "微软向约 6 万名员工提供自愿买断，反映其在加码 AI 基础设施投资的同时持续优化人力成本结构。",
+          "hotness": 78,
+          "link": "https://mashable.com/tech/microsoft-buyouts-60000-employees",
+          "source": "Mashable"
+        },
+        {
+          "id": 1,
+          "title": "嘉信理财与 Anthropic 达成独家合同，AI 进入 RIA 托管核心",
+          "summary": "嘉信理财与 Anthropic 签订（暂时）独家合同，在 RIA 托管业务中把 AI 放到“驾驶座”，但分析师对差异化与入场时机仍有争议。",
+          "hotness": 75,
+          "link": "https://riabiz.com/a/2026/9/15/schwab-scores-exclusive-for-now-contract-with-anthropic-and-takes-ai-drivers-seat-in-ria-custody-analyst-says-though-others-counter-that-its-generic-and-late-coming",
+          "source": "RIABiz"
+        },
+        {
+          "id": 20,
+          "title": "Disney 在 Meta Quest 上线 3D 电影，抢位沉浸式内容生态",
+          "summary": "Disney 在 Meta Quest 推出 3D 电影，抢在 Meta VR 眼镜发布前卡位沉浸式内容，硬件与内容生态协同加速。",
+          "hotness": 72,
+          "link": "https://9to5google.com/2026/11/12/disney-just-launched-3d-movies-on-the-meta-quest-ahead-of-meta-vr-glasses-release/",
+          "source": "9to5Google"
+        },
+        {
+          "id": 53,
+          "title": "国产化太空超算载荷在上海诞生，未来向全球输出算力",
+          "summary": "我国业务化太空超算载荷在上海落地，芯片全国产，未来可向全球输送算力，拓展天基算力基础设施。",
+          "hotness": 72,
+          "link": "https://www.jfdaily.com/news/detail?id=1210465",
+          "source": "上观新闻"
+        },
+        {
+          "id": 3,
+          "title": "Google、Meta 等推动成立阿拉巴马州数据中心行业协会",
+          "summary": "Google、Meta 等协助成立阿拉巴马州数据中心行业组织，旨在统一政策发声，凸显算力基础设施与地方监管的博弈升温。",
+          "hotness": 70,
+          "link": "https://yellowhammernews.com/google-meta-help-launch-alabama-trade-association-for-data-center-industry-unified-voice-on-policy/",
+          "source": "Yellowhammer News"
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "id": 5,
+          "title": "Google 发布 Gemini 4 Hydrogen，速度与智能显著提升",
+          "summary": "Google 推出 Gemini 4 Hydrogen，称在速度与智能上实现显著跃升，并成为默认搜索模型；较小 Hydrogen 在发布四周后评分超过更大 Argon，开发者编码与 Agent 工作流同步强化。（合并源：5,8,9,11,12,14,15,16,18）",
+          "hotness": 99,
+          "link": "https://the-decoder.com/googles-gemini-4-hydrogen-outscores-the-bigger-argon-just-four-weeks-after-its-launch/",
+          "source": "The Decoder"
+        },
+        {
+          "id": 43,
+          "title": "DeepSeek 开放全家桶应用 API，可 1:1 复刻完整 App",
+          "summary": "DeepSeek 正式开放全家桶应用 API，开发者开启对应参数即可获得深度思考搜索等完整能力，并能 1:1 复刻 DeepSeek App。",
+          "hotness": 99,
+          "link": "https://www.ithome.com/1/026/960.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 2,
+          "title": "Anthropic Claude 登顶 AI 排名，OpenAI 限制网络安全模型",
+          "summary": "Anthropic Claude 在最新 AI 排名中登顶，同时 OpenAI 对其网络安全模型设限，能力竞争与安全边界再次成为焦点。",
+          "hotness": 88,
+          "link": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropics-claude-tops-ai-rankings-as-openai-limits-cyber-model/",
+          "source": "PYMNTS.com"
+        },
+        {
+          "id": 4,
+          "title": "Google Gemini Decisions API 将 20 项检查成本降低 16 倍",
+          "summary": "Google 推出 Gemini Decisions API，把 20 项检查成本降低 16 倍，但顶级决策模型仅通过 63% 文档，效率与准确率仍需权衡。",
+          "hotness": 82,
+          "link": "https://www.techtimes.com/articles/330611/20261113/google-gemini-decisions-api-cuts-20-check-cost-16x-top-decision-model-passes-63-documents.htm",
+          "source": "Tech Times"
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "id": 19,
+          "title": "MiniMax 发布开源权重图像模型 H3-Image",
+          "summary": "MiniMax 推出开源权重图像模型 H3-Image，仅更贵的高速档可接近 10 秒生成 4K 图像，开源多模态生态再添重要成员。",
+          "hotness": 96,
+          "link": "https://www.techtimes.com/articles/330529/20261112/minimax-releases-open-weight-image-model-h3-image-only-pricier-highspeed-tier-nears-10-second-4k.htm",
+          "source": "Tech Times"
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "id": 52,
+          "title": "360 入选首批中国信通院 AI 安全风险监测合作单位",
+          "summary": "360 成为首批中国信通院人工智能安全风险监测合作单位，显示 AI 安全治理与风险监测体系建设正在加速落地。",
+          "hotness": 65,
+          "link": "http://jjckb.xinhuanet.com/20261113/f6dbe4fe711c40bbb236ab71c815fab7/c.html",
+          "source": "经济参考报"
+        },
+        {
+          "id": 51,
+          "title": "“十五五”时期我国将深化拓展“人工智能+”行动",
+          "summary": "政策层面明确“十五五”将深化“人工智能+”行动，推动 AI 与产业深度融合，同时强化发展与治理并重。",
+          "hotness": 64,
+          "link": "https://www.cac.gov.cn/2026-11/13/c_1796327469005843.htm",
+          "source": "中央网络安全和信息化委员会办公室"
+        }
+      ]
+    }
+  }
+}

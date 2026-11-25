@@ -649,11 +649,16 @@ function hydrateParsedSummary(parsedData, rawData) {
   return parsedData;
 }
 
+function getBeijingDateStr() {
+  return new Intl.DateTimeFormat('en-CA', { timeZone: 'Asia/Shanghai' }).format(new Date());
+}
+
 /**
  * Run the summary through LLM (Gemini or OpenAI compatible) with Prefix Caching & ID Pruning
  */
-async function summarizeWithAI(rawData) {
+async function summarizeWithAI(rawData, options = {}) {
   const provider = (process.env.LLM_PROVIDER || '').toLowerCase();
+  const requireLLM = Boolean(options.requireLLM);
   
   // 1. Prune input fields to save 70%+ tokens (strip raw long URLs, timestamps, html blobs)
   const prunedData = rawData.map((item, idx) => ({
@@ -720,6 +725,9 @@ ${JSON.stringify(prunedData, null, 2)}
     const modelName = process.env.OPENAI_MODEL_NAME || 'gpt-4o-mini';
 
     if (!apiKey) {
+      if (requireLLM) {
+        throw new Error('OPENAI_API_KEY is not configured while --require-llm is enabled.');
+      }
       console.warn('\n⚠️ [AI Summarizer] LLM_PROVIDER is set to "openai" but OPENAI_API_KEY is not configured in .env.');
       console.warn('Running in fallback mode with simulated AI summarization.\n');
       return generateFallbackSummary(rawData);
@@ -803,6 +811,9 @@ ${JSON.stringify(prunedData, null, 2)}
   } else if (provider === 'gemini') {
     const apiKey = process.env.GEMINI_API_KEY;
     if (!apiKey) {
+      if (requireLLM) {
+        throw new Error('GEMINI_API_KEY is not configured while --require-llm is enabled.');
+      }
       console.warn('\n⚠️ [AI Summarizer] LLM_PROVIDER is set to "gemini" but GEMINI_API_KEY is not configured in .env.');
       console.warn('Running in fallback mode with simulated AI summarization.\n');
       return generateFallbackSummary(rawData);
@@ -826,6 +837,9 @@ ${JSON.stringify(prunedData, null, 2)}
       throw new Error(`Gemini API summarization failed: ${error.message}`);
     }
   } else {
+    if (requireLLM) {
+      throw new Error('No valid LLM_PROVIDER configured while --require-llm is enabled.');
+    }
     console.warn('\n⚠️ [AI Summarizer] No valid LLM_PROVIDER configured in .env (expected "openai" or "gemini").');
     console.warn('Running in fallback mode with simulated AI summarization.\n');
     return generateFallbackSummary(rawData);
@@ -959,7 +973,7 @@ async function gatherAllNews() {
  * Run a single full aggregation pipeline cycle
  */
 async function runOnce(options = {}) {
-  const dateStr = new Date().toISOString().split('T')[0];
+  const dateStr = getBeijingDateStr();
   const startTime = new Date().toLocaleTimeString();
   console.log(`\n========================================`);
   console.log(`🤖 DailyAI Pulse | Pipeline Starting at ${startTime} for: ${dateStr}`);
@@ -997,7 +1011,7 @@ async function runOnce(options = {}) {
     }
 
     // 2. Perform AI summary & deduplication & hotness evaluation
-    const summaryData = await summarizeWithAI(cappedRawData);
+    const summaryData = await summarizeWithAI(cappedRawData, { requireLLM: options.requireLLM });
     if (!summaryData) {
       return { success: false, error: 'AI summarization returned empty result' };
     }
@@ -1086,9 +1100,10 @@ async function run(options = {}) {
 if (process.argv[1] && process.argv[1].endsWith('aggregate.js')) {
   const skipEmail = process.argv.includes('--no-email');
   const singleRun = process.argv.includes('--once');
+  const requireLLM = process.argv.includes('--require-llm');
   const retries = singleRun ? 1 : 3;
   const retryDelayMinutes = 5;
-  run({ email: !skipEmail, isCron: true, retries, retryDelayMinutes });
+  run({ email: !skipEmail, isCron: true, retries, retryDelayMinutes, requireLLM });
 }
 
 export { run, runOnce, decodeGoogleNewsUrl };

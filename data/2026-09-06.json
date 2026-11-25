@@ -1,0 +1,148 @@
+{
+  "overview": [
+    "OpenAI发布GPT-6 Astra模型，性能突破并自称开启AGI时代，但可监控性引发业界担忧。",
+    "Anthropic销售额激增有望迎首个季度盈利，同时IPO计划推迟至10月中旬，商业化步伐加速。",
+    "中美将于9月中旬举行AI安全会谈，全球AI治理框架博弈成为焦点。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "id": 0,
+          "title": "打破AI烧钱魔咒！Anthropic销售额暴增，有望迎来首个季度盈利",
+          "summary": "Anthropic营收增长强劲，预计即将实现首个季度盈利，缓解市场对AI公司持续亏损的担忧。",
+          "hotness": 85,
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9FZ3J5WWVWb3ZmU1gtTnNjVVRWdWM1ZnpsUUhxZG9XU2k5UnBVekZsaURCaUViSTRuaHBZZWdURXI1MnczZ3QtLQ?oc=5",
+          "source": "财联社"
+        },
+        {
+          "id": 6,
+          "title": "消息称Anthropic IPO推迟至10月中旬",
+          "summary": "据路透社独家消息，Anthropic首次公开募股时间延至10月中旬，发行窗口后移。",
+          "hotness": 80,
+          "link": "https://www.reuters.com/world/anthropic-ipo-launch-shifts-toward-mid-october-sources-say-2026-09-04/",
+          "source": "Reuters"
+        },
+        {
+          "id": 4,
+          "title": "OpenAI将收购Python工具商Astral，对抗Anthropic生态",
+          "summary": "OpenAI宣布收购Python工具制造商Astral，以增强开发者工具链，与Anthropic展开竞争。",
+          "hotness": 75,
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNVZmVWMxWkNYS0ViTXlhR05HcHU2OEJBQjk2b1hPVGRYNERkOFdPS0FuRDlLMjRVU3ZQNlJ5a1o0NTJzMG1lWDFGLUFrNFUzQ0dNQkZvQ29EME02M0hUMldZVGdFUDU0WWZ4d3hGODFKa0JHdEllaUQtTTlJNzR1MERqUmthek85WF9LVUlXalQwQjFkakFHUXlPbFpBQW54bVdpNVN3?oc=5",
+          "source": "Yahoo Finance"
+        },
+        {
+          "id": 32,
+          "title": "实测豆包工作：从“写材料”到“管流程”，企业级AI Agent进入体系竞争期",
+          "summary": "豆包在企业场景中实现流程管理，显示AI Agent正从文档生成转向综合业务自动化。",
+          "hotness": 70,
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9LdUpkTjktdUpTUFhTRVktcVZWaHN6eld4RDIzM01yY3ZWNTF0RUh0eTFVT3hZeko1MVZ6WUlZckJ6NnpMcG5MWnlzS1hCWGppYXdySkJlaXdZS0xRdVhvYg?oc=5",
+          "source": "东方财富"
+        },
+        {
+          "id": 46,
+          "title": "联想集团携手英伟达，将千亿参数大模型装进笔记本",
+          "summary": "联想与英伟达合作，在消费级笔记本上本地运行千亿参数大模型，推动端侧AI落地。",
+          "hotness": 70,
+          "link": "http://k.sina.com.cn/article_1496814565_v593793e5020024yqe.html",
+          "source": "新浪网"
+        },
+        {
+          "id": 44,
+          "title": "天奇股份投资超10亿元具身智能机器人产业项目开工",
+          "summary": "天奇股份在具身智能机器人领域投资超10亿元，相关项目正式开工，布局下一代智能硬件。",
+          "hotness": 60,
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ZNkpPenN4WjNINHE4VkFrUVVQdHNnbGw0V21NTklrNjI1UW9aTXE4UWs3ZFhOU1J0ZnZoa3d5Szk4Q25PZWJ5M1NJQ1BzQ3pVLWYzRnEwalJ0dmc4N0MyY2pCaU1FQQ?oc=5",
+          "source": "东方财富"
+        },
+        {
+          "id": 36,
+          "title": "广东省人工智能核心产业规模突破3000亿元",
+          "summary": "广东省AI核心产业规模已超过3000亿元，显示区域AI产业持续高速增长。",
+          "hotness": 60,
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9lN2V4REg4azRuWnlESHNEMXlTYi1WZTc3RTZpQ25udUxQcFFqMV83RVhmTHVGREpwdkxaUDd2UHZheEJ3NkhSSFhUaTFKcDlDSUlHaG5pb3pZeW5fZUJreVU0RVg1QWc5?oc=5",
+          "source": "chinanews.com.cn"
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "id": 1,
+          "title": "OpenAI发布GPT-6 Astra模型，称“欢迎来到AGI时代”",
+          "summary": "OpenAI推出新一代模型GPT-6 Astra，性能大幅提升，总裁布罗克曼宣称已触及AGI里程碑，但业界对其可监督性表示忧虑。",
+          "hotness": 100,
+          "link": "https://openai.com/index/gpt-6-astra/",
+          "source": "OpenAI"
+        },
+        {
+          "id": 8,
+          "title": "Google扩展Gemini家族，连推3个新AI模型",
+          "summary": "谷歌发布三款全新Gemini模型，主打速度、token效率与可扩展性，进一步丰富其模型矩阵。",
+          "hotness": 85,
+          "link": "https://nokiapoweruser.com/google-expands-gemini-family-3-new-ai-models-speed-token-efficiency-scale/",
+          "source": "nokiapoweruser.com"
+        },
+        {
+          "id": 9,
+          "title": "Gemini集成Lyria 3.5音乐模型，应用端首次落地",
+          "summary": "谷歌音乐生成模型Lyria 3.5正式在Gemini应用中亮相，支持音乐创作与编辑。",
+          "hotness": 70,
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRjNfZnVhTWRqWTQycnRXZlpHYkw3djN2Xzd5RlYxVEN4dzh3QmhQQnBNRXZaY0xFeGtScXlkTlNyTWxPX0U4c0oxaG5HMGJpczlfaHR6NGoyYlBsRzBCNVZvZ09oeTF4NXJoMEpTTFlFNnlWa3BIcFo4RWNzMzhLZlVFUk02eU0?oc=5",
+          "source": "Android Authority"
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": []
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "id": 58,
+          "title": "美国与中国将于9月中旬举行AI安全会谈",
+          "summary": "据路透社报道，中美双方计划在9月中旬就AI安全问题展开磋商，以缓解技术竞争中的风险。",
+          "hotness": 85,
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWXF6YUVOSE9MME51X1dMTFVRYTRTNkJtNEJnMlB5T0thazY3MVBwM21vbERmaE1LSnhWMjhhNTlCcllHM2JKRXhQVkExMkZmaVdmcGMzOC1kd29QZWxCTDcyczV0SW41RXBSeW91YlZoVFdEaTBVdlhJYkVtb2ViQWtObW9PWUlfdmplYkp2eG9MbWxWaVNvMzNvTdIBoAFBVV95cUxNdi1SRWd6SjBRZjRXaXFTaTZkQzB3LThBVjRvOEExZ29JTFREeUl6d0w0amZubVA1QTdTbUh2bVlqR2JqZElrU1VXRHdVaDJIUHRhZjk0MjdFbm1fU2oxZ05FV0UyZklYMm5idXdlZ2Z3cEVReUtadWVrNDhsaVFmb3FleHUwQzBtS1pTaUZTS0tpeTJoWkQyZEJiREdIczVC?oc=5",
+          "source": "CNBC"
+        },
+        {
+          "id": 5,
+          "title": "佛罗里达州起诉OpenAI及CEO奥特曼，指控营销忽视安全风险",
+          "summary": "佛罗里达州政府起诉OpenAI和Sam Altman，称其在推广ChatGPT时无视用户安全风险，要求法律追责。",
+          "hotness": 80,
+          "link": "https://fortune.com/2026/06/01/florida-sues-openai-ceo-sam-altman-chatgpt-safety-warnings/",
+          "source": "Fortune"
+        },
+        {
+          "id": 13,
+          "title": "OpenAI承诺建立新框架，更透明披露AI智能体“失控”情况",
+          "summary": "OpenAI宣布将出台新机制，在AI智能体行为偏离或失控时向公众及时披露，增强安全透明度。",
+          "hotness": 70,
+          "link": "https://www.ithome.com/0/998/859.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 33,
+          "title": "研究揭示OpenAI智能体可“劫持”网站，引发安全担忧",
+          "summary": "最新研究显示，OpenAI的AI智能体在特定条件下能劫持网站内容，暴露潜在网络安全漏洞。",
+          "hotness": 70,
+          "link": "https://k.sina.com.cn/article_1699432410_654b47da01901vn6m.html?from=tech",
+          "source": "新浪网"
+        },
+        {
+          "id": 40,
+          "title": "OpenAI就欧盟《行为准则》发声：影响AI在欧洲的未来",
+          "summary": "OpenAI针对欧盟AI行为准则发表看法，强调该法规将决定AI技术在欧洲的发展路径。",
+          "hotness": 60,
+          "link": "https://openai.com/zh-Hans-CN/global-affairs/eu-code-of-practice/",
+          "source": "OpenAI"
+        }
+      ]
+    }
+  }
+}

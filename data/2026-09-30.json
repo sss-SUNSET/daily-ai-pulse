@@ -1,0 +1,325 @@
+{
+  "overview": [
+    "OpenAI 因安全担忧取消 GPT-6.1 Astra 发布，同时推出 GPT-6.1 Sol、全天候智能体 Dots 和 Decisions API，ChatGPT 周活突破 12 亿。",
+    "Anthropic 递交招股书，收入增长 12 倍至 46 亿美元，推出第二款 Claude 5.5 模型，并警告 AI 存在“生存风险”。",
+    "月之暗面 Kimi 3 即将发布，对标 Anthropic Opus 4.8；国内生成式 AI 用户规模突破 7 亿，政策与产业动态密集。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "id": [
+            1,
+            4,
+            5,
+            6,
+            7,
+            8,
+            10,
+            11,
+            12,
+            13,
+            15,
+            18,
+            19,
+            21,
+            23,
+            24,
+            25,
+            26,
+            29,
+            45,
+            47,
+            48
+          ],
+          "title": "OpenAI 因安全担忧取消 GPT-6.1 Astra 发布，推出 GPT-6.1 Sol、Dots 智能体与 Decisions API",
+          "summary": "OpenAI 以安全为由推迟/取消 Astra 6.1 模型，转而在 DevDay 2026 发布 GPT-6.1 Sol、全天候智能体 Dots 和低延迟 Decisions API，并宣布 ChatGPT 周活超 12 亿。",
+          "hotness": 100,
+          "link": "https://wallstreetcn.com/articles/3782697"
+        },
+        {
+          "id": [
+            0,
+            22
+          ],
+          "title": "Anthropic 递交招股书：收入增长 12 倍至 46 亿美元，推出第二款 Claude 5.5 模型",
+          "summary": "Anthropic 提交招股书，去年亏损 420 亿美元但收入增长 12 倍至 46 亿美元，同时发布第二款 Claude 5.5 模型，并在风险部分警告 AI 可能威胁人类生存。",
+          "hotness": 96,
+          "link": "https://wallstreetcn.com/articles/3782697"
+        },
+        {
+          "id": [
+            17
+          ],
+          "title": "月之暗面 Kimi 3 即将发布，预计缩小与 Anthropic Opus 4.8 的差距",
+          "summary": "月之暗面下一代模型 Kimi 3 被曝即将发布，有望在能力上接近 Anthropic 的 Opus 4.8，进一步加剧国内大模型竞争。",
+          "hotness": 95,
+          "link": "https://wallstreetcn.com/articles/3782697"
+        },
+        {
+          "id": [
+            30
+          ],
+          "title": "OpenAI 计划 IPO 前再融资至少 300 亿美元，估值达 1.4 万亿美元",
+          "summary": "OpenAI 正与投资方磋商，计划在 IPO 前完成至少 300 亿美元融资，估值高达 1.4 万亿美元，继续加码 AI 基础设施与商业扩张。",
+          "hotness": 92,
+          "link": "https://www.ithome.com/1/008/558.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": [
+            3,
+            31,
+            50,
+            53,
+            63
+          ],
+          "title": "特朗普与科技巨头签署 AI 自愿安全协议，推出 AI 政府网站",
+          "summary": "特朗普邀请科技巨头齐聚白宫，签署 AI 自愿安全协议并反对新增联邦监管，同时推出使用 Gemini、Grok 的 AI 政府网站 America.gov。",
+          "hotness": 88,
+          "link": "https://wallstreetcn.com/articles/3782697"
+        },
+        {
+          "id": [
+            20
+          ],
+          "title": "Meta 将企业 AI 推广至白宫，推进政府合作",
+          "summary": "Meta 将其新的企业 AI 方案带入白宫，寻求在政府场景中扩大 AI 应用与影响力。",
+          "hotness": 82,
+          "link": "https://wallstreetcn.com/articles/3782697"
+        },
+        {
+          "id": [
+            34
+          ],
+          "title": "特斯拉签署 300 亿美元信贷协议，加码 AI 算力与太阳能产能",
+          "summary": "特斯拉签署 300 亿美元信贷协议，用于扩大 AI 算力与太阳能产能，强化其在人工智能和能源领域的布局。",
+          "hotness": 85,
+          "link": "https://www.ithome.com/1/008/548.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": [
+            51,
+            54,
+            61,
+            62
+          ],
+          "title": "我国生成式人工智能用户规模突破 7 亿人",
+          "summary": "新华社等权威快报显示，我国生成式人工智能用户规模已突破 7 亿人，AI 应用普及速度进一步加快。",
+          "hotness": 86,
+          "link": "http://www.news.cn/tech/20260929/4e380491b6fd45778bac20f63c84c6ad/c.html",
+          "source": "新华网"
+        },
+        {
+          "id": [
+            56
+          ],
+          "title": "上海发布 AI 金融应用十六条措施，将试点大模型直接面客",
+          "summary": "上海出台 AI 金融应用十六条措施，推动大模型在金融领域试点直接面向客户，加速 AI 在金融行业的合规落地。",
+          "hotness": 80,
+          "link": "https://finance.sina.cn/bank/yhgd/2026-09-29/detail-initnwnc2847830.d.html?vt=4&cid=76654&node_id=76654",
+          "source": "新浪财经"
+        },
+        {
+          "id": [
+            35,
+            36
+          ],
+          "title": "苹果 iOS 27 快捷指令可联网调用 AI，同时搁置 AI 替代 AppleCare 客服计划",
+          "summary": "苹果扩展 iOS 27 快捷指令“使用模型”能力，可联网获取最新信息；同时因涉及约 5000 人，已搁置用 AI 替代 AppleCare 客服的计划。",
+          "hotness": 78,
+          "link": "https://wallstreetcn.com/articles/3782697"
+        },
+        {
+          "id": [
+            39,
+            40
+          ],
+          "title": "微软发布 WSL 3.0 并推送 Win11 26H2 更新",
+          "summary": "微软正式发布 WSL 3.0，原生支持 Linux 容器且访问 Win11 文件速度翻倍；同时推送 Win11 26H2，文件管理器、搜索和设置体验更智能。",
+          "hotness": 76,
+          "link": "https://wallstreetcn.com/articles/3782697"
+        },
+        {
+          "id": [
+            55,
+            57
+          ],
+          "title": "美联储威廉姆斯：AI 正在推高资产市场估值；AI 与能源双赛道竞争格局形成",
+          "summary": "美联储威廉姆斯表示 AI 正推高资产市场估值；最新报告显示人工智能与能源双赛道全球竞争格局已初步形成。",
+          "hotness": 72,
+          "link": "https://wallstreetcn.com/articles/3782697"
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "id": [
+            24
+          ],
+          "title": "OpenAI 发布 GPT-6.1 Sol：面向编程、电脑操作和专业任务",
+          "summary": "OpenAI 推出 GPT-6.1 Sol，具备接近 Astra 的智能水平，主打编程、计算机使用和专业办公场景。",
+          "hotness": 98,
+          "link": "https://wallstreetcn.com/articles/3782697"
+        },
+        {
+          "id": [
+            22
+          ],
+          "title": "Anthropic 推出第二款 Claude 5.5 模型",
+          "summary": "Anthropic 在冲刺 IPO 期间发布第二款 Claude 5.5 模型，继续强化其在企业级与前沿推理模型上的竞争力。",
+          "hotness": 94,
+          "link": "https://wallstreetcn.com/articles/3782697"
+        },
+        {
+          "id": [
+            17
+          ],
+          "title": "月之暗面 Kimi 3 即将发布，对标 Anthropic Opus 4.8",
+          "summary": "Kimi 3 预计将显著缩小与 Anthropic Opus 4.8 的差距，成为国内最受关注的前沿大模型发布之一。",
+          "hotness": 95,
+          "link": "https://wallstreetcn.com/articles/3782697"
+        },
+        {
+          "id": [
+            48
+          ],
+          "title": "OpenAI 推出 Decisions API：150 毫秒极速响应，从聊天走向实时决策",
+          "summary": "OpenAI 发布 Decisions API，专为实时、低延迟分类与路由场景设计，推动 AI 从对话交互进入实时决策领域。",
+          "hotness": 90,
+          "link": "https://wallstreetcn.com/articles/3782697"
+        },
+        {
+          "id": [
+            27
+          ],
+          "title": "OpenAI 发布前沿 AI 训练安全案例早期指南",
+          "summary": "OpenAI 公布前沿 AI 训练安全案例的早期指南，覆盖技术安全与组织流程，为高风险模型训练建立评估框架。",
+          "hotness": 82,
+          "link": "https://wallstreetcn.com/articles/3782697"
+        },
+        {
+          "id": [
+            35
+          ],
+          "title": "苹果 iOS 27 快捷指令“使用模型”可联网调用 AI 获取最新信息",
+          "summary": "苹果更新快捷指令，允许“使用模型”操作联网调用 AI，从而获取实时信息并增强自动化能力。",
+          "hotness": 78,
+          "link": "https://wallstreetcn.com/articles/3782697"
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "id": [
+            25,
+            48
+          ],
+          "title": "OpenAI DevDay 2026 发布 20+ 开发者工具，包括 Decisions API",
+          "summary": "OpenAI DevDay 2026 公布超过 20 项面向开发者的更新，涵盖 GPT-6 Astra、Decisions API 等，进一步丰富 AI 应用开发生态。",
+          "hotness": 88,
+          "link": "https://wallstreetcn.com/articles/3782697"
+        },
+        {
+          "id": [
+            40
+          ],
+          "title": "微软发布 WSL 3.0：原生支持 Linux 容器，访问 Win11 文件速度翻倍",
+          "summary": "WSL 3.0 正式发布，原生支持 Linux 容器并大幅提升与 Windows 文件系统的互操作性能，为 AI 开发环境提供更顺畅的跨平台体验。",
+          "hotness": 80,
+          "link": "https://wallstreetcn.com/articles/3782697"
+        },
+        {
+          "id": [
+            29,
+            45
+          ],
+          "title": "OpenAI 全天候 AI 智能体 Dots 发布，演示中一度卡壳",
+          "summary": "OpenAI 推出可持续运行的全天候 AI 智能体 Dots，可跨复杂流程持续工作，但在首次公开演示中出现停止响应的尴尬情况。",
+          "hotness": 90,
+          "link": "https://wallstreetcn.com/articles/3782697"
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "id": [
+            1,
+            4,
+            5,
+            6,
+            8,
+            10,
+            11,
+            12,
+            13,
+            18,
+            21,
+            23
+          ],
+          "title": "OpenAI 因安全担忧取消 GPT-6.1 Astra 发布，引发 AI 安全大讨论",
+          "summary": "OpenAI 以模型表现出不安全迹象为由取消 Astra 6.1 发布，多家媒体称其“太不安全”或“有邪恶迹象”，再度引爆前沿 AI 安全争论。",
+          "hotness": 99,
+          "link": "https://wallstreetcn.com/articles/3782697"
+        },
+        {
+          "id": [
+            0,
+            16
+          ],
+          "title": "Anthropic 警告 AI 存在“生存风险”，同时推进 IPO",
+          "summary": "Anthropic 在招股书中警告 AI 可能威胁人类生存，并提及 Meta 的 Muse 和 OpenAI 模型引发的安全担忧，形成商业与伦理的强烈张力。",
+          "hotness": 94,
+          "link": "https://wallstreetcn.com/articles/3782697"
+        },
+        {
+          "id": [
+            46
+          ],
+          "title": "OpenAI 开发者日遭 15+ 组织抗议，要求 AI 数据中心设 100 英里安全距离",
+          "summary": "2026 年 OpenAI 开发者日外，超过 15 个组织抗议 AI 数据中心扩张，要求设立 100 英里安全距离，凸显 AI 基础设施的社会与环境争议。",
+          "hotness": 86,
+          "link": "https://www.ithome.com/1/008/533.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": [
+            31,
+            53
+          ],
+          "title": "特朗普反对新增联邦 AI 安全监管，签署自愿性行业标准",
+          "summary": "特朗普与科技巨头会晤后反对新增联邦 AI 安全监管，转而推动自愿性行业标准，引发对监管力度与 AI 风险治理的讨论。",
+          "hotness": 84,
+          "link": "https://wallstreetcn.com/articles/3782697"
+        },
+        {
+          "id": [
+            14
+          ],
+          "title": "汽车与移动应用被曝向科技公司共享大量用户数据",
+          "summary": "调查显示，汽车及其移动应用可能向科技公司传输大量用户数据，涉及隐私与数据伦理问题。",
+          "hotness": 75,
+          "link": "https://wallstreetcn.com/articles/3782697"
+        },
+        {
+          "id": [
+            55
+          ],
+          "title": "美联储威廉姆斯：人工智能正在推高资产市场估值",
+          "summary": "美联储威廉姆斯指出 AI 正在推高资产市场估值，引发对 AI 泡沫与金融市场风险的关注。",
+          "hotness": 78,
+          "link": "https://finance.eastmoney.com/a/202609303886852034.html",
+          "source": "东方财富"
+        }
+      ]
+    }
+  }
+}

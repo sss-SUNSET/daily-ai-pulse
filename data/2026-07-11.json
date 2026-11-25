@@ -1,0 +1,52 @@
+{
+  "overview": [
+    "OpenAI发布GPT-5.6模型，成为微软365 Copilot首选模型",
+    "ChatGPT Work智能体功能升级，可跨应用执行任务并持续工作数小时",
+    "德国电信与OpenAI合作，推动电信行业AI原生转型"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "title": "德国电信与OpenAI合作推动电信AI转型",
+          "summary": "德国电信正通过与OpenAI合作成为AI原生电信公司，改造客户服务、员工工作流程和网络运营。",
+          "link": "https://openai.com/index/deutsche-telekom",
+          "hotness": 85
+        },
+        {
+          "title": "GPT-5.6成为微软365 Copilot首选模型",
+          "summary": "GPT-5.6现为微软365 Copilot首选模型，在Word、Excel、PowerPoint等应用中提供更强的AI能力。",
+          "link": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+          "hotness": 95
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "title": "GPT-5.6：前沿智能模型发布",
+          "summary": "OpenAI发布GPT-5.6模型，提供更强的token智能效率、性价比和按需能力扩展。",
+          "link": "https://openai.com/index/gpt-5-6",
+          "hotness": 98
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": []
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "title": "OpenAI生物漏洞赏金计划",
+          "summary": "OpenAI公布生物漏洞赏金计划细节，旨在提高AI生物安全领域的防护能力。",
+          "link": "https://openai.com/index/bio-bug-bounty",
+          "hotness": 75
+        }
+      ]
+    }
+  }
+}

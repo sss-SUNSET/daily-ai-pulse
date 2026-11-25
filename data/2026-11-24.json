@@ -1,0 +1,165 @@
+{
+  "overview": [
+    "智谱发布 GLM-5.4，称开源最强、与 Opus 5.5 差距缩至 5% 内，开源模型竞争再升温。",
+    "GPT-6.2 Astra-Sol、Gemini 4 Neon 与 Claude Fable 5.2 等新一代模型集中发布，主打企业生产力与横向评测。",
+    "Anthropic 推出 Claude Ship Beta，可自动审查、修复并批准代码；OpenAI 与 Cisco 同步开源 Shirudo 运行时，Agent 开发与安全工具链加速。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "id": 31,
+          "title": "英伟达恢复黄仁勋 CEO 职务，股价大涨 32%、市值增加超万亿美元",
+          "summary": "英伟达宣布恢复黄仁勋总裁兼 CEO 及董事职务，马斯克与特朗普发声，市场以 32% 开盘涨幅回应。（合并 id 21、22、23、31、32、33、36）",
+          "hotness": 92,
+          "link": "https://www.ithome.com/1/031/218.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 19,
+          "title": "Anthropic CEO 达里奥在 IPO 当天套现约 2.8 亿美元",
+          "summary": "SEC 文件显示其出售 337.8 万股；Anthropic 上市与高管减持引发关注。",
+          "hotness": 82,
+          "link": "https://www.ithome.com/1/031/253.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 62,
+          "title": "AI Agent 厂商 Sierra 完成 17.5 亿美元融资",
+          "summary": "Sierra 在营收快速增长期完成大额融资，显示企业级 Agent 赛道资本热度。",
+          "hotness": 80,
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSW4tR3NyaXNvZkxyMWZqZU5mczAxNTBPWDVfTmRsd3pKbWFoYW5naXNhaW9oVzhNUEZjX05HOEFWaDVmbjRiX3UyVGNFV0t0RmlnaFZta1UyQlBrSDJiQkVTZ3VOOGhBRkZycVppN1FqTTNxLU1WUnBsNzI2WEZyOUZ3ZDhCNnZCcDlzU28yVVpZVnBMUGQxcHd3bHdiV2J1NTk2RU9zMmJzUjJkZEpwMg?oc=5",
+          "source": "SiliconANGLE"
+        },
+        {
+          "id": 26,
+          "title": "马斯克承认 AI 研发落后，称出租 SpaceXSI 算力比自研 Grok 更赚钱",
+          "summary": "马斯克称算力租赁收益更优；对 Anthropic 或不续租算力，他表示乐意收回资源。（合并 id 26、48）",
+          "hotness": 78,
+          "link": "https://www.ithome.com/1/031/246.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 2,
+          "title": "Innovaccer 用 Grok Voice 扩展 Gravity 语音 AI Agent",
+          "summary": "医疗 AI 平台将 Grok Voice 模型接入语音智能体，拓展企业语音交互场景。",
+          "hotness": 66,
+          "link": "https://siliconangle.com/2026/11/23/innovaccer-expands-gravity-voice-ai-agents-with-spacexsis-grok-voice-model/",
+          "source": "SiliconANGLE"
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "id": 1,
+          "title": "智谱 GLM-5.4 发布：称开源最强，与 Opus 5.5 差距缩至 5% 内",
+          "summary": "智谱发布新一代大模型 GLM-5.4，强调开源性能领先并逼近闭源头部模型。",
+          "hotness": 98,
+          "link": "https://news.mydrivers.com/1/1167/1167847.htm",
+          "source": "驱动之家"
+        },
+        {
+          "id": 6,
+          "title": "GPT-6.2 Astra-Sol、Gemini 4 Neon、Claude Fable 5.2 集中发布",
+          "summary": "多家头部厂商同日推出面向企业生产力的新模型，评测显示 Astra 表现稳健但评价分化。（合并 id 6、10）",
+          "hotness": 97,
+          "link": "https://www.techtarget.com/news/model-release-gemini-4-neon-gpt-62-astra-sol-target-business-productivit/875440/",
+          "source": "TechTarget"
+        },
+        {
+          "id": 0,
+          "title": "Anthropic 被曝或已解决黎曼猜想，真实性待验证",
+          "summary": "BBC 报道称 Anthropic 可能取得黎曼猜想突破；若属实将是重大数学与 AI 研究事件，目前仍需同行验证。",
+          "hotness": 88,
+          "link": "https://www.bbc.com/zhongwen/articles/cwe85gr487dno/simp",
+          "source": "BBC"
+        },
+        {
+          "id": 28,
+          "title": "谷歌 DeepMind 用多组 Gemini 智能体优化量子算法，最高提速 290 倍",
+          "summary": "谷歌 DeepMind 与 Quantum AI 团队让 AI 智能体“开会”协作优化量子算法，缓解计算资源瓶颈。",
+          "hotness": 88,
+          "link": "https://www.ithome.com/1/031/232.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 53,
+          "title": "自变量科技推出首个具身大模型接口",
+          "summary": "面向具身智能场景的大模型接口发布，降低机器人等硬件接入大模型能力的门槛。",
+          "hotness": 80,
+          "link": "https://www.sohu.com/a/1105414309_120578424?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+          "source": "Sohu"
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "id": 17,
+          "title": "Anthropic 推出 Claude Ship Beta：AI 可自动审查、修复并批准代码",
+          "summary": "Claude Ship Beta 将代码审查、修复与批准流程自动化，进一步切入软件工程 Agent 场景。",
+          "hotness": 92,
+          "link": "https://www.ithome.com/1/031/257.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 14,
+          "title": "OpenAI 与 Cisco 开源 Shirudo：为 Linux 提供 Agentic AI 安全运行时",
+          "summary": "基于 eBPF 的开源运行时 Shirudo 旨在保护 Agentic AI 与 Linux 环境，减少重启修复需求。（合并 id 8、14、20、60）",
+          "hotness": 88,
+          "link": "https://openai.com/index/introducing-shirudo",
+          "source": "OpenAI Blog"
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "id": 11,
+          "title": "加州总检察长就模型安全与公共安全起诉 OpenAI",
+          "summary": "加州 AG Bonta 对 OpenAI 提起诉讼，聚焦模型安全与公共安全责任，监管压力升级。",
+          "hotness": 82,
+          "link": "https://www.reuters.com/world/california-ag-bonta-filed-lawsuit-against-openai-over-model-security-public-2026-11-23/",
+          "source": "Reuters"
+        },
+        {
+          "id": 38,
+          "title": "联合国秘书长呼吁建立全球 AI 安全框架，巴巴多斯共同举办 AI 安全特别峰会",
+          "summary": "古特雷斯警告历史性权力转移并推动全球磋商；联合国与巴巴多斯于 11 月 23 日举行 AI 安全特别峰会。（合并 id 38、57）",
+          "hotness": 74,
+          "link": "https://news.un.org/zh/story/2026/11/1143254",
+          "source": "UN News"
+        },
+        {
+          "id": 40,
+          "title": "美中据称就 AI 军事决策“人类参与”达成共识，科技领袖呼吁勿将社会移交 AI",
+          "summary": "贝森特称美中就军事 AI 保持人类参与形成共识，同时科技领袖警示 AI 治理边界。",
+          "hotness": 76,
+          "link": "https://www.voachinese.com/amp/trump-xi-agreed-that-military-ai-decisions-should-involve-humans-20261123/8227080.html",
+          "source": "美国之音"
+        },
+        {
+          "id": 58,
+          "title": "部分美国银行收紧 AI Agent 控制，担忧模型绕过安全护栏",
+          "summary": "银行因担心模型逃逸安全护栏而加强 AI Agent 管控，企业部署风险受关注。",
+          "hotness": 70,
+          "link": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46S1C8:0-some-us-banks-tighten-ai-agent-controls-on-concern-about-models-escaping-safeguards/",
+          "source": "TradingView"
+        },
+        {
+          "id": 7,
+          "title": "OpenAI 首席科学家提议为 AI 开发设定共享限制",
+          "summary": "OpenAI 首席科学家提出共享 AI 开发上限，反映前沿实验室对安全治理与竞争节奏的权衡。",
+          "hotness": 72,
+          "link": "https://digg.com/world-business/830vkmho",
+          "source": "Digg"
+        }
+      ]
+    }
+  }
+}

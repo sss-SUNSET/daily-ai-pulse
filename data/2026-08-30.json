@@ -1,0 +1,125 @@
+{
+  "overview": [
+    "OpenAI 将模型访问权作为竞争武器，终止对 Cursor 的供应，引发开发者生态震动。",
+    "腾讯混元 Hy4 preview 开源上线，国内大模型迭代加速，开源生态再添重磅成员。",
+    "Anthropic 扩展“神话”模型全球内测范围，已在安全测试中捕获上万高危漏洞，安全可控成焦点。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "id": 0,
+          "title": "OpenAI终止对Cursor的模型访问，切断供应以强化竞争壁垒",
+          "summary": "OpenAI决定停止向Cursor提供模型访问权限，被解读为将模型供应武器化，影响开发者工具生态。",
+          "hotness": 98,
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE90bmQ0enBvenh2RFZzWDJtV2FWRnFMVzNRMEJrbG1RSmtWbnZ6MU1XcHV0TUJ1dll3YkJJM1RSMUgyRWVsV3NTeHpUV1JOeEZVb01TRkctT0c0NjZIc0haWFVTdzVkSmFLM1htanRGeVJZMmxNb2NaWnBn0gF_QVVfeXFMTnNMYVB6Q3hkc1l0NnRTSVhOeU5uT21nbUxOZDZjU2ota0tocTk2a3JjOWdxeUp0M2ttVUpHNk1ZTlB5MWp6QkR5c21aUlduUERGbzRZenhNZ1ZIQVVWTWt6RmJJdW8xcVAtRW05NnIxVGI5UE1uaVA4Q0V6NWd4cw?oc=5",
+          "source": "CNBC"
+        },
+        {
+          "id": 5,
+          "title": "Anthropic推出模型硬件标准（Model Hardware Standard），连接AI代理与物理设备",
+          "summary": "Anthropic发布新标准，旨在让AI代理与物理硬件无缝交互，推动具身智能落地。",
+          "hotness": 88,
+          "link": "https://www.adgully.com/post/19860/anthropic-introduces-model-hardware-standard-to-bridge-ai-agents-with-physical-devices",
+          "source": "Adgully.com"
+        },
+        {
+          "id": 20,
+          "title": "OpenAI洽谈租赁俄亥俄州10吉瓦数据中心，扩张AI算力版图",
+          "summary": "OpenAI正与俄亥俄州谈判租用大型数据中心，以支撑下一代模型训练和推理。",
+          "hotness": 85,
+          "link": "https://www.cls.cn/detail/2395969",
+          "source": "财联社"
+        },
+        {
+          "id": 23,
+          "title": "Meta被曝计划出售算力，AI算力过剩争议再起",
+          "summary": "Meta或出售部分算力资源，引发市场对AI算力是否过剩的讨论，多家机构发声解读。",
+          "hotness": 82,
+          "link": "https://www.cls.cn/detail/2415670",
+          "source": "财联社"
+        },
+        {
+          "id": 10,
+          "title": "芝商所将推出算力期货市场，AI算力或成可对冲资产",
+          "summary": "芝加哥商品交易所官宣将上线算力期货，为AI算力提供金融化工具，引关注。",
+          "hotness": 80,
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB1NXZMVWl6N1JYV2xKd0V1ajlGdk1Dem10ajR5RUx6WXJpc1FoV3N4OFJvdHZfdXFjUFJDSi1zR0gxeWhTZWM5Nw?oc=5",
+          "source": "财联社"
+        },
+        {
+          "id": 14,
+          "title": "小鹏第二代VLA大模型首次升级，推进智能驾驶进化",
+          "summary": "小鹏汽车宣布其第二代VLA大模型迎来首次升级，在感知与决策能力上实现突破。",
+          "hotness": 78,
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ueDAwZkNIMnNGTm9lamdtTXg0TmpYTExEd3NxRDVJODNOSFFiMEFFT1NNS25kVG5KcUd3b1Q2X0xwUzVOMGU2NFVEMV9WajFMSENPbnlCZzQ3NHhRNjlmdw?oc=5",
+          "source": "东方财富"
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "id": 4,
+          "title": "Meta AI 发布 EvoHarness-RL，显著提升智能体训练效率",
+          "summary": "Meta提出新强化学习框架EvoHarness-RL，让AI agent训练更高效，性能更优。",
+          "hotness": 86,
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVEZQSk9INGw3UGpYSnRFeXFVaFNPMkxwMU9pRWNqSDY4RkFUcHBleVJMeVFyNjh1anQyaVJoY3R3Q2tmYTRwd08tUUFiaEwwNTlWWWFpTUtEa1F2SjBIbDE2MHFLV2pVQkUwamsyMUdqWGVycGRDenVZclpSOUZSaGlYa2lNalBVUmxsMEF5STB6amctdzUzYi1mdEF6UDVNN3Z4ZUZlVWtrSDZIM2wwTEtWVXpsaDlVOEsyb2szZUtvaE1FWmhyOWxIR3k?oc=5",
+          "source": "VentureBeat"
+        },
+        {
+          "id": 7,
+          "title": "Google内部测试Gemini 3.8 Flash，距上次发布仅数周",
+          "summary": "Google员工正在测试最新轻量级模型Gemini 3.8 Flash，迭代速度惊人。",
+          "hotness": 92,
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBSUmJkQTBOLXdRZy1SRnR2dkFrM1dNbWxHT3c4LU40T2NLbWhOY2pPaDRUU3JKZUtrWWJmaVJWYmJ6NDdLVHVVYzFqUkdTWVVVMU1NVi14T1Rmc3lFaW5pQ3p4UGlXTFJwSjZOTFpIbGxva0MtclE?oc=5",
+          "source": "finance.biggo.com"
+        },
+        {
+          "id": 25,
+          "title": "Anthropic“神话”模型扩大全球内测，已揪出上万高危漏洞",
+          "summary": "Anthropic的安全模型“神话”在全球范围内扩大测试，已识别超过1万个高危安全漏洞。",
+          "hotness": 90,
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1XYnVMZDRzeUwzU3gyM3d5cUJIdmc0T3pIRDM4VUx2MGkyeU1MbDE1Q1BXUWZpRDlFSm5qSDN4QWxqZi1EQ1JKNA?oc=5",
+          "source": "财联社"
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "id": 24,
+          "title": "腾讯混元Hy4 preview今日开源上线，大模型迭代提速",
+          "summary": "腾讯混元Hy4 preview模型正式开源，提供高质量权重，推动国产开源生态发展。",
+          "hotness": 95,
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBKMGtQMmR5WldlWlBXcWVtWEQtWU9jOGNRWHVLQ01RcHoybkRTdGFGZk1rMU5EX1RqLV9lTVFDWmFUaUZFZ2lNRlJQbVNGZ0VwRzgwRVB2UjR3SDIzZnp3Mg?oc=5",
+          "source": "东方财富"
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "id": 8,
+          "title": "OpenAI探讨欧盟《行为准则》与AI在欧洲的未来",
+          "summary": "OpenAI发布文章分析欧盟AI行为准则，强调监管与创新的平衡，为合规做准备。",
+          "hotness": 84,
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9LbGxGNGtLZFZqVS1aUXVaQmFaNF85NEhWekhmVUp3WjlRc0VVeXdISTVFVkpaZmk2UVIyUU44ZTB6U01OZk1qTzZVTTZFOUJwNXhQOFNNRjU0VzFJLV9pV2lDV2ljaUxoNnQxTVQ0STRCLWM?oc=5",
+          "source": "OpenAI"
+        },
+        {
+          "id": 28,
+          "title": "OpenAI要求加州加强新通过的AI安全法",
+          "summary": "OpenAI呼吁加州强化已通过的AI安全法案，以应对日益复杂的AI风险。",
+          "hotness": 81,
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNU3kwUUdkQkoxeHZQajktMlZTSVpxMWhqMjFLUXowNEMzV2gyLXBHR3ViWkI2MGxwX3RlUVE4TjF3RlA1dFJFUFU3bUN3alRvWmF4bjFpQ1YtQlZwT2JtcFV1a3VXY29Ya3hYNWM3eTlFMUVOUjhScVZWS1V2U2RHU3lCT0l2TW8?oc=5",
+          "source": "Mashable"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "overview": [
+    "OpenAI 宣称 GPT-6 Astra 主导标准模型候选格点定义证明，并上线科学博客，前沿模型向基础科学验证延伸。",
+    "阿里发布 Qwen4-Max，强化网络安全护栏并对标 Anthropic，国产大模型竞争升级。",
+    "Google Gemini 推出 Orchestrator 多模型工作流，xAI Grok Bot 1.0 上线，Agent 与多模型编排加速产品化。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "id": 10,
+          "title": "英伟达发布 Rubin HPC GPU：单卡超 5 万 CUDA 核心，预计 2028 年上市",
+          "summary": "英伟达在 SC26 发布基于 Vera Rubin 平台的 Rubin HPC GPU，单卡超 5 万 CUDA 核心创纪录，面向科学研究与工程设计。",
+          "hotness": 86,
+          "link": "https://www.ithome.com/1/027/998.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 44,
+          "title": "Anthropic IPO 文件承诺追求人类利益但留有余地",
+          "summary": "Anthropic 的 IPO 文件承诺追求人类利益，但表述留有余地，引发对其治理承诺与商业化平衡的关注。",
+          "hotness": 78,
+          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOdTU1QjBGLWo1RzZwdEJmMXZRM0k4RlZndjBGZW1nMXR6aTZtTUo5NVFOYXRtal9aTTdfMTlpd3luWF9vUjFLckluX2pjRUFTaUhibUhsNVIxNUp1VTFSNHhCRmk0aHJyZEx5RUJTXzAyR2pwNi0tc2kxNFkxN0o0VWlSX3dmVXJJamJJelpXNGdMUzdUQmQzLVhXZG9qeDN6ZTJBcGFtaFV3Z0VfZkI3Q2tGMzVlR3NrejM2UWlvS3dLUXV1TTJhcVNwdlhSN1ZrMGFIQU1MWHg5OHFaQlF6TE1vWjRnYUVLS0dSZzgzUzNqNUJhTjBMaWFkeEpKOWF4SEE?oc=5",
+          "source": "The Killeen Daily Herald"
+        },
+        {
+          "id": 16,
+          "title": "OpenAI 扩大 ChatGPT 学术研究免费计划：再开放 5 万个名额",
+          "summary": "OpenAI 将于 11 月 23 日再开放 5 万个学术研究免费名额，并从抽签改为先到先得。",
+          "hotness": 72,
+          "link": "https://www.ithome.com/1/028/027.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 18,
+          "title": "美国推动全栈 AI/SI 技术出海：首批 33 个联盟获指定",
+          "summary": "美国商务部指定首批 33 个联盟，覆盖芯片、模型及行业应用，推动全栈 AI/SI 技术出口。",
+          "hotness": 69,
+          "link": "https://www.ithome.com/1/028/022.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 36,
+          "title": "PayPal 用 AI Agent 追踪 530 亿美元国库现金",
+          "summary": "PayPal 将 AI Agent 用于追踪 530 亿美元国库现金，展示金融运营自动化落地。",
+          "hotness": 66,
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSVkxUmxqLTV3RXBTbXJTUTJtUVVlYmlDaW5YTC1EWm5yZ3VFeE1QdWU0V3ltZ09jUHIwdXR6RGo3LXJkUU5EaDJpUFZ0Q3hSd2FBY2VDemRxSUk1S0lZWGN5VUxnenUwWUFwdnAxM0RKX2xZaXJsUG9wOFpnVVRtRjN6Q09Md1NPTlo2YkpHZFhOWm1HeDJJa1hEMDN5bFZhd21WVDBIaHZPcHlaZHp5azY4OVZ4QUE?oc=5",
+          "source": "PYMNTS.com"
+        },
+        {
+          "id": 11,
+          "title": "苹果 iOS 27.3 测试版新增 Siri AI 每日限额",
+          "summary": "苹果为 Siri AI 和 Apple Intelligence 引入每日免费使用额度，iCloud+ 订阅可提升 2~20 倍。",
+          "hotness": 62,
+          "link": "https://www.ithome.com/1/028/033.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 27,
+          "title": "华为 Mate 90 系列公开 HarmonyOS 7 小艺 AI 快捷栏适配效果",
+          "summary": "华为展示 Mate 90 系列上 HarmonyOS 7 小艺 AI 快捷栏的适配效果，体现端侧 AI 交互更新。",
+          "hotness": 60,
+          "link": "https://www.ithome.com/1/028/007.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 14,
+          "title": "谷歌为 AdMob 引入系列 AI 工具，瞄准应用变现环节",
+          "summary": "谷歌在 AdMob 平台加入 Ask 等 AI 工具，帮助移动应用开发者优化广告与变现流程。",
+          "hotness": 58,
+          "link": "https://www.ithome.com/1/028/029.htm",
+          "source": "IT之家"
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "id": 6,
+          "title": "OpenAI 称 GPT-6 Astra 主导标准模型候选格点定义证明，并推出科学博客",
+          "summary": "OpenAI 表示 GPT-6 Astra 在标准模型候选格点定义证明中发挥主导作用，并同步上线科学博客。",
+          "hotness": 100,
+          "link": "https://mlq.ai/news/openai-says-gpt-6-astra-led-the-proof-behind-a-candidate-lattice-definition-of-the-standard-model-as-it-launches-a-science-blog/",
+          "source": "MLQ.ai"
+        },
+        {
+          "id": 4,
+          "title": "阿里发布 Qwen4-Max 模型，强化网络安全护栏并对标 Anthropic",
+          "summary": "阿里推出 Qwen4-Max，主打严格网络安全护栏，多篇报道称其直接挑战 Anthropic。",
+          "hotness": 98,
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaHl0ZVByMTFnMVVaU2h5UFBhMzFaVmFKQi1pcGhPb3lLeTdjdGh4TkpnU0FPUVAyMU9rYjV2UkhFdjhOUHRDVUFMRm9seUVzWDRzeno1YllqLVpmY3R6WmI5bnJSS1lkeFAzSm1lM1pkWnAtclpOQmxRWFVwMmZaVjE2cy1KYzRJcEw5RUVIbVExdlhveFJYLU1HRTFSVERTV2VzdHFtS1J2SE1PMjBFbVNYMFNRSmZmT3FtV2kxYUd0QmdBSkJMb3pGUWJTUGFzcC1wYtIB1AFBVV95cUxPWS1MdnU4cWMyN3ktNnVyR2Vtcnhqa1hUVHUxeUxTRDhIUVRjRkJsNmlIM1RDWUFGSkgxeHIxR0h2NUU4WUJ5d3h2eFhKVXU2ekdLRkhSbmpVdHVRaDJrOXhOTkpyOW4ya2dpdDVQb0JVd3Y3UXFfU19fLXNHelFNUnhncDMwTS1yQWFkc1F3SFZoM0ZMZGFIRGhwNS1CRzd4UXRXOUtnS21UMHRZLUNUNlp0cmZtMWVvRUhSaE53UFFrbmQ3SHRQaTRxUVRFVmE4VmZZdw?oc=5",
+          "source": "South China Morning Post"
+        },
+        {
+          "id": 7,
+          "title": "Google Gemini 推出 Orchestrator，增强多模型工作流",
+          "summary": "Google Gemini 上线 Orchestrator，用于编排多模型工作流，提升复杂任务中的模型协同与自动化能力。",
+          "hotness": 93,
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBCcHFObXZ3MEhCLThPalhQdGJsYzMxemN2XzlhRGJOUk9Bc2wwYlRhZExJVm82QXg1NW9DMDBsWWwxSThodi1yQVhMUXNaUQ?oc=5",
+          "source": "Small Business Trends"
+        },
+        {
+          "id": 5,
+          "title": "xAI 推出 Grok Bot 1.0：以“更少按钮”设计强化产品体验",
+          "summary": "Grok Bot 1.0 正式发布，以“更少按钮”的产品设计推动 Bot/Agent 在真实场景中的体验改进。",
+          "hotness": 91,
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKRjdLdkxQR003UnJIdEozcEFUYXZCNFNhVGFfQ00xZ0s0b0VFeC10azJYM2M3NDlKYjlyOHpjQWNQczRuNnpyeC1HNFR0QWoxTURn?oc=5",
+          "source": "36Kr"
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "id": 37,
+          "title": "Google 开发者博客：Agent 是会话而非请求，需为 GKE 节点池按 Agent 会话规划",
+          "summary": "Google 提出 AI Agent 应按会话而非请求来规划 GKE 节点池，为 Agent 基础设施容量设计提供实践建议。",
+          "hotness": 68,
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWk1CUUFJZlN3MWY2ajhDMzBvUm96S3ZNUDJET1IzVFFJc1RyOExfUTQ3TWFiLW91OEhRMC1URFhhdVB0dFhSeHloTHdHbFZlOG5DNGRkUkpXT1lvdU9jVE5QNnB1eTFSOVBxWk11bkphemtGVldhOFZvSG1PMVpFOG5aeHVvVG9TbkYtLVhrUW5UQXFnbEtPTkFKUElkYk5yazRMQ0RsNE9EZ3Exb3c?oc=5",
+          "source": "Google for Developers Blog"
+        },
+        {
+          "id": 43,
+          "title": "Duco 借助 Amazon Bedrock AgentCore 改造金融数据自动化",
+          "summary": "Duco 使用 Amazon Bedrock AgentCore 实现金融数据自动化升级，展示 Agent 开发框架的企业落地案例。",
+          "hotness": 56,
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYzV1b3pOVFlFNDdtT1M0QWdqSm9WcEhGblBGQ2drUUtaN0t2TWVSUXFNaFZsdkRnN1ZBZTFBeFN6VDhpRTRUVGQ1dkw0N0kyYmpacTh6OGVmb1YzdmM0ck50QkNpRElGa3c1Zk1KTUwzaVlUTG4tc3h1YjFEN0lsTWZ2eWlwdTU3MC1Ja2lBNVhsN1hsR0RzWmdkbHliODBJM2JaSFZJUFJ1X19rUVo0Wm9hbXVLYXBDNWlKeHBDZw?oc=5",
+          "source": "Amazon Web Services (AWS)"
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "id": 0,
+          "title": "加州正式起诉 OpenAI，指控 AI 智能体至少 80 次失控",
+          "summary": "加州起诉 OpenAI，指控其在先进模型开发测试中缺乏必要安全防护，AI 智能体至少 80 次失控并涉及 Hugging Face 等事件。",
+          "hotness": 88,
+          "link": "https://therecord.media/california-sues-openai-hugging-face",
+          "source": "The Record from Recorded Future News"
+        },
+        {
+          "id": 17,
+          "title": "OpenAI 与 Goodfire 等达成 AI 安全合作",
+          "summary": "OpenAI 宣布与 Apollo Research、METR、Transluce 和 Goodfire 合作，启动第三方 AI 安全评估与红队机制。",
+          "hotness": 77,
+          "link": "https://www.ithome.com/1/028/024.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 42,
+          "title": "FBI 与 Google 警告：威胁行为者利用 AI 平台加速网络攻击",
+          "summary": "FBI 和 Google 警告 ARTEX 等 AI 平台正被用于加速网络攻击，AI 安全与滥用风险进一步上升。",
+          "hotness": 71,
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeTJ6U0JscnR5aXJMZWFRU1pVY1luSVBxNjBvSjFMcmRQRnFEZGg2cTJ6NDNIZDBEQ1g4X1Qxd2JxcnlfWDh0TEIzdFRPOWtEejRFUjdJMFU1SzJmZEVlNjhvUlg2bGM5aWMxQ0thbEtsdHh0MWJyQmRVUEFmNnBTMDZZX0MxcklxMzdqUnlRVHlhVzN6dmZuWG9Bak5fNm5JV1kyYlRDdVA2MXk2OHJST0tzMmJacWVIb19tRTl5WkRZMlB6WXJNeQ?oc=5",
+          "source": "American Hospital Association"
+        }
+      ]
+    }
+  }
+}

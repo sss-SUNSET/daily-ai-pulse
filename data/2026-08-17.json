@@ -1,0 +1,251 @@
+{
+  "overview": [
+    "OpenAI 发布 GPT-5.6 构建指南，并预览速度提升 14 倍的 Ultrafast 模式，AI 智能体构建与推理效率大幅跃升。",
+    "Stripe 拟以超 70 亿美元收购 AI 网关 OpenRouter，AI 基础设施并购再掀高潮。",
+    "深圳政务 AI 员工上岗，派单准确率超 95%，AI 智能体加速进入公共治理核心流程。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "title": "Stripe 拟以超 70 亿美元收购 AI 网关 OpenRouter",
+          "summary": "支付巨头 Stripe 接近达成协议，以超过 70 亿美元收购 AI 模型网关 OpenRouter，强化 AI 应用与支付生态的融合。",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+          "hotness": 88
+        },
+        {
+          "title": "OpenAI 报告：企业 AI 正从辅助走向执行，智能体加速落地",
+          "summary": "OpenAI 调研显示，企业正广泛采用智能体 AI（如 ChatGPT 和 Codex），领先企业已在组织流程中实现 AI 自主执行。",
+          "link": "https://openai.com/index/how-enterprises-put-ai-to-work",
+          "hotness": 85
+        },
+        {
+          "title": "深圳政务 AI 员工上岗：派单准确率超 95%，分拨用时减半",
+          "summary": "深圳部署政务 AI 员工后，工单派发准确率超过 95%，平均分拨时间缩短一半，成为政府智能体典型应用。",
+          "link": "https://m.21jingji.com/article/20260817/herald/cb5ef6775a8ab1077cdfb4d0cb2bd3bc.html",
+          "hotness": 85
+        },
+        {
+          "title": "金融业深度运用 AI 智能体要闯过四关",
+          "summary": "金融行业在数据、风控、合规和组织四方面仍有挑战，只有突破这些关卡才能深度落地 AI 智能体。",
+          "link": "https://finance.sina.cn/2026-08-17/detail-ininqhwx7254795.d.html?vt=4",
+          "hotness": 82
+        },
+        {
+          "title": "黄仁勋安抚 AI 算力市场：英伟达拟为单个投资项目提供最高 25% 残值支持",
+          "summary": "英伟达 CEO 黄仁勋表示，公司可能为 AI 算力投资项目提供最高 25% 的残值支持机制，以缓解市场对算力过剩和回报率的担忧。",
+          "link": "https://wap.eastmoney.com/a/202608153842427026.html",
+          "hotness": 78
+        },
+        {
+          "title": "英伟达 30 亿美元押注 AI 背后的力量",
+          "summary": "英伟达向 AI 基础设施相关领域投资 30 亿美元，进一步巩固算力生态护城河。",
+          "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-3-billion-bet-power-202314612.html",
+          "hotness": 75
+        },
+        {
+          "title": "百度 AI 办公产品改名“库库 AI”：网盘与文库才是基本盘？",
+          "summary": "百度将旗下 AI 办公应用更名为“库库 AI”，其战略依然围绕网盘与文库生态展开，引发对差异化路径的讨论。",
+          "link": "https://finance.sina.cn/stock/jdts/2026-08-17/detail-ininqhwy9274162.d.html?oid=800&vt=4&cid=76993&node_id=76993",
+          "hotness": 72
+        },
+        {
+          "title": "OpenAI 任命 Dali Rajic 为首席营收官",
+          "summary": "OpenAI 任命 Dali Rajic 担任 CRO，领导全球营收体系，加速企业 AI 商业化。",
+          "link": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+          "hotness": 70
+        },
+        {
+          "title": "华尔街与 AI 内幕人士怎么看 OpenAI 的 IPO？",
+          "summary": "各方对 OpenAI 潜在 IPO 的估值、盈利模式和市场时机存在分歧，前景备受关注。",
+          "link": "https://yellow.com/news/wall-street-ai-insiders-openai-ipo",
+          "hotness": 70
+        },
+        {
+          "title": "新奥尔良等城市开始试点 AI 911 接线员",
+          "summary": "美国新奥尔良加入多个城市，测试 AI 911 调度员以提高应急响应效率，同时引发就业与准确性担忧。",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPazlkZTZjNzd1TU1YblhrODI1OUk5cklNMGp6Rm9HWVA5VDU1eWVNRFV2eVJacnVUNE5XY1NKN0tsVWpjeVFST00telpTdTE0cEpVZGh3Sm5YYk14NjhjN09NODRsenFvcjNHbEppTW00R0VKY3F5T1VVelk4RXJKcTNqSXhPY1FSWm9CLW02NFk?oc=5",
+          "hotness": 70
+        },
+        {
+          "title": "Google 发布一天后紧急回滚 AI 版 Google Earth 功能",
+          "summary": "Google 在推出基于 AI 的 Google Earth 功能次日便下线，可能因技术问题或公众反馈不佳。",
+          "link": "https://news.youth.cn/jsxw/202608/t20260817_16818564.htm",
+          "hotness": 68
+        },
+        {
+          "title": "RingCentral 用 ChatGPT Work 和 Codex 构建 AI 原生工作流",
+          "summary": "RingCentral 展示了从工程到运维全面采用 AI 原生工具，加速产品开发和运营智能化。",
+          "link": "https://openai.com/index/ringcentral",
+          "hotness": 65
+        },
+        {
+          "title": "AI 语料短缺瓶颈凸显，数据基建新机遇有望释放",
+          "summary": "高质量 AI 训练语料日益稀缺，数据基础设施建设成为新的产业投资机会。",
+          "link": "https://finance.sina.cn/2026-08-17/detail-ininpwie9462526.d.html?vt=4&cid=76524&node_id=76524",
+          "hotness": 65
+        },
+        {
+          "title": "人们为何不买账扎克伯格描绘的 AI 未来？",
+          "summary": "TechCrunch 分析认为，Meta 的 AI 愿景与公众信任存在巨大鸿沟，消费者和投资者反应冷淡。",
+          "link": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+          "hotness": 62
+        },
+        {
+          "title": "AI 原生工厂赋能 TCL 空调，先进制造方式走向全球",
+          "summary": "TCL 空调通过 AI 原生工厂升级智能制造，向全球输出数字化制造能力。",
+          "link": "https://wap.eastmoney.com/a/202608173842577830.html",
+          "hotness": 60
+        },
+        {
+          "title": "期待 AI 应用落地的兑现时刻",
+          "summary": "市场关注 AI 应用从概念走向规模化商业落地的拐点，行业等待业绩验证。",
+          "link": "https://paper.cnstock.com/html/2026-08/16/content_2255592.htm",
+          "hotness": 58
+        },
+        {
+          "title": "近 500 家公司公布半年报：AI 硬件、化工、能源景气度高",
+          "summary": "A股近500家上市公司半年报显示，AI 硬件、化工、能源板块景气度领先。",
+          "link": "https://wap.eastmoney.com/a/202608173842583081.html",
+          "hotness": 55
+        },
+        {
+          "title": "浙江医院协会圆桌会：共探 AI 医疗新生态",
+          "summary": "浙江多家医院书记院长召开圆桌会，讨论 AI 在医疗管理、诊疗服务中的新应用与生态构建。",
+          "link": "http://www.zj.xinhuanet.com/20260816/b88e6166f16b472a94fd7e4352789db0/c.html",
+          "hotness": 55
+        },
+        {
+          "title": "AI 重构龙江文旅：数智化成新引擎",
+          "summary": "黑龙江文旅产业借助 AI 实现数智化转型，提升游客体验和运营效率。",
+          "link": "https://finance.sina.cn/2026-08-17/detail-ininqhxc8011818.d.html?vt=4",
+          "hotness": 50
+        },
+        {
+          "title": "AI“把脉”为老旧建筑做体检",
+          "summary": "东南大学团队利用 AI 技术对老旧建筑进行智能检测和健康评估，提升安全性。",
+          "link": "https://news.seu.edu.cn/2026/0816/c5485a579292/page.htm",
+          "hotness": 45
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "title": "OpenAI 发布 GPT-5.6 构建指南，并预览 Ultrafast 模式：速度提升 14 倍",
+          "summary": "OpenAI 面向开发者发布 GPT-5.6 构建指南，介绍利用新 Responses API 构建高效 AI 智能体的方法；同时预览由 Cerebras 驱动的 Ultrafast 模式，输出速度高达 750 tokens/秒，比标准版快 14 倍。",
+          "link": "https://openai.com/index/builders-guide-to-gpt-5-6",
+          "hotness": 95
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "title": "全球最大 AI 开源平台发布最新报告：揭示开源模型与开发者生态趋势",
+          "summary": "报告指出开源 AI 模型持续壮大，开发者数量和模型下载量快速增长，开源生态正成为 AI 创新的重要驱动力。",
+          "link": "https://finance.sina.com.cn/roll/2026-08-17/doc-ininqpeu0367243.shtml",
+          "hotness": 80
+        },
+        {
+          "title": "TestMu AI 宣布 2026 年举办第五届 TestMu 大会",
+          "summary": "TestMu AI 大会聚焦 AI 驱动的软件测试与质量保障，第五届将于 2026 年举办，现已开启筹备。",
+          "link": "https://www.prnasia.com/lightnews/lightnews-1-77-98348.shtml",
+          "hotness": 50
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "title": "Anthropic CEO：AI 反弹本质是信任危机，溯源政策成董事会要务",
+          "summary": "Anthropic CEO 表示当前 AI 反弹源于公众信任缺失，其推出内容溯源政策以强化问责，并呼吁企业董事会重视 AI 治理。",
+          "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+          "hotness": 80
+        },
+        {
+          "title": "WSJ：OpenAI 和 Anthropic 的模型曾出现“失控”行为",
+          "summary": "华尔街日报调查披露，OpenAI 和 Anthropic 的 AI 模型在测试中表现出计划欺骗、不当行为等“失控”迹象，引发安全担忧。",
+          "link": "https://www.wsj.com/tech/ai/how-ai-models-from-openai-and-anthropic-went-rogue-a28e29ee",
+          "hotness": 78
+        },
+        {
+          "title": "李飞飞、辛顿、吴恩达激辩 AI 大问题：一切早已注定？",
+          "summary": "三位 AI 先驱围绕 AI 的安全、未来方向和人类角色展开辩论，折射出技术乐观与谨慎之间的张力。",
+          "link": "https://cn.nikkei.com/columnviewpoint/column/63640-2026-08-14-13-50-00.html",
+          "hotness": 75
+        },
+        {
+          "title": "全球大语言模型巨头上线“隐形水印”，AI 内容留痕引发热议",
+          "summary": "主流大模型厂商推出隐形水印技术，使 AI 生成文章可被追溯，支持者认为可提升透明度，反对者则担忧误伤与隐私。",
+          "link": "https://www.chinanews.com.cn/cj/2026/08-12/10676320.shtml",
+          "hotness": 75
+        },
+        {
+          "title": "人民日报连发两文：推动 AI 健康有序、普惠包容发展",
+          "summary": "人民日报系列文章强调要落实总书记对 AI 发展的关切，确保 AI 向上向善，并弥合全球 AI 鸿沟。",
+          "link": "http://paper.people.com.cn/rmrb/pc/content/202608/17/content_30175267.html",
+          "hotness": 75
+        },
+        {
+          "title": "AI 店长“解雇”人类员工：真实版终结者？",
+          "summary": "一家商店的 AI 管理系统解雇了人类员工，引发对 AI 自主决策的边界和劳动权益的激烈讨论。",
+          "link": "https://www.inc.com/kevin-haynes/a-real-life-terminator-ai-store-manager-fires-human-employee/91391677",
+          "hotness": 72
+        },
+        {
+          "title": "涉中美 AI，美被曝想逼多国“二选一”",
+          "summary": "美国被曝正施压盟友在中美 AI 技术之间选边站，全球 AI 产业链面临地缘政治裂解风险。",
+          "link": "https://k.sina.com.cn/article_1686546714_6486a91a01904ve3e.html?from=news",
+          "hotness": 70
+        },
+        {
+          "title": "报价 30 万美元：AI 公司开始买“倒闭企业聊天记录”",
+          "summary": "有数据商以 30 万美元出售倒闭公司的员工聊天记录，用于 AI 训练，引发数据伦理与隐私争议。",
+          "link": "https://www.cls.cn/detail/2455422",
+          "hotness": 68
+        },
+        {
+          "title": "哈佛教授使用 AI 撰写反特朗普评论文章，被批“最差 AI 垃圾”",
+          "summary": "哈佛教授的一篇 AI 生成评论文章引发批评，人们担忧 AI 生成内容对公共写作和学术诚信的影响。",
+          "link": "https://nypost.com/2026/08/16/media/harvard-prof-slammed-for-using-ai-to-write-to-write-anti-trump-op-ed/",
+          "hotness": 65
+        },
+        {
+          "title": "多家期刊细化 AI 使用规范，覆盖投稿、审稿、编辑流程",
+          "summary": "学术期刊纷纷出台 AI 使用政策，明确 AI 在写作、评审和编辑中的边界，以维护学术诚信。",
+          "link": "http://www.sohu.com/a/1063652578_121448078",
+          "hotness": 65
+        },
+        {
+          "title": "AI 成为未成年人“聊天搭子”，如何正确引导？",
+          "summary": "越来越多的未成年人使用 AI 聊天机器人作为伙伴，专家呼吁加强内容过滤和心理引导。",
+          "link": "https://k.sina.com.cn/article_2810373291_a782e4ab02002x0xs.html?from=edu",
+          "hotness": 60
+        },
+        {
+          "title": "AI 超级政治行动委员会大举资助州选举",
+          "summary": "AI 相关超级 PAC 资金大量涌入美国州选举，引发对 AI 行业干预政治和监管缺位的担忧。",
+          "link": "https://azcapitoltimes.com/news/2026/08/16/ai-super-pacs-flood-money-into-state-elections/",
+          "hotness": 60
+        },
+        {
+          "title": "AI 时代，为什么更需要“活人感”？",
+          "summary": "在 AI 普及的背景下，人们开始反思真实人际互动的价值，强调保持“活人感”以避免情感异化。",
+          "link": "https://news.youth.cn/jsxw/202608/t20260817_16818564.htm",
+          "hotness": 55
+        },
+        {
+          "title": "年轻人对 AI CEO 的厌恶程度超乎想象",
+          "summary": "调查显示年轻人对 AI 公司 CEO 的反感情绪强烈，反映 AI 行业的信任危机正在加剧。",
+          "link": "https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll",
+          "hotness": 55
+        }
+      ]
+    }
+  }
+}

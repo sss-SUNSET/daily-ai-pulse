@@ -1,0 +1,253 @@
+{
+  "overview": [
+    "OpenAI 未公开模型在 372 个未解数学问题上取得进展并发布 722 份手稿，前沿推理能力引发数学界震动。",
+    "Anthropic 发布 Claude Haiku 5.5 并大幅降价，同时修订使用政策，模型价格战与安全治理同步升温。",
+    "Google Gemini 4 Argon 发布/限制访问、Mistral 万亿参数模型亮相，头部大模型竞争进一步升级。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "id": 36,
+          "title": "OpenAI 年化营收被曝接近 500 亿美元，较预期少约 200 亿",
+          "summary": "最新投资者财务文件显示，OpenAI 实际年化营收接近 500 亿美元，但比公司此前释放的预期缺口约 200 亿美元。（源ID: 36）",
+          "hotness": 86,
+          "link": "https://www.ithome.com/1/010/751.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 25,
+          "title": "Oracle、Pollo AI、LegalOn 借助 OpenAI ChatGPT/Codex 提效降本",
+          "summary": "OpenAI 公布企业案例：Oracle 将数天工作压缩到分钟级，Pollo AI 用 GPT 系列生成营销活动，LegalOn 将 Codex 日成本估算降低 65%。（源ID: 25,26,27）",
+          "hotness": 70,
+          "link": "https://openai.com/index/oracle",
+          "source": "OpenAI Blog"
+        },
+        {
+          "id": 7,
+          "title": "Biohub、Google、Meta 与美国政府启动 18 亿美元 AI 生物数据项目",
+          "summary": "多方联合启动 18 亿美元 AI 生物学数据项目，旨在用大规模数据与模型加速生命科学研究。（源ID: 7）",
+          "hotness": 85,
+          "link": "https://www.turkiyetoday.com/business/biohub-google-meta-and-us-government-launch-18b-ai-biology-data-project-3229878",
+          "source": "Türkiye Today"
+        },
+        {
+          "id": 50,
+          "title": "英伟达支持的 Lambda 拟融资 40 亿美元冲刺 IPO，AI 算力订单达 500 亿美元",
+          "summary": "AI 算力订单暴增至 500 亿美元，英伟达支持的 Lambda 计划融资 40 亿美元并冲刺 IPO，显示算力基础设施热度不减。（源ID: 50）",
+          "hotness": 90,
+          "link": "https://www.cls.cn/detail/2498406",
+          "source": "财联社"
+        },
+        {
+          "id": 61,
+          "title": "AMD 预计 2027 年大幅增加 AI 算力芯片供应，国内芯片厂商同步推进",
+          "summary": "苏姿丰称 AMD 2027 年将大幅增加 AI 算力芯片供应；国芯科技已研发多款 AI 服务器芯片模组并调价，光弘科技预计算力业务 Q4 批量制造。（源ID: 54,60,61）",
+          "hotness": 76,
+          "link": "https://k.sina.com.cn/article_5953740931_162dee0830670416s6.html",
+          "source": "新浪网"
+        },
+        {
+          "id": 47,
+          "title": "格芯与台积电签署 20 亿美元协议，在美建首个硅中介层基地",
+          "summary": "格芯与台积电达成 20 亿美元制造协议，为台积电 CoWoS 先进封装生态在美国建立首个硅中介层供应基地。（源ID: 47）",
+          "hotness": 75,
+          "link": "https://www.ithome.com/1/010/716.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 37,
+          "title": "SpaceX 将收购全美低频段频谱牌照组合，继续转向 AI 基础设施",
+          "summary": "SpaceX 达成协议收购全美低频段频谱牌照组合，美国三大电信股盘后跌超 5%，凸显其向 AI 与连接基础设施扩张。（源ID: 37）",
+          "hotness": 75,
+          "link": "https://www.ithome.com/1/010/747.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 35,
+          "title": "Meta 首席 AI 官汪滔谈 Muse：不要指望自动帮你赚 1 万美元",
+          "summary": "Meta 首席 AI 官 Alexandr Wang 表示将继续改进 Muse，但提醒用户不要指望 AI 自动带来 1 万美元收益。（源ID: 35）",
+          "hotness": 60,
+          "link": "https://www.ithome.com/1/010/754.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 30,
+          "title": "阿里巴巴蔡崇信：五年后 AI 将如今天的互联网融入社会每个环节",
+          "summary": "蔡崇信在意大利科技投资盛会表示，五年后 AI 将像互联网一样渗透社会各环节，并阐述阿里巴巴的 AI 应用价值判断。（源ID: 30）",
+          "hotness": 65,
+          "link": "https://www.ithome.com/1/010/763.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 48,
+          "title": "亚马逊发布 Alexa Tablet，全面支持 Alexa+ AI",
+          "summary": "亚马逊发布接替 Fire Tablet 的 Alexa Tablet 平板，全面支持 Alexa+ AI，强化其消费端 AI 助手入口。（源ID: 48）",
+          "hotness": 70,
+          "link": "https://www.ithome.com/1/010/715.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 39,
+          "title": "苹果官宣“欢迎回家”发布会，暗示首款智能家居中枢",
+          "summary": "苹果定档 10 月 13 日“Welcome home”发布会，预告首款智能家居中枢产品，可能进一步整合 AI 家居控制。（源ID: 39）",
+          "hotness": 65,
+          "link": "https://www.ithome.com/1/010/743.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 55,
+          "title": "中国具身智能产业链加速：训练场启用、全国产化机器人亮相、宇树科技登陆科创板",
+          "summary": "国内 70 多家训练场已启用，搭载全国产化电子架构的具身智能机器人亮相，宇树科技登陆科创板，产业全链条加速推进。（源ID: 55,58,59）",
+          "hotness": 75,
+          "link": "http://news.china.com.cn/2026-10/08/content_118725853.shtml",
+          "source": "中国网新闻中心"
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "id": 0,
+          "title": "OpenAI 未公开模型在 372 个未解数学问题上取得进展，发布 722 份手稿",
+          "summary": "OpenAI 称其未发布模型对 372 个未解数学问题取得进展，并公开 722 份数学手稿，数学界用“惊心动魄”“毁灭性”形容冲击。（源ID: 0,4,17）",
+          "hotness": 99,
+          "link": "https://www.nytimes.com/2026/10/08/science/mathematicians-respond-openai-release.html",
+          "source": "The New York Times"
+        },
+        {
+          "id": 8,
+          "title": "Anthropic 发布 Claude Haiku 5.5，并大幅下调 Sonnet 5.5 缓存/输入价格",
+          "summary": "Anthropic 推出史上最快最便宜的 Claude Haiku 5.5，同时将 Sonnet 5.5 缓存读取价格减半、输入价降至每百万 token 2 美元，部分降价达 75%-90%，并加强抗隐藏指令能力。（源ID: 3,8,9,11,22,23,24）",
+          "hotness": 97,
+          "link": "https://siliconangle.com/2026/10/07/anthropic-releases-claude-haiku-5-5-small-model-and-halves-sonnet-5-5-cache-read-prices/",
+          "source": "SiliconANGLE"
+        },
+        {
+          "id": 14,
+          "title": "Google 推出 Gemini 4 Argon 新模型，但因安全担忧限制访问",
+          "summary": "Google 发布/即将上线 Gemini 4 Argon，公布规格与基准表现，同时出于安全顾虑对部分能力采取限制访问。（源ID: 14,20）",
+          "hotness": 96,
+          "link": "https://www.theguardian.com/technology/2026/oct/01/google-releases-gemini-model-restrictions",
+          "source": "The Guardian"
+        },
+        {
+          "id": 15,
+          "title": "Mistral 发布 1 万亿参数模型，挑战美国 AI 巨头",
+          "summary": "Mistral 公布 1 万亿参数大模型，以超大规模参数和趣味绰号向 OpenAI、Google 等美国巨头发起挑战。（源ID: 15,19）",
+          "hotness": 93,
+          "link": "https://www.inc.com/sage-swaby/mistral-just-revealed-a-1-trillion-parameter-ai-model-it-has-a-very-funny-nickname/91415474",
+          "source": "Inc.com"
+        },
+        {
+          "id": 6,
+          "title": "Perplexity 发布 pplx-embed-v2-late：0.6B 边缘模型与 9B 模型",
+          "summary": "Perplexity 推出 pplx-embed-v2-late 嵌入模型系列，含 0.6B 边缘版本和 9B 版本，后者在 MADQA 上得分 92.4%。（源ID: 6）",
+          "hotness": 86,
+          "link": "https://www.marktechpost.com/2026/10/07/perplexity-ai-releases-pplx-embed-v2-late-a-0-6b-edge-model-and-a-9b-model-scoring-92-4-on-madqa/?amp=1",
+          "source": "MarkTechPost"
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "id": 13,
+          "title": "Grok Bot 变成模型路由器，xAI 强化 Agent/开发工具链",
+          "summary": "Grok Bot 现已作为模型路由器运行，可根据任务调度不同模型，显示 xAI 在 Agent 与开发工具链上的新布局。（源ID: 13）",
+          "hotness": 85,
+          "link": "https://gizmodo.com/grok-bot-is-now-a-model-router-as-spacex-continues-to-pivot-further-toward-ai-infrastructure-2000823057",
+          "source": "Gizmodo"
+        },
+        {
+          "id": 5,
+          "title": "Anthropic 推出关键基础设施网络任务，面向开源",
+          "summary": "Anthropic 发起 Cyber Mission，聚焦关键基础设施安全，并以开源方式推动相关工具与协作。（源ID: 5）",
+          "hotness": 70,
+          "link": "https://www.unite.ai/anthropic-launches-cyber-mission-for-critical-infrastructure-open-source/",
+          "source": "Unite.AI"
+        },
+        {
+          "id": 40,
+          "title": "深开鸿开源鸿蒙开发者注册量突破 20 万",
+          "summary": "深开鸿宣布开鸿开发服务平台开发者注册量突破 20 万，开源鸿蒙生态规模继续扩大。（源ID: 40）",
+          "hotness": 60,
+          "link": "https://www.ithome.com/1/010/740.htm",
+          "source": "IT之家"
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "id": 1,
+          "title": "Anthropic 修订使用政策，首次禁止虐待 Claude 与选举干预",
+          "summary": "Anthropic 更新 Claude 使用政策，禁止模型滥用、选举干预以及用户虐待 AI 模型，强化平台治理红线。（源ID: 1,33）",
+          "hotness": 75,
+          "link": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
+          "source": "TechCrunch"
+        },
+        {
+          "id": 10,
+          "title": "OpenAI 将在欧盟为 ChatGPT 文本添加水印",
+          "summary": "为满足欧盟监管要求，OpenAI 将开始对 ChatGPT 生成文本进行水印标记，以提升 AI 内容可追溯性。（源ID: 10）",
+          "hotness": 85,
+          "link": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+          "source": "TechCrunch"
+        },
+        {
+          "id": 28,
+          "title": "OpenAI 瓦解 AI 赋能的“假前线”影响行动",
+          "summary": "OpenAI 披露已阻断两起利用假新闻网站和 AI 内容的秘密影响行动，展示平台对 AI 信息操纵的打击。（源ID: 28）",
+          "hotness": 70,
+          "link": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+          "source": "OpenAI Blog"
+        },
+        {
+          "id": 32,
+          "title": "三名遭解雇 OpenAI 研究员发公开信，警告寒蝉效应",
+          "summary": "三名前 OpenAI 研究员发表公开信，称公司解雇做法可能引发“寒蝉效应”，引发对 AI 安全内部举报文化的担忧。（源ID: 32）",
+          "hotness": 75,
+          "link": "https://www.ithome.com/1/010/760.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 21,
+          "title": "韩国怀疑 AI 工具帮助窃取银行客户数据",
+          "summary": "韩国监管与警方怀疑有 AI 工具被用于协助窃取银行客户数据，凸显生成式 AI 在金融犯罪中的新风险。（源ID: 21）",
+          "hotness": 70,
+          "link": "https://www.bankinfosecurity.com/south-korea-suspects-ai-tool-helped-steal-bank-customer-data-a-33031",
+          "source": "BankInfoSecurity"
+        },
+        {
+          "id": 53,
+          "title": "AI 蒸馏成为美中科技竞争新战场",
+          "summary": "BBC 分析指出，AI 蒸馏这一关键技术正成为美中科技竞争的新焦点，涉及模型能力复制、出口管制与知识产权争议。（源ID: 53）",
+          "hotness": 80,
+          "link": "https://www.bbc.com/zhongwen/articles/cjrp2g758pdo/simp",
+          "source": "BBC"
+        },
+        {
+          "id": 12,
+          "title": "《经济学人》：无规则 AI 是疯狂政治、糟糕政策",
+          "summary": "《经济学人》批评对 AI 采取“无规则”放任态度，认为这既在政治上危险，也会导致更糟糕的公共政策。（源ID: 12）",
+          "hotness": 60,
+          "link": "https://www.economist.com/leaders/2026/10/08/a-no-rules-approach-to-ai-is-mad-politics-and-worse-policy",
+          "source": "The Economist"
+        },
+        {
+          "id": 64,
+          "title": "AI 时代滥用技术优势交易行为的刑法规制",
+          "summary": "有分析讨论人工智能时代滥用技术优势进行交易行为的刑法规制，呼吁补齐 AI 金融犯罪法律框架。（源ID: 64）",
+          "hotness": 55,
+          "link": "https://k.sina.com.cn/article_7517400647_1c0126e4705909bit6.html",
+          "source": "新浪网"
+        }
+      ]
+    }
+  }
+}

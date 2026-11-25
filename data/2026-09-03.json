@@ -1,0 +1,108 @@
+{
+  "overview": [
+    "谷歌发布 Gemini 3.8 Flash 与 Cyber 安全版，强化智能体与代码安全能力。",
+    "Meta 发布 Muse Spark 1.3，宣称编码能力超越 GPT-5.6 Sol。",
+    "月之暗面启动港股 IPO，国产大模型加速拥抱资本市场。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "id": 18,
+          "title": "月之暗面启动港股 IPO 流程，已秘密向港交所交表",
+          "summary": "月之暗面本周以保密形式向港交所递交 A1 文件，正式启动港股 IPO，成为国产大模型公司资本化的重要一步。",
+          "hotness": 92,
+          "link": "https://www.ithome.com/0/997/670.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 7,
+          "title": "博通 2026 财年 Q3 净利润同比暴涨 216%，AI 芯片需求驱动",
+          "summary": "博通发布财报，2026 财年第三财季归母净利润达 130.88 亿美元，同比增长 216%，主要得益于 AI 算力芯片的强劲需求。",
+          "hotness": 75,
+          "link": "https://www.ithome.com/0/997/713.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 12,
+          "title": "谷歌拆解退役 DDR4 内存模组，重新部署至新型 AI 服务器",
+          "summary": "为应对 DRAM 供应紧缺，谷歌供应链将退役服务器的 DDR4 内存拆解并重组，用于新建 AI 服务器，以缓解内存资源压力。",
+          "hotness": 65,
+          "link": "https://www.ithome.com/0/997/687.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 19,
+          "title": "美光探索近 GPU NAND 闪存，可支撑更大规模 AI 模型",
+          "summary": "美光正研究高耐久性 NAND 闪存模块，计划部署在更靠近 GPU 的位置，以支持更大规模的 AI 模型推理和训练。",
+          "hotness": 68,
+          "link": "https://www.ithome.com/0/997/668.htm",
+          "source": "IT之家"
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "id": 3,
+          "title": "Meta 发布最强 AI 模型 Muse Spark 1.3，编码能力超 GPT-5.6 Sol",
+          "summary": "Meta 推出专为延长智能体任务设计的 Muse Spark 1.3，宣称编码能力超越 GPT-5.6 Sol，是迄今最强模型。",
+          "hotness": 93,
+          "link": "https://www.ithome.com/0/997/728.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 4,
+          "title": "西班牙推出欧洲最强 Quasar 438B 模型，支持 1M 词元上下文",
+          "summary": "西班牙 Multiverse Computing 发布 Quasar 438B 模型，拥有 1M 上下文窗口，被视为欧洲 AI 新里程碑。",
+          "hotness": 80,
+          "link": "https://www.ithome.com/0/997/726.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 11,
+          "title": "谷歌低调上线 Gemini 3.8 Flash 模型，面向软件工程与智能体任务",
+          "summary": "谷歌在 DeepMind 网站发布 Gemini 3.8 Flash 模型，基于 Gemini 架构优化软件工程和 Agent 场景。",
+          "hotness": 90,
+          "link": "https://www.ithome.com/0/997/702.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 9,
+          "title": "谷歌推出 Gemini 3.8 Flash Cyber 模型，用于代码安全防护",
+          "summary": "谷歌发布 Gemini 3.8 Flash Cyber 模型，通过 Fairwind 计划部署，专攻代码安全漏洞检测与防护。",
+          "hotness": 88,
+          "link": "https://www.ithome.com/0/997/708.htm",
+          "source": "IT之家"
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": []
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "id": 1,
+          "title": "纽约时报诉 OpenAI 案升级：美司法部首次表态 AI 训练属于“合理使用”",
+          "summary": "美国司法部首次向法院提交利益声明，主张 AI 训练使用版权材料属“合理使用”，直接介入纽约时报诉 OpenAI 案。",
+          "hotness": 85,
+          "link": "https://www.ithome.com/0/997/732.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 14,
+          "title": "纽约市实施全美最严格课堂 AI 禁令，高中前学生不得在课上使用 AI",
+          "summary": "纽约市宣布公立学校限制年龄较小学生在课堂上使用 AI，成为全美最严格的课堂 AI 禁令。",
+          "hotness": 80,
+          "link": "https://www.ithome.com/0/997/684.htm",
+          "source": "IT之家"
+        }
+      ]
+    }
+  }
+}

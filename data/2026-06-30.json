@@ -1,0 +1,184 @@
+{
+  "overview": [
+    "Google正式发布Interactions API，为Gemini模型和智能体提供统一接口",
+    "美国参议员沃纳提出AI智能体专项法案，推动建立联邦认证安全AI智能体清单",
+    "国常会强调加力推进AI创新突破，加快关键技术攻关和超大规模智算集群建设"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "title": "Interactions API: our primary interface for Gemini models and agents",
+          "summary": "Google正式发布Interactions API，作为Gemini模型和智能体的主要接口，为开发者提供统一访问方式。",
+          "link": "https://blog.google/innovation-and-ai/technology/developers-tools/interactions-api-general-availability/",
+          "hotness": 92
+        },
+        {
+          "title": "牛市早报｜国常会：要加力推进人工智能创新突破，加快关键技术攻关和超大规模智算集群建设",
+          "summary": "国务院常务会议要求加力推进人工智能创新突破，加快关键技术攻关和超大规模智算集群建设。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_33482170",
+          "hotness": 88
+        },
+        {
+          "title": "美股AI应用软件股走高",
+          "summary": "美股AI应用软件板块股价上涨，反映市场对AI应用前景的乐观预期。",
+          "link": "https://wap.eastmoney.com/a/202606293786957445.html",
+          "hotness": 75
+        },
+        {
+          "title": "韩国政府将投资千万亿韩元于AI和半导体产业",
+          "summary": "韩国政府宣布将投资千万亿韩元支持AI和半导体产业发展。",
+          "link": "https://app.dahecube.com/article.html?artid=278692?recid=1",
+          "hotness": 78
+        },
+        {
+          "title": "AI浪潮带动电子、有色利润“狂飙” 前5月工业利润再加速",
+          "summary": "AI技术发展带动电子、有色金属等行业利润大幅增长，前5月工业利润加速上升。",
+          "link": "https://finance.eastmoney.com/a/202606303787122027.html",
+          "hotness": 76
+        },
+        {
+          "title": "四川长虹年度股东会：布局算力掘金Token经济",
+          "summary": "四川长虹在年度股东会上宣布布局算力领域，探索Token经济商业模式。",
+          "link": "https://emwap.eastmoney.com/a/202606303787088310.html",
+          "hotness": 72
+        },
+        {
+          "title": "全球人工智能热潮推动香港5月份出口强劲增长",
+          "summary": "全球AI热潮推动香港5月份出口实现强劲增长，显示AI产业对经济的拉动作用。",
+          "link": "https://research.hktdc.com/sc/article/MjM2MTQwMTY5NA",
+          "hotness": 74
+        },
+        {
+          "title": "Ford rehired 350 'gray beard' engineers as it realized AI wasn't capable of taking human jobs",
+          "summary": "福特汽车重新雇佣350名资深工程师，认识到AI目前尚无法完全取代人类工作岗位。",
+          "link": "https://fortune.com/2026/06/29/ford-ai-rehired-human-workers-gray-beards-automation/",
+          "hotness": 73
+        },
+        {
+          "title": "Chamath Palihapitiya secures $135M Series A for 8090 Labs and assumes CEO role",
+          "summary": "Chamath Palihapitiya为8090 Labs获得1.35亿美元A轮融资并担任CEO。",
+          "link": "https://mezha.net/eng/bukvy/a394cc2a_chamath_palihapitiya_secures/",
+          "hotness": 71
+        },
+        {
+          "title": "Arena, the AI leaderboard everyone uses, is now a $100M business",
+          "summary": "广受欢迎的AI排行榜平台Arena现已发展成为价值1亿美元的业务。",
+          "link": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
+          "hotness": 75
+        },
+        {
+          "title": "California’s Massive AI Deal Promises Faster Government—and Critics Aren’t Buying It",
+          "summary": "加州签署大规模AI合作协议承诺提升政府效率，但批评者对此持怀疑态度。",
+          "link": "https://www.inc.com/moses-jeanfrancois/californias-massive-ai-deal-promises-faster-government-critics-arent-buying-it/91367284",
+          "hotness": 70
+        },
+        {
+          "title": "Overland AI lands Pentagon contract to produce autonomous ground vehicles for Marine Corps",
+          "summary": "Overland AI获得五角大楼合同，为海军陆战队生产自主地面车辆。",
+          "link": "https://defensescoop.com/2026/06/29/autonomous-ground-vehicle-marine-corps-overland-ai-contract/",
+          "hotness": 74
+        },
+        {
+          "title": "How the Defense Intelligence Agency is fast-tracking data and AI modernization",
+          "summary": "美国国防情报局正在加速推进数据和AI现代化进程。",
+          "link": "https://defensescoop.com/2026/06/29/dia-data-ai-modernization-intelligence/",
+          "hotness": 72
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "title": "Artificial intelligence in the design, optimization, and performance prediction of concrete materials: a comprehensive review",
+          "summary": "《自然》杂志发表关于AI在混凝土材料设计、优化和性能预测中应用的全面综述。",
+          "link": "https://www.nature.com/articles/s44296-025-00058-8",
+          "hotness": 68
+        },
+        {
+          "title": "USC Brings the World’s Control and AI Researchers to Campus – Together",
+          "summary": "南加州大学汇聚全球控制和AI研究人员开展学术交流与合作。",
+          "link": "https://viterbischool.usc.edu/news/2026/06/usc-brings-the-worlds-control-and-ai-researchers-to-campus-together/",
+          "hotness": 65
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": []
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "title": "Warner bill would create federally vetted list for secure, trustworthy AI agents",
+          "summary": "美国参议员沃纳提出AI智能体法案，旨在建立联邦认证的安全可信AI智能体清单。",
+          "link": "https://cyberscoop.com/ai-agent-act-senate-draft-bill-mark-warner/",
+          "hotness": 85
+        },
+        {
+          "title": "沃纳参议员拟推出AI智能体专项法案",
+          "summary": "美国参议员沃纳计划推出AI智能体专项法案，加强对AI智能体的监管和认证。",
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-06-29/doc-inifayqk5257389.shtml",
+          "hotness": 83
+        },
+        {
+          "title": "美众议员跨党推出法案，旨在阻止中国通过租用美国云计算服务获取先进AI芯片",
+          "summary": "美国众议员跨党派推出法案，试图阻止中国通过租用美国云计算服务获取先进AI芯片。",
+          "link": "https://www.voachinese.com/amp/law-makers-introduced-bipartisan-bill-to-close-loophole-in-advanced-ai-chip-export-controls-20260629/8166013.html",
+          "hotness": 82
+        },
+        {
+          "title": "New Report Put ChatGPT, Google Gemini, & Grok to the Test of Political Bias: Here's What It Found",
+          "summary": "新报告测试ChatGPT、Google Gemini和Grok的政治偏见，揭示了各模型存在的倾向性问题。",
+          "link": "https://www.ibtimes.com/new-report-put-chatgpt-google-gemini-grok-test-political-bias-heres-what-it-found-3804504",
+          "hotness": 78
+        },
+        {
+          "title": "Trump's AI controls spark free speech debate",
+          "summary": "特朗普政府的AI管控措施引发关于言论自由的辩论。",
+          "link": "https://www.politico.com/news/2026/06/29/trumps-ai-controls-free-speech-debate-00980751",
+          "hotness": 76
+        },
+        {
+          "title": "AI hiring tools are biasing job decisions",
+          "summary": "斯坦福研究报告显示AI招聘工具存在种族偏见，影响就业决策公平性。",
+          "link": "https://news.stanford.edu/stories/2026/06/ai-hiring-tools-racial-bias-research",
+          "hotness": 77
+        },
+        {
+          "title": "Tidal to Label AI-Generated Music, Ban Royalties from AI Song Streams",
+          "summary": "音乐平台Tidal将标注AI生成音乐，并禁止AI歌曲流媒体获得版税收入。",
+          "link": "https://variety.com/2026/music/news/tidal-label-ai-generated-music-ban-royalties-from-ai-songs-1236798543/",
+          "hotness": 74
+        },
+        {
+          "title": "厄尔尼诺与AI用电高峰叠加人类夏季生活需求与人工智能是否终将争夺稀缺电力资源？",
+          "summary": "厄尔尼诺现象与AI用电高峰叠加，引发AI发展与人类夏季用电需求是否将争夺稀缺电力资源的讨论。",
+          "link": "https://news.sina.cn/bignews/insight/2026-06-30/detail-inifcvuk3472919.d.html",
+          "hotness": 73
+        },
+        {
+          "title": "AI脸为何“没灵魂”",
+          "summary": "探讨AI生成的人脸为何缺乏真实感和灵魂，分析技术局限与人性化表达的差距。",
+          "link": "https://epaper.nfnews.com/nfdaily/html/202606/30/content_10174302.html",
+          "hotness": 70
+        },
+        {
+          "title": "Bots Now Outnumber Humans Online. Here's Why It Matters.",
+          "summary": "网络机器人数量已超过人类用户，这一现象对网络生态产生重要影响。",
+          "link": "https://www.cnet.com/tech/services-and-software/bots-now-outnumber-humans-on-the-internet-heres-what-that-actually-means/",
+          "hotness": 72
+        },
+        {
+          "title": "Chrome Has Been Secretly Downloading AI to Your Computer. Here's What You Can Do",
+          "summary": "Chrome浏览器被曝秘密下载AI模型至用户电脑，引发隐私和安全担忧。",
+          "link": "https://www.cnet.com/tech/services-and-software/if-you-use-google-chrome-your-device-may-have-secretly-downloaded-a-4gb-ai-model/",
+          "hotness": 75
+        }
+      ]
+    }
+  }
+}

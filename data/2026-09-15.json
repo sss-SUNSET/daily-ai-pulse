@@ -1,0 +1,140 @@
+{
+  "overview": [
+    "Salesforce 联合英伟达发布 Koa 推理大模型，直接挑战闭源前沿模型，推理赛道再添重磅玩家。",
+    "Google 与 Meta 同日发布轻量模型，但 Google 新模型性能落后 Meta Muse，轻量模型竞争白热化。",
+    "百度挖来前谷歌 DeepMind 核心成员 Qiyin Wu（Gemini 2.5 报告核心作者），国内大模型人才争夺升温。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "id": 16,
+          "title": "百度挖来前谷歌 DeepMind 核心成员 Qiyin Wu，曾参与 Gemini 2.5 研发（源ID: 16）",
+          "summary": "前谷歌 DeepMind 主任工程师、Gemini 2.5 官方报告核心作者 Qiyin Wu 已正式加入百度。国内大模型人才竞争进一步升温。",
+          "hotness": 90,
+          "link": "https://www.ithome.com/1/002/740.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 0,
+          "title": "Sam Altman 称 OpenAI 今年不会 IPO，当前上市是“不明智时刻”（源ID: 0）",
+          "summary": "Altman 明确表示 OpenAI 今年不会启动 IPO，认为当前市场环境不适合上市。OpenAI 仍将保持非上市状态推进研发。",
+          "hotness": 86,
+          "link": "https://fortune.com/2026/09/12/sam-altman-openai-ipo-delay-ill-advised-moment-safety-concerns/",
+          "source": "Fortune"
+        },
+        {
+          "id": 8,
+          "title": "字节跳动上半年利润因 AI 投入加大降至约 200 亿美元（源ID: 8）",
+          "summary": "受 AI 领域投入增加影响，字节跳动今年上半年净利润降至约 200 亿美元。巨额算力与模型研发正在挤压短期利润。",
+          "hotness": 86,
+          "link": "https://www.ithome.com/1/002/764.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 7,
+          "title": "博通 CEO 回应 AI 放缓担忧：算力需求仍强劲，长期收入目标不变（源ID: 7）",
+          "summary": "博通 CEO 陈福阳称前沿 AI 模型开发节奏变化不影响算力需求，长期收入目标维持不变。市场对 AI 基础设施景气度仍偏乐观。",
+          "hotness": 78,
+          "link": "https://www.ithome.com/1/002/767.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 10,
+          "title": "华为发布全球首个 3D 数据中心，推进 AIDC 产业（源ID: 10）",
+          "summary": "华为在芜湖 AIDC 产业发展大会上发布全球首个 3D 数据中心，面向 AI 算力基础设施升级。该方案意在提升数据中心能效与部署密度。",
+          "hotness": 80,
+          "link": "https://www.ithome.com/1/002/762.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 21,
+          "title": "努比亚 NaviX Ultra 官宣搭载第五代骁龙 8，支持豆包手机助手（源ID: 21）",
+          "summary": "高通宣布努比亚 NaviX Ultra 将搭载第五代骁龙 8 至尊版，并支持豆包手机助手带来生成式 AI 能力。字节豆包进一步向端侧手机场景渗透。",
+          "hotness": 65,
+          "link": "https://www.ithome.com/1/002/729.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 28,
+          "title": "京津冀四地共建太空算力产业长廊，北京推动算力中心“上太空”（源ID: 28, 30）",
+          "summary": "四地携手共建京津冀太空算力产业长廊，北京提出把算力中心“搬上天”。太空算力成为地方产业布局新方向。",
+          "hotness": 70,
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBOM1JRWklwWndrTjNaU2pMWk40aElkRHkxLU8waTJJQ3dYa2FuSkNBVTEwREc5dmVwcFZ6X0QxY3BNdEtxMkQ1YjFKQlVzVmtOQ1hEVWlaM2tXQ0NHT1V1YXN3V1I3NHR1OTMxby1kUUZXQzZO?oc=5",
+          "source": "北京市人民政府门户网站"
+        },
+        {
+          "id": 29,
+          "title": "算力金融创新集中探索：多行落地算力贷、词元贷，算力 ETF 将上市（源ID: 29, 42, 45）",
+          "summary": "全国多家银行密集推出算力贷、词元贷等创新金融产品，词元需求爆发式增长。算力 ETF 也上市在即，资本市场加速拥抱 AI 算力。",
+          "hotness": 68,
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObWlZangxQjFQR2lqeTNVbzFnUGJaZkcwREJjV2dZaUNBcUpEQy1YaVYybnM4ZzlzSjUxQkg3dGVMVVQwT1UzeHBFU012eG94UGJSNVQ0X2tlOV95VHVwTTY4UVRocWUzMlgzbWZ1UGRkcTlNVnp5QTl6d3RRYVZvS3I4SjlBc2V1Y0g5Z0JQOFRiTDhP?oc=5",
+          "source": "21财经"
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "id": 11,
+          "title": "Salesforce 联合英伟达推出 Koa 推理大模型，挑战闭源前沿模型（源ID: 11）",
+          "summary": "Salesforce 在 Dreamforce 大会上发布 Koa 推理大模型，并与英伟达合作。该模型定位为挑战闭源前沿模型，推理能力成为核心卖点。",
+          "hotness": 96,
+          "link": "https://www.ithome.com/1/002/760.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 1,
+          "title": "Google 与 Meta 同日发布轻量模型，Google 新模型性能落后 Meta Muse（源ID: 1, 4）",
+          "summary": "Meta 推出 Muse 并获高盛看好，法律和解也清除了股价障碍。Google 三周内再发轻量模型，但基准表现不及 Muse 同日发布，轻量模型竞争加剧。",
+          "hotness": 95,
+          "link": "https://finance.biggo.com/news/9638113b-5b76-45ea-b2c2-76c83a3a6fc8",
+          "source": "finance.biggo.com"
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": []
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "id": 15,
+          "title": "OpenAI 内部 Lily 项目曝光：人工审核 ChatGPT 用户聊天记录以优化大模型（源ID: 15）",
+          "summary": "404 Media 曝光 OpenAI 内部 Lily 项目，通过人工审核 ChatGPT 用户聊天记录来优化模型。事件再次引发用户隐私与数据使用边界争议。",
+          "hotness": 88,
+          "link": "https://www.ithome.com/1/002/750.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 5,
+          "title": "Google 测试在 AI 回答中按使用付费购买出版商内容（源ID: 5）",
+          "summary": "Google 正测试 pay-per-use 模式，为 AI 回答中使用出版商内容付费。此举试图缓解版权争议，并探索 AI 搜索时代的利益分配机制。",
+          "hotness": 76,
+          "link": "https://www.adgully.com/post/20528/google-tests-pay-per-use-model-for-publisher-content-in-ai-answers",
+          "source": "Adgully.com"
+        },
+        {
+          "id": 41,
+          "title": "全球首个“人工智能+脑机接口”标准在我国发布，明年 9 月 1 日实施（源ID: 41）",
+          "summary": "我国发布全球首个 AI 与脑机接口结合的标准，将于明年 9 月 1 日起实施。该标准为 AI 脑机接口产业提供合规与安全框架。",
+          "hotness": 74,
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSHBXcjl0RnJtck9mYThxRG9wLWRUbXJvNlFIOWota0szRVJRVTgtdjNoNlBuQTRBVDk5S2hDQVMwZ1dhOXhCV1c0azJ2SmFsTHVxcEt0SGlWLVR4OGxUZ2c0UTBSOTFzLVVhTU9vVDVnMEUxNW9mMm5nU01sbHc2U0NB?oc=5",
+          "source": "ncsti.gov.cn"
+        },
+        {
+          "id": 31,
+          "title": "观察者网讨论：为什么欧洲做得出光刻机，却做不出大模型？（源ID: 31）",
+          "summary": "文章从产业生态、资本、人才与监管角度剖析欧洲在大模型竞赛中的缺位。该话题引发对区域 AI 竞争力与创新机制的讨论。",
+          "hotness": 66,
+          "link": "https://www.guancha.cn/kegongliliang/2026_09_15_900759.shtml",
+          "source": "观察者网"
+        }
+      ]
+    }
+  }
+}
