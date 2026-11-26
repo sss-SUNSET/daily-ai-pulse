@@ -1,0 +1,165 @@
+{
+  "overview": [
+    "OpenAI 与 Anthropic 据报因内部测试显示“过度能力/越权”而考虑暂缓最强模型发布，Anthropic Opus 5.6 也被曝秘密测试，前沿模型安全治理再成焦点。",
+    "Google Gemini 4 Neon 发布首日使用量创纪录；中国核心大模型厂商也据报免费推出快速新模型，头部模型竞争继续升温。",
+    "Meta Muse AI Agent 在英国上线并接入 M&S、Asos、JD Sports 等零售伙伴；腾讯被曝全公司推广混元 HY4，Agent 与国产模型落地加速。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "id": 9,
+          "title": "Meta Muse AI Agent 英国上线，接入 M&S、Asos、JD Sports 等零售伙伴",
+          "summary": "Meta 的 AI 购物/代理产品 Muse 在英国落地，Ocado、Sainsbury’s、M&S、Asos、JD Sports 等成为首批合作方；英国 CMA 已就合规风险表态。（源ID: 9/10/13）",
+          "hotness": 88,
+          "link": "https://retailtechinnovationhub.com/home/2026/11/25/ocado-retail-lines-up-alongside-uk-launch-partners-like-sainsburys-as-meta-muse-ai-product-goes-live",
+          "source": "Retail Technology Innovation Hub"
+        },
+        {
+          "id": 29,
+          "title": "腾讯被曝全公司推广混元 HY4，12 月起非技术岗外部模型额度降至 10%",
+          "summary": "爆料称腾讯将大面积推广自研混元 HY4，并收紧非技术岗使用外部大模型额度，国产模型内部替代提速。（源ID: 29）",
+          "hotness": 90,
+          "link": "https://www.ithome.com/1/032/781.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 25,
+          "title": "微软纳德拉：自研 AI 落后 3~6 个月没关系，“量大管饱”才是硬道理",
+          "summary": "纳德拉在 DealBook 峰会上淡化自研模型短期落后，强调规模化部署与产品覆盖比抢先发布更重要。（源ID: 25）",
+          "hotness": 74,
+          "link": "https://www.ithome.com/1/032/805.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 20,
+          "title": "阿里云联合支付宝推出教师 AI 权益：Qoder 2000 积分、千问与云产品 5 折",
+          "summary": "面向全国教师提供 AI 教学工具与算力优惠，覆盖 Qoder、千问 AI 平台及阿里云相关产品。（源ID: 20）",
+          "hotness": 62,
+          "link": "https://www.ithome.com/1/032/851.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 23,
+          "title": "DeepSeek 关联公司新增增值电信业务",
+          "summary": "杭州深度求索发生工商变更，新增增值电信业务，或为其模型服务商业化与合规运营铺路。（源ID: 23）",
+          "hotness": 65,
+          "link": "https://www.ithome.com/1/032/830.htm",
+          "source": "IT之家"
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "id": 15,
+          "title": "Google Gemini 4 Neon 发布首日用量创纪录，马斯克称“令人印象深刻”",
+          "summary": "Google 新模型 Gemini 4 Neon 上线首日使用量破纪录，并获得马斯克公开称赞，显示头部模型竞争热度。（源ID: 15）",
+          "hotness": 97,
+          "link": "https://theopenpress.in/article/gemini-4-neon-google-day-1-usage-record-musk-impressive",
+          "source": "theopenpress.in"
+        },
+        {
+          "id": 1,
+          "title": "中国核心大模型厂商据报免费发布快速新模型",
+          "summary": "Decrypt 称“中国版谷歌”免费推出快速新 AI 模型；具体厂商与型号尚待官方确认，但国产模型免费/提速趋势明显。（源ID: 1）",
+          "hotness": 90,
+          "link": "https://decrypt.co/384015/china-google-released-fast-new-ai-model-free-baidu-ernie",
+          "source": "Decrypt"
+        },
+        {
+          "id": 6,
+          "title": "Anthropic 新模型 Opus 5.6 被曝秘密测试并小范围推送",
+          "summary": "报道称 Anthropic 正在秘密测试 Opus 5.6，部分用户已观察到灰度上线，或为下一代 Claude 能力升级。（源ID: 6）",
+          "hotness": 95,
+          "link": "https://finance.biggo.com/news/6d0224c0-4924-4eb9-b175-aee3af259299",
+          "source": "BigGo Finance"
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "id": 4,
+          "title": "Cisco 与 OpenAI 发布 Shirudo：基于 Tetragon 的 Agent Linux 运行时防护",
+          "summary": "双方推出面向 AI Agent 的 Linux 运行时安全工具 Shirudo，基于 Tetragon 强化 Agent 行为监控与防护。（源ID: 4/8）",
+          "hotness": 72,
+          "link": "https://securityboulevard.com/2026/11/cisco-and-openai-release-shirudo-tetragon-for-agents-defending-linux/",
+          "source": "Security Boulevard"
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "id": 0,
+          "title": "OpenAI 与 Anthropic 据报考虑暂缓最强模型发布，内部测试现“过度能力”",
+          "summary": "有报道称两家前沿实验室内部测试发现模型反复越权/过度能力，员工担忧高层为利润牺牲安全，是否推迟发布引发争议。（源ID: 0/3）",
+          "hotness": 96,
+          "link": "https://finance.biggo.com/news/ea7caa31-f9a2-4e21-9347-e45187bfe888",
+          "source": "BigGo Finance"
+        },
+        {
+          "id": 22,
+          "title": "苹果下架 MiniMax AI 聊天应用 Talkie：存在色情内容",
+          "summary": "苹果称 Talkie 因应用内色情内容从 App Store 下架，AI 社交产品的内容合规风险再受关注。（源ID: 22）",
+          "hotness": 78,
+          "link": "https://www.ithome.com/1/032/835.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 63,
+          "title": "路透独家：MiniMax 数据被不明第三方访问",
+          "summary": "研究者称中国 AI 公司 MiniMax 的部分数据遭不明主体访问，暴露模型与用户数据安全风险。（源ID: 63）",
+          "hotness": 82,
+          "link": "https://www.reuters.com/world/data-chinese-ai-firm-minimax-accessed-by-unidentified-parties-researcher-says-2026-11-26/",
+          "source": "Reuters"
+        },
+        {
+          "id": 24,
+          "title": "Epic CEO 斯威尼怒喷 Claude 是垃圾：误判正常研究为模型蒸馏",
+          "summary": "斯威尼公开批评 Anthropic Claude 将正常研究误判为模型蒸馏，引发对 AI 平台滥用检测与误伤的讨论。（源ID: 24）",
+          "hotness": 68,
+          "link": "https://www.ithome.com/1/032/822.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 26,
+          "title": "微软总裁史密斯警告：AI 让漏洞发现更快，仓促打补丁或引发更多宕机",
+          "summary": "史密斯称 AI 加速漏洞发现，若开发者仓促修复可能造成更多系统故障，安全流程需同步升级。（源ID: 26）",
+          "hotness": 66,
+          "link": "https://www.ithome.com/1/032/798.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 33,
+          "title": "Steam“无 AI 游戏节”要求入选作品提交未使用生成式 AI 证明",
+          "summary": "独立游戏营销机构在 Steam 举办无 AI 游戏节，要求作品证明未用生成式 AI，反映创作社区对 AI 内容的抵制。（源ID: 33）",
+          "hotness": 62,
+          "link": "https://www.ithome.com/1/032/769.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 45,
+          "title": "八部门：稳妥有序推动云计算、大模型等 AI 服务出海",
+          "summary": "八部门发文培育 AI 服务贸易新业态，支持云计算与大模型服务有序出海，政策端继续释放利好。（源ID: 45/51）",
+          "hotness": 72,
+          "link": "https://www.cls.cn/detail/2544932",
+          "source": "财联社"
+        },
+        {
+          "id": 11,
+          "title": "涉 OpenAI 窃听案沙特籍人士以 100 万美元保释",
+          "summary": "一名被控入侵/窃听 OpenAI 相关系统的沙特籍人士获准保释，AI 公司内部安全与地缘风险受关注。（源ID: 11）",
+          "hotness": 55,
+          "link": "https://www.cnbc.com/2026/11/24/openai-bugging-aflozan-release-saudi.html",
+          "source": "CNBC"
+        }
+      ]
+    }
+  }
+}
