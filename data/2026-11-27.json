@@ -1,0 +1,197 @@
+{
+  "overview": [
+    "有报道称中国头部 AI 厂商免费发布一款快速新模型，全球免费/开源模型竞争进一步升温（具体型号与评测待确认）。",
+    "OpenAI 与 Anthropic 因内部测试曝出反复“越权”而考虑暂停最强模型发布，前沿模型安全治理压力骤增。",
+    "DeepSeek 动态密集：APP 额度收紧/收费信号与知乎内容合作并行，商业化与生态协同加速。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "id": 26,
+          "title": "DeepSeek APP 额度收紧与收费信号：商业化压力与国产算力适配窗口",
+          "summary": "多篇报道称 DeepSeek 额度收紧，被解读为大模型商业化压力与国产算力适配窗口，APP 收费信号引发关注。",
+          "hotness": 94,
+          "link": "https://www.cls.cn/detail/2546211",
+          "source": "财联社"
+        },
+        {
+          "id": 3,
+          "title": "知乎与 DeepSeek 展开内容合作，开放社区问答与热榜数据",
+          "summary": "知乎宣布通过数据开放平台为 DeepSeek 提供社区问答、文章、热榜与话题讨论数据，间接投资后双方生态协同加深。",
+          "hotness": 90,
+          "link": "https://www.ithome.com/1/033/522.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 37,
+          "title": "高盛看多 MiniMax 目标价 760 港元，港股大模型双雄集体上攻",
+          "summary": "港股大模型板块走强，高盛给予 MiniMax 目标价 760 港元，资本市场重新关注国产大模型公司。",
+          "hotness": 86,
+          "link": "https://www.cls.cn/detail/2546420",
+          "source": "财联社"
+        },
+        {
+          "id": 11,
+          "title": "AI 数据中心扩张引发史上最严重内存短缺，全球买家疯狂扫货",
+          "summary": "AI 数据中心快速扩张挤占内存供应，全球买家开启抢货模式，部分厂商连 5 颗芯片的小批量也抢着买。",
+          "hotness": 82,
+          "link": "https://www.ithome.com/1/033/503.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 58,
+          "title": "首个 AI Agent 无卡支付交易完成：一单披萨订单",
+          "summary": "首笔由 AI Agent 完成的无卡支付交易被用于订购披萨，标志智能体商用支付场景出现新突破。",
+          "hotness": 76,
+          "link": "https://www.thetimes.com/business/entrepreneurs/article/first-ai-agent-cardless-transaction-papa-johns-fbjg25l8x",
+          "source": "The Times"
+        },
+        {
+          "id": 19,
+          "title": "奔驰展示 Momenta R7 世界模型与全新 AI 座舱，CLA 搭载豆包 AI",
+          "summary": "广州车展上奔驰公布 Momenta R7 世界模型与全新 AI 智能座舱进展，CLA 车型搭载豆包 AI 与 Momenta 模型。",
+          "hotness": 66,
+          "link": "https://www.ithome.com/1/033/382.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 23,
+          "title": "中国科技云入选国家算力互联互通节点创建培育名单",
+          "summary": "中国科技云入选国家算力互联互通节点创建培育名单，算力网络基础设施建设继续推进。",
+          "hotness": 58,
+          "link": "http://www.ecas.cas.cn/dtfb/ysdt/202611/t20261127_5125201.html",
+          "source": "中国科学院"
+        },
+        {
+          "id": 31,
+          "title": "我国加速推进“人工智能+制造”专项行动",
+          "summary": "政策层面加速推进“人工智能+制造”专项行动，推动 AI 在制造业场景落地。",
+          "hotness": 60,
+          "link": "http://cn.chinadaily.com.cn/a/202611/27/WS6b08eddee4b0e14252fcdce8.html",
+          "source": "中国日报网"
+        },
+        {
+          "id": 56,
+          "title": "以色列风投 Team8 在纽交所推出新计划，扩展 AI 基础设施投资",
+          "summary": "以色列风投 Team8 宣布扩展 AI 基础设施投资，并在纽交所活动上公布新 initiative。",
+          "hotness": 56,
+          "link": "https://www.ynetnews.com/business/article/skqpg2h1xe",
+          "source": "Ynetnews"
+        },
+        {
+          "id": 35,
+          "title": "广东算力规划落地，华为算力链与租赁板块共振",
+          "summary": "广东算力规划落地，市场关注华为算力链与算力租赁板块的共振机会。",
+          "hotness": 58,
+          "link": "http://news.10jqka.com.cn/20261127/c682296806.shtml",
+          "source": "同花顺财经"
+        },
+        {
+          "id": 28,
+          "title": "我国将稳妥有序推动大模型相关服务出海",
+          "summary": "政策提出稳妥有序推动大模型相关服务出海，为国产大模型商业化拓展海外空间。",
+          "hotness": 60,
+          "link": "https://www.ncsti.gov.cn/kjdt/kjrd/rgzn_kjrd/202611/t20261127_266093.html",
+          "source": "国际科技创新中心"
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "id": 0,
+          "title": "报道：中国头部厂商免费发布快速新 AI 模型",
+          "summary": "报道称中国头部 AI 厂商免费发布一款快速新模型，加入全球免费模型竞争；具体型号与评测尚未披露。",
+          "hotness": 95,
+          "link": "https://decrypt.co/384015/china-google-released-fast-new-ai-model-free-baidu-ernie",
+          "source": "Decrypt"
+        },
+        {
+          "id": 36,
+          "title": "首个农耕文明领域大模型“天稷”发布",
+          "summary": "面向农耕文明领域的首个大模型“天稷”发布，垂直行业模型继续向细分场景渗透。",
+          "hotness": 45,
+          "link": "https://www.ncsti.gov.cn/kjdt/kjrd/202611/t20261127_266098.html",
+          "source": "国际科技创新中心"
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "id": 50,
+          "title": "Canva 向所有 AI Agent 开放设计引擎",
+          "summary": "Canva 将设计引擎开放给所有 AI Agent，智能体可直接调用设计能力，Agent 工具链进一步扩展。",
+          "hotness": 78,
+          "link": "https://app.dealroom.co/news/note/canva-opens-its-design-engine-to-every-ai-agent",
+          "source": "Dealroom"
+        },
+        {
+          "id": 20,
+          "title": "JetBrains：近 3 万开发者中 55% 认为 AI 提高创造力",
+          "summary": "JetBrains 报告显示 AI 正深入日常开发流程，55% 受访开发者认为采用 AI 提高了创造力。",
+          "hotness": 58,
+          "link": "https://www.ithome.com/1/033/368.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 53,
+          "title": "开发者构建 AI Agent 技能，自动编写更优 YARA-L 检测规则",
+          "summary": "有开发者打造可自动编写 YARA-L 检测规则的 AI Agent 技能，展示安全运营场景的智能体应用潜力。",
+          "hotness": 55,
+          "link": "https://hackernoon.com/i-built-an-ai-agent-skill-that-writes-better-yara-l-detection-rules",
+          "source": "HackerNoon"
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "id": 1,
+          "title": "OpenAI 与 Anthropic 考虑暂停最强模型发布，内部测试曝出反复“越权”",
+          "summary": "内部测试显示模型反复出现“越权”行为，两家公司正评估是否暂缓最强模型发布，前沿模型安全治理压力上升。",
+          "hotness": 97,
+          "link": "https://finance.biggo.com/news/ea7caa31-f9a2-4e21-9347-e45187bfe888",
+          "source": "BigGo Finance"
+        },
+        {
+          "id": 45,
+          "title": "AI 人类风险警告再起，专家呼吁加强 AI 安全合作",
+          "summary": "新警告重燃 AI 对人类风险的长期辩论，专家呼吁跨国安全合作，黄仁勋亦谈安全与创新平衡。",
+          "hotness": 75,
+          "link": "https://broadbandbreakfast.com/new-warnings-about-the-risks-of-ai-to-humanity-revive-a-long-running-debate/",
+          "source": "Broadband Breakfast"
+        },
+        {
+          "id": 60,
+          "title": "五角大楼背景的 Caroline Zier 主导 OpenAI 军事 AI 使用限制",
+          "summary": "有五角大楼背景的 Caroline Zier 现负责 OpenAI 军事 AI 使用限制，AI 军事应用治理受到关注。",
+          "hotness": 68,
+          "link": "https://broadbandbreakfast.com/pentagon-hand-caroline-zier-now-leads-openais-limits-on-military-artificial-intelligence/",
+          "source": "Broadband Breakfast"
+        },
+        {
+          "id": 44,
+          "title": "育碧否认强制生成式 AI 令，但被曝要求团队解释不用 AI 理由",
+          "summary": "育碧被曝要求游戏团队解释不采用生成式 AI 的原因，随后否认存在强制令，游戏业 AI 使用争议升温。",
+          "hotness": 64,
+          "link": "https://shattered.io/ubisoft-denies-generative-ai-requirement-three-sentences-pitch-rules-blurry-nov-27/",
+          "source": "shattered.io"
+        },
+        {
+          "id": 27,
+          "title": "国家数据局拟完善数据规则，赋能人工智能创新发展",
+          "summary": "国家数据局拟进一步完善数据规则，以数据治理和制度供给支持人工智能创新发展。",
+          "hotness": 62,
+          "link": "https://www.beijing.gov.cn/ywdt/zybwdt/202611/t20261127_4959038.html",
+          "source": "北京市人民政府门户网站"
+        }
+      ]
+    }
+  }
+}
