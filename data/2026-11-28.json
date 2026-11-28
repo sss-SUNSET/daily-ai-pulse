@@ -1,0 +1,189 @@
+{
+  "overview": [
+    "Anthropic 未发布 Claude 新模型在用户测试中曝光，可将代码实时转为动画，显示代码生成与多模态能力再进化。",
+    "OpenAI 被曝正构建 “Athena” 数据平台，旨在减少 AI Agent 的猜测式决策，Agent 基础设施竞争升温。",
+    "港股大模型双雄走强，高盛看多 MiniMax 目标价至 760 港元，资本市场对国产大模型商业化预期升温。"
+  ],
+  "categories": {
+    "industry": {
+      "title": "行业巨头 & 产业动态",
+      "items": [
+        {
+          "id": 50,
+          "title": "OpenAI 构建 “Athena” 数据平台，减少 AI Agent 猜测式决策",
+          "summary": "OpenAI 正在打造 Athena 数据平台，为 AI Agent 提供更可靠的数据与决策支撑，降低幻觉和试错成本。",
+          "hotness": 93,
+          "link": "https://the-decoder.com/openai-is-building-athena-data-platform-to-cut-down-on-ai-agent-guesswork/",
+          "source": "The Decoder"
+        },
+        {
+          "id": 42,
+          "title": "港股大模型双雄上攻，高盛看多 MiniMax 目标价 760 港元",
+          "summary": "港股大模型板块集体走强，高盛给予 MiniMax 较高目标价，反映资本市场对国产大模型商业化的关注。",
+          "hotness": 90,
+          "link": "https://finance.eastmoney.com/a/202611273941637888.html",
+          "source": "东方财富"
+        },
+        {
+          "id": 0,
+          "title": "Anthropic 传重磅 IPO 进展，资本化进程受关注",
+          "summary": "投资媒体将 Anthropic 的重磅 IPO 与 Take-Two《GTA VI》发售并列为市场焦点，显示头部 AI 实验室资本化预期升温。",
+          "hotness": 88,
+          "link": "https://www.fool.com/investing/2026/11/27/anthropic-gets-a-blockbuster-ipo-take-two-gets-a-blockbuster-gta-vi-release/",
+          "source": "The Motley Fool"
+        },
+        {
+          "id": 16,
+          "title": "英特尔 Gaudi2 经软件优化后部分 AI 性能超英伟达 H100",
+          "summary": "Standard Kernel 通过软件优化释放 Gaudi2 加速卡潜力，在特定 AI 推理任务上性能反超 H100。",
+          "hotness": 78,
+          "link": "https://www.ithome.com/1/033/841.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 18,
+          "title": "台积电推出 ADK 套件，用 AI 设计下一代芯片",
+          "summary": "台积电发布 ADK 工具套件，将 AI 引入芯片设计流程，提升下一代芯片研发效率。",
+          "hotness": 76,
+          "link": "https://www.ithome.com/1/033/838.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 35,
+          "title": "Google 与蓝色起源推进轨道 AI 算力测试计划",
+          "summary": "Google 联合蓝色起源推进太空轨道 AI 算力测试，探索将数据中心负载延伸到近地轨道。",
+          "hotness": 75,
+          "link": "https://www.thepaper.cn/newsDetail_forward_34577590",
+          "source": "ThePaper.cn"
+        },
+        {
+          "id": 4,
+          "title": "马斯克：谷歌已表示有兴趣从 SpaceX 租用更多算力",
+          "summary": "马斯克透露谷歌有意向 SpaceX 租用更多算力，显示卫星与太空基础设施正成为算力供给新变量。",
+          "hotness": 72,
+          "link": "https://www.ithome.com/1/033/898.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 34,
+          "title": "北京太空数据中心开放“在轨算力”",
+          "summary": "北京太空数据中心进一步开放在轨算力服务，推动“算力上天”从概念走向可用基础设施。",
+          "hotness": 72,
+          "link": "https://www.sohu.com/a/1107570670_120988576?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+          "source": "Sohu"
+        },
+        {
+          "id": 25,
+          "title": "芝商所拟推出 AI 算力期货合约，算力金融化提速",
+          "summary": "芝商所计划推出两项 AI 算力相关期货合约，意味着算力正被当作可交易资产进行风险管理。",
+          "hotness": 70,
+          "link": "https://www.cls.cn/detail/2451730",
+          "source": "财联社"
+        },
+        {
+          "id": 32,
+          "title": "首批液冷国标落地倒计时，算力基建重构散热规则",
+          "summary": "首批液冷国家标准即将落地，AI 数据中心散热从项目制走向标准化，利好算力基建降本增效。",
+          "hotness": 68,
+          "link": "https://www.21jingji.com/article/20261128/herald/db687da228aa1146932cfdfcca5cbe82.html",
+          "source": "21财经"
+        },
+        {
+          "id": 19,
+          "title": "英伟达支付 2.9 亿美元了结挖矿显卡官司",
+          "summary": "英伟达同意以 2.9 亿美元和解历时八年的挖矿显卡相关诉讼，为历史争议画上句号。",
+          "hotness": 65,
+          "link": "https://www.ithome.com/1/033/835.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 33,
+          "title": "共绩算力云平台发布，一站式跑通 AI 训推全流程",
+          "summary": "共绩算力云平台面向 AI 训练与推理提供一站式算力服务，降低模型开发与部署门槛。",
+          "hotness": 65,
+          "link": "https://www.leiphone.com/category/industrynews/mFpSlgs8pnwUk320.html",
+          "source": "雷峰网"
+        },
+        {
+          "id": 30,
+          "title": "中国具身智能产线方案获联合国工发组织“可部署解决方案奖”",
+          "summary": "联合国工发组织将“可部署解决方案奖”授予中国具身智能产线方案，显示具身智能产业化获国际认可。",
+          "hotness": 64,
+          "link": "https://huacheng.gz-cmc.com/pages/2026/11/28/ff82c1faee1a4e1d9bb101e416907b0b.html",
+          "source": "广州日报新花城"
+        },
+        {
+          "id": 41,
+          "title": "自变量完成中国具身智能出海首考",
+          "summary": "自变量从深圳 APEC 到吉隆坡签约，完成具身智能出海首秀，推动中国机器人方案走向海外。",
+          "hotness": 63,
+          "link": "https://www.21jingji.com/article/20261128/herald/6c5f748bd51a03920eb8127e1947ea17.html",
+          "source": "21财经"
+        }
+      ]
+    },
+    "research": {
+      "title": "前沿研究 & 核心模型",
+      "items": [
+        {
+          "id": 2,
+          "title": "Anthropic 未发布 Claude 模型现身用户测试，可将代码转动画",
+          "summary": "Anthropic 一款未发布 Claude 模型在用户测试中曝光，能够把代码实时转化为动画，展示更强的代码理解与多模态生成能力。",
+          "hotness": 95,
+          "link": "https://finance.biggo.com/news/3774023d-b9ed-4c18-8eab-da1f775801a6",
+          "source": "BigGo Finance"
+        }
+      ]
+    },
+    "opensource": {
+      "title": "开源生态 & 开发工具",
+      "items": [
+        {
+          "id": 37,
+          "title": "Hugging Face 发布多 Harness 强化学习全指南，让 AI Agent 跨框架进化",
+          "summary": "Hugging Face 系统梳理多 Harness 强化学习方案，帮助 AI Agent 在不同框架间持续训练和迭代。",
+          "hotness": 85,
+          "link": "https://hub.baai.ac.cn/view/60129",
+          "source": "智源社区"
+        },
+        {
+          "id": 49,
+          "title": "Agent Name Service（ANS）受关注：AI Agent 身份管理新议题",
+          "summary": "ANS 旨在为 AI Agent 提供可识别、可验证的身份命名服务，成为 Agent 生态治理与开发工具的新方向。",
+          "hotness": 72,
+          "link": "https://securityboulevard.com/2026/11/agent-name-service-what-ans-means-for-ai-agent-identity/",
+          "source": "Security Boulevard"
+        }
+      ]
+    },
+    "ethics": {
+      "title": "社会伦理 & 热点讨论",
+      "items": [
+        {
+          "id": 48,
+          "title": "专家警告：AI 实验室或握有可引发全球混乱的“重磅消息”",
+          "summary": "有专家警告部分 AI 实验室掌握可能引发全球混乱的重磅信息，呼吁提高 AI 安全透明度与披露机制。",
+          "hotness": 82,
+          "link": "https://www.theguardian.com/technology/2026/nov/28/ai-artificial-intelligence-encryption-global-chaos",
+          "source": "The Guardian"
+        },
+        {
+          "id": 21,
+          "title": "抗议者在 Anthropic 总部绝食至第 4 天，反对“AI 自我进化”",
+          "summary": "抗议者在 Anthropic 总部绝食进入第四天，要求遏制 AI 自我进化风险，AI 安全争论走向街头。",
+          "hotness": 80,
+          "link": "https://www.ithome.com/1/033/833.htm",
+          "source": "IT之家"
+        },
+        {
+          "id": 17,
+          "title": "广电总局点名侵权盗版、低俗微短剧与 AI 魔改",
+          "summary": "广电总局通报网络视听治理典型案例，AI 魔改被列为重点问题，平台内容合规压力上升。",
+          "hotness": 75,
+          "link": "https://www.ithome.com/1/033/840.htm",
+          "source": "IT之家"
+        }
+      ]
+    }
+  }
+}
